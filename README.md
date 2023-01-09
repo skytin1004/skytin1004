@@ -6,3 +6,7 @@
 
 ### GithubBlog: <a href="https://skytin1004.github.io/" target="_blank"><span style="color:#9370DB">Skytin1004 Engineering Blog</span></a>
 ### Gmail:  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com)](mailto:skytin1004@gmail.com)
+<h2 align="center">About</h2>
+
+<p align="center"><a href="https://skytin1004.github.io/"><img src="https://img.shields.io/badge/Skytin1004EngineeringBlog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>  <a href="mailto:skytin1004@gmail.com"><img src="https://img.shields.io/badge/Gmail-A9BCF5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
+
