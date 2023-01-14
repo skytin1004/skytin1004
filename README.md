@@ -4,7 +4,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-<h1 align="center">About</h1>
 
  ## Skills: <img  height="30em" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img height="30em" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img height="30em" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img height="30em" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img height="30em" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img height="30em" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 
