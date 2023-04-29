@@ -6,6 +6,7 @@
 
 
 <div align=center><h1>📜 STACKS</h1></div>
+<div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <br>
   
@@ -14,7 +15,7 @@
   
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <br>
-
+</div>
 ## GithubBlog: <a href="https://skytin1004.github.io/" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a> 
 
 ## Gmail: <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
