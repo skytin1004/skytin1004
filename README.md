@@ -4,7 +4,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=skytin1004&limit=6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff")
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=skytin1004&limit=6)
 
 <div align=center><h1>📜 STACKS</h1></div>
 <div align=center> 
