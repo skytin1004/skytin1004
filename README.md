@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=234&section=header&text=Skytin1004%20&fontSize=90)
-
-<p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skytin1004&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skytin1004&theme=vue)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytin1004&theme=vue)
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=skytin1004&limit=6)
 
