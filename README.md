@@ -4,8 +4,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skytin1004&theme=vue&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skytin1004&theme=vue&exclude=HTML)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytin1004&theme=vue&exclude=HTML)
 
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=skytin1004&limit=6)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=skytin1004&limit)
 
 <div align=center><h1>📜 STACKS</h1></div>
 <div align=center> 
