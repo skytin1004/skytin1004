@@ -25,7 +25,8 @@
 ## Gmail: <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
 
 ### Hits: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskytin1004&count_bg=%239370DB&title_bg=%239370DB&icon=soundcloud.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
-
+<div align=left> 
+  
 ---
 
 # Recent Activity :zap:
@@ -43,3 +44,4 @@
 <!--END_SECTION:activity-->
 
 ---
+</div> 
