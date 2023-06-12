@@ -17,7 +17,7 @@ jobs:
     - uses: franzdiebold/github-env-vars-action@v2.1.0
       # https://github.com/marketplace/actions/github-environment-variables-action
     - name: Use Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v3
     - run: npm ci
     - run: npm run scrape --if-present
       env:
