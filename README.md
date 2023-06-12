@@ -1,8 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40c463&height=200&section=header&text=Skytin1004%20&fontSize=90)
 
+# Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytin1004&theme=vue&exclude=HTML)
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+
+
+**Technology being learned**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
+
 
 <div align=left> 
   
