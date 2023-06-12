@@ -40,7 +40,8 @@
 ---
 </div> 
 
-# Blog posts
+# <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts:
+
 <!-- BLOG-POST-LIST:START -->
 - [ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/2023microsoftazurethon/2023/04/29/MSazurethon.html)
 - [[Prompt] 숫자 비교하기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/compare-number.html)
