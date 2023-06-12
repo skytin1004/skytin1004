@@ -42,6 +42,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/2023microsoftazurethon/2023/04/29/MSazurethon.html)
+- [[Prompt] 숫자 비교하기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/compare-number.html)
+- [[Prompt] 동물사진 맞추기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/animal-guess.html)
+- [[Prompt] 공급망 최적화 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/OPM-prompt.html)
+- [[Python] 파이썬 bin 함수 정리하기](https://skytin1004.github.io/python/2023/04/09/bin.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align=center><h1>🛫 GithubBlog & Portfolio</h1></div>
