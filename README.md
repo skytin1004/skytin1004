@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=40c463&height=200&section=header&text=Skytin1004%20&fontSize=90)
 
 # Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
