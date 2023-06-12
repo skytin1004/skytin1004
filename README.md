@@ -4,8 +4,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytin1004&theme=vue&exclude=HTML)
 
-![](https://github.com/skytin1004/skytin1004/blob/master/generated/overview.svg)
-![](https://github.com/skytin1004/skytin1004/blob/master/generated/languages.svg)
 
 
 **Tools**
