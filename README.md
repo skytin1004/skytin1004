@@ -31,6 +31,16 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#7803](https://github.com/apache/iceberg/issues/7803) in [apache/iceberg](https://github.com/apache/iceberg)
+2. 🗣 Commented on [#7767](https://github.com/apache/iceberg/issues/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+3. 💪 Opened PR [#7803](https://github.com/apache/iceberg/pull/7803) in [apache/iceberg](https://github.com/apache/iceberg)
+4. 💪 Opened PR [#7799](https://github.com/apache/iceberg/pull/7799) in [apache/iceberg](https://github.com/apache/iceberg)
+5. 🗣 Commented on [#7767](https://github.com/apache/iceberg/issues/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+6. ❌ Reopened PR [#7767](https://github.com/apache/iceberg/pull/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+7. ❌ Closed PR [#7767](https://github.com/apache/iceberg/pull/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+8. 🗣 Commented on [#7767](https://github.com/apache/iceberg/issues/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+9. 💪 Opened PR [#7767](https://github.com/apache/iceberg/pull/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+10. 💪 Opened PR [#1](https://github.com/Yangeunseok/Yangeunseok/pull/1) in [Yangeunseok/Yangeunseok](https://github.com/Yangeunseok/Yangeunseok)
 <!--END_SECTION:activity-->
 
 ---
