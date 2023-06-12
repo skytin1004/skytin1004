@@ -40,6 +40,10 @@
 ---
 </div> 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <div align=center><h1>🛫 GithubBlog & Portfolio</h1></div>
 <div align=center> 
 <a href="https://skytin1004.github.io/" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a> <a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
