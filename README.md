@@ -24,7 +24,7 @@
 <div align=left> 
   
 ---
-# Recent Activity :zap:
+# :zap: Recent Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7803](https://github.com/apache/iceberg/issues/7803) in [apache/iceberg](https://github.com/apache/iceberg)
 2. 🗣 Commented on [#7767](https://github.com/apache/iceberg/issues/7767) in [apache/iceberg](https://github.com/apache/iceberg)
@@ -40,7 +40,7 @@
 ---
 </div> 
 
-# <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts:
+# <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts at  <a href="https://skytin1004.github.io/" target="_blank"><img height="35em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>:
 
 <!-- BLOG-POST-LIST:START -->
 - [ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/2023microsoftazurethon/2023/04/29/MSazurethon.html)
