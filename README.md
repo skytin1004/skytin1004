@@ -1,9 +1,10 @@
+<details>
+  <summary><h1>Github Stats</h1></summary>
 
-# Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytin1004&theme=vue&exclude=HTML)
-
+</details>
 
 ---
 # Tools
