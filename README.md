@@ -24,7 +24,7 @@
 <div align=left> 
   
 ---
-# :zap: Recent Activity 
+# <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7803](https://github.com/apache/iceberg/issues/7803) in [apache/iceberg](https://github.com/apache/iceberg)
 2. 🗣 Commented on [#7767](https://github.com/apache/iceberg/issues/7767) in [apache/iceberg](https://github.com/apache/iceberg)
@@ -40,7 +40,7 @@
 ---
 </div> 
 
-# <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts at  <a href="https://skytin1004.github.io/" target="_blank"><img height="35em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>:
+# <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts at : <a href="https://skytin1004.github.io/" target="_blank"><img height="35em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
 
 <!-- BLOG-POST-LIST:START -->
 - [ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/2023microsoftazurethon/2023/04/29/MSazurethon.html)
@@ -55,7 +55,7 @@
 - [[Collections] 파이썬 Counter 정리하기](https://skytin1004.github.io/python/2023/04/01/counter.html)
 <!-- BLOG-POST-LIST:END -->
 
-<div align=center><h1>🛫 GithubBlog & Portfolio</h1></div>
+<div align=center><h1>🛫How to reach me</h1></div>
 <div align=center> 
 <a href="https://skytin1004.github.io/" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a> <a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
   <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
