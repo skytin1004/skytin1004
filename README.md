@@ -48,6 +48,11 @@
 - [[Prompt] 동물사진 맞추기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/animal-guess.html)
 - [[Prompt] 공급망 최적화 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/OPM-prompt.html)
 - [[Python] 파이썬 bin 함수 정리하기](https://skytin1004.github.io/python/2023/04/09/bin.html)
+- [[Python]&#39;NoneType&#39; object is not iterable](https://skytin1004.github.io/error/2023/04/08/nonetype-error.html)
+- [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/python/2023/04/06/sol-mode.html)
+- [[Java] 자바의 자료형](https://skytin1004.github.io/java/2023/04/02/data-type-java.html)
+- [Bit와 Byte 정리하기](https://skytin1004.github.io/cs/2023/04/02/bit-bite.html)
+- [[Collections] 파이썬 Counter 정리하기](https://skytin1004.github.io/python/2023/04/01/counter.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align=center><h1>🛫 GithubBlog & Portfolio</h1></div>
