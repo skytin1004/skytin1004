@@ -27,7 +27,16 @@
 
 ### Hits: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskytin1004&count_bg=%239370DB&title_bg=%239370DB&icon=soundcloud.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-  <h3>⚡ Recent GitHub Activity</h3>
+---
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#99](https://github.com/jamesgeorge007/github-activity-readme/issues/99) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#98](https://github.com/jamesgeorge007/github-activity-readme/issues/98) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. ❗ Opened issue [#99](https://github.com/jamesgeorge007/github-activity-readme/issues/99) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#98](https://github.com/jamesgeorge007/github-activity-readme/issues/98) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#96](https://github.com/jamesgeorge007/github-activity-readme/issues/96) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
+
+---
