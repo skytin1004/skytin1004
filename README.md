@@ -8,7 +8,7 @@
 
 ---
 <details>
-<summary><h1>Tools</h1></summary>
+<summary><h1>Stacks</h1></summary>
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
