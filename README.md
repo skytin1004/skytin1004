@@ -21,6 +21,7 @@
 # <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts at : <a href="https://skytin1004.github.io/" target="_blank"><img height="35em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Flash] 물건피하기 게임](https://skytin1004.github.io/flash/2023/06/13/flash-avoidobject.html)
 - [ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/2023microsoftazurethon/2023/04/29/MSazurethon.html)
 - [[Prompt] 숫자 비교하기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/compare-number.html)
 - [[Prompt] 동물사진 맞추기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/animal-guess.html)
@@ -30,7 +31,6 @@
 - [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/python/2023/04/06/sol-mode.html)
 - [[Java] 자바의 자료형](https://skytin1004.github.io/java/2023/04/02/data-type-java.html)
 - [Bit와 Byte 정리하기](https://skytin1004.github.io/cs/2023/04/02/bit-bite.html)
-- [[Collections] 파이썬 Counter 정리하기](https://skytin1004.github.io/python/2023/04/01/counter.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <div align=center><h1>🛫How to reach me?</h1></div>
