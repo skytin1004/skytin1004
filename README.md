@@ -33,7 +33,7 @@
 - [[Collections] 파이썬 Counter 정리하기](https://skytin1004.github.io/python/2023/04/01/counter.html)
 <!-- BLOG-POST-LIST:END -->
 ---
-<div align=center><h1>🛫How to reach me</h1></div>
+<div align=center><h1>🛫How to reach me?</h1></div>
 <div align=center> 
 <a href="https://skytin1004.github.io/" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a> <a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
   <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
