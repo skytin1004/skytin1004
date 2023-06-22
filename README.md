@@ -5,8 +5,8 @@
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7861](https://github.com/apache/iceberg/issues/7861) in [apache/iceberg](https://github.com/apache/iceberg)
-2. 💪 Opened PR [#7861](https://github.com/apache/iceberg/pull/7861) in [apache/iceberg](https://github.com/apache/iceberg)
-3. 🗣 Commented on [#7767](https://github.com/apache/iceberg/issues/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+2. 🗣 Commented on [#7861](https://github.com/apache/iceberg/issues/7861) in [apache/iceberg](https://github.com/apache/iceberg)
+3. 💪 Opened PR [#7861](https://github.com/apache/iceberg/pull/7861) in [apache/iceberg](https://github.com/apache/iceberg)
 4. 💪 Opened PR [#7803](https://github.com/apache/iceberg/pull/7803) in [apache/iceberg](https://github.com/apache/iceberg)
 5. 🗣 Commented on [#7767](https://github.com/apache/iceberg/issues/7767) in [apache/iceberg](https://github.com/apache/iceberg)
 6. ❌ Reopened PR [#7767](https://github.com/apache/iceberg/pull/7767) in [apache/iceberg](https://github.com/apache/iceberg)
