@@ -6,14 +6,14 @@ Welcome to skytin1004 github!
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7954](https://github.com/apache/iceberg/issues/7954) in [apache/iceberg](https://github.com/apache/iceberg)
-2. 💪 Opened PR [#17](https://github.com/apache/kibble/pull/17) in [apache/kibble](https://github.com/apache/kibble)
-3. 💪 Opened PR [#7957](https://github.com/apache/iceberg/pull/7957) in [apache/iceberg](https://github.com/apache/iceberg)
-4. ❌ Reopened PR [#7954](https://github.com/apache/iceberg/pull/7954) in [apache/iceberg](https://github.com/apache/iceberg)
-5. ❌ Closed PR [#7954](https://github.com/apache/iceberg/pull/7954) in [apache/iceberg](https://github.com/apache/iceberg)
-6. 💪 Opened PR [#7954](https://github.com/apache/iceberg/pull/7954) in [apache/iceberg](https://github.com/apache/iceberg)
-7. 🗣 Commented on [#7861](https://github.com/apache/iceberg/issues/7861) in [apache/iceberg](https://github.com/apache/iceberg)
-8. 🗣 Commented on [#7861](https://github.com/apache/iceberg/issues/7861) in [apache/iceberg](https://github.com/apache/iceberg)
-9. 💪 Opened PR [#7767](https://github.com/apache/iceberg/pull/7767) in [apache/iceberg](https://github.com/apache/iceberg)
+2. 🗣 Commented on [#7957](https://github.com/apache/iceberg/issues/7957) in [apache/iceberg](https://github.com/apache/iceberg)
+3. 🗣 Commented on [#7954](https://github.com/apache/iceberg/issues/7954) in [apache/iceberg](https://github.com/apache/iceberg)
+4. 💪 Opened PR [#17](https://github.com/apache/kibble/pull/17) in [apache/kibble](https://github.com/apache/kibble)
+5. 💪 Opened PR [#7957](https://github.com/apache/iceberg/pull/7957) in [apache/iceberg](https://github.com/apache/iceberg)
+6. ❌ Reopened PR [#7954](https://github.com/apache/iceberg/pull/7954) in [apache/iceberg](https://github.com/apache/iceberg)
+7. ❌ Closed PR [#7954](https://github.com/apache/iceberg/pull/7954) in [apache/iceberg](https://github.com/apache/iceberg)
+8. 💪 Opened PR [#7954](https://github.com/apache/iceberg/pull/7954) in [apache/iceberg](https://github.com/apache/iceberg)
+9. 🗣 Commented on [#7861](https://github.com/apache/iceberg/issues/7861) in [apache/iceberg](https://github.com/apache/iceberg)
 10. 💪 Opened PR [#1](https://github.com/Yangeunseok/Yangeunseok/pull/1) in [Yangeunseok/Yangeunseok](https://github.com/Yangeunseok/Yangeunseok)
 <!--END_SECTION:activity-->
 ---
