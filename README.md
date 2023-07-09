@@ -47,8 +47,8 @@ Welcome to skytin1004 github!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytin1004&theme=vue&exclude=HTML)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </details>
 
 ---
