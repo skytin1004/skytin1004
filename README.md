@@ -23,10 +23,10 @@ Welcome to skytin1004 github!
 
 <!-- BLOG-POST-LIST:START -->
 - [[Flash] 물건피하기 게임](https://skytin1004.github.io/flash/2023/06/13/flash-avoidobject.html)
-- [ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/2023microsoftazurethon/2023/04/29/MSazurethon.html)
-- [[Prompt] 숫자 비교하기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/compare-number.html)
-- [[Prompt] 동물사진 맞추기 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/animal-guess.html)
-- [[Prompt] 공급망 최적화 프롬프트](https://skytin1004.github.io/prompt/2023microsoftazurethon/2023/04/26/OPM-prompt.html)
+- [[MS azurethon] ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/competition/2023/04/29/MSazurethon.html)
+- [[MS azurethon] 숫자 비교하기 프롬프트](https://skytin1004.github.io/prompt/competition/2023/04/26/compare-number.html)
+- [[MS azurethon] 동물사진 맞추기 프롬프트](https://skytin1004.github.io/prompt/competition/2023/04/26/animal-guess.html)
+- [[MS azurethon] 공급망 최적화 프롬프트](https://skytin1004.github.io/prompt/competition/2023/04/26/OPM-prompt.html)
 - [[Python] 파이썬 bin 함수 정리하기](https://skytin1004.github.io/python/2023/04/09/bin.html)
 - [[Python]&#39;NoneType&#39; object is not iterable](https://skytin1004.github.io/error/2023/04/08/nonetype-error.html)
 - [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/python/2023/04/06/sol-mode.html)
