@@ -22,6 +22,7 @@ Welcome to skytin1004 github!
 # <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts at : <a href="https://skytin1004.github.io/" target="_blank"><img height="35em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [[OpenSource]오픈소스 기여하기1](https://skytin1004.github.io/contribution/iceberg/2023/08/25/opensourceway1.html)
 - [[Flash] 물건피하기 게임](https://skytin1004.github.io/flash/2023/06/13/flash-avoidobject.html)
 - [[MS azurethon] ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/competition/2023/04/29/MSazurethon.html)
 - [[MS azurethon] 숫자 비교하기 프롬프트](https://skytin1004.github.io/prompt/competition/2023/04/26/compare-number.html)
@@ -31,7 +32,6 @@ Welcome to skytin1004 github!
 - [[Python]&#39;NoneType&#39; object is not iterable](https://skytin1004.github.io/error/2023/04/08/nonetype-error.html)
 - [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/python/2023/04/06/sol-mode.html)
 - [[Java] 자바의 자료형](https://skytin1004.github.io/java/2023/04/02/data-type-java.html)
-- [Bit와 Byte 정리하기](https://skytin1004.github.io/cs/2023/04/02/bit-bite.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <div align=center><h1>🛫How to reach me?</h1></div>
