@@ -22,7 +22,7 @@ Welcome to skytin1004 github!
 # <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> My Latest posts at : <a href="https://skytin1004.github.io/" target="_blank"><img height="35em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
 
 <!-- BLOG-POST-LIST:START -->
-- [[OpenSource]오픈소스 기여하기1](https://skytin1004.github.io/contribution/iceberg/2023/08/25/opensourceway.html)
+- [[OpenSource]오픈소스 기여하는 방법](https://skytin1004.github.io/contribution/iceberg/2023/08/25/opensourceway.html)
 - [[Flash] 물건피하기 게임](https://skytin1004.github.io/flash/2023/06/13/flash-avoidobject.html)
 - [[MS azurethon] ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/competition/2023/04/29/MSazurethon.html)
 - [[MS azurethon] 숫자 비교하기 프롬프트](https://skytin1004.github.io/prompt/competition/2023/04/26/compare-number.html)
