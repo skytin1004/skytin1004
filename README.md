@@ -5,16 +5,16 @@ Welcome to skytin1004 github!
 ---
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#171](https://github.com/InhaBas/Inhabas.com-api/pull/171) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-2. 🎉 Merged PR [#170](https://github.com/InhaBas/Inhabas.com-api/pull/170) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-3. 🎉 Merged PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
-4. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
-5. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-6. ❗ Opened issue [#168](https://github.com/InhaBas/Inhabas.com-api/issues/168) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-7. 🎉 Merged PR [#2](https://github.com/skytin1004/skills-review-pull-requests/pull/2) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
-8. ❗ Opened issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-9. 🗣 Commented on [#8380](https://github.com/apache/iceberg/pull/8380#issuecomment-1722390094) in [apache/iceberg](https://github.com/apache/iceberg)
-10. 🗣 Commented on [#8380](https://github.com/apache/iceberg/pull/8380#issuecomment-1722389251) in [apache/iceberg](https://github.com/apache/iceberg)
+1. ❗ Opened issue [#172](https://github.com/InhaBas/Inhabas.com-api/issues/172) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. 🔒 Closed issue [#168](https://github.com/InhaBas/Inhabas.com-api/issues/168) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+3. 💪 Opened PR [#171](https://github.com/InhaBas/Inhabas.com-api/pull/171) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+4. 🎉 Merged PR [#170](https://github.com/InhaBas/Inhabas.com-api/pull/170) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+5. 🎉 Merged PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
+6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
+7. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+8. ❗ Opened issue [#168](https://github.com/InhaBas/Inhabas.com-api/issues/168) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+9. 🎉 Merged PR [#2](https://github.com/skytin1004/skills-review-pull-requests/pull/2) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
+10. ❗ Opened issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 <!--END_SECTION:activity-->
 ---
 </div> 
