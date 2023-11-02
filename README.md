@@ -34,12 +34,9 @@ Welcome to skytin1004 github!
 - [[Java] 자바의 자료형](https://skytin1004.github.io/java/2023/04/02/data-type-java.html)
 <!-- BLOG-POST-LIST:END -->
 ---
-<div align=center><h1>🛫How to reach me?</h1></div>
-<div align=center> 
-<a href="https://skytin1004.github.io/" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a> <a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
-  <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
-<div>
-
+# Publication
+### on [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+- [Teach ChatGPT to Answer Questions Based on PDF content: Using Azure Cognitive Search and Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-cognitive-search/ba-p/3969713)
  ---
 <details>
 <summary><h1>Github Stats</h1></summary>
@@ -62,5 +59,12 @@ Welcome to skytin1004 github!
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mariadb.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+
+---
+<div align=center><h1>🛫How to reach me?</h1></div>
+<div align=center> 
+<a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
+  <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
+<div>
 
 
