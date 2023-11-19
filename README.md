@@ -36,7 +36,8 @@ Welcome to skytin1004 github!
 ---
 # Publication
 ### on [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
-- [Teach ChatGPT to Answer Questions Based on PDF content: Using Azure Cognitive Search and Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-cognitive-search/ba-p/3969713)
+- [Teach ChatGPT to Answer Questions: Using Azure Cognitive Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-cognitive-search/ba-p/3985395?wt.mc_id=studentamb_279723)
+- [Teach ChatGPT to Answer Questions: Using Azure Cognitive Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-cognitive-search/ba-p/3969713?wt.mc_id=studentamb_279723)
  ---
 <details>
 <summary><h1>Github Stats</h1></summary>
