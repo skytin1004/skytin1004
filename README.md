@@ -1,5 +1,6 @@
-Welcome to skytin1004 github!
+### Welcome to skytin1004 github!
 
+My fascination with programming started in 2010. I developed a game to avoid obstacles and reach the next level within 30 seconds . From that experience, I had a dream of becoming a programmer, one who could bring happiness and comfort to people through my work. Now, my dream is to go beyond developing on my own and have the collaborative and leadership skills to lead a team in a better direction, as well as the programming skills to create programs that have a positive impact on people with my team.
 <div align=left> 
   
 ---
