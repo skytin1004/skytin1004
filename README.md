@@ -1,5 +1,5 @@
 ## 🚀Introduction
-Hello, I'm Minseok Song! My journey into programming started in 2010 with a simple game I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
+Hello, I'm Minseok Song! My journey into programming started in 2010 with a simple game 🕹️ I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds⏱️, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
 
 <div align=left> 
   
