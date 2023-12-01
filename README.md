@@ -1,21 +1,21 @@
-## Introduction
+## 🚀Introduction
 Hello, I'm Minseok Song! My journey into programming started in 2010 with a simple game I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
 
 ## Early Years
 - **2010:** Developed my first game.
-  - A simple game to avoid obstacles.
-  - Objective: Complete levels within 30 seconds.
-- **Key Learnings:** Discovered my love for programming and the joy of bringing ideas to life.
+  - A simple game to avoid obstacles. 🕹️
+  - Objective: Complete levels within 30 seconds. ⏱️
+- **Key Learnings:** Discovered my love for programming and the joy of bringing ideas to life. 💡
 
 ## Current Focus
-- **Becoming a Team Leader:** Expanding my skills beyond individual development.
-- **Collaborative Skills:** Learning how to effectively lead and work within a team.
-- **Technical Mastery:** Enhancing my programming skills for a greater impact.
+- **Becoming a Team Leader:** Expanding my skills beyond individual development. 🌟
+- **Collaborative Skills:** Learning how to effectively lead and work within a team. 👥
+- **Technical Mastery:** Enhancing my programming skills for a greater impact. 💼
 
 ## Future Goals
-- **Leadership:** Aspire to lead a team towards innovative and impactful projects.
-- **Positive Impact:** Dedicated to developing programs that significantly improve people's lives.
-- **Team Collaboration:** Fostering a creative and productive team environment.
+- **Leadership:** Aspire to lead a team towards innovative and impactful projects. 🏆
+- **Positive Impact:** Dedicated to developing programs that significantly improve people's lives. 🌟
+- **Team Collaboration:** Fostering a creative and productive team environment. 🤝
 
 <div align=left> 
   
