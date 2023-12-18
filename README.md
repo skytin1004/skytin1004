@@ -6,11 +6,11 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 ---
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#182](https://github.com/InhaBas/Inhabas.com-api/pull/182) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-2. 🎉 Merged PR [#181](https://github.com/InhaBas/Inhabas.com-api/pull/181) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-3. 🔒 Closed issue [#179](https://github.com/InhaBas/Inhabas.com-api/issues/179) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-4. 🎉 Merged PR [#180](https://github.com/InhaBas/Inhabas.com-api/pull/180) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-5. 🗣 Commented on [#180](https://github.com/InhaBas/Inhabas.com-api/pull/180#issuecomment-1858846874) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+1. 🔒 Closed issue [#183](https://github.com/InhaBas/Inhabas.com-api/issues/183) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. 🎉 Merged PR [#184](https://github.com/InhaBas/Inhabas.com-api/pull/184) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+3. 🗣 Commented on [#184](https://github.com/InhaBas/Inhabas.com-api/pull/184#issuecomment-1859567134) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+4. 🎉 Merged PR [#182](https://github.com/InhaBas/Inhabas.com-api/pull/182) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+5. 🎉 Merged PR [#181](https://github.com/InhaBas/Inhabas.com-api/pull/181) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 7. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 8. ❗ Opened issue [#168](https://github.com/InhaBas/Inhabas.com-api/issues/168) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
