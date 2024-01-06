@@ -22,7 +22,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 ---
 </div> 
 
-# <img src = "https://media.giphy.com/media/oeHA6e7uVHUZy/giphy.gif" width = '35' /> : <a href="https://skytin1004.github.io/" target="_blank"><img height="35em" src="https://img.shields.io/badge/Skytin1004 Engineering Blog-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
+# <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '80' /> [My Engineering Blog](https://skytin1004.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
 - [[OpenSource]오픈소스 기여하는 방법](https://skytin1004.github.io/contribution/iceberg/2023/08/25/opensourceway.html)
