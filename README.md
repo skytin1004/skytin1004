@@ -11,6 +11,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 -->
 <!--START_SECTION:activity-->
+<!--
 1. 🎉 Merged PR [#196](https://github.com/InhaBas/Inhabas.com-api/pull/196) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 2. 🗣 Commented on [#4](https://github.com/skytin1004/teach-chatgpt-to-answer/issues/4#issuecomment-1871651806) in [skytin1004/teach-chatgpt-to-answer](https://github.com/skytin1004/teach-chatgpt-to-answer)
 3. 🎉 Merged PR [#194](https://github.com/InhaBas/Inhabas.com-api/pull/194) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
@@ -24,6 +25,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 10. ❗ Opened issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 -->
 <!--END_SECTION:activity-->
+
 <!--
 </div> 
 -->
