@@ -24,6 +24,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 
 # <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '80' /> [My Engineering Blog](https://skytin1004.github.io/)
 
+: Currently converting to an English blog.
 <!-- BLOG-POST-LIST:START -->
 - [[OpenSource]오픈소스 기여하는 방법](https://skytin1004.github.io/contribution/iceberg/2023/08/25/opensourceway.html)
 - [[Flash] 물건피하기 게임](https://skytin1004.github.io/flash/2023/06/13/flash-avoidobject.html)
