@@ -4,12 +4,12 @@
 Hello, I'm Minseok Song! My journey into programming started in 2010 with a simple game 🕹️ I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds⏱️, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
 
 ---
-<!--
+
 <div align=left> 
--->  
-<!--
+
+
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
--->
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#196](https://github.com/InhaBas/Inhabas.com-api/pull/196) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 2. 🗣 Commented on [#4](https://github.com/skytin1004/teach-chatgpt-to-answer/issues/4#issuecomment-1871651806) in [skytin1004/teach-chatgpt-to-answer](https://github.com/skytin1004/teach-chatgpt-to-answer)
@@ -23,12 +23,12 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 8. ❗ Opened issue [#168](https://github.com/InhaBas/Inhabas.com-api/issues/168) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 9. 🎉 Merged PR [#2](https://github.com/skytin1004/skills-review-pull-requests/pull/2) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 10. ❗ Opened issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
--->
 <!--END_SECTION:activity-->
 
-<!--
-</div> 
--->
+</div>
+
+---
+
 # <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '80' /> [My Engineering Blog](https://skytin1004.github.io/)
 
 : Currently converting to an English blog.
