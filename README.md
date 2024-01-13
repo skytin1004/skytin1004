@@ -11,11 +11,11 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#94](https://github.com/InhaBas/inhabas.com-front/issues/94) in [InhaBas/inhabas.com-front](https://github.com/InhaBas/inhabas.com-front)
-2. 💪 Opened PR [#219](https://github.com/InhaBas/Inhabas.com-api/pull/219) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-3. ❗ Opened issue [#218](https://github.com/InhaBas/Inhabas.com-api/issues/218) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-4. 🗣 Commented on [#215](https://github.com/InhaBas/Inhabas.com-api/issues/215#issuecomment-1890467369) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-5. 🎉 Merged PR [#216](https://github.com/InhaBas/Inhabas.com-api/pull/216) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+1. ❗ Opened issue [#218](https://github.com/InhaBas/Inhabas.com-api/issues/218) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. 🗣 Commented on [#215](https://github.com/InhaBas/Inhabas.com-api/issues/215#issuecomment-1890467369) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+3. 🎉 Merged PR [#216](https://github.com/InhaBas/Inhabas.com-api/pull/216) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+4. 💪 Opened PR [#216](https://github.com/InhaBas/Inhabas.com-api/pull/216) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+5. ❗ Opened issue [#215](https://github.com/InhaBas/Inhabas.com-api/issues/215) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
@@ -49,6 +49,20 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 ### on [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723)
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723)
+    <details>
+    <summary>Post Ranking Achievement (Dec 23, 2023 - Jan 24, 2024)</summary>
+    <p>
+     
+    - Ranked #1 on Google for 'teach chatgpt'
+    - Duration: Dec 23, 2023, to Jan 24, 2024
+     
+    ![img](https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu)
+
+    - Most Views New Publishing
+    - Duration: Nov 02, 2023, to Dec 15, 2023
+    - ![img](https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p)
+    </p>
+    </details>
  ---
 <details>
 <summary><h1>Github Stats</h1></summary>
@@ -78,5 +92,3 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 <a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
   <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
 <div>
-
-
