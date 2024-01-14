@@ -56,11 +56,11 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
     - Ranked #1 on Google for 'teach chatgpt'
         - Duration: Dec 23, 2023, to Jan 24, 2024
      
-    ![img](https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu)
+        - ![img](https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu)
 
     - Most Views New Publishing
         - Duration: Nov 02, 2023, to Dec 15, 2023
-    - ![img](https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p)
+        - ![img](https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p)
     </p>
     </details>
  ---
