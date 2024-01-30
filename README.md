@@ -68,10 +68,10 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 <summary><h1>Github Stats</h1></summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytin1004&theme=vue&exclude=HTML)
-![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
+[![](https://ossrank.com/widget/773442)](https://ossrank.com/c/773442)
 </details>
 
 ---
