@@ -72,6 +72,9 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 ![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
 [![](https://ossrank.com/widget/773442)](https://ossrank.com/c/773442)
+
+**[OSSRANK Profile](https://ossrank.com/c/773442)**
+
 </details>
 
 ---
