@@ -11,11 +11,11 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 # <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/InhaBas/Inhabas.com-api/pull/227#issuecomment-1914868209) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-2. 💪 Opened PR [#227](https://github.com/InhaBas/Inhabas.com-api/pull/227) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-3. 🎉 Merged PR [#224](https://github.com/InhaBas/Inhabas.com-api/pull/224) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-4. 🔒 Closed issue [#211](https://github.com/InhaBas/Inhabas.com-api/issues/211) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-5. 🎉 Merged PR [#223](https://github.com/InhaBas/Inhabas.com-api/pull/223) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+1. 🔒 Closed issue [#222](https://github.com/InhaBas/Inhabas.com-api/issues/222) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. 🎉 Merged PR [#227](https://github.com/InhaBas/Inhabas.com-api/pull/227) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+3. 🗣 Commented on [#227](https://github.com/InhaBas/Inhabas.com-api/pull/227#issuecomment-1914868209) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+4. 💪 Opened PR [#227](https://github.com/InhaBas/Inhabas.com-api/pull/227) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+5. 🎉 Merged PR [#224](https://github.com/InhaBas/Inhabas.com-api/pull/224) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
