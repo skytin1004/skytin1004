@@ -1,13 +1,13 @@
 
-# 🚀Introduction
-Hello, I'm Minseok Song! My journey into programming started in 2010 with a simple game 🕹️ I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds⏱️, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
+# Introduction
+Hello, I'm Minseok Song! My journey into programming started in 2010 with a simple game I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
 
 ---
 
 <div align=left> 
 
 
-# <img src = "https://media.giphy.com/media/Zk7NohN48uod30MDtv/giphy.gif" width = '40' /> Recent Activity 
+# Recent Activity 
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#240](https://github.com/InhaBas/Inhabas.com-api/pull/240) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
