@@ -10,11 +10,11 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 # Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#274](https://github.com/InhaBas/Inhabas.com-api/pull/274) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-2. ❗ Opened issue [#273](https://github.com/InhaBas/Inhabas.com-api/issues/273) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-3. 🎉 Merged PR [#272](https://github.com/InhaBas/Inhabas.com-api/pull/272) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-4. 💪 Opened PR [#272](https://github.com/InhaBas/Inhabas.com-api/pull/272) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-5. ❗ Opened issue [#271](https://github.com/InhaBas/Inhabas.com-api/issues/271) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+1. ❗ Opened issue [#287](https://github.com/InhaBas/Inhabas.com-api/issues/287) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. ❗ Opened issue [#286](https://github.com/InhaBas/Inhabas.com-api/issues/286) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+3. ❗ Opened issue [#285](https://github.com/InhaBas/Inhabas.com-api/issues/285) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+4. ❗ Opened issue [#284](https://github.com/InhaBas/Inhabas.com-api/issues/284) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+5. 💪 Opened PR [#274](https://github.com/InhaBas/Inhabas.com-api/pull/274) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
