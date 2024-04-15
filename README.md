@@ -45,7 +45,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 <!-- BLOG-POST-LIST:END -->
 ---
 # Publication
-### on [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+### on <img src = "https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width = '20' /> [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723)
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723)
     <details>
