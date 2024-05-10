@@ -1,13 +1,13 @@
 
-# Introduction
-Hello, I'm Minseok Song! My journey into programming started in 2010 with a simple game I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
+### Hello, I'm Minseok Song!
+My journey into programming started in 2010 with a simple game I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
 
 ---
 
-<div align=left> 
+<details>
+<summary><h3>See my articles & activity</h3></summary>
 
-
-# Recent Activity 
+### Recent Activity 
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#299](https://github.com/InhaBas/Inhabas.com-api/pull/299) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
@@ -24,11 +24,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 10. ❗ Opened issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 <!--END_SECTION:activity-->
 
-</div>
-
----
-
-# <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '25' /> [My Engineering Blog](https://skytin1004.github.io/)
+### <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)
 
 : Currently converting to an English blog.
 <!-- BLOG-POST-LIST:START -->
@@ -43,9 +39,11 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 - [[Python]&#39;NoneType&#39; object is not iterable](https://skytin1004.github.io/korarchive2022-2023/2023/04/08/nonetype-error.html)
 - [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/korarchive2022-2023/2023/04/06/sol-mode.html)
 <!-- BLOG-POST-LIST:END -->
+</details>
+
 ---
-# Publication
-### on <img src = "https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width = '20' /> [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+### Publication
+<b>on <img src = "https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width = '20' /> [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)</b>
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723)
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723)
     <details>
@@ -64,7 +62,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
     </details>
  ---
 <details>
-<summary><h1>Github Stats</h1></summary>
+<summary><h3>Github Stats</h3></summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
 ![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/languages.svg#gh-light-mode-only)
@@ -77,7 +75,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 </details>
 
 ---
-<h1>Stacks</h1>
+<h3>Stacks</h3>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
@@ -89,7 +87,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
 
 ---
-<div align=center><h1>🛫How to reach me?</h1></div>
+<div align=center><h3>🛫How to reach me?</h3></div>
 <div align=center> 
 <a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
   <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
