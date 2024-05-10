@@ -42,24 +42,16 @@ My journey into programming started in 2010 with a simple game I developed. This
 </details>
 
 ---
-### Publication
+<details>
+<summary><h3>Publication</h3></summary>
+
 <b>on <img src = "https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width = '20' /> [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)</b>
+
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723)
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723)
-    <details>
-    <summary>Post Ranking Achievement (Dec 23, 2023 - Jan 24, 2024)</summary>
-    <p>
-     
-    - Ranked #1 on Google for 'teach chatgpt'
-        - Duration: Dec 23, 2023, to Jan 24, 2024
-     
-        - ![img](https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu)
 
-    - Most Views New Publishing
-        - Duration: Nov 02, 2023, to Dec 15, 2023
-        - ![img](https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p)
-    </p>
-    </details>
+</details>
+
  ---
 <details>
 <summary><h3>Github Stats</h3></summary>
