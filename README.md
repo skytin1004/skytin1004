@@ -28,7 +28,7 @@ Hello, I'm Minseok Song! My journey into programming started in 2010 with a simp
 
 ---
 
-# <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '80' /> [My Engineering Blog](https://skytin1004.github.io/)
+# <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '25' /> [My Engineering Blog](https://skytin1004.github.io/)
 
 : Currently converting to an English blog.
 <!-- BLOG-POST-LIST:START -->
