@@ -24,6 +24,8 @@ My journey into programming started in 2010 with a simple game I developed. This
         - ![img](https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p)
     </p>
     </details>
+    
+- [Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure/ba-p/4143628?wt.mc_id=studentamb_279723)
  ---
 
 <h2>See my articles & activity</h2>
