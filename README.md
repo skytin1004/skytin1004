@@ -25,9 +25,6 @@ My journey into programming started in 2010 with a simple game I developed. This
     </p>
     </details>
  ---
-<details>
-
----
 
 <h2>See my articles & activity</h2>
 
@@ -64,7 +61,7 @@ My journey into programming started in 2010 with a simple game I developed. This
 - [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/korarchive2022-2023/2023/04/06/sol-mode.html)
 <!-- BLOG-POST-LIST:END -->
 
-
+<details>
 <summary><h3>Github Stats</h3></summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
