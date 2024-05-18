@@ -4,8 +4,7 @@ My journey into programming started in 2010 with a simple game I developed. This
 
 ---
 
-<details>
-<summary><h3>See my articles & activity</h3></summary>
+<h2>See my articles & activity</h2>
 
 ### Recent Activity 
 
@@ -39,18 +38,15 @@ My journey into programming started in 2010 with a simple game I developed. This
 - [[Python]&#39;NoneType&#39; object is not iterable](https://skytin1004.github.io/korarchive2022-2023/2023/04/08/nonetype-error.html)
 - [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/korarchive2022-2023/2023/04/06/sol-mode.html)
 <!-- BLOG-POST-LIST:END -->
-</details>
 
 ---
-<details>
-<summary><h3>Publication</h3></summary>
+
+<h2>Publication</h2>
 
 <b>on <img src = "https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width = '20' /> [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)</b>
 
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723)
 - [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723)
-
-</details>
 
  ---
 <details>
