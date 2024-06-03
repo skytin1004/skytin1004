@@ -33,11 +33,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/real-estate-index/real-estate-index-web/pull/14) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
-2. 💪 Opened PR [#14](https://github.com/real-estate-index/real-estate-index-web/pull/14) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
-3. 🎉 Merged PR [#13](https://github.com/real-estate-index/real-estate-index-web/pull/13) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
-4. 🎉 Merged PR [#12](https://github.com/real-estate-index/real-estate-index-web/pull/12) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
-5. 🗣 Commented on [#12](https://github.com/real-estate-index/real-estate-index-web/pull/12#issuecomment-2119787022) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
+1. 🎉 Merged PR [#16](https://github.com/real-estate-index/real-estate-index-web/pull/16) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
+2. 💪 Opened PR [#16](https://github.com/real-estate-index/real-estate-index-web/pull/16) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
+3. 🎉 Merged PR [#15](https://github.com/real-estate-index/real-estate-index-web/pull/15) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
+4. 💪 Opened PR [#15](https://github.com/real-estate-index/real-estate-index-web/pull/15) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
+5. 🎉 Merged PR [#14](https://github.com/real-estate-index/real-estate-index-web/pull/14) in [real-estate-index/real-estate-index-web](https://github.com/real-estate-index/real-estate-index-web)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
