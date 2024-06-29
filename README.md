@@ -4,7 +4,10 @@ My journey into programming started in 2010 with a simple game I developed. This
 
 ---
 
-<h2>Publication</h2>
+
+<h2>Here are my publications & recent activities</h2>
+
+<h3>Publication</h3>
 
 <b>on <img src = "https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width = '20' /> [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)</b>
 
@@ -25,10 +28,6 @@ My journey into programming started in 2010 with a simple game I developed. This
         - ![img](https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p)
     </p>
     </details>
-  
- ---
-
-<h2>See my articles & activity</h2>
 
 ### Recent Activity 
 
@@ -46,22 +45,6 @@ My journey into programming started in 2010 with a simple game I developed. This
 9. 🎉 Merged PR [#2](https://github.com/skytin1004/skills-review-pull-requests/pull/2) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 10. ❗ Opened issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 <!--END_SECTION:activity-->
-
-### <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)
-
-: Currently converting to an English blog.
-<!-- BLOG-POST-LIST:START -->
-- [Essential preparations before jumping into coding with your team](https://skytin1004.github.io/it/2024/05/10/essential-preparation0.html)
-- [[OpenSource]오픈소스 기여하는 방법](https://skytin1004.github.io/korarchive2022-2023/2023/08/25/opensourceway.html)
-- [[Flash] 물건피하기 게임](https://skytin1004.github.io/korarchive2022-2023/2023/06/13/flash-avoidobject.html)
-- [[MS azurethon] ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/korarchive2022-2023/2023/04/29/MSazurethon.html)
-- [[MS azurethon] 숫자 비교하기 프롬프트](https://skytin1004.github.io/korarchive2022-2023/2023/04/26/compare-number.html)
-- [[MS azurethon] 동물사진 맞추기 프롬프트](https://skytin1004.github.io/korarchive2022-2023/2023/04/26/animal-guess.html)
-- [[MS azurethon] 공급망 최적화 프롬프트](https://skytin1004.github.io/korarchive2022-2023/2023/04/26/OPM-prompt.html)
-- [[Python] 파이썬 bin 함수 정리하기](https://skytin1004.github.io/korarchive2022-2023/2023/04/09/bin.html)
-- [[Python]&#39;NoneType&#39; object is not iterable](https://skytin1004.github.io/korarchive2022-2023/2023/04/08/nonetype-error.html)
-- [[Python] 파이썬 최빈값 구하기](https://skytin1004.github.io/korarchive2022-2023/2023/04/06/sol-mode.html)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
