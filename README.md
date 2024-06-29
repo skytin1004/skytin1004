@@ -32,7 +32,6 @@ My journey into programming started in 2010 with a simple game I developed. This
 
 ### <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)
 
-: Currently converting to an English blog.
 <!-- BLOG-POST-LIST:START -->
 - [Essential preparations before jumping into coding with your team](https://skytin1004.github.io/it/2024/05/10/essential-preparation0.html)
 - [[OpenSource]오픈소스 기여하는 방법](https://skytin1004.github.io/korarchive2022-2023/2023/08/25/opensourceway.html)
