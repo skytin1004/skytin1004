@@ -29,8 +29,9 @@ My journey into programming started in 2010 with a simple game I developed. This
     </p>
     </details>
 
+<h3>Article</h3>
 
-### <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)
+<b>on <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)</b>
 
 <!-- BLOG-POST-LIST:START -->
 - [Essential preparations before jumping into coding with your team](https://skytin1004.github.io/it/2024/05/10/essential-preparation0.html)
