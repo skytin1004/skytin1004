@@ -44,11 +44,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#336](https://github.com/InhaBas/Inhabas.com-api/pull/336) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-2. 💪 Opened PR [#336](https://github.com/InhaBas/Inhabas.com-api/pull/336) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-3. 🎉 Merged PR [#335](https://github.com/InhaBas/Inhabas.com-api/pull/335) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-4. 💪 Opened PR [#335](https://github.com/InhaBas/Inhabas.com-api/pull/335) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-5. 💪 Opened PR [#540](https://github.com/InhaBas/inhabas.com-front/pull/540) in [InhaBas/inhabas.com-front](https://github.com/InhaBas/inhabas.com-front)
+1. 💪 Opened PR [#1](https://github.com/skytin1004/Phi-3CookBook/pull/1) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
+2. ❌ Reopened PR [#72](https://github.com/microsoft/Phi-3CookBook/pull/72) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+3. ❌ Closed PR [#72](https://github.com/microsoft/Phi-3CookBook/pull/72) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+4. 💪 Opened PR [#72](https://github.com/microsoft/Phi-3CookBook/pull/72) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+5. 🎉 Merged PR [#336](https://github.com/InhaBas/Inhabas.com-api/pull/336) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
