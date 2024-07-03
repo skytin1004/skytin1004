@@ -44,11 +44,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/skytin1004/Phi-3CookBook/pull/4) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
-2. 💪 Opened PR [#4](https://github.com/skytin1004/Phi-3CookBook/pull/4) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
-3. 💪 Opened PR [#3](https://github.com/skytin1004/Phi-3CookBook/pull/3) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
-4. 💪 Opened PR [#2](https://github.com/skytin1004/Phi-3CookBook/pull/2) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
-5. 💪 Opened PR [#1](https://github.com/skytin1004/Phi-3CookBook/pull/1) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
+1. 💪 Opened PR [#7](https://github.com/skytin1004/Phi-3CookBook/pull/7) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
+2. 💪 Opened PR [#6](https://github.com/skytin1004/Phi-3CookBook/pull/6) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
+3. 💪 Opened PR [#5](https://github.com/skytin1004/Phi-3CookBook/pull/5) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
+4. ❌ Closed PR [#4](https://github.com/skytin1004/Phi-3CookBook/pull/4) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
+5. 💪 Opened PR [#4](https://github.com/skytin1004/Phi-3CookBook/pull/4) in [skytin1004/Phi-3CookBook](https://github.com/skytin1004/Phi-3CookBook)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
