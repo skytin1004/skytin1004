@@ -36,6 +36,14 @@ My journey into programming started in 2010 with a simple game I developed. This
     </details>
 </details>
 
+<b>on <img src="https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width='20' /> <a href="https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs">Phi-3 CookBook</a></b>
+<details>
+    <summary>Articles</summary>
+    <ul>
+        <li><a href="https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration_AIstudio.md">E2E Sameple: Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio</a> (Low-code approach)</li>
+        <li><a href="https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration.md">E2E Sample: Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide</a> (Code-first approach)</li>
+</details>
+
 <b>on <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)</b>
 
 <!-- BLOG-POST-LIST:START -->
