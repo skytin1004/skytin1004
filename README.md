@@ -8,7 +8,7 @@ My journey into programming started in 2010 with a simple game I developed. This
 
 <h3>Article</h3>
 
-<b>on <img src="https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width='20' /> <a href="https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs">Microsoft Tech Community Blog</a></b>
+<b>on <a href="https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs">Microsoft Tech Community Blog</a></b>
 <details>
     <summary>Articles</summary>
     <ul>
@@ -36,7 +36,7 @@ My journey into programming started in 2010 with a simple game I developed. This
     </details>
 </details>
 
-<b>on <img src="https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width='20' /> <a href="https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs">Phi-3 CookBook</a></b>
+<b>on <a href="https://github.com/microsoft/Phi-3CookBook/tree/main">Phi-3 CookBook</a></b>
 <details>
     <summary>Articles</summary>
     <ul>
