@@ -4,34 +4,37 @@ My journey into programming started in 2010 with a simple game I developed. This
 
 ---
 
-
-<h2>Here are my publications & articles & recent activities</h2>
-
-<h3>Publication</h3>
-
-<b>on <img src = "https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width = '20' /> [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)</b>
-
-- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in/ba-p/4191726?wt.mc_id=studentamb_279723) (Low-code approach)
-- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow/ba-p/4178612?wt.mc_id=studentamb_279723) (Code-first approach)
-- [Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure/ba-p/4143628?wt.mc_id=studentamb_279723)
-- [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723)
-- [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723)
-    <details>
-    <summary>Most Views New Publishing</summary>
-    <p>
-     
-    - Ranked #1 on Google for 'teach chatgpt'
-        - Duration: Dec 23, 2023, to Jan 24, 2024
-     
-        - ![img](https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu)
-
-    - Most Views New Publishing
-        - Duration: Nov 02, 2023, to Dec 15, 2023
-        - ![img](https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p)
-    </p>
-    </details>
+<h2>Here are my articles & recent activities</h2>
 
 <h3>Article</h3>
+
+<b>on <img src="https://github.com/skytin1004/skytin1004/assets/99078115/a9517973-08d2-4114-9566-80ee57448279" width='20' /> <a href="https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs">Microsoft Tech Community Blog</a></b>
+<details>
+    <summary>Articles</summary>
+    <ul>
+        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in/ba-p/4191726?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio</a> (Low-code approach)</li>
+        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow/ba-p/4178612?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide</a> (Code-first approach)</li>
+        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure/ba-p/4143628?wt.mc_id=studentamb_279723">Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI</a></li>
+        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)</a></li>
+        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)</a></li>
+    </ul>
+    <details>
+        <summary>Most Views New Publishing</summary>
+        <p>
+            - Ranked #1 on Google for 'teach chatgpt'
+            <br>
+            - Duration: Dec 23, 2023, to Jan 24, 2024
+            <br>
+            <img src="https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu" alt="Google Ranking Image" />
+            <br><br>
+            - Most Views New Publishing
+            <br>
+            - Duration: Nov 02, 2023, to Dec 15, 2023
+            <br>
+            <img src="https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p" alt="Most Views Image" />
+        </p>
+    </details>
+</details>
 
 <b>on <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)</b>
 
