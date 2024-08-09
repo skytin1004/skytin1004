@@ -36,7 +36,7 @@ My journey into programming started in 2010 with a simple game I developed. This
     </details>
 </details>
 
-<b>on <a href="https://github.com/microsoft/Phi-3CookBook/tree/main">Phi-3 CookBook</a></b>
+<b>on <a href="https://github.com/microsoft/Phi-3CookBook/">Phi-3 CookBook</a></b>
 <details>
     <summary>Articles</summary>
     <ul>
