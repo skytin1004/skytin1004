@@ -16,7 +16,24 @@ My journey into programming started in 2010 with a simple game I developed. This
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow/ba-p/4178612?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide</a> (Code-first approach)</li>
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure/ba-p/4143628?wt.mc_id=studentamb_279723">Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI</a></li>
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)</a></li>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)</a></li>
+        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)</a>
+            <details>
+        <summary>Most Views New Publishing</summary>
+        <p>
+            - Ranked #1 on Google for 'teach chatgpt'
+            <br>
+            - Duration: Dec 23, 2023, to Jan 24, 2024
+            <br>
+            <img src="https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu" alt="Google Ranking Image" />
+            <br><br>
+            - Most Views New Publishing
+            <br>
+            - Duration: Nov 02, 2023, to Dec 15, 2023
+            <br>
+            <img src="https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p" alt="Most Views Image" />
+        </p>
+    </details>
+        </li>
     </ul>
     <details>
         <summary>Most Views New Publishing</summary>
