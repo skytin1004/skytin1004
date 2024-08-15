@@ -15,13 +15,9 @@ My journey into programming started in 2010 with a simple game I developed. This
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in/ba-p/4191726?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio</a> (Low-code approach)</li>
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow/ba-p/4178612?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide</a> (Code-first approach)
                     <details>
-        <summary>Most Views New Publishing</summary>
+        <summary>Microsoft Educator Developer Blog: Most Viewed (July - August 2024)</summary>
         <p>
-            - Most Views New Publishing
-            <br>
-            - Duration: Nov 02, 2023, to Dec 15, 2023
-            <br>
-            <img src="https://drive.google.com/file/d/1wnDbptnSPvBf9cBvofSUIcGk9h7jcNXJ/view?usp=sharing" alt="Most Views Image" />
+            <img src="https://drive.google.com/uc?id=1wnDbptnSPvBf9cBvofSUIcGk9h7jcNXJ" alt="Most Views Image" />
         </p>
     </details>
         </li>
@@ -29,7 +25,7 @@ My journey into programming started in 2010 with a simple game I developed. This
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)</a></li>
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)</a>
             <details>
-        <summary>Most Views New Publishing</summary>
+        <summary>Microsoft Educator Developer Blog: Most Viewed (November - December 2023)</summary>
         <p>
             - Ranked #1 on Google for 'teach chatgpt'
             <br>
@@ -37,7 +33,7 @@ My journey into programming started in 2010 with a simple game I developed. This
             <br>
             <img src="https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu" alt="Google Ranking Image" />
             <br><br>
-            - Most Views New Publishing
+            - Microsoft Educator Developer Blog: Most Viewed (November - December 2023)
             <br>
             - Duration: Nov 02, 2023, to Dec 15, 2023
             <br>
