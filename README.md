@@ -42,22 +42,6 @@ My journey into programming started in 2010 with a simple game I developed. This
     </details>
         </li>
     </ul>
-    <details>
-        <summary>Most Views New Publishing</summary>
-        <p>
-            - Ranked #1 on Google for 'teach chatgpt'
-            <br>
-            - Duration: Dec 23, 2023, to Jan 24, 2024
-            <br>
-            <img src="https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu" alt="Google Ranking Image" />
-            <br><br>
-            - Most Views New Publishing
-            <br>
-            - Duration: Nov 02, 2023, to Dec 15, 2023
-            <br>
-            <img src="https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p" alt="Most Views Image" />
-        </p>
-    </details>
 </details>
 
 <b>on <a href="https://github.com/microsoft/Phi-3CookBook/">Phi-3 CookBook</a></b>
