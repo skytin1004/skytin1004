@@ -12,6 +12,7 @@ My journey into programming started in 2010 with a simple game I developed. This
 <details>
     <summary>Articles</summary>
     <ul>
+        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/evaluate-fine-tuned-phi-3-3-5-models-in-azure-ai-studio-focusing/ba-p/4227850?wt.mc_id=studentamb_279723">Evaluate Fine-tuned Phi-3 / 3.5 Models in Azure AI Studio Focusing on Microsoft's Responsible AI</a> (Low-code approach)</li>
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in/ba-p/4191726?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio</a> (Low-code approach)</li>
         <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow/ba-p/4178612?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide</a> (Code-first approach)
                     <details>
