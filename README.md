@@ -66,11 +66,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com/microsoft/Phi-3CookBook/pull/170) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
-2. 🎉 Merged PR [#4](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/pull/4) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
-3. 🗣 Commented on [#4](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/pull/4#issuecomment-2316974970) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
-4. ❗ Opened issue [#574](https://github.com/InhaBas/inhabas.com-front/issues/574) in [InhaBas/inhabas.com-front](https://github.com/InhaBas/inhabas.com-front)
-5. ❗ Opened issue [#573](https://github.com/InhaBas/inhabas.com-front/issues/573) in [InhaBas/inhabas.com-front](https://github.com/InhaBas/inhabas.com-front)
+1. 🗣 Commented on [#5](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/issues/5#issuecomment-2326508220) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
+2. 💪 Opened PR [#170](https://github.com/microsoft/Phi-3CookBook/pull/170) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+3. 🎉 Merged PR [#4](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/pull/4) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
+4. 🗣 Commented on [#4](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/pull/4#issuecomment-2316974970) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
+5. ❗ Opened issue [#574](https://github.com/InhaBas/inhabas.com-front/issues/574) in [InhaBas/inhabas.com-front](https://github.com/InhaBas/inhabas.com-front)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
