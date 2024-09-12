@@ -66,10 +66,10 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/releases/tag/v0.1.2) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
-2. 🗣 Commented on [#12](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/issues/12#issuecomment-2343929767) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
-3. 🗣 Commented on [#12](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/issues/12#issuecomment-2343928097) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
-4. 🎉 Merged PR [#18](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/pull/18) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
+1. ❗ Opened issue [#19](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/19) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
+2. 🚀 Published release [v0.1.2](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/releases/tag/v0.1.2) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
+3. 🗣 Commented on [#12](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/issues/12#issuecomment-2343929767) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
+4. 🗣 Commented on [#12](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/issues/12#issuecomment-2343928097) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
 5. 🎉 Merged PR [#18](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public/pull/18) in [Imperial-EE-Microsoft/microsoft_translation_public](https://github.com/Imperial-EE-Microsoft/microsoft_translation_public)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
