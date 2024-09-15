@@ -66,11 +66,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/29) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
-2. ❗ Opened issue [#28](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/28) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
-3. ❗ Opened issue [#27](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/27) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
-4. ❗ Opened issue [#26](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/26) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
-5. ❗ Opened issue [#25](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/25) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
+1. 🗣 Commented on [#27](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/27#issuecomment-2351664892) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
+2. ❗ Opened issue [#29](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/29) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
+3. ❗ Opened issue [#28](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/28) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
+4. ❗ Opened issue [#27](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/27) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
+5. ❗ Opened issue [#26](https://github.com/Imperial-EE-Microsoft/co_op_translator/issues/26) in [Imperial-EE-Microsoft/co_op_translator](https://github.com/Imperial-EE-Microsoft/co_op_translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
