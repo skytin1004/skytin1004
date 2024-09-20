@@ -66,11 +66,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/Azure/co-op-translator/issues/7) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 🗣 Commented on [#195](https://github.com/microsoft/Phi-3CookBook/pull/195#issuecomment-2363163274) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
-3. 🚀 Published release [v0.2.1](https://github.com/Azure/co-op-translator/releases/tag/v0.2.1) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🎉 Merged PR [#6](https://github.com/Azure/co-op-translator/pull/6) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 💪 Opened PR [#6](https://github.com/Azure/co-op-translator/pull/6) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🔓 Reopened issue [#165](https://github.com/InhaBas/Inhabas.com-api/issues/165) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. ❗ Opened issue [#350](https://github.com/InhaBas/Inhabas.com-api/issues/350) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+3. 🗣 Commented on [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167#issuecomment-2363764935) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+4. 🔒 Closed issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+5. ❗ Opened issue [#7](https://github.com/Azure/co-op-translator/issues/7) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
