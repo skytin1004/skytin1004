@@ -66,11 +66,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Azure/co-op-translator/pull/5) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 💪 Opened PR [#5](https://github.com/Azure/co-op-translator/pull/5) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🗣 Commented on [#127](https://github.com/microsoft/Phi-3CookBook/issues/127#issuecomment-2362723409) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
-4. 🗣 Commented on [#115](https://github.com/microsoft/Phi-3CookBook/issues/115#issuecomment-2362713385) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
-5. ❗ Opened issue [#4](https://github.com/Azure/co-op-translator/issues/4) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🚀 Published release [v0.2.1](https://github.com/Azure/co-op-translator/releases/tag/v0.2.1) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 🎉 Merged PR [#6](https://github.com/Azure/co-op-translator/pull/6) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 💪 Opened PR [#6](https://github.com/Azure/co-op-translator/pull/6) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🎉 Merged PR [#5](https://github.com/Azure/co-op-translator/pull/5) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 💪 Opened PR [#5](https://github.com/Azure/co-op-translator/pull/5) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
