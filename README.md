@@ -66,11 +66,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Azure/co-op-translator/pull/13) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 💪 Opened PR [#13](https://github.com/Azure/co-op-translator/pull/13) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🎉 Merged PR [#12](https://github.com/Azure/co-op-translator/pull/12) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 💪 Opened PR [#12](https://github.com/Azure/co-op-translator/pull/12) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 🗣 Commented on [#195](https://github.com/microsoft/Phi-3CookBook/pull/195#issuecomment-2365218183) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+1. ❗ Opened issue [#351](https://github.com/InhaBas/Inhabas.com-api/issues/351) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. 🎉 Merged PR [#13](https://github.com/Azure/co-op-translator/pull/13) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 💪 Opened PR [#13](https://github.com/Azure/co-op-translator/pull/13) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🎉 Merged PR [#12](https://github.com/Azure/co-op-translator/pull/12) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 💪 Opened PR [#12](https://github.com/Azure/co-op-translator/pull/12) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
