@@ -66,11 +66,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Azure/co-op-translator/pull/14) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 💪 Opened PR [#14](https://github.com/Azure/co-op-translator/pull/14) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🗣 Commented on [#165](https://github.com/InhaBas/Inhabas.com-api/issues/165#issuecomment-2373348431) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-4. ❗ Opened issue [#351](https://github.com/InhaBas/Inhabas.com-api/issues/351) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-5. 🎉 Merged PR [#13](https://github.com/Azure/co-op-translator/pull/13) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🗣 Commented on [#352](https://github.com/InhaBas/Inhabas.com-api/pull/352#issuecomment-2379204102) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+2. 🗣 Commented on [#352](https://github.com/InhaBas/Inhabas.com-api/pull/352#issuecomment-2379179671) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+3. 🗣 Commented on [#352](https://github.com/InhaBas/Inhabas.com-api/pull/352#issuecomment-2379175878) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+4. 🎉 Merged PR [#14](https://github.com/Azure/co-op-translator/pull/14) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 💪 Opened PR [#14](https://github.com/Azure/co-op-translator/pull/14) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
