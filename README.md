@@ -67,11 +67,11 @@ My journey into programming started in 2010 with a simple game I developed. This
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Azure/co-op-translator/pull/25) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 💪 Opened PR [#25](https://github.com/Azure/co-op-translator/pull/25) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. ❗ Opened issue [#24](https://github.com/Azure/co-op-translator/issues/24) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🔒 Closed issue [#18](https://github.com/Azure/co-op-translator/issues/18) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. ❗ Opened issue [#23](https://github.com/Azure/co-op-translator/issues/23) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 💪 Opened PR [#205](https://github.com/microsoft/Phi-3CookBook/pull/205) in [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+2. 🎉 Merged PR [#25](https://github.com/Azure/co-op-translator/pull/25) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 💪 Opened PR [#25](https://github.com/Azure/co-op-translator/pull/25) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. ❗ Opened issue [#24](https://github.com/Azure/co-op-translator/issues/24) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🔒 Closed issue [#18](https://github.com/Azure/co-op-translator/issues/18) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
