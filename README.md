@@ -3,7 +3,7 @@
 
 My journey into programming started in 2010 with a simple game I developed. This game, designed to avoid obstacles and reach the next level within 30 seconds, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
 
-I am currently a maintainer of the [Co-op Translator](https://github.com/Azure/co-op-translator) project on Azure, where I focus on automating translations for markdown and images to facilitate global collaboration.
+I am currently a maintainer of the [Co-op Translator](https://github.com/Azure/co-op-translator) project on Azure, where I focus on automating translations for markdown and images to support global collaboration.
 
 ---
 
