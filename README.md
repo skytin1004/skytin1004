@@ -71,11 +71,11 @@ I am currently a maintainer of the [Co-op Translator](https://github.com/Azure/c
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Azure/co-op-translator/pull/49) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 🗣 Commented on [#49](https://github.com/Azure/co-op-translator/pull/49#issuecomment-2422448995) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 💪 Opened PR [#49](https://github.com/Azure/co-op-translator/pull/49) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🎉 Merged PR [#48](https://github.com/Azure/co-op-translator/pull/48) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 💪 Opened PR [#48](https://github.com/Azure/co-op-translator/pull/48) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 💪 Opened PR [#50](https://github.com/Azure/co-op-translator/pull/50) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 🎉 Merged PR [#49](https://github.com/Azure/co-op-translator/pull/49) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 🗣 Commented on [#49](https://github.com/Azure/co-op-translator/pull/49#issuecomment-2422448995) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 💪 Opened PR [#49](https://github.com/Azure/co-op-translator/pull/49) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🎉 Merged PR [#48](https://github.com/Azure/co-op-translator/pull/48) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
