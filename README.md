@@ -71,11 +71,11 @@ I am currently a maintainer of the [Co-op Translator](https://github.com/Azure/c
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Shardakaur2624/PowerPlatformsession/pull/1) in [Shardakaur2624/PowerPlatformsession](https://github.com/Shardakaur2624/PowerPlatformsession)
-2. 🎉 Merged PR [#52](https://github.com/Azure/co-op-translator/pull/52) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🗣 Commented on [#52](https://github.com/Azure/co-op-translator/pull/52#issuecomment-2436816197) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 💪 Opened PR [#52](https://github.com/Azure/co-op-translator/pull/52) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. ❗ Opened issue [#51](https://github.com/Azure/co-op-translator/issues/51) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🎉 Merged PR [#2](https://github.com/Shardakaur2624/PowerPlatformsession/pull/2) in [Shardakaur2624/PowerPlatformsession](https://github.com/Shardakaur2624/PowerPlatformsession)
+2. 💪 Opened PR [#2](https://github.com/Shardakaur2624/PowerPlatformsession/pull/2) in [Shardakaur2624/PowerPlatformsession](https://github.com/Shardakaur2624/PowerPlatformsession)
+3. 💪 Opened PR [#1](https://github.com/Shardakaur2624/PowerPlatformsession/pull/1) in [Shardakaur2624/PowerPlatformsession](https://github.com/Shardakaur2624/PowerPlatformsession)
+4. 🎉 Merged PR [#52](https://github.com/Azure/co-op-translator/pull/52) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🗣 Commented on [#52](https://github.com/Azure/co-op-translator/pull/52#issuecomment-2436816197) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
