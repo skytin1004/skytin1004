@@ -1,6 +1,6 @@
 ### Hello, I'm Minseok Song!
 
-I started programming in 2010 with a simple obstacle-avoidance game, ignited my passion for programming. Since then, I have dedicated myself to creating software that brings happiness and comfort to people.
+My programming journey began in 2010 with a simple obstacle avoidance game that ignited my passion for coding. Since then, I have been committed to creating software that brings joy and ease to people's lives.
 
 I'm currently the maintainer of [Co-op Translator](https://github.com/Azure/co-op-translator) on Azure, automating multilingual translations for markdown and images to enhance global collaboration.
 
