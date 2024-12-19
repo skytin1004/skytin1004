@@ -4,7 +4,7 @@ I started programming in 2010 with a simple obstacle-avoidance game, and I've be
 
 I'm currently the maintainer of [Co-op Translator](https://github.com/Azure/co-op-translator) on Azure, automating multilingual translations for markdown and images to enhance global collaboration.
 
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=90,ffffff,e6f7ff,d0eaff&title_color=007fff&text_color=004e8c&border_color=1e90ff&border_radius=8)](https://github.com/Azure/co-op-translator)
+[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=90,ffffff,e6f7ff,d0eaff&title_color=007fff&text_color=004e8c&border_color=d0d7de&border_radius=8)](https://github.com/Azure/co-op-translator)
 
 ---
 
