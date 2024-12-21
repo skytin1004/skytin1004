@@ -59,16 +59,6 @@ I'm currently the maintainer of [Co-op Translator](https://github.com/Azure/co-o
         <li><a href="https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-Evaluation_AIstudio.md">E2E Sample: Evaluate the Fine-tuned Phi-3 / Phi-3.5 Model in Azure AI Studio Focusing on Microsoft's Responsible AI Principles</li>
 </details>
 
-<b>on <img src = "https://drive.google.com/uc?id=1WyZC1-YKLeu6bakKvpQp9OBOQLlyh0Ie" width = '30' /> [Skytin1004 Engineering Blog](https://skytin1004.github.io/)</b>
-
-<!-- BLOG-POST-LIST:START -->
-- [Essential preparations before jumping into coding with your team](https://skytin1004.github.io/it/2024/05/10/essential-preparation0.html)
-- [[OpenSource]오픈소스 기여하는 방법](https://skytin1004.github.io/korarchive2022-2023/2023/08/25/opensourceway.html)
-- [[Flash] 물건피하기 게임](https://skytin1004.github.io/korarchive2022-2023/2023/06/13/flash-avoidobject.html)
-- [[MS azurethon] ChatGPT MS 애저톤 수상 후기](https://skytin1004.github.io/korarchive2022-2023/2023/04/29/MSazurethon.html)
-- [[MS azurethon] 숫자 비교하기 프롬프트](https://skytin1004.github.io/korarchive2022-2023/2023/04/26/compare-number.html)
-<!-- BLOG-POST-LIST:END -->
-
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
