@@ -62,8 +62,8 @@ I'm currently the maintainer of [Co-op Translator](https://github.com/Azure/co-o
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/Azure/co-op-translator/pull/69) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 💪 Opened PR [#68](https://github.com/Azure/co-op-translator/pull/68) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. ❗ Opened issue [#70](https://github.com/Azure/co-op-translator/issues/70) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 🎉 Merged PR [#69](https://github.com/Azure/co-op-translator/pull/69) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 3. 🗣 Commented on [#56](https://github.com/Azure/co-op-translator/issues/56#issuecomment-2556262243) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 4. 🚀 Published release [v0.6.2](https://github.com/Azure/co-op-translator/releases/tag/v0.6.2) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#67](https://github.com/Azure/co-op-translator/pull/67) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
