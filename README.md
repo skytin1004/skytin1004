@@ -62,10 +62,10 @@ I'm currently the maintainer of [Co-op Translator](https://github.com/Azure/co-o
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/Azure/co-op-translator/pull/71) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. ❗ Opened issue [#70](https://github.com/Azure/co-op-translator/issues/70) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🎉 Merged PR [#69](https://github.com/Azure/co-op-translator/pull/69) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🚀 Published release [v0.6.2](https://github.com/Azure/co-op-translator/releases/tag/v0.6.2) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🗣 Commented on [#33](https://github.com/Azure/co-op-translator/issues/33#issuecomment-2599719852) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 💪 Opened PR [#71](https://github.com/Azure/co-op-translator/pull/71) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. ❗ Opened issue [#70](https://github.com/Azure/co-op-translator/issues/70) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🎉 Merged PR [#69](https://github.com/Azure/co-op-translator/pull/69) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#67](https://github.com/Azure/co-op-translator/pull/67) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
