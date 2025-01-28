@@ -1,3 +1,5 @@
+![6-1](https://github.com/user-attachments/assets/02976d05-1b4f-43cd-a9bb-39fe0b67e526)
+
 ### Hello, I'm Minseok Song!
 
 I started programming in 2010 with a simple obstacle avoidance game that ignited my passion for programming. Since then, I've dedicated myself to creating software that brings happiness and comfort to people.
