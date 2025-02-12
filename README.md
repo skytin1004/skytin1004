@@ -64,11 +64,11 @@ I'm currently the maintainer of [Co-op Translator](https://github.com/Azure/co-o
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/Azure/co-op-translator/pull/77) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 🗣 Commented on [#77](https://github.com/Azure/co-op-translator/pull/77#issuecomment-2639749423) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🗣 Commented on [#77](https://github.com/Azure/co-op-translator/pull/77#issuecomment-2633619715) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🚀 Published release [v0.7.0b1](https://github.com/Azure/co-op-translator/releases/tag/v0.7.0b1) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 🎉 Merged PR [#76](https://github.com/Azure/co-op-translator/pull/76) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🎉 Merged PR [#78](https://github.com/Azure/co-op-translator/pull/78) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 🎉 Merged PR [#77](https://github.com/Azure/co-op-translator/pull/77) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 🗣 Commented on [#77](https://github.com/Azure/co-op-translator/pull/77#issuecomment-2639749423) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🗣 Commented on [#77](https://github.com/Azure/co-op-translator/pull/77#issuecomment-2633619715) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🚀 Published release [v0.7.0b1](https://github.com/Azure/co-op-translator/releases/tag/v0.7.0b1) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
