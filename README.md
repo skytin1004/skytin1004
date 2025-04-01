@@ -2,7 +2,7 @@
 
 ### Hi, I'm Minseok Song!
 
-I started programming at age 10 by developing a series of Flash games. One of my games ranked 2nd on Flash365's “Game of the Week,” and my early titles surpassed 10,000 total plays. That was my first experience shipping products to real users and iterating based on feedback — and it sparked a lifelong mission: to build software that brings happiness, comfort, and real value to others.
+I started programming at age 10 by developing a series of Flash games. One of them ranked 2nd on Flash365 — then one of Korea's leading Flash game communities — and my early titles surpassed 10,000 total plays. That was my first experience shipping products to real users and iterating based on feedback — and it sparked a lifelong mission: to build software that brings happiness, comfort, and real value to others.
 
 Today, I'm the maintainer of [Co-op Translator](https://github.com/Azure/co-op-translator), an open-source project on Microsoft Azure that automates multilingual translations for Markdown and images — helping global teams collaborate more seamlessly across language barriers.
 
