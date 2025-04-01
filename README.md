@@ -1,10 +1,10 @@
 ![6-1](https://github.com/user-attachments/assets/02976d05-1b4f-43cd-a9bb-39fe0b67e526)
 
-### Hello, I'm Minseok Song!
+### Hi, I'm Minseok Song!
 
-I started programming in 2010 with a simple obstacle avoidance game that ignited my passion for programming. Since then, I've dedicated myself to creating software that brings happiness and comfort to people.
+I started programming at age 10 by developing a series of Flash games. One of my games ranked 2nd on Flash365's “Game of the Week,” and my early titles surpassed 10,000 total plays. That was my first experience shipping products to real users and iterating based on feedback — and it sparked a lifelong mission: to build software that brings happiness, comfort, and real value to others.
 
-I'm currently the maintainer of [Co-op Translator](https://github.com/Azure/co-op-translator) on Azure, automating multilingual translations for markdown and images to enhance global collaboration.
+Today, I'm the maintainer of [Co-op Translator](https://github.com/Azure/co-op-translator), an open-source project on Microsoft Azure that automates multilingual translations for Markdown and images — helping global teams collaborate more seamlessly across language barriers.
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
