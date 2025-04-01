@@ -64,11 +64,11 @@ Today, I'm the maintainer of [Co-op Translator](https://github.com/Azure/co-op-t
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#300](https://github.com/microsoft/PhiCookBook/pull/300) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-2. 💪 Opened PR [#300](https://github.com/microsoft/PhiCookBook/pull/300) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-3. 🎉 Merged PR [#299](https://github.com/microsoft/PhiCookBook/pull/299) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-4. 💪 Opened PR [#299](https://github.com/microsoft/PhiCookBook/pull/299) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-5. 🗣 Commented on [#106](https://github.com/Azure/co-op-translator/issues/106#issuecomment-2760078513) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🔒 Closed issue [#70](https://github.com/Azure/co-op-translator/issues/70) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 🎉 Merged PR [#300](https://github.com/microsoft/PhiCookBook/pull/300) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
+3. 💪 Opened PR [#300](https://github.com/microsoft/PhiCookBook/pull/300) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
+4. 🎉 Merged PR [#299](https://github.com/microsoft/PhiCookBook/pull/299) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
+5. 💪 Opened PR [#299](https://github.com/microsoft/PhiCookBook/pull/299) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
