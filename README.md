@@ -64,11 +64,11 @@ Today, I'm the maintainer of [Co-op Translator](https://github.com/Azure/co-op-t
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#325](https://github.com/microsoft/PhiCookBook/pull/325) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-2. 🚀 Published release [v0.8.3](https://github.com/Azure/co-op-translator/releases/tag/v0.8.3) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🔒 Closed issue [#111](https://github.com/Azure/co-op-translator/issues/111) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🎉 Merged PR [#112](https://github.com/Azure/co-op-translator/pull/112) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 🗣 Commented on [#112](https://github.com/Azure/co-op-translator/pull/112#issuecomment-2829385058) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. ❌ Closed PR [#2](https://github.com/skytin1004/co-op-translator/pull/2) in [skytin1004/co-op-translator](https://github.com/skytin1004/co-op-translator)
+2. 🎉 Merged PR [#325](https://github.com/microsoft/PhiCookBook/pull/325) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
+3. 🚀 Published release [v0.8.3](https://github.com/Azure/co-op-translator/releases/tag/v0.8.3) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🔒 Closed issue [#111](https://github.com/Azure/co-op-translator/issues/111) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🎉 Merged PR [#112](https://github.com/Azure/co-op-translator/pull/112) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
