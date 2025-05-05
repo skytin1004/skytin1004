@@ -1,88 +1,83 @@
 ![2505043](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
+# Hi, I'm Minseok Song! 👋
 
-### Hi, I'm Minseok Song!
+**Microsoft AI MVP | Maintainer @ [Azure/co-op-translator](https://github.com/Azure/co-op-translator) | Building [MicroLLM](https://www.micro-llm.com/)**
 
-I started programming at age 10 by developing a series of Flash games. One of them ranked 2nd on Flash365 — then one of Korea's leading Flash game communities — and my early titles surpassed 10,000 total plays. That was my first experience shipping products to real users and iterating based on feedback — and it sparked a lifelong mission: to build software that brings happiness, comfort, and real value to others.
+I'm passionate about turning rough demos into impactful developer tools and building software that brings real value. My journey started at age 10 with Flash games, sparking a lifelong mission to ship products users love.
 
-Today, I'm the maintainer of [Co-op Translator](https://github.com/Azure/co-op-translator), an open-source project on Microsoft Azure that automates multilingual translations for Markdown and images — helping global teams collaborate more seamlessly across language barriers.
+Today, I focus on **AI infrastructure**, **developer experience**, and **open-source collaboration**.
+
+
+## 🚀 Current Focus: MicroLLM
+
+I'm currently building **[MicroLLM](https://www.micro-llm.com/)** – a secure, zero-trust API relay ("Stripe for LLMs") letting developers add AI features while users bring their own keys (BYOK), eliminating cost volatility and security risks for builders.
+
+[![MicroLLM - Stripe for LLMs](https://img.shields.io/badge/MicroLLM-Stripe%20for%20LLMs-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ3IDE3LjE4bC0yLjQ0LTEuNDFhMSAxIDAgMCAwLTEuMTcuMSAxLjcxIDEuNzEgMCAwIDEtMi4yOC4xM2wtMS4yNC0uNzFhLjMxLjMxIDAgMCAxIDAgLS41NGwxLjI0LS43MWMuNjUtLjM3IDEuNTMtLjI4IDIuMjUuMjZsMS4yNC43MWMuMzcuMjEuNDUuNjkuMiAxLjA2bC0uMjYtLjQ1Yy0uNDgtLjgzLS4zLTEuODYuNDUtMi41bDIsMS4xNmMuODUuNSAxLjg1LjUgMi43IDBsMi0xLjE2Yy43NS0uNDMgMS4wNi0xLjM0LjczLTIuMTFsLS4yNi0uNDRjLS4yNS0uNDItLjEzLS45NC4zLTEuMTZsMi0xLjE1Yy40My0uMjUuOTYtLjE0IDEuMjcuM2wuMjUuNDRhLjcuNyAwIDAgMS0uMyAxLjI3bC0yIDEuMTVjLS40My4yNS0uNTYuODMtLjMgMS4yN2wxLjI0IDIuMTVjLjIzLjQuMzUuODUuMzQgMS4zMWwtLjAzLjUyYy0uMDMuNTMtLjMyLjk3LS43OCAxLjE5bC0yLjQ0IDEuNDFjLS40Ni4yNy0xLjAyLjI3LTEuNDggMHptLTYuNDUtOS4xNGMtLjgtLjQ2LTEuNzUtLjQ2LTIuNTUgMGwtNy4wOCA0LjA5Yy0uOC40Ni0xLjI4IDEuMzktMS4yOCAyLjMzdjguMThjMCAuOTQuNDggMS44NyAxLjI4IDIuMzNsNy4wOCA0LjA5Yy44LjQ2IDEuNzUuNDYgMi41NSAwbDcuMDgtNC4wOWMxLjI4LS43NCAxLjI4LTIuNDIgMC0zLjE2bC01Ljg0LTMuMzcgMS4yNS0uNzJjLjgtLjQ2IDEuNzUtLjQ2IDIuNTUgMGw1LjgzIDMuMzdjMS4yOC43NCAxLjI4IDIuNDIgMCAzLjE2bC03LjA4IDQuMDljLS44LjQ2LTEuNzUuNDYtMi41NSAwbC03LjA4LTQuMDljLTEuMjgtLjc0LTEuMjgtMi40MiAwLTMuMTZsNS44NC0zLjM3LTEuMjUuNzJjLS44LjQ2LTEuNzUuNDYtMi41NSAwbC01LjgzLTMuMzdDMi40OSAxNC40OSAyIDEzLjU3IDIgMTIuNjNWNC40NWMwLS45NC40OC0xLjg3IDEuMjgtMi4zM2w3LjA4LTQuMDljLjgtLjQ2IDEuNzUtLjQ2IDIuNTUgMHoiLz48L3N2Zz4=)](https://www.micro-llm.com/)
+
+---
+
+## 🛠️ Key Projects & Contributions
+
+### Maintainer: Co-op Translator (Microsoft Azure OSS)
+
+I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an official Azure open-source CLI tool that automates multilingual translations for Markdown and complex images (using OCR).
+
+*   Turned an internal Microsoft PoC into a production-ready CLI (Python).
+*   Powers translations for major Microsoft educational repos like **[ML-for-Beginners](https://github.com/microsoft/ML-for-Beginners)** (72k★), **[AI-for-Beginners](https://github.com/microsoft/AI-for-Beginners)** (37k★), **[AI-Agents-for-Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)** (17k★), and **[PhiCookbook](https://github.com/microsoft/PhiCookbook)** (5k★).
+*   **17k+ downloads** and growing.
+*   Recognized with the **Microsoft AI MVP award (2024-2025)** for its impact.
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
----
+### Other Open Source & Technical Contributions
 
-<h2>Here are my articles & recent activities</h2>
-
-<h3>Article</h3>
-
-<b>on <a href="https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs">Microsoft Tech Community Blog</a></b>
 <details>
-    <summary>Articles</summary>
-    <ul>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/automate-markdown-and-image-translations-using-co-op-translator/ba-p/4263474?wt.mc_id=studentamb_279723">Automate Markdown and Image Translations Using Co-op Translator: Phi-3 Cookbook Case Study</a></li>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/evaluate-fine-tuned-phi-3-3-5-models-in-azure-ai-studio-focusing/ba-p/4227850?wt.mc_id=studentamb_279723">Evaluate Fine-tuned Phi-3 / 3.5 Models in Azure AI Studio Focusing on Microsoft's Responsible AI</a> (Low-code approach)</li>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in/ba-p/4191726?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio</a> (Low-code approach)</li>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow/ba-p/4178612?wt.mc_id=studentamb_279723">Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide</a> (Code-first approach)
-                    <details>
-        <summary>Microsoft Educator Developer Blog: Most Viewed (July - August 2024)</summary>
-        <p>
-            <img src="https://drive.google.com/uc?id=1wnDbptnSPvBf9cBvofSUIcGk9h7jcNXJ" alt="Most Views Image" />
-        </p>
-    </details>
-        </li>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure/ba-p/4143628?wt.mc_id=studentamb_279723">Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI</a></li>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3985395?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)</a></li>
-        <li><a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713?wt.mc_id=studentamb_279723">Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)</a>
-            <details>
-        <summary>Microsoft Educator Developer Blog: Most Viewed (November - December 2023)</summary>
-        <p>
-            - Ranked #1 on Google for 'teach chatgpt'
-            <br>
-            - Duration: Dec 23, 2023, to Jan 24, 2024
-            <br>
-            <img src="https://drive.google.com/uc?id=1lDu7tDnsdyA9k8YkzLXPWJxCGgQmi1tu" alt="Google Ranking Image" />
-            <br><br>
-            - Microsoft Educator Developer Blog: Most Viewed (November - December 2023)
-            <br>
-            - Duration: Nov 02, 2023, to Dec 15, 2023
-            <br>
-            <img src="https://drive.google.com/uc?id=17ydZxSnzJjuPrJ22rxOq3mI597d5JQ-p" alt="Most Views Image" />
-        </p>
-    </details>
-        </li>
-    </ul>
+  <summary>Expand Details</summary>
+
+*   **Author @ [Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook/):** Created end-to-end samples for fine-tuning and evaluating Phi-3 models using Azure AI Studio (Code-first & Low-code approaches).
+    *   [E2E Sample: Fine-Tune & Integrate Phi-3 with Prompt Flow (Low-code)](https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration_AIstudio.md)
+    *   [E2E Sample: Fine-Tune & Integrate Phi-3 with Prompt Flow (Code-first)](https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration.md)
+    *   [E2E Sample: Evaluate Fine-Tuned Phi-3/3.5 Models](https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-Evaluation_AIstudio.md)
+*   **Contributor @ [Apache Iceberg](https://github.com/apache/iceberg):** Contributed test migrations (JUnit4 -> JUnit5) and documentation improvements.
+*   **Technical Writer @ [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1623040):** Published 10+ articles on Azure AI, LLM Fine-Tuning (Phi-3), RAG, and Responsible AI, reaching over 150k+ readers. Several articles featured as "Most Viewed" on the Educator Developer Blog.
+    *   *Featured:* [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713) - Ranked #1 on Google for 'teach chatgpt'.
+*   **Speaker @ [Microsoft Learn Live](https://learn.microsoft.com/en-us/shows/learn-live/):** Co-presented "Plan and Prepare to Develop AI Solutions on Azure" to over 2,000 live viewers.
+*   **Early Developer Experience:** Developed Flash games at age 10, reaching 10k+ plays and #2 on Flash365 community charts.
+
 </details>
-
-<b>on <a href="https://github.com/microsoft/Phi-3CookBook/">Phi-3 CookBook</a></b>
-<details>
-    <summary>Articles</summary>
-    <ul>
-        <li><a href="https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration_AIstudio.md">E2E Sameple: Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio</a> (Low-code approach)</li>
-        <li><a href="https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration.md">E2E Sample: Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide</a> (Code-first approach)</li>
-        <li><a href="https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-Evaluation_AIstudio.md">E2E Sample: Evaluate the Fine-tuned Phi-3 / Phi-3.5 Model in Azure AI Studio Focusing on Microsoft's Responsible AI Principles</li>
-</details>
-
-### Recent Activity 
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#113](https://github.com/Azure/co-op-translator/pull/113) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. ❌ Closed PR [#2](https://github.com/skytin1004/co-op-translator/pull/2) in [skytin1004/co-op-translator](https://github.com/skytin1004/co-op-translator)
-3. 🎉 Merged PR [#325](https://github.com/microsoft/PhiCookBook/pull/325) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-4. 🚀 Published release [v0.8.3](https://github.com/Azure/co-op-translator/releases/tag/v0.8.3) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 🔒 Closed issue [#111](https://github.com/Azure/co-op-translator/issues/111) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-5. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-6. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
-7. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-8. ❗ Opened issue [#168](https://github.com/InhaBas/Inhabas.com-api/issues/168) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-9. 🎉 Merged PR [#2](https://github.com/skytin1004/skills-review-pull-requests/pull/2) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
-10. ❗ Opened issue [#167](https://github.com/InhaBas/Inhabas.com-api/issues/167) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
-<!--END_SECTION:activity-->
 
 ---
 
+## 🏆 Recognition & Awards
+
+*   **Microsoft Most Valuable Professional (MVP) - AI** (2024-2025) - Currently the youngest AI MVP in Korea.
+*   **1st Place**, Inha University Open Source Software Festival (2024) - *For Co-op Translator*
+*   **Winner**, Microsoft Korea Azurethon (2023) - *Prompt Engineering Services category (1 of 6 winners / 927 participants)*
+*   **Gold Microsoft Learn Student Ambassador** (2024)
+*   **Most Viewed Blogger (3x)**, Microsoft Educator Developer Blog (Nov '23, Jul '24, Sep '24)
+
+---
+
+## 💻 Tech Stack
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftazure.svg"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=pytorch"></code> <!-- Or a generic AI/LLM icon -->
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spring.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg"></code>
+
+---
+
+## 📊 GitHub Stats & Activity
+
 <details>
-<summary><h2>Github Stats</h2></summary>
+<summary>📈 View My GitHub Stats</summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
 ![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/languages.svg#gh-light-mode-only)
@@ -90,25 +85,37 @@ Today, I'm the maintainer of [Co-op Translator](https://github.com/Azure/co-op-t
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
 [![](https://ossrank.com/widget/773442)](https://ossrank.com/c/773442)
 
-**[OSSRANK Profile](https://ossrank.com/c/773442)**
+**[My OSSRANK Profile](https://ossrank.com/c/773442)**
 
 </details>
 
----
-<h3>Stacks</h3>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/spring.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mariadb.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+<details>
+<summary>⚡ Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#113](https://github.com/Azure/co-op-translator/pull/113) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. ❌ Closed PR [#2](https://github.com/skytin1004/co-op-translator/pull/2) in [skytin1004/co-op-translator](https://github.com/skytin1004/co-op-translator)
+3. 🎉 Merged PR [#325](https://github.com/microsoft/PhiCookBook/pull/325) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
+4. 🚀 Published release [v0.8.3](https://github.com/Azure/co-op-translator/releases/tag/v0.8.3) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🔒 Closed issue [#111](https://github.com/Azure/co-op-translator/issues/111) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+6. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+7. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
+8. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+9. ❗ Opened issue [#168](https://github.com/InhaBas/Inhabas.com-api/issues/168) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
+10. 🎉 Merged PR [#2](https://github.com/skytin1004/skills-review-pull-requests/pull/2) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
+<!--END_SECTION:activity-->
+
+*(Note: This section is auto-updated)*
+</details>
 
 ---
-<div align=center><h3>🛫How to reach me?</h3></div>
-<div align=center> 
-<a href="https://skytin1004.github.io/about.html" target="_blank"><img height="30em" src="https://img.shields.io/badge/Skytin1004.Portfolio-D0A9F5?style=flat-square&logo=GitHub&logoColor=white&link=https://skyytin1004.github.io/"/></a>
-  <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-F08080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skytin1004@gmail.com"/></a></p>
-<div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/song-ai/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://x.com/skytin1004" target="_blank"><img height="30em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+  <a href="https://skytin1004.github.io/" target="_blank"><img height="30em" src="https://img.shields.io/badge/Portfolio-343a40?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
+  <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1623040" target="_blank"><img height="30em" src="https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+</div>
