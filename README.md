@@ -26,7 +26,7 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 *   Turned an internal Microsoft PoC into a production-ready CLI (Python).
 *   Powers translations for major Microsoft educational repos like **[ML-for-Beginners](https://github.com/microsoft/ML-for-Beginners)** (72k★), **[AI-for-Beginners](https://github.com/microsoft/AI-for-Beginners)** (37k★), **[AI-Agents-for-Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)** (17k★), and **[PhiCookbook](https://github.com/microsoft/PhiCookbook)** (3k★).
 *   **17k+ downloads** and growing.
-*   Recognized with the **Microsoft AI MVP award (2024-2025)** for its impact.
+*   Recognized with the **Microsoft AI MVP award (2024-2025)**.
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -54,7 +54,6 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 *   **Microsoft Most Valuable Professional (MVP) - AI** (2024-2025)
 *   **1st Place**, Inha University Open Source Software Festival (2024) - *For Co-op Translator*
 *   **Winner**, Microsoft Korea Azurethon (2023) - *Prompt Engineering Services category (1 of 6 winners / 927 participants)*
-*   **Gold Microsoft Learn Student Ambassador** (2024)
 *   **Most Viewed Blogger (3x)**, Microsoft Educator Developer Blog (Nov '23, Jul '24, Sep '24)
 
 ---
@@ -64,8 +63,7 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftazure.svg"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=pytorch"></code> <!-- Or a generic AI/LLM icon -->
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spring.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg"></code>
