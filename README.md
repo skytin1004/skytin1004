@@ -24,7 +24,7 @@ I'm currently building **[MicroLLM](https://www.micro-llm.com/)** – a secure, 
 I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an official Azure open-source CLI tool that automates multilingual translations for Markdown and complex images (using OCR).
 
 *   Turned an internal Microsoft PoC into a production-ready CLI (Python).
-*   Powers translations for major Microsoft educational repos like **[ML-for-Beginners](https://github.com/microsoft/ML-for-Beginners)** (72k★), **[AI-for-Beginners](https://github.com/microsoft/AI-for-Beginners)** (37k★), **[AI-Agents-for-Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)** (17k★), and **[PhiCookbook](https://github.com/microsoft/PhiCookbook)** (5k★).
+*   Powers translations for major Microsoft educational repos like **[ML-for-Beginners](https://github.com/microsoft/ML-for-Beginners)** (72k★), **[AI-for-Beginners](https://github.com/microsoft/AI-for-Beginners)** (37k★), **[AI-Agents-for-Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)** (17k★), and **[PhiCookbook](https://github.com/microsoft/PhiCookbook)** (3k★).
 *   **17k+ downloads** and growing.
 *   Recognized with the **Microsoft AI MVP award (2024-2025)** for its impact.
 
