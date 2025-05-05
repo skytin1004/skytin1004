@@ -2,7 +2,7 @@
 
 # Hi, I'm Minseok Song! 👋
 
-**Microsoft AI MVP | Maintainer @ [Azure/co-op-translator](https://github.com/Azure/co-op-translator) | Building [MicroLLM](https://www.micro-llm.com/)**
+**[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c) | Maintainer @ [Azure/co-op-translator](https://github.com/Azure/co-op-translator) | Building [MicroLLM](https://www.micro-llm.com/)**
 
 I'm passionate about turning rough demos into impactful developer tools and building software that brings real value. My journey started at age 10 with Flash games, sparking a lifelong mission to ship products users love.
 
