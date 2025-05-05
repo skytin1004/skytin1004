@@ -1,4 +1,5 @@
-![6-1](https://github.com/user-attachments/assets/02976d05-1b4f-43cd-a9bb-39fe0b67e526)
+![2505043](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+
 
 ### Hi, I'm Minseok Song!
 
