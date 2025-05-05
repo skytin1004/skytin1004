@@ -51,7 +51,7 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 
 ## 🏆 Recognition & Awards
 
-*   **Microsoft Most Valuable Professional (MVP) - AI** (2024-2025) - Currently the youngest AI MVP in Korea.
+*   **Microsoft Most Valuable Professional (MVP) - AI** (2024-2025)
 *   **1st Place**, Inha University Open Source Software Festival (2024) - *For Co-op Translator*
 *   **Winner**, Microsoft Korea Azurethon (2023) - *Prompt Engineering Services category (1 of 6 winners / 927 participants)*
 *   **Gold Microsoft Learn Student Ambassador** (2024)
