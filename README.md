@@ -76,14 +76,9 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 
 <details>
 <summary>📈 View My GitHub Stats</summary>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skytin1004&theme=vue)
-![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/skytin1004/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytin1004&theme=vue)
-[![](https://ossrank.com/widget/773442)](https://ossrank.com/c/773442)
-
-**[My OSSRANK Profile](https://ossrank.com/c/773442)**
+  
+[![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
