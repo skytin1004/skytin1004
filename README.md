@@ -98,7 +98,6 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 10. 🎉 Merged PR [#2](https://github.com/skytin1004/skills-review-pull-requests/pull/2) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 <!--END_SECTION:activity-->
 
-*(Note: This section is auto-updated)*
 </details>
 
 ---
@@ -110,5 +109,5 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
   <a href="https://x.com/skytin1004" target="_blank"><img height="30em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
   <a href="https://skytin1004.github.io/" target="_blank"><img height="30em" src="https://img.shields.io/badge/Portfolio-343a40?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
   <a href="mailto:skytin1004@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1623040" target="_blank"><img height="30em" src="https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+  <a href="https://techcommunity.microsoft.com/users/minseok_song/2076234" target="_blank"><img height="30em" src="https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 </div>
