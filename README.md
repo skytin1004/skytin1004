@@ -86,11 +86,11 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/Azure/co-op-translator/pull/116) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 💪 Opened PR [#116](https://github.com/Azure/co-op-translator/pull/116) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🎉 Merged PR [#335](https://github.com/microsoft/PhiCookBook/pull/335) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-4. 💪 Opened PR [#335](https://github.com/microsoft/PhiCookBook/pull/335) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-5. 🎉 Merged PR [#115](https://github.com/Azure/co-op-translator/pull/115) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🎉 Merged PR [#118](https://github.com/Azure/co-op-translator/pull/118) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 💪 Opened PR [#118](https://github.com/Azure/co-op-translator/pull/118) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 🚀 Published release [v0.8.5](https://github.com/Azure/co-op-translator/releases/tag/v0.8.5) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🎉 Merged PR [#117](https://github.com/Azure/co-op-translator/pull/117) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🗣 Commented on [#117](https://github.com/Azure/co-op-translator/pull/117#issuecomment-2856775094) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 6. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 7. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 8. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
