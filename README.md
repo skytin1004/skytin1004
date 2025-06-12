@@ -2,6 +2,10 @@
 
 # Hi, I'm Minseok Song! 👋
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+
+
 **[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c) | Maintainer @ [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
 I'm passionate about turning rough demos into impactful developer tools and building software that brings real value. My journey started at age 10 with Flash games, sparking a lifelong mission to ship products users love.
