@@ -83,11 +83,11 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/Azure/co-op-translator/pull/125) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 🎉 Merged PR [#130](https://github.com/Azure/co-op-translator/pull/130) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🎉 Merged PR [#137](https://github.com/Azure/co-op-translator/pull/137) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🗣 Commented on [#137](https://github.com/Azure/co-op-translator/pull/137#issuecomment-2969006431) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. ❗ Opened issue [#139](https://github.com/Azure/co-op-translator/issues/139) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🎉 Merged PR [#140](https://github.com/Azure/co-op-translator/pull/140) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 🎉 Merged PR [#125](https://github.com/Azure/co-op-translator/pull/125) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 🎉 Merged PR [#130](https://github.com/Azure/co-op-translator/pull/130) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🎉 Merged PR [#137](https://github.com/Azure/co-op-translator/pull/137) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🗣 Commented on [#137](https://github.com/Azure/co-op-translator/pull/137#issuecomment-2969006431) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 6. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 7. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 8. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
