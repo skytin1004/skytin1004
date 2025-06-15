@@ -83,11 +83,11 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#143](https://github.com/Azure/co-op-translator/issues/143) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-2. 🎉 Merged PR [#142](https://github.com/Azure/co-op-translator/pull/142) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. ❗ Opened issue [#143](https://github.com/Azure/co-op-translator/issues/143) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 💪 Opened PR [#142](https://github.com/Azure/co-op-translator/pull/142) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 🗣 Commented on [#51](https://github.com/Azure/co-op-translator/issues/51#issuecomment-2972626090) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🗣 Commented on [#137](https://github.com/Azure/co-op-translator/pull/137#issuecomment-2973402823) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+2. 🗣 Commented on [#141](https://github.com/Azure/co-op-translator/pull/141#issuecomment-2973402700) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+3. 🎉 Merged PR [#144](https://github.com/Azure/co-op-translator/pull/144) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🗣 Commented on [#144](https://github.com/Azure/co-op-translator/pull/144#issuecomment-2973401759) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🗣 Commented on [#133](https://github.com/Azure/co-op-translator/issues/133#issuecomment-2973393526) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 6. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 7. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 8. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
