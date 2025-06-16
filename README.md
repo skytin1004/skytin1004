@@ -10,7 +10,7 @@
 
 I'm passionate about turning rough demos into impactful developer tools and building software that brings real value. My journey started at age 10 with Flash games, sparking a lifelong mission to ship products users love.
 
-Today, I focus on **AI infrastructure**, **developer experience**, and **open-source collaboration**.
+Today, I focus on **AI × Localization × Open Source**.
 
 ---
 
