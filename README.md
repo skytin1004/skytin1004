@@ -83,11 +83,11 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#856](https://github.com/microsoft/generative-ai-for-beginners/pull/856) in [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-2. 🗣 Commented on [#189](https://github.com/Azure/co-op-translator/issues/189#issuecomment-3059541298) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-3. 🎉 Merged PR [#184](https://github.com/Azure/co-op-translator/pull/184) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-4. 🎉 Merged PR [#183](https://github.com/Azure/co-op-translator/pull/183) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-5. 🎉 Merged PR [#182](https://github.com/Azure/co-op-translator/pull/182) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 💪 Opened PR [#857](https://github.com/microsoft/generative-ai-for-beginners/pull/857) in [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+2. 💪 Opened PR [#856](https://github.com/microsoft/generative-ai-for-beginners/pull/856) in [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+3. 🗣 Commented on [#189](https://github.com/Azure/co-op-translator/issues/189#issuecomment-3059541298) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+4. 🎉 Merged PR [#184](https://github.com/Azure/co-op-translator/pull/184) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+5. 🎉 Merged PR [#183](https://github.com/Azure/co-op-translator/pull/183) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 6. 🎉 Merged PR [#193](https://github.com/InhaBas/Inhabas.com-api/pull/193) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
 7. 💪 Opened PR [#3](https://github.com/skytin1004/skills-review-pull-requests/pull/3) in [skytin1004/skills-review-pull-requests](https://github.com/skytin1004/skills-review-pull-requests)
 8. 💪 Opened PR [#169](https://github.com/InhaBas/Inhabas.com-api/pull/169) in [InhaBas/Inhabas.com-api](https://github.com/InhaBas/Inhabas.com-api)
