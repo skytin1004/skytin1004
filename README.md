@@ -39,7 +39,7 @@ I maintain **[Co-op Translator](https://github.com/Azure/co-op-translator)**, an
 *   **Contributor @ [Apache Iceberg](https://github.com/apache/iceberg):** Contributed test migrations (JUnit4 -> JUnit5) and documentation improvements.
 *   **Technical Writer @ [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1623040):** Published 10+ articles on Azure AI, LLM Fine-Tuning (Phi-3), RAG, and Responsible AI, reaching over 150k+ readers. Several articles featured as "Most Viewed" on the Educator Developer Blog.
     *   *Featured:* [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/t5/educator-developer-blog/teach-chatgpt-to-answer-questions-using-azure-ai-search-amp/ba-p/3969713) - Ranked #1 on Google for 'teach chatgpt'.
-*   **Speaker @ [Microsoft Learn Live](https://learn.microsoft.com/en-us/shows/learn-live/):** Co-presented "Plan and Prepare to Develop AI Solutions on Azure" to over 2,000 live viewers.
+*   **Speaker @ [Microsoft Learn Live](https://www.youtube.com/watch?v=Zl_IFvrKaaY):** Co-presented "Plan and Prepare to Develop AI Solutions on Azure" to over 2,000 live viewers.
 *   **Early Developer Experience:** Developed Flash games at age 10, reaching 10k+ plays and #2 on Flash365 community charts.
 
 </details>
