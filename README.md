@@ -5,7 +5,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator) (27k+ downloads)**
+**[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator) (31k+ downloads)**
 
 I build **AI-powered, open-source developer tools** that scale globally — turning early-stage concepts into production-ready solutions with measurable impact.
 
