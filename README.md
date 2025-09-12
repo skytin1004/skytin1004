@@ -79,7 +79,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#379](https://github.com/microsoft/PhiCookBook/pull/379) in [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
+1. 💪 Opened PR [#387](https://github.com/microsoft/mcp-for-beginners/pull/387) in [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 <!--END_SECTION:activity-->
 </details>
 
