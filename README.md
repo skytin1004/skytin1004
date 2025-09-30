@@ -46,6 +46,22 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 ---
 
+## 🎤 Talks & Media
+
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
+    <img src="https://img.youtube.com/vi/jX_swfH_KNU/0.jpg" width="500" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=Zl_IFvrKaaY">
+    <img src="https://img.youtube.com/vi/Zl_IFvrKaaY/0.jpg" width="500" />
+  </a>
+</p>
+
+- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+
+---
+
 ## 🏆 Recognition
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1st Place**, Inha University Open Source Festival (Co-op Translator)
