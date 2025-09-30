@@ -33,19 +33,6 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 ---
 
-## 🛠 Other Contributions
-<details>
-<summary>View more</summary>
-
-- **Author @ [Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)** – End-to-end fine-tuning & evaluation guides for Phi-3 models in Azure AI Studio (Low-code & Code-first)
-- **Contributor @ [Apache Iceberg](https://github.com/apache/iceberg)** – Test migration (JUnit4 → JUnit5) & documentation improvements
-- **Microsoft Tech Community Writer** – 10+ Azure AI / LLM / RAG / Responsible AI articles, 150k+ reads, multiple “Most Viewed” features
-- **Speaker @ [Microsoft Learn Live](https://www.youtube.com/watch?v=Zl_IFvrKaaY)** – “Plan and Prepare to Develop AI Solutions on Azure” (2k+ live viewers)
-- **Early Dev Experience** – Built Flash games at age 10, 10k+ plays, #2 on Flash365 charts
-</details>
-
----
-
 ## 🎤 Talks & Media
 
 <p align="left">
