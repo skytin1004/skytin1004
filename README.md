@@ -50,10 +50,10 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
-    <img src="https://img.youtube.com/vi/jX_swfH_KNU/0.jpg" width="500" />
+    <img src="https://img.youtube.com/vi/jX_swfH_KNU/0.jpg" width="300" />
   </a>
   <a href="https://www.youtube.com/watch?v=Zl_IFvrKaaY">
-    <img src="https://img.youtube.com/vi/Zl_IFvrKaaY/0.jpg" width="500" />
+    <img src="https://img.youtube.com/vi/Zl_IFvrKaaY/0.jpg" width="300" />
   </a>
 </p>
 
