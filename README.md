@@ -7,7 +7,7 @@
 
 **[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-I build **AI-powered, open-source developer tools** that scale globally — turning early-stage concepts into production-ready solutions with measurable impact.
+I love building AI-powered, open-source developer tools that scale globally — turning early-stage concepts into production-ready solutions with real impact.
 
 ---
 
