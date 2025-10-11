@@ -82,7 +82,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/Azure/co-op-translator/issues/251#issuecomment-3388600254) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 🚀 Published release [v0.11.0](https://github.com/Azure/co-op-translator/releases/tag/v0.11.0) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 <!--END_SECTION:activity-->
 </details>
 
