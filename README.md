@@ -82,7 +82,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#559](https://github.com/microsoft/IoT-For-Beginners/pull/559) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+1. 💪 Opened PR [#145](https://github.com/microsoft/edgeai-for-beginners/pull/145) in [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
 <!--END_SECTION:activity-->
 </details>
 
