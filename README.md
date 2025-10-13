@@ -82,7 +82,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](https://github.com/microsoft/edgeai-for-beginners/pull/145) in [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
+1. 🎉 Merged PR [#257](https://github.com/Azure/co-op-translator/pull/257) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 <!--END_SECTION:activity-->
 </details>
 
