@@ -82,7 +82,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#454](undefined) in [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
+1. 💪 Opened PR [#60](undefined) in [microsoft/Security-101](https://github.com/microsoft/Security-101)
 <!--END_SECTION:activity-->
 </details>
 
