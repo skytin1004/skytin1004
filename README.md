@@ -82,7 +82,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](undefined) in [microsoft/Security-101](https://github.com/microsoft/Security-101)
+1. ❌ Closed PR [#387](undefined) in [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 <!--END_SECTION:activity-->
 </details>
 
