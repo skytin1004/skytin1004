@@ -9,6 +9,12 @@
 
 I love building AI-powered, open-source developer tools that scale globally turning early-stage concepts into production-ready solutions with real impact.
 
+### 🌐 Multi-Language Support
+
+#### Supported by [Co-op Translator](https://github.com/Azure/Co-op-Translator)
+
+[Korean](./translations/ko/README.md)
+
 ---
 
 ## 🚀 Key Project
