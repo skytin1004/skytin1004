@@ -88,7 +88,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#454](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/pull/454#issuecomment-3441790531) in [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
+1. 🗣 Commented on [#270](https://github.com/Azure/co-op-translator/issues/270#issuecomment-3459202012) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 <!--END_SECTION:activity-->
 </details>
 
