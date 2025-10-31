@@ -17,7 +17,7 @@ I love building AI-powered, open-source developer tools that scale globally turn
 
 ---
 
-## 🚀 Key Project
+## Key Project
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
@@ -39,7 +39,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 ---
 
-## 🎤 Talks & Media
+## Talks & Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -55,7 +55,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 ---
 
-## 🏆 Recognition
+## Recognition
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1st Place**, Inha University Open Source Festival (Co-op Translator)
 - **Winner**, Microsoft Korea Azurethon (Prompt Engineering category)
@@ -63,7 +63,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -76,7 +76,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 ---
 
-## 📊 Stats & Activity
+## Stats & Activity
 <details>
 <summary>View GitHub Stats</summary>
 
