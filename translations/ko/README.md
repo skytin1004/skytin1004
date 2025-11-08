@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "54912dfe4081c4cc8d1a857fe1965e61",
-  "translation_date": "2025-11-08T11:32:57+00:00",
+  "original_hash": "dc2c0b7ef7498c8650d2206b85b0f9bf",
+  "translation_date": "2025-11-08T13:39:17+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -16,7 +16,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **[Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 메인테이너**
 
-저는 AI 기반의 오픈소스 개발자 도구를 전 세계적으로 확장 가능하게 만들고, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 발전시키는 것을 좋아합니다.
+저는 AI 기반의 오픈소스 개발자 도구를 전 세계적으로 확장 가능한 형태로 만들고, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 발전시키는 것을 좋아합니다.
 
 ### 🌐 다국어 지원
 
@@ -30,11 +30,11 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-마크다운 + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure 오픈소스 CLI  
-**영향력:** Microsoft 교육용 저장소(총 20만★ 이상)의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
+마크다운 + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
+**영향력:** 20만★ 이상의 Microsoft 교육용 저장소 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
 
 - 초기 PoC에서 프로덕션급 Python CLI로 확장
-- Azure OpenAI + Azure AI Vision을 활용해 번역 및 OCR 자동화
+- 번역 및 OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
 - 다음과 같은 저장소에서 사용:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -97,7 +97,7 @@ CO_OP_TRANSLATOR_METADATA:
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 PR [#273](../../undefined) 오픈 [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. ❌ [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)에서 PR [#7](../../undefined) 닫음
 <!--END_SECTION:activity-->
 </details>
 
@@ -113,4 +113,4 @@ CO_OP_TRANSLATOR_METADATA:
 ---
 
 **면책 조항**:  
-이 문서는 AI 번역 서비스 [Co-op Translator](https://github.com/Azure/co-op-translator)를 사용하여 번역되었습니다. 정확성을 위해 최선을 다하고 있으나, 자동 번역에는 오류나 부정확성이 포함될 수 있습니다. 원본 문서(원어)가 공식적인 기준임을 유의해 주시기 바랍니다. 중요한 정보의 경우, 전문적인 인간 번역을 권장합니다. 본 번역 사용으로 인해 발생하는 오해나 잘못된 해석에 대해 당사는 책임을 지지 않습니다.
+이 문서는 AI 번역 서비스 [Co-op Translator](https://github.com/Azure/co-op-translator)를 사용하여 번역되었습니다. 정확성을 위해 최선을 다하고 있으나, 자동 번역에는 오류나 부정확성이 포함될 수 있습니다. 원본 문서(원어)가 공식적인 기준임을 유의해 주시기 바랍니다. 중요한 정보의 경우, 전문 번역가에 의한 번역을 권장합니다. 본 번역 사용으로 인해 발생하는 오해나 잘못된 해석에 대해 당사는 책임을 지지 않습니다.
