@@ -5,7 +5,9 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+Creator of [Localizeflow](https://localizeflow.com)
+
+Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 
 I love building AI-powered, open-source developer tools that scale globally turning early-stage concepts into production-ready solutions with real impact.
 
@@ -18,6 +20,17 @@ I love building AI-powered, open-source developer tools that scale globally turn
 ---
 
 ## Key Project
+
+### 🚀 Localizeflow (Current Project)
+**GitHub-native automated documentation translation workflow**  
+Zero setup. Hosted. Auto-sync for multilingual projects.  
+→ https://localizeflow.com
+
+- Automatically detects changes in your source files
+- Translates only what changed
+- Opens PRs for each language
+- Built on top of Co-op Translator (Azure OSS)
+
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
