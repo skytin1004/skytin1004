@@ -1,26 +1,24 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "54912dfe4081c4cc8d1a857fe1965e61",
-  "translation_date": "2025-11-08T11:32:57+00:00",
+  "original_hash": "3e414321d605fb802794ae087c3d5f30",
+  "translation_date": "2025-11-14T10:43:51+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
-
 # 안녕하세요, 송민석입니다!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **[Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 메인테이너**
+**[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **[Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 메인테이너**
 
-저는 AI 기반의 오픈소스 개발자 도구를 전 세계적으로 확장 가능하게 만들고, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 발전시키는 것을 좋아합니다.
+저는 AI 기반 오픈소스 개발자 도구를 만들고, 초기 아이디어를 실제로 영향력 있는 글로벌 솔루션으로 발전시키는 일을 좋아합니다.
 
 ### 🌐 다국어 지원
 
-#### [Co-op Translator](https://github.com/Azure/Co-op-Translator)로 지원
+#### [Co-op Translator](https://github.com/Azure/Co-op-Translator)로 지원됨
 
 [한국어](./README.md)
 
@@ -30,18 +28,18 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-마크다운 + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure 오픈소스 CLI  
-**영향력:** Microsoft 교육용 저장소(총 20만★ 이상)의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
+마크다운 + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
+**영향력:** Microsoft 교육용 저장소 20만★+의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
 
-- 초기 PoC에서 프로덕션급 Python CLI로 확장
+- 초기 PoC에서 → 프로덕션급 Python CLI로 확장
 - Azure OpenAI + Azure AI Vision을 활용해 번역 및 OCR 자동화
-- 다음과 같은 저장소에서 사용:
+- 다음과 같은 저장소에서 사용됨:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS 쇼케이스에 소개
+- **Open at Microsoft** OSS 쇼케이스에 소개됨
 - **Microsoft AI MVP 2025** 수상
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -68,7 +66,7 @@ CO_OP_TRANSLATOR_METADATA:
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1등**, 인하대학교 오픈소스 페스티벌 (Co-op Translator)
 - **우승**, Microsoft Korea Azurethon (프롬프트 엔지니어링 부문)
-- **3회 최다 조회수 블로거**, Microsoft Educator Developer Blog
+- **3회 최다 조회 블로거**, Microsoft Educator Developer Blog
 
 ---
 
@@ -97,7 +95,7 @@ CO_OP_TRANSLATOR_METADATA:
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 PR [#273](../../undefined) 오픈 [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. 💪 Opened PR [#276](../../undefined) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 <!--END_SECTION:activity-->
 </details>
 
@@ -112,5 +110,5 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-**면책 조항**:  
-이 문서는 AI 번역 서비스 [Co-op Translator](https://github.com/Azure/co-op-translator)를 사용하여 번역되었습니다. 정확성을 위해 최선을 다하고 있으나, 자동 번역에는 오류나 부정확성이 포함될 수 있습니다. 원본 문서(원어)가 공식적인 기준임을 유의해 주시기 바랍니다. 중요한 정보의 경우, 전문적인 인간 번역을 권장합니다. 본 번역 사용으로 인해 발생하는 오해나 잘못된 해석에 대해 당사는 책임을 지지 않습니다.
+**면책 조항**:
+이 문서는 AI 번역 서비스 [Co-op Translator](https://github.com/Azure/co-op-translator)를 사용하여 번역되었습니다. 정확성을 위해 최선을 다하고 있지만, 자동 번역에는 오류나 부정확성이 포함될 수 있습니다. 원본 문서(원어)가 권위 있는 자료로 간주되어야 합니다. 중요한 정보의 경우 전문 번역가의 번역을 권장합니다. 본 번역의 사용으로 인해 발생하는 오해나 오역에 대해 당사는 책임을 지지 않습니다.
