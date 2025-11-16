@@ -1,20 +1,24 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "3e414321d605fb802794ae087c3d5f30",
-  "translation_date": "2025-11-14T10:43:51+00:00",
+  "original_hash": "41a3a296ffc6fbeb34c7370165e2a8f2",
+  "translation_date": "2025-11-16T13:02:13+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
 -->
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+
 # 안녕하세요, 송민석입니다!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Microsoft AI MVP](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)** | **[Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 메인테이너**
+[Localizeflow](https://localizeflow.com) 개발자
 
-저는 AI 기반 오픈소스 개발자 도구를 만들고, 초기 아이디어를 실제로 영향력 있는 글로벌 솔루션으로 발전시키는 일을 좋아합니다.
+Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 유지관리자
+
+저는 AI 기반 오픈소스 개발자 도구를 만들고, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 발전시키는 일을 좋아합니다.
 
 ### 🌐 다국어 지원
 
@@ -26,20 +30,31 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 주요 프로젝트
 
+### 🚀 Localizeflow (현재 진행 중)
+**GitHub에 최적화된 자동 문서 번역 워크플로우**  
+설정 필요 없음. 호스팅 제공. 다국어 프로젝트 자동 동기화.  
+→ https://localizeflow.com
+
+- 소스 파일의 변경 사항을 자동 감지
+- 변경된 부분만 번역
+- 각 언어별로 PR 자동 생성
+- Co-op Translator(Azure OSS) 기반
+
+
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-마크다운 + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
+Markdown + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
 **영향력:** Microsoft 교육용 저장소 20만★+의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
 
-- 초기 PoC에서 → 프로덕션급 Python CLI로 확장
-- Azure OpenAI + Azure AI Vision을 활용해 번역 및 OCR 자동화
+- 초기 PoC에서 프로덕션급 Python CLI로 확장
+- 번역 및 OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
 - 다음과 같은 저장소에서 사용됨:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS 쇼케이스에 소개됨
+- **Open at Microsoft** OSS 쇼케이스에 소개
 - **Microsoft AI MVP 2025** 수상
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -95,7 +110,7 @@ CO_OP_TRANSLATOR_METADATA:
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#276](../../undefined) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. ❌ PR [#12](../../undefined) 종료 [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
 <!--END_SECTION:activity-->
 </details>
 
@@ -107,8 +122,3 @@ CO_OP_TRANSLATOR_METADATA:
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
 [![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
 [![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
-
----
-
-**면책 조항**:
-이 문서는 AI 번역 서비스 [Co-op Translator](https://github.com/Azure/co-op-translator)를 사용하여 번역되었습니다. 정확성을 위해 최선을 다하고 있지만, 자동 번역에는 오류나 부정확성이 포함될 수 있습니다. 원본 문서(원어)가 권위 있는 자료로 간주되어야 합니다. 중요한 정보의 경우 전문 번역가의 번역을 권장합니다. 본 번역의 사용으로 인해 발생하는 오해나 오역에 대해 당사는 책임을 지지 않습니다.
