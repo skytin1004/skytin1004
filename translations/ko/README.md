@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7c074d93ff3f0da6dd3a112265bd2ccb",
-  "translation_date": "2025-11-17T03:49:21+00:00",
+  "original_hash": "ace3613b83518c5e7fffa699eb0e56ae",
+  "translation_date": "2025-11-17T04:12:16+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -22,7 +22,7 @@ Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-tra
 
 ### 🌐 다국어 지원
 
-#### [Co-op Translator](https://github.com/Azure/Co-op-Translator)로 지원
+#### [Localizeflow](https://github.com/Azure/Co-op-Translator)에서 지원
 
 [한국어](./README.md)
 
@@ -32,10 +32,10 @@ Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-tra
 
 ### 🚀 Localizeflow (진행 중인 프로젝트)
 **GitHub에 최적화된 자동 문서 번역 워크플로우**  
-설정 없이 바로 사용. 호스팅 제공. 다국어 프로젝트 자동 동기화.  
+설정 필요 없음. 호스팅 제공. 다국어 프로젝트 자동 동기화.  
 → https://localizeflow.com
 
-- 소스 파일의 변경 사항을 자동으로 감지
+- 소스 파일의 변경 사항을 자동 감지
 - 변경된 부분만 번역
 - 각 언어별로 PR 자동 생성
 - Co-op Translator(Azure OSS) 기반
@@ -48,7 +48,7 @@ Markdown + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 �
 
 - 초기 PoC에서 프로덕션급 Python CLI로 확장
 - 번역 및 OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
-- 다음과 같은 저장소에서 사용:
+- 사용 중인 대표 저장소:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
