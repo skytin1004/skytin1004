@@ -13,7 +13,7 @@ I love building AI-powered, open-source developer tools that scale globally turn
 
 ### 🌐 Multi-Language Support
 
-#### Supported by [Co-op Translator](https://github.com/Azure/Co-op-Translator)
+#### Supported by [Localizeflow](https://github.com/Azure/Co-op-Translator)
 
 [Korean](./translations/ko/README.md)
 
