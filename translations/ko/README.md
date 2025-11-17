@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ace3613b83518c5e7fffa699eb0e56ae",
-  "translation_date": "2025-11-17T04:12:16+00:00",
+  "original_hash": "0a173e7e9d4204435f234c64275a0f87",
+  "translation_date": "2025-11-17T15:19:10+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -16,13 +16,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 [Localizeflow](https://localizeflow.com) 개발자
 
-Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 유지관리자
+Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 유지보수자
 
-저는 AI 기반 오픈소스 개발자 도구를 만들고, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 발전시키는 일을 좋아합니다.
+AI 기반 오픈소스 개발자 도구를 만들고, 초기 아이디어를 실제로 영향력 있는 글로벌 서비스로 발전시키는 것을 좋아합니다.
 
 ### 🌐 다국어 지원
 
-#### [Localizeflow](https://github.com/Azure/Co-op-Translator)에서 지원
+#### [Localizeflow](https://localizeflow.com)에서 지원
 
 [한국어](./README.md)
 
@@ -46,7 +46,7 @@ Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-tra
 Markdown + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
 **영향력:** Microsoft 교육용 저장소 20만★+의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
 
-- 초기 PoC에서 프로덕션급 Python CLI로 확장
+- 초기 PoC에서 → 실제 서비스용 Python CLI로 확장
 - 번역 및 OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
 - 사용 중인 대표 저장소:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -110,7 +110,7 @@ Markdown + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 �
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ [skytin1004/ai-healthcheck](https://github.com/skytin1004/ai-healthcheck)에서 PR [#3](../../undefined) 닫음
+1. 💪 Opened PR [#280](../../undefined) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
 <!--END_SECTION:activity-->
 </details>
 
