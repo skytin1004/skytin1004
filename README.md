@@ -101,7 +101,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#280](undefined) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
+1. ❌ Closed PR [#1](undefined) in [localizeflow/localizeflow-docs](https://github.com/localizeflow/localizeflow-docs)
 <!--END_SECTION:activity-->
 </details>
 
