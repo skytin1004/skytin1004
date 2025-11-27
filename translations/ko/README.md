@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "5e1bc58933c457ccee7786b4b563a515",
-  "translation_date": "2025-11-18T07:38:45+00:00",
+  "original_hash": "80bfce48ad966db19b62c2091baadf15",
+  "translation_date": "2025-11-19T13:29:25+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -14,9 +14,9 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-[Localizeflow](https://localizeflow.com) 개발자
+[Localizeflow](https://localizeflow.com) 제작자
 
-Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 유지보수자
+Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지보수자
 
 저는 AI 기반 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
 
@@ -30,25 +30,25 @@ Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-tra
 
 ## 주요 프로젝트
 
-### 🚀 Localizeflow (진행 중인 프로젝트)
-**GitHub에 최적화된 자동 문서 번역 워크플로우**  
+### 🚀 Localizeflow (현재 프로젝트)
+**GitHub 기반 자동 문서 번역 워크플로우**  
 설정 필요 없음. 호스팅 제공. 다국어 프로젝트 자동 동기화.  
 → https://localizeflow.com
 
 - 소스 파일의 변경 사항을 자동 감지
 - 변경된 부분만 번역
-- 각 언어별로 PR 자동 생성
-- Co-op Translator(Azure OSS) 기반
+- 각 언어별로 PR 생성
+- Co-op Translator(Azure OSS) 기반 구축
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향력:** Microsoft 교육용 저장소 20만★+의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
+Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
+**영향력:** Microsoft 교육용 저장소 200k★+ 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 제공.
 
-- 초기 PoC에서 → 프로덕션급 Python CLI로 확장
-- 번역 + OCR 자동화를 위해 Azure OpenAI 및 Azure AI Vision 통합
-- 사용 중인 대표 저장소:
+- 초기 PoC에서 프로덕션급 Python CLI로 확장
+- 번역 + OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
+- 다음과 같은 저장소에서 사용:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -110,7 +110,7 @@ Markdown + 이미지(OCR) 콘텐츠의 **다국어 번역**을 자동화하는 �
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ PR [#1](../../undefined) [localizeflow/localizeflow-docs](https://github.com/localizeflow/localizeflow-docs)에서 닫힘
+1. 🚀 [Azure/co-op-translator](https://github.com/Azure/co-op-translator)에서 [v0.12.0](https://github.com/Azure/co-op-translator/releases/tag/v0.12.0) 릴리즈 배포
 <!--END_SECTION:activity-->
 </details>
 
