@@ -101,7 +101,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#578](undefined) in [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+1. 🗣 Commented on [#1048](https://github.com/microsoft/generative-ai-for-beginners/issues/1048#issuecomment-3592743790) in [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 <!--END_SECTION:activity-->
 </details>
 
