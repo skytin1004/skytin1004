@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "80bfce48ad966db19b62c2091baadf15",
-  "translation_date": "2025-11-19T13:29:25+00:00",
+  "original_hash": "0d6d4c13af2bebe996f05a0a2821cfeb",
+  "translation_date": "2025-12-06T15:49:46+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -14,11 +14,11 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-[Localizeflow](https://localizeflow.com) 제작자
+**[Localizeflow](https://localizeflow.com) 창립자**
 
-Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지보수자
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 메인테이너**
 
-저는 AI 기반 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
+저는 AI 기반의 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
 
 ### 🌐 다국어 지원
 
@@ -37,17 +37,17 @@ Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-tra
 
 - 소스 파일의 변경 사항을 자동 감지
 - 변경된 부분만 번역
-- 각 언어별로 PR 생성
+- 각 언어별로 PR 자동 생성
 - Co-op Translator(Azure OSS) 기반 구축
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향력:** Microsoft 교육용 저장소 200k★+ 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 제공.
+Markdown + 이미지 콘텐츠(OCR)용 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
+**영향력:** Microsoft 교육용 저장소 200k★+ 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 제공
 
 - 초기 PoC에서 프로덕션급 Python CLI로 확장
-- 번역 + OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
+- 번역 + OCR 자동화를 위해 Azure OpenAI 및 Azure AI Vision 통합
 - 다음과 같은 저장소에서 사용:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -110,7 +110,7 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 [Azure/co-op-translator](https://github.com/Azure/co-op-translator)에서 [v0.12.0](https://github.com/Azure/co-op-translator/releases/tag/v0.12.0) 릴리즈 배포
+1. 🔒 [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 저장소에서 [#295](https://github.com/Azure/co-op-translator/issues/295) 이슈를 닫음
 <!--END_SECTION:activity-->
 </details>
 
@@ -122,3 +122,10 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
 [![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
 [![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**면책 조항**:  
+이 문서는 AI 번역 서비스 [Co-op Translator](https://github.com/Azure/co-op-translator)를 사용하여 번역되었습니다. 정확성을 위해 최선을 다하고 있으나, 자동 번역에는 오류나 부정확성이 포함될 수 있습니다. 원본 문서(원어)가 공식적인 기준임을 유의해 주시기 바랍니다. 중요한 정보의 경우, 전문 번역가에 의한 번역을 권장합니다. 본 번역 사용으로 인해 발생하는 오해나 잘못된 해석에 대해 당사는 책임을 지지 않습니다.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
