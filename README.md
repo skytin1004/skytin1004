@@ -103,7 +103,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](undefined) in [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
+1. ❌ Closed PR [#26](undefined) in [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
 <!--END_SECTION:activity-->
 </details>
 
