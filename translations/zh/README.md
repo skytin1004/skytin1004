@@ -2,68 +2,68 @@
 CO_OP_TRANSLATOR_METADATA:
 {
   "original_hash": "3dfac8d805a69a65ac28c4272ae4f897",
-  "translation_date": "2025-12-10T07:42:29+00:00",
+  "translation_date": "2025-12-10T07:42:56+00:00",
   "source_file": "README.md",
-  "language_code": "ko"
+  "language_code": "zh"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 안녕하세요, 송민석입니다! 
+# 嗨，我是宋旻錫！
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 제작자**
+**[Localizeflow](https://localizeflow.com) 创始人**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 유지관리자**
+**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 开源项目维护者**
 
-저는 AI 기반의 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
+我热衷于构建由 AI 驱动的开源开发者工具，将初创概念转化为具有实际影响力的全球化生产级解决方案。
 
-### 🌐 다국어 지원
+### 🌐 多语言支持
 
-#### [Localizeflow](https://localizeflow.com)에서 지원
+#### 由 [Localizeflow](https://localizeflow.com/) 提供支持
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Chinese (Simplified)](../zh/README.md) |[Japanese](../ja/README.md) | [Korean](./README.md) | 
+[中文（简体）](./README.md) |[日语](../ja/README.md) | [韩语](../ko/README.md) | 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## 주요 프로젝트
+## 主要项目
 
-### 🚀 Localizeflow (현재 프로젝트)
-**GitHub 기반 자동 문서 번역 워크플로우**  
-설정 필요 없음. 호스팅 제공. 다국어 프로젝트 자동 동기화.  
+### 🚀 Localizeflow（当前项目）
+**原生于 GitHub 的自动化文档翻译工作流**  
+零配置。托管服务。多语言项目自动同步。  
 → https://localizeflow.com
 
-- 소스 파일의 변경 사항을 자동 감지
-- 변경된 부분만 번역
-- 각 언어별로 PR 자동 생성
-- Co-op Translator (Azure OSS) 기반 구축
+- 自动检测源文件变更
+- 仅翻译变更内容
+- 为每种语言自动创建 PR
+- 基于 Co-op Translator（Azure OSS）构建
 
 
-### **Co-op Translator (Microsoft Azure OSS)**
+### **Co-op Translator（微软 Azure 开源项目）**
 
-Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향:** Microsoft 교육용 저장소 20만★+의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
+官方 Azure 开源 CLI，自动化处理 Markdown + 图片内容（OCR）的**多语言翻译**  
+**影响力：** 为微软教育类仓库（总计 20 万★+）提供翻译，确保 10+ 语言内容实时更新。
 
-- 초기 PoC에서 프로덕션급 Python CLI로 확장
-- 번역 + OCR 자동화를 위해 Azure OpenAI 및 Azure AI Vision 통합
-- 다음과 같은 저장소에서 사용:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS 쇼케이스에 소개
-- **Microsoft AI MVP 2025** 수상
+- 从早期 PoC 扩展为生产级 Python CLI
+- 集成 Azure OpenAI + Azure AI Vision，实现翻译与 OCR 自动化
+- 被以下仓库采用：
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners)（84k★）
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners)（72k★）
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners)（37k★）
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)（17k★）
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook)（3k★）
+- 入选 **Open at Microsoft** 开源展示
+- 获得 **微软 AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## 발표 & 미디어
+## 演讲与媒体
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,20 +74,20 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator로 다국어 접근성 혁신](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure에서 AI 솔루션 개발 계획 및 준비](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – 用 Co-op Translator 解锁多语言无障碍](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – 规划与准备在 Azure 上开发 AI 解决方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## 수상 및 인정
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1등**, 인하대학교 오픈소스 페스티벌 (Co-op Translator)
-- **우승**, Microsoft Korea Azurethon (프롬프트 엔지니어링 부문)
-- **3회 최다 조회수 블로거**, Microsoft Educator Developer Blog
+## 荣誉与奖项
+- **微软最有价值专家（AI）** 2024–2025
+- **一等奖**，仁荷大学开源节（Co-op Translator）
+- **获奖者**，微软韩国 Azurethon（Prompt Engineering 类别）
+- **三次最受关注博主**，Microsoft Educator Developer Blog
 
 ---
 
-## 기술 스택
+## 技术栈
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,25 +100,25 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
 
 ---
 
-## 통계 & 활동
+## 统计与动态
 <details>
-<summary>GitHub 통계 보기</summary>
+<summary>查看 GitHub 统计数据</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
-<summary>최근 활동</summary>
+<summary>最近动态</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](../../undefined) in [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
+1. ❌ 关闭了 PR [#26](../../undefined) in [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
 <!--END_SECTION:activity-->
 </details>
 
 ---
 
-## 📫 연락하기
+## 📫 联系我
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
