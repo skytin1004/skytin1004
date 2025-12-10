@@ -1,24 +1,24 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "3dfac8d805a69a65ac28c4272ae4f897",
-  "translation_date": "2025-12-10T07:42:29+00:00",
+  "original_hash": "056aa5cdcb4ce140e16742f67486c267",
+  "translation_date": "2025-12-10T10:38:28+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 안녕하세요, 송민석입니다! 
+# 안녕하세요, 송민석입니다!  
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 제작자**
+**[Localizeflow](https://localizeflow.com) 창립자**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈소스 유지관리자**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지보수자**
 
-저는 AI 기반의 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
+저는 AI 기반 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
 
 ### 🌐 다국어 지원
 
@@ -40,16 +40,16 @@ CO_OP_TRANSLATOR_METADATA:
 - 소스 파일의 변경 사항을 자동 감지
 - 변경된 부분만 번역
 - 각 언어별로 PR 자동 생성
-- Co-op Translator (Azure OSS) 기반 구축
+- Co-op Translator(Azure OSS) 기반 구축
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향:** Microsoft 교육용 저장소 20만★+의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
+**영향력:** Microsoft 교육용 저장소 20만★+ 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 제공.
 
-- 초기 PoC에서 프로덕션급 Python CLI로 확장
-- 번역 + OCR 자동화를 위해 Azure OpenAI 및 Azure AI Vision 통합
+- 초기 PoC에서 → 프로덕션급 Python CLI로 확장
+- 번역 + OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
 - 다음과 같은 저장소에서 사용:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -83,7 +83,7 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1등**, 인하대학교 오픈소스 페스티벌 (Co-op Translator)
 - **우승**, Microsoft Korea Azurethon (프롬프트 엔지니어링 부문)
-- **3회 최다 조회수 블로거**, Microsoft Educator Developer Blog
+- **3회 최다 조회 블로거**, Microsoft Educator Developer Blog
 
 ---
 
