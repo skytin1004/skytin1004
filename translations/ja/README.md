@@ -2,68 +2,68 @@
 CO_OP_TRANSLATOR_METADATA:
 {
   "original_hash": "f44a5e5e667aa4b8f0a44a36353a07e5",
-  "translation_date": "2025-12-10T07:23:49+00:00",
+  "translation_date": "2025-12-10T07:24:02+00:00",
   "source_file": "README.md",
-  "language_code": "ko"
+  "language_code": "ja"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 안녕하세요, 송민석입니다! 
+# こんにちは、ソン・ミンソクです！
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 제작자**
+**[Localizeflow](https://localizeflow.com) のクリエイター**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 메인테이너**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) のOSSメンテナー**
 
-저는 AI 기반의 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제 임팩트 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
+AIを活用したオープンソースの開発者向けツールをグローバルにスケールさせ、初期段階のコンセプトを実際にインパクトのあるプロダクションレベルのソリューションへと変えることが大好きです。
 
-### 🌐 다국어 지원
+### 🌐 多言語サポート
 
-#### [Localizeflow](https://localizeflow.com)에서 지원
+#### [Localizeflow](https://localizeflow.com) によるサポート
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[중국어(간체)](../zh/README.md) |[일본어](../ja/README.md) | [한국어](./README.md) | 
+[Chinese (Simplified)](../zh/README.md) |[Japanese](./README.md) | [Korean](../ko/README.md) | 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## 주요 프로젝트
+## 主なプロジェクト
 
-### 🚀 Localizeflow (현재 진행 중)
-**GitHub 기반 자동 문서 번역 워크플로우**  
-설정 필요 없음. 호스팅 제공. 다국어 프로젝트 자동 동기화.  
+### 🚀 Localizeflow（現在のプロジェクト）
+**GitHubネイティブの自動ドキュメント翻訳ワークフロー**  
+セットアップ不要。ホスティング済み。多言語プロジェクトの自動同期。  
 → https://localizeflow.com
 
-- 소스 파일의 변경 사항을 자동 감지
-- 변경된 부분만 번역
-- 각 언어별로 PR 자동 생성
-- Co-op Translator (Azure OSS) 기반
+- ソースファイルの変更を自動検出
+- 変更された部分のみを翻訳
+- 各言語ごとにPRを作成
+- Co-op Translator（Azure OSS）上に構築
 
 
-### **Co-op Translator (Microsoft Azure OSS)**
+### **Co-op Translator（Microsoft Azure OSS）**
 
-Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**임팩트:** Microsoft 교육용 저장소(총 20만★ 이상)의 번역을 지원하며, 10개 이상의 언어로 항상 최신 콘텐츠를 제공합니다.
+Markdown＋画像コンテンツ（OCR）の**多言語翻訳**を自動化する公式Azure OSS CLI  
+**インパクト:** Microsoftの教育用リポジトリ（合計200k★以上）の翻訳を支え、10以上の言語で常に最新のコンテンツを提供。
 
-- 초기 PoC에서 프로덕션급 Python CLI로 확장
-- 번역 + OCR 자동화를 위해 Azure OpenAI 및 Azure AI Vision 통합
-- 다음과 같은 저장소에서 사용:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS 쇼케이스에 소개
-- **Microsoft AI MVP 2025** 수상
+- 初期PoCからプロダクショングレードのPython CLIへスケール
+- Azure OpenAI＋Azure AI Visionを統合し、翻訳＋OCR自動化を実現
+- 以下のようなリポジトリで利用：
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners)（84k★）
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners)（72k★）
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners)（37k★）
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)（17k★）
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook)（3k★）
+- **Open at Microsoft** OSSショーケースで紹介
+- **Microsoft AI MVP 2025** 受賞
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## 발표 & 미디어
+## 講演・メディア
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,20 +74,20 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator로 다국어 접근성 혁신](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure에서 AI 솔루션 개발 계획 및 준비](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translatorで多言語アクセシビリティを解放](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – AzureでAIソリューションを開発するための計画と準備](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## 수상 및 인정
+## 受賞歴
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1등**, 인하대학교 오픈소스 페스티벌 (Co-op Translator)
-- **우승**, Microsoft Korea Azurethon (프롬프트 엔지니어링 부문)
-- **3회 최다 조회수 블로거**, Microsoft Educator Developer Blog
+- **1位**、仁荷大学オープンソースフェスティバル（Co-op Translator）
+- **優勝**、Microsoft Korea Azurethon（プロンプトエンジニアリング部門）
+- **3回 最多閲覧ブロガー**、Microsoft Educator Developer Blog
 
 ---
 
-## 기술 스택
+## 技術スタック
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,25 +100,25 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
 
 ---
 
-## 통계 & 활동
+## 統計 & アクティビティ
 <details>
-<summary>GitHub 통계 보기</summary>
+<summary>GitHub統計を見る</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
-<summary>최근 활동</summary>
+<summary>最近のアクティビティ</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ PR [#24](../../undefined) 닫힘 [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
+1. ❌ PR [#24](../../undefined) をクローズしました [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
 <!--END_SECTION:activity-->
 </details>
 
 ---
 
-## 📫 연락하기
+## 📫 連絡先
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
