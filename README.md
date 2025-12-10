@@ -15,7 +15,9 @@ I love building AI-powered, open-source developer tools that scale globally turn
 
 #### Supported by [Localizeflow](https://localizeflow.com/)
 
-[Korean](./translations/ko/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Chinese (Simplified)](./translations/zh/README.md) |[Japanese](./translations/ja/README.md) | [Korean](./translations/ko/README.md) | 
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
