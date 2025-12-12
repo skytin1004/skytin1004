@@ -1,31 +1,31 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "056aa5cdcb4ce140e16742f67486c267",
-  "translation_date": "2025-12-10T10:38:28+00:00",
+  "original_hash": "083a2361684a04c1872ea3e24968ca54",
+  "translation_date": "2025-12-12T00:29:34+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 안녕하세요, 송민석입니다!  
+# 안녕하세요, 저는 송민석입니다!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 창립자**
+**[Localizeflow](https://localizeflow.com) 제작자**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지보수자**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지 관리자**
 
-저는 AI 기반 오픈소스 개발자 도구를 전 세계적으로 확장하며, 초기 아이디어를 실제로 영향력 있는 프로덕션 솔루션으로 만드는 것을 좋아합니다.
+저는 초기 단계의 아이디어를 실제 영향력을 가진 프로덕션 수준 솔루션으로 전환하는, 전 세계적으로 확장 가능한 AI 기반 오픈 소스 개발자 도구를 만드는 것을 좋아합니다.
 
 ### 🌐 다국어 지원
 
-#### [Localizeflow](https://localizeflow.com)에서 지원
+#### [Localizeflow](https://localizeflow.com/)에서 지원
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Chinese (Simplified)](../zh/README.md) |[Japanese](../ja/README.md) | [Korean](./README.md) | 
+[중국어 (간체)](../zh/README.md) |[일본어](../ja/README.md) | [한국어](./README.md) | 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,37 +33,37 @@ CO_OP_TRANSLATOR_METADATA:
 ## 주요 프로젝트
 
 ### 🚀 Localizeflow (현재 프로젝트)
-**GitHub 기반 자동 문서 번역 워크플로우**  
-설정 필요 없음. 호스팅 제공. 다국어 프로젝트 자동 동기화.  
+**GitHub 네이티브 자동 문서 번역 워크플로우**  
+설정 불필요. 호스팅됨. 다국어 프로젝트 자동 동기화.  
 → https://localizeflow.com
 
-- 소스 파일의 변경 사항을 자동 감지
+- 소스 파일 변경 사항 자동 감지
 - 변경된 부분만 번역
-- 각 언어별로 PR 자동 생성
-- Co-op Translator(Azure OSS) 기반 구축
+- 각 언어별 PR 생성
+- Co-op Translator (Azure OSS) 기반 구축
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향력:** Microsoft 교육용 저장소 20만★+ 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 제공.
+Markdown + 이미지 콘텐츠(OCR)의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
+**영향력:** 10개 이상의 언어로 항상 최신 상태를 유지하는 Microsoft 교육용 저장소(20만★ 이상)의 번역을 지원합니다.
 
-- 초기 PoC에서 → 프로덕션급 Python CLI로 확장
-- 번역 + OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
-- 다음과 같은 저장소에서 사용:
+- 초기 PoC에서 프로덕션급 Python CLI로 확장
+- Azure OpenAI + Azure AI Vision 통합하여 번역 및 OCR 자동화
+- 다음 저장소에서 사용 중:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS 쇼케이스에 소개
+- **Open at Microsoft** OSS 쇼케이스에 소개됨
 - **Microsoft AI MVP 2025** 수상
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## 발표 & 미디어
+## 강연 및 미디어
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,14 +74,14 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator로 다국어 접근성 혁신](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Co-op Translator로 다국어 접근성 열기](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Azure에서 AI 솔루션 개발 계획 및 준비](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## 수상 및 인정
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1등**, 인하대학교 오픈소스 페스티벌 (Co-op Translator)
+- **1위**, 인하대학교 오픈소스 페스티벌 (Co-op Translator)
 - **우승**, Microsoft Korea Azurethon (프롬프트 엔지니어링 부문)
 - **3회 최다 조회 블로거**, Microsoft Educator Developer Blog
 
@@ -100,7 +100,7 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
 
 ---
 
-## 통계 & 활동
+## 통계 및 활동
 <details>
 <summary>GitHub 통계 보기</summary>
 
@@ -112,7 +112,7 @@ Markdown + 이미지 콘텐츠(OCR) **다국어 번역**을 자동화하는 공�
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](../../undefined) in [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
+1. ❌ [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)에서 PR [#26](../../undefined) 닫음
 <!--END_SECTION:activity-->
 </details>
 
