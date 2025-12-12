@@ -97,15 +97,6 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Merged PR [#306](undefined) in [Azure/co-op-translator](https://github.com/Azure/co-op-translator)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Connect with Me
