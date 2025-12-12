@@ -1,63 +1,62 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "3dfac8d805a69a65ac28c4272ae4f897",
-  "translation_date": "2025-12-10T07:42:56+00:00",
+  "original_hash": "a00511f2b4b9b48418e5b1e99b632d1f",
+  "translation_date": "2025-12-12T01:20:42+00:00",
   "source_file": "README.md",
   "language_code": "zh"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 嗨，我是宋旻錫！
+# 你好，我是 Minseok Song！
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 创始人**
+**[Localizeflow](https://localizeflow.com) 的创始人**
 
-**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 开源项目维护者**
+**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 的开源维护者**
 
-我热衷于构建由 AI 驱动的开源开发者工具，将初创概念转化为具有实际影响力的全球化生产级解决方案。
+我热衷于构建全球可扩展的 AI 驱动开源开发者工具，将早期概念转化为具有实际影响的生产级解决方案。
 
 ### 🌐 多语言支持
 
-#### 由 [Localizeflow](https://localizeflow.com/) 提供支持
+#### 由 [Localizeflow](https://localizeflow.com/) 支持
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[中文（简体）](./README.md) |[日语](../ja/README.md) | [韩语](../ko/README.md) | 
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](./README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
 ---
 
 ## 主要项目
 
 ### 🚀 Localizeflow（当前项目）
-**原生于 GitHub 的自动化文档翻译工作流**  
+**GitHub 原生自动化文档翻译工作流**  
 零配置。托管服务。多语言项目自动同步。  
 → https://localizeflow.com
 
 - 自动检测源文件变更
 - 仅翻译变更内容
-- 为每种语言自动创建 PR
-- 基于 Co-op Translator（Azure OSS）构建
+- 为每种语言打开 PR
+- 构建于 Co-op Translator（Azure 开源项目）之上
 
 
 ### **Co-op Translator（微软 Azure 开源项目）**
 
 官方 Azure 开源 CLI，自动化处理 Markdown + 图片内容（OCR）的**多语言翻译**  
-**影响力：** 为微软教育类仓库（总计 20 万★+）提供翻译，确保 10+ 语言内容实时更新。
+**影响力：** 支持微软教育类仓库翻译，累计 20 万★+，确保 10 多种语言内容始终更新。
 
-- 从早期 PoC 扩展为生产级 Python CLI
-- 集成 Azure OpenAI + Azure AI Vision，实现翻译与 OCR 自动化
-- 被以下仓库采用：
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners)（84k★）
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners)（72k★）
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners)（37k★）
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)（17k★）
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook)（3k★）
-- 入选 **Open at Microsoft** 开源展示
-- 获得 **微软 AI MVP 2025**
+- 从早期概念验证扩展到生产级 Python CLI
+- 集成 Azure OpenAI + Azure AI Vision 实现翻译与 OCR 自动化
+- 被以下仓库使用：
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
+- 入选 **Open at Microsoft** 开源项目展示
+- 荣获 **微软 AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,16 +73,16 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – 用 Co-op Translator 解锁多语言无障碍](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – 使用 Co-op Translator 解锁多语言无障碍](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – 规划与准备在 Azure 上开发 AI 解决方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## 荣誉与奖项
+## 荣誉
 - **微软最有价值专家（AI）** 2024–2025
-- **一等奖**，仁荷大学开源节（Co-op Translator）
-- **获奖者**，微软韩国 Azurethon（Prompt Engineering 类别）
-- **三次最受关注博主**，Microsoft Educator Developer Blog
+- 仁荷大学开源节一等奖（Co-op Translator）
+- 微软韩国 Azurethon 冠军（提示工程类别）
+- 三次微软教育者开发者博客最高浏览量博主
 
 ---
 
@@ -100,19 +99,19 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## 统计与动态
+## 统计与活动
 <details>
-<summary>查看 GitHub 统计数据</summary>
+<summary>查看 GitHub 统计</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
-<summary>最近动态</summary>
+<summary>最近活动</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ 关闭了 PR [#26](../../undefined) in [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
+1. 🗣 在 [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) 的 [#484](https://github.com/microsoft/mcp-for-beginners/pull/484#issuecomment-3644265626) 发表评论
 <!--END_SECTION:activity-->
 </details>
 

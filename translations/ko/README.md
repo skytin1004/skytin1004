@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "083a2361684a04c1872ea3e24968ca54",
-  "translation_date": "2025-12-12T00:29:34+00:00",
+  "original_hash": "a00511f2b4b9b48418e5b1e99b632d1f",
+  "translation_date": "2025-12-12T01:21:41+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -16,18 +16,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 **[Localizeflow](https://localizeflow.com) 제작자**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지 관리자**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지관리자**
 
-저는 초기 단계의 아이디어를 실제 영향력을 가진 프로덕션 수준 솔루션으로 전환하는, 전 세계적으로 확장 가능한 AI 기반 오픈 소스 개발자 도구를 만드는 것을 좋아합니다.
+저는 초기 단계의 아이디어를 실제 영향력을 가진 프로덕션 수준의 솔루션으로 전환하는, 전 세계적으로 확장 가능한 AI 기반 오픈소스 개발자 도구를 만드는 것을 좋아합니다.
 
 ### 🌐 다국어 지원
 
 #### [Localizeflow](https://localizeflow.com/)에서 지원
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[중국어 (간체)](../zh/README.md) |[일본어](../ja/README.md) | [한국어](./README.md) | 
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](./README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
 ---
 
 ## 주요 프로젝트
@@ -46,11 +45,11 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Markdown + 이미지 콘텐츠(OCR)의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향력:** 10개 이상의 언어로 항상 최신 상태를 유지하는 Microsoft 교육용 저장소(20만★ 이상)의 번역을 지원합니다.
+**영향력:** Microsoft 교육용 저장소 20만★ 이상 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 유지.
 
 - 초기 PoC에서 프로덕션급 Python CLI로 확장
 - Azure OpenAI + Azure AI Vision 통합하여 번역 및 OCR 자동화
-- 다음 저장소에서 사용 중:
+- 다음 저장소에서 사용:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -112,7 +111,7 @@ Markdown + 이미지 콘텐츠(OCR)의 **다국어 번역**을 자동화하는 �
 <summary>최근 활동</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)에서 PR [#26](../../undefined) 닫음
+1. 🗣 [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)의 [#484](https://github.com/microsoft/mcp-for-beginners/pull/484#issuecomment-3644265626)에 댓글 작성
 <!--END_SECTION:activity-->
 </details>
 
