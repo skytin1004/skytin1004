@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:11:56+00:00",
+  "original_hash": "13c9bb3ae540b51ac3157a2405b66719",
+  "translation_date": "2025-12-12T05:25:44+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 안녕하세요, 저는 송민석입니다!
+# 안녕하세요, 저는 송민석입니다! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -47,7 +47,7 @@ CO_OP_TRANSLATOR_METADATA:
 Markdown + 이미지 콘텐츠(OCR)의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
 **영향력:** Microsoft 교육용 저장소 20만★ 이상 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 유지.
 
-- 초기 PoC에서 프로덕션급 Python CLI로 확장
+- 초기 PoC에서 프로덕션 수준의 Python CLI로 확장
 - Azure OpenAI + Azure AI Vision 통합하여 번역 및 OCR 자동화
 - 다음 저장소에서 사용:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -106,15 +106,6 @@ Markdown + 이미지 콘텐츠(OCR)의 **다국어 번역**을 자동화하는 �
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>최근 활동</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)에서 PR [#26](../../undefined) 닫음
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 연락하기
