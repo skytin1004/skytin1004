@@ -102,7 +102,7 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#484](https://github.com/microsoft/mcp-for-beginners/pull/484#issuecomment-3644265626) in [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+1. ❌ Closed PR [#26](undefined) in [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
 <!--END_SECTION:activity-->
 </details>
 
