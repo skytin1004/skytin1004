@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:17:48+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:13:10+00:00",
   "source_file": "README.md",
   "language_code": "hi"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) के OSS मेंटेनर**
 
-मुझे AI-संचालित, ओपन-सोर्स डेवलपर टूल्स बनाना पसंद है जो वैश्विक स्तर पर स्केल करते हैं और शुरुआती चरण की अवधारणाओं को वास्तविक प्रभाव वाले उत्पादन-तैयार समाधानों में बदलते हैं।
+मुझे AI-संचालित, ओपन-सोर्स डेवलपर टूल्स बनाना पसंद है जो वैश्विक स्तर पर स्केल करते हैं और शुरुआती चरण की अवधारणाओं को वास्तविक प्रभाव वाले प्रोडक्शन-तैयार समाधानों में बदलते हैं।
 
 ### 🌐 बहुभाषी समर्थन
 
@@ -27,6 +27,7 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](./README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## प्रमुख परियोजना
@@ -44,11 +45,11 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 एक आधिकारिक Azure OSS CLI जो Markdown + छवि सामग्री (OCR) के लिए **बहुभाषी अनुवाद** को स्वचालित करता है  
-**प्रभाव:** Microsoft शैक्षिक रिपॉजिटरीज़ के लिए 200k★+ कुल अनुवादों को संचालित करता है, जो 10+ भाषाओं में हमेशा अपडेटेड सामग्री सुनिश्चित करता है।
+**प्रभाव:** Microsoft के शैक्षिक रिपॉजिटरीज़ के लिए 200k★+ कुल अनुवादों को संचालित करता है, जो 10+ भाषाओं में हमेशा अपडेटेड सामग्री सुनिश्चित करता है।
 
-- प्रारंभिक PoC से उत्पादन-ग्रेड Python CLI तक विकसित
+- प्रारंभिक PoC से लेकर प्रोडक्शन-ग्रेड Python CLI तक विकसित
 - अनुवाद + OCR स्वचालन के लिए Azure OpenAI + Azure AI Vision एकीकृत
-- निम्न रिपॉजिटरीज़ द्वारा उपयोग किया गया:
+- निम्नलिखित रिपॉजिटरीज़ द्वारा उपयोग किया गया:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -61,7 +62,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## वार्तालाप और मीडिया
+## टॉक्स और मीडिया
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -105,15 +106,6 @@ CO_OP_TRANSLATOR_METADATA:
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>हाल की गतिविधि</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ PR बंद किया [#26](../../undefined) में [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 मुझसे जुड़ें

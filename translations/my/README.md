@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:33:00+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:25:53+00:00",
   "source_file": "README.md",
   "language_code": "my"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) ရဲ့ OSS ထိန်းသိမ်းသူ**
 
-ကျွန်တော်က ကမ္ဘာတစ်ဝှမ်းမှာ တိုးချဲ့နိုင်တဲ့ AI အခြေပြု၊ open-source developer tools တွေကို တည်ဆောက်ရတာကို ကြိုက်တယ်၊ အစောပိုင်းအတွေးတွေကို ထုတ်လုပ်မှုအဆင့်သို့ ပြောင်းလဲပေးပြီး အကျိုးသက်ရောက်မှုရှိတဲ့ ဖြေရှင်းချက်တွေ ဖန်တီးပေးတယ်။
+ကျွန်တော်က ကမ္ဘာတစ်ဝှမ်းမှာ တိုးချဲ့နိုင်တဲ့ AI အခြေပြု၊ open-source developer tools တွေကို တည်ဆောက်ရတာကို ကြိုက်တယ်၊ အစောပိုင်းအတွေးတွေကို ထုတ်လုပ်မှုအဆင့်သို့ ပြောင်းလဲပေးနိုင်တဲ့ အကျိုးသက်ရောက်မှုရှိတဲ့ ဖြေရှင်းချက်တွေဖြစ်အောင်လုပ်တယ်။
 
 ### 🌐 ဘာသာစကားစုံ ထောက်ပံ့မှု
 
@@ -27,13 +27,14 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](./README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## အဓိက ပရောဂျက်
 
 ### 🚀 Localizeflow (လက်ရှိ ပရောဂျက်)
 **GitHub-မူရင်း အလိုအလျောက် စာတမ်းဘာသာပြန်လုပ်ငန်းစဉ်**  
-တစ်ချက်တည်း စတင်ရန်။ Hosted ဖြစ်သည်။ ဘာသာစကားစုံ ပရောဂျက်များအတွက် အလိုအလျောက် စနစ်ချိတ်ဆက်မှု။  
+တစ်ချက်တည်း စတင်ရန် မလိုအပ်ပါ။ Hosted ဖြစ်သည်။ ဘာသာစကားစုံ ပရောဂျက်များအတွက် အလိုအလျောက် စနစ်တက်စနစ်။  
 → https://localizeflow.com
 
 - သင့်ရဲ့ အရင်းအမြစ်ဖိုင်များအတွင်း ပြောင်းလဲမှုများကို အလိုအလျောက် တွေ့ရှိသည်
@@ -44,12 +45,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + ပုံအကြောင်းအရာ (OCR) အတွက် **ဘာသာစကားစုံ ဘာသာပြန်မှုများကို အလိုအလျောက် လုပ်ဆောင်ပေးသော** Azure OSS CLI တရားဝင်ဖြစ်သည်  
-**သက်ရောက်မှု:** Microsoft ပညာရေး repository များ 200k★+ အထိ ဘာသာပြန်မှုများကို အားပေးကာ 10+ ဘာသာစကားတွင် အမြဲတမ်း အပ်ဒိတ်ထားသော အကြောင်းအရာများကို သေချာစေသည်။
+Markdown + ပုံရိပ် အကြောင်းအရာ (OCR) အတွက် **ဘာသာစကားစုံ ဘာသာပြန်မှုများကို အလိုအလျောက် လုပ်ဆောင်ပေးသော** Azure OSS CLI တရားဝင်ဖြစ်သည်  
+**သက်ရောက်မှု:** Microsoft ပညာရေး repository များ 200k★+ အထိ ဘာသာပြန်မှုများကို အားပေးကာ 10+ ဘာသာစကားတွင် အမြဲတမ်း အပ်ဒိတ်ဖြစ်နေစေသည်။
 
 - အစောပိုင်း PoC မှ → ထုတ်လုပ်မှုအဆင့် Python CLI အထိ တိုးချဲ့ခဲ့သည်
-- ဘာသာပြန်မှုနှင့် OCR အလိုအလျောက်လုပ်ငန်းများအတွက် Azure OpenAI + Azure AI Vision ကို ပေါင်းစပ်အသုံးပြုသည်
-- အောက်ပါ repos များတွင် အသုံးပြုသည် -
+- Azure OpenAI + Azure AI Vision ကို ဘာသာပြန်မှုနှင့် OCR အလိုအလျောက်လုပ်ငန်းစဉ်များအတွက် ပေါင်းစည်းထားသည်
+- အောက်ပါ repository များတွင် အသုံးပြုသည် -
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -82,11 +83,11 @@ Markdown + ပုံအကြောင်းအရာ (OCR) အတွက် **�
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **ပထမဆု**, Inha University Open Source Festival (Co-op Translator)
 - **အနိုင်ရသူ**, Microsoft Korea Azurethon (Prompt Engineering အမျိုးအစား)
-- **၃ ကြိမ် အများဆုံး ကြည့်ရှုခံရသော Blogger**, Microsoft Educator Developer Blog
+- **3 ကြိမ် အများဆုံး ကြည့်ရှုခံရသော Blogger**, Microsoft Educator Developer Blog
 
 ---
 
-## နည်းပညာ စနစ်
+## နည်းပညာ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -106,18 +107,9 @@ Markdown + ပုံအကြောင်းအရာ (OCR) အတွက် **�
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>နောက်ဆုံး လှုပ်ရှားမှု</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ PR [#26](../../undefined) ကို [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004) တွင် ပိတ်လိုက်သည်
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
-## 📫 ကျွန်တော့်ကို ဆက်သွယ်ရန်
+## 📫 ကျွန်တော့်နဲ့ ဆက်သွယ်ရန်
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

@@ -1,24 +1,24 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:26:02+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:20:09+00:00",
   "source_file": "README.md",
   "language_code": "he"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# שלום, אני Minseok Song!
+# שלום, אני Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**יוצר [Localizeflow](https://localizeflow.com)**
+**יוצר של [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • אחראי על תחזוקת OSS של [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • אחראי על קוד פתוח של [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-אני אוהב לבנות כלים למפתחים מבוססי AI בקוד פתוח שמתרחבים ברחבי העולם, והופכים רעיונות בשלב מוקדם לפתרונות מוכנים לייצור עם השפעה אמיתית.
+אני אוהב לבנות כלים למפתחים מבוססי AI בקוד פתוח שמתרחבים גלובלית והופכים רעיונות בשלב מוקדם לפתרונות מוכנים לייצור עם השפעה אמיתית.
 
 ### 🌐 תמיכה בריבוי שפות
 
@@ -27,24 +27,25 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](./README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## פרויקט מרכזי
 
 ### 🚀 Localizeflow (הפרויקט הנוכחי)
-**זרימת עבודה אוטומטית לתרגום תיעוד במקור GitHub**  
-ללא צורך בהגדרה. מאוחסן. סינכרון אוטומטי לפרויקטים רב-לשוניים.  
+**זרימת עבודה אוטומטית לתרגום תיעוד מקורי ב-GitHub**  
+ללא צורך בהגדרה. מתארח. סינכרון אוטומטי לפרויקטים רב-לשוניים.  
 → https://localizeflow.com
 
 - מזהה שינויים בקבצי המקור שלך באופן אוטומטי
 - מתרגם רק את מה שהשתנה
 - פותח pull request לכל שפה
-- מבוסס על Co-op Translator (Azure OSS)
+- מבוסס על Co-op Translator (קוד פתוח של Azure)
 
 
-### **Co-op Translator (Microsoft Azure OSS)**
+### **Co-op Translator (קוד פתוח של Microsoft Azure)**
 
-כלי שורת פקודה רשמי של Azure OSS שמאוטומט **תרגומים רב-לשוניים** לתוכן Markdown + תמונות (OCR)  
+כלי שורת פקודה רשמי של Azure OSS שמאוטומט תרגומים **רב-לשוניים** לתוכן Markdown + תמונות (OCR)  
 **השפעה:** מפעיל תרגומים למאגרים חינוכיים של מיקרוסופט עם מעל 200k★, ומבטיח תוכן מעודכן תמיד ב-10+ שפות.
 
 - התפתח מ-PoC ראשוני → כלי Python ברמת ייצור
@@ -81,7 +82,7 @@ CO_OP_TRANSLATOR_METADATA:
 ## הכרה
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **מקום ראשון**, פסטיבל קוד פתוח של אוניברסיטת Inha (Co-op Translator)
-- **זוכה**, תחרות Azurethon של מיקרוסופט קוריאה (קטגוריית הנדסת פרומפט)
+- **זוכה**, תחרות Azurethon של מיקרוסופט קוריאה (קטגוריית הנדסת פרומפטים)
 - **3× הבלוגר הנצפה ביותר**, בלוג מפתחי חינוך של מיקרוסופט
 
 ---
@@ -106,15 +107,6 @@ CO_OP_TRANSLATOR_METADATA:
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>פעילות אחרונה</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ סגור pull request [#26](../../undefined) ב-[skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 צור קשר איתי

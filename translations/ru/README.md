@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:14:19+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:09:03+00:00",
   "source_file": "README.md",
   "language_code": "ru"
 }
@@ -16,9 +16,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Создатель [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Поддерживающий OSS проекта [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Поддерживающий разработчик OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Я люблю создавать инструменты для разработчиков с поддержкой ИИ и открытым исходным кодом, которые масштабируются по всему миру, превращая ранние концепции в готовые к производству решения с реальным воздействием.
+Я люблю создавать инструменты для разработчиков с поддержкой ИИ с открытым исходным кодом, которые масштабируются по всему миру, превращая ранние концепции в готовые к производству решения с реальным воздействием.
 
 ### 🌐 Поддержка нескольких языков
 
@@ -27,6 +27,7 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](./README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Ключевой проект
@@ -45,10 +46,10 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Официальный CLI Azure OSS, который автоматизирует **многоязычные переводы** для Markdown и изображений (OCR)  
-**Влияние:** Обеспечивает переводы для образовательных репозиториев Microsoft с общим рейтингом 200k★+, гарантируя всегда актуальный контент на более чем 10 языках.
+**Влияние:** Обеспечивает переводы для образовательных репозиториев Microsoft с общим рейтингом 200k★+, гарантируя всегда актуальный контент на 10+ языках.
 
-- Развитие от раннего PoC до производственного Python CLI
-- Интеграция Azure OpenAI + Azure AI Vision для автоматизации перевода и OCR
+- Масштабировался от раннего PoC до производственного Python CLI
+- Интегрирован с Azure OpenAI + Azure AI Vision для автоматизации перевода и OCR
 - Используется в репозиториях, таких как:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -56,7 +57,7 @@ CO_OP_TRANSLATOR_METADATA:
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - Представлен в демонстрации OSS **Open at Microsoft**
-- Награждён званием **Microsoft AI MVP 2025**
+- Получил звание **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -82,7 +83,7 @@ CO_OP_TRANSLATOR_METADATA:
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1-е место**, Фестиваль открытого исходного кода Университета Инха (Co-op Translator)
 - **Победитель**, Microsoft Korea Azurethon (категория Prompt Engineering)
-- **3× Самый просматриваемый блогер**, Microsoft Educator Developer Blog
+- **3× Самый просматриваемый блогер**, Блог разработчиков Microsoft Educator
 
 ---
 
@@ -106,15 +107,6 @@ CO_OP_TRANSLATOR_METADATA:
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Последняя активность</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Закрыт PR [#26](../../undefined) в [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Связаться со мной

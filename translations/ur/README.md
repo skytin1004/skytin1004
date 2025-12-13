@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:15:48+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:10:17+00:00",
   "source_file": "README.md",
   "language_code": "ur"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) کے OSS مینٹینر**
 
-میں AI سے چلنے والے، اوپن سورس ڈویلپر ٹولز بنانے کا شوقین ہوں جو عالمی سطح پر پھیلتے ہیں اور ابتدائی مرحلے کے تصورات کو حقیقی اثر کے ساتھ پروڈکشن کے قابل حل میں تبدیل کرتے ہیں۔
+میں عالمی سطح پر پھیلنے والے AI سے چلنے والے، اوپن سورس ڈویلپر ٹولز بنانے کا شوقین ہوں جو ابتدائی مرحلے کے تصورات کو حقیقی اثر کے ساتھ پروڈکشن کے قابل حل میں تبدیل کرتے ہیں۔
 
 ### 🌐 کثیراللسانی معاونت
 
@@ -27,6 +27,7 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](./README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## اہم پروجیکٹ
@@ -36,11 +37,10 @@ CO_OP_TRANSLATOR_METADATA:
 زیرو سیٹ اپ۔ ہوسٹڈ۔ کثیراللسانی پروجیکٹس کے لیے خودکار ہم آہنگی۔  
 → https://localizeflow.com
 
-- خود بخود آپ کی سورس فائلوں میں تبدیلیاں معلوم کرتا ہے
+- خودکار طور پر آپ کی سورس فائلوں میں تبدیلیاں معلوم کرتا ہے
 - صرف جو بدلا ہے اس کا ترجمہ کرتا ہے
 - ہر زبان کے لیے PR کھولتا ہے
-- Co-op Translator (Azure OSS) پر مبنی ہے
-
+- Co-op Translator (Azure OSS) پر مبنی
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
@@ -106,18 +106,9 @@ CO_OP_TRANSLATOR_METADATA:
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>حالیہ سرگرمی</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ PR بند کیا گیا [#26](../../undefined) میں [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
-## 📫 میرے ساتھ رابطہ کریں
+## 📫 مجھ سے رابطہ کریں
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

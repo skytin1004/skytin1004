@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:33:37+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:26:22+00:00",
   "source_file": "README.md",
   "language_code": "uk"
 }
@@ -16,9 +16,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Творець [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Maintainer OSS проекту [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Підтримувач OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Я люблю створювати інструменти для розробників на базі штучного інтелекту з відкритим кодом, які масштабуються глобально, перетворюючи початкові ідеї у готові до виробництва рішення з реальним впливом.
+Я люблю створювати інструменти для розробників на базі ШІ з відкритим кодом, які масштабуються глобально, перетворюючи початкові концепції у готові до виробництва рішення з реальним впливом.
 
 ### 🌐 Підтримка багатьох мов
 
@@ -27,6 +27,7 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](./README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Ключовий проект
@@ -39,15 +40,15 @@ CO_OP_TRANSLATOR_METADATA:
 - Автоматично виявляє зміни у ваших вихідних файлах
 - Перекладає лише те, що змінилося
 - Відкриває PR для кожної мови
-- Побудовано на базі Co-op Translator (Azure OSS)
+- Побудований на базі Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Офіційний CLI Azure OSS, який автоматизує **багатомовні переклади** для Markdown + зображень (OCR)  
-**Вплив:** Забезпечує переклади для освітніх репозиторіїв Microsoft з понад 200 тис. зірок, гарантуючи завжди актуальний контент на 10+ мовах.
+**Вплив:** Забезпечує переклади для освітніх репозиторіїв Microsoft з понад 200 тис.★, гарантуючи завжди актуальний контент на 10+ мовах.
 
-- Від PoC до виробничого Python CLI
+- Від масштабування раннього PoC до виробничого Python CLI
 - Інтегровано Azure OpenAI + Azure AI Vision для перекладу + автоматизації OCR
 - Використовується в репозиторіях, таких як:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -82,7 +83,7 @@ CO_OP_TRANSLATOR_METADATA:
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1 місце**, Фестиваль відкритого коду Університету Інха (Co-op Translator)
 - **Переможець**, Microsoft Korea Azurethon (категорія Prompt Engineering)
-- **3× Найпопулярніший блогер**, Microsoft Educator Developer Blog
+- **3× Найпопулярніший блогер**, Блог розробника Microsoft Educator
 
 ---
 
@@ -106,15 +107,6 @@ CO_OP_TRANSLATOR_METADATA:
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Остання активність</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Закрито PR [#26](../../undefined) у [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Зв’язатися зі мною
