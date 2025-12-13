@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:50:58+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:32:30+00:00",
   "source_file": "README.md",
   "language_code": "sw"
 }
@@ -38,7 +38,7 @@ Hakuna usanidi. Imehifadhiwa. Ulandanishi wa moja kwa moja kwa miradi ya lugha n
 → https://localizeflow.com
 
 - Hugutambua mabadiliko kwenye faili zako za chanzo moja kwa moja
-- Hutafta tu yaliyobadilika
+- Hutafsiri tu kile kilichobadilika
 - Hufungua PR kwa kila lugha
 - Imejengwa juu ya Co-op Translator (Azure OSS)
 
@@ -46,18 +46,18 @@ Hakuna usanidi. Imehifadhiwa. Ulandanishi wa moja kwa moja kwa miradi ya lugha n
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 CLI rasmi ya Azure OSS inayotautomatisha **utafsiri wa lugha nyingi** kwa maandishi ya Markdown + maudhui ya picha (OCR)  
-**Athari:** Inaendesha tafsiri kwa hifadhidata za elimu za Microsoft zenye jumla ya nyota 200k★+, kuhakikisha maudhui yanasasishwa kila wakati katika lugha 10+.
+**Athari:** Inaendesha utafsiri kwa hifadhidata za elimu za Microsoft zenye nyota 200k★+, kuhakikisha maudhui yanasasishwa kila wakati katika lugha 10+.
 
-- Ilipanuka kutoka PoC ya awali → CLI ya Python ya kiwango cha uzalishaji
+- Ilipanuka kutoka PoC ya awali → CLI ya kiwango cha uzalishaji cha Python
 - Imeunganishwa na Azure OpenAI + Azure AI Vision kwa utafsiri + otomatiki ya OCR
-- Inatumiwa na hifadhidata kama:
+- Inatumika na hifadhidata kama:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - Imeonyeshwa katika maonyesho ya OSS ya **Open at Microsoft**
-- Imepata tuzo ya **Microsoft AI MVP 2025**
+- Imepata **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -83,7 +83,7 @@ CLI rasmi ya Azure OSS inayotautomatisha **utafsiri wa lugha nyingi** kwa maandi
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **Nafasi ya 1**, Tamasha la Chanzo Huru la Chuo Kikuu cha Inha (Co-op Translator)
 - **Mshindi**, Microsoft Korea Azurethon (Kategoria ya Uhandisi wa Prompt)
-- **Mwandishi wa Blogu Aliyotazamwa Zaidi mara 3**, Blogu ya Mwalimu wa Maendeleo ya Microsoft
+- **Mwandishi wa Blogu Aliyotazamwa Zaidi mara 3**, Blogu ya Microsoft Educator Developer
 
 ---
 

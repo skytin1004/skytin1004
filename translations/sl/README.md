@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:54:22+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:35:52+00:00",
   "source_file": "README.md",
   "language_code": "sl"
 }
@@ -33,7 +33,7 @@ Rad ustvarjam AI-podprta, odprtokodna orodja za razvijalce, ki se globalno razš
 ## Ključni projekt
 
 ### 🚀 Localizeflow (trenutni projekt)
-**GitHub-nativen avtomatiziran potek prevajanja dokumentacije**  
+**GitHub-nativni avtomatiziran potek dela za prevajanje dokumentacije**  
 Brez nastavitve. Gostovano. Samodejna sinhronizacija za večjezične projekte.  
 → https://localizeflow.com
 
@@ -102,7 +102,7 @@ Uradni Azure OSS CLI, ki avtomatizira **večjezične prevode** za Markdown + vse
 
 ## Statistika in aktivnost
 <details>
-<summary>Ogled GitHub statistike</summary>
+<summary>Prikaži GitHub statistiko</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

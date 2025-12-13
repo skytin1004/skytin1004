@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:50:27+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:32:10+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
@@ -34,7 +34,7 @@ Mahilig akong gumawa ng mga AI-powered, open-source na mga tool para sa mga deve
 
 ### 🚀 Localizeflow (Kasalukuyang Proyekto)
 **GitHub-native na awtomatikong workflow para sa pagsasalin ng dokumentasyon**  
-Walang setup. Hosted. Auto-sync para sa mga proyektong maraming wika.  
+Walang setup. Hosted. Auto-sync para sa mga multilingual na proyekto.  
 → https://localizeflow.com
 
 - Awtomatikong nadedetect ang mga pagbabago sa iyong mga source file
@@ -45,8 +45,8 @@ Walang setup. Hosted. Auto-sync para sa mga proyektong maraming wika.
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Isang opisyal na Azure OSS CLI na nag-aautomat ng **maramihang pagsasalin** para sa Markdown + nilalaman ng imahe (OCR)  
-**Epekto:** Pinapagana ang mga pagsasalin para sa mga Microsoft educational repositories na may kabuuang 200k★+, na tinitiyak na palaging napapanahon ang nilalaman sa higit sa 10 wika.
+Isang opisyal na Azure OSS CLI na nag-aautomat ng **multilingual na pagsasalin** para sa Markdown + nilalaman ng imahe (OCR)  
+**Epekto:** Pinapagana ang mga pagsasalin para sa mga Microsoft educational repositories na may kabuuang 200k★+, na tinitiyak ang palaging napapanahong nilalaman sa 10+ na mga wika.
 
 - Lumago mula sa maagang PoC → production-grade Python CLI
 - Pinagsama ang Azure OpenAI + Azure AI Vision para sa pagsasalin + awtomasyon ng OCR
@@ -63,7 +63,7 @@ Isang opisyal na Azure OSS CLI na nag-aautomat ng **maramihang pagsasalin** para
 
 ---
 
-## Mga Talumpati at Media
+## Mga Talakayan at Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -81,7 +81,7 @@ Isang opisyal na Azure OSS CLI na nag-aautomat ng **maramihang pagsasalin** para
 
 ## Pagkilala
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **Unang Pwesto**, Inha University Open Source Festival (Co-op Translator)
+- **1st Place**, Inha University Open Source Festival (Co-op Translator)
 - **Nanalo**, Microsoft Korea Azurethon (Prompt Engineering category)
 - **3× Pinakamadalas Tingnang Blogger**, Microsoft Educator Developer Blog
 

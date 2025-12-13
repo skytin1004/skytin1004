@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:42:03+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:23:24+00:00",
   "source_file": "README.md",
   "language_code": "hi"
 }
@@ -45,10 +45,10 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 एक आधिकारिक Azure OSS CLI जो Markdown + छवि सामग्री (OCR) के लिए **बहुभाषी अनुवाद** को स्वचालित करता है  
-**प्रभाव:** Microsoft शैक्षिक रिपॉजिटरीज़ के लिए 200k★+ कुल अनुवादों को संचालित करता है, जो 10+ भाषाओं में हमेशा अपडेटेड सामग्री सुनिश्चित करता है।
+**प्रभाव:** Microsoft के शैक्षिक रिपॉजिटरीज़ के लिए 200k★+ कुल अनुवादों को संचालित करता है, जो 10+ भाषाओं में हमेशा अपडेटेड सामग्री सुनिश्चित करता है।
 
-- प्रारंभिक PoC से उत्पादन-ग्रेड Python CLI तक विकसित
-- अनुवाद + OCR स्वचालन के लिए Azure OpenAI + Azure AI Vision एकीकृत
+- प्रारंभिक PoC से उत्पादन-ग्रेड Python CLI तक स्केल किया गया
+- अनुवाद + OCR स्वचालन के लिए Azure OpenAI + Azure AI Vision एकीकृत किया गया
 - निम्नलिखित रिपॉजिटरीज़ द्वारा उपयोग किया गया:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -56,7 +56,7 @@ CO_OP_TRANSLATOR_METADATA:
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - **Open at Microsoft** OSS शोकेस में प्रदर्शित
-- **Microsoft AI MVP 2025** प्राप्तकर्ता
+- **Microsoft AI MVP 2025** पुरस्कार प्राप्त
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -78,9 +78,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## मान्यता
+## सम्मान
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1st स्थान**, Inha University Open Source Festival (Co-op Translator)
+- **1st Place**, Inha University Open Source Festival (Co-op Translator)
 - **विजेता**, Microsoft Korea Azurethon (प्रॉम्प्ट इंजीनियरिंग श्रेणी)
 - **3× सबसे अधिक देखे गए ब्लॉगर**, Microsoft Educator Developer Blog
 

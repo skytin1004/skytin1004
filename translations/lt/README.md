@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:55:35+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:37:11+00:00",
   "source_file": "README.md",
   "language_code": "lt"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS prižiūrėtojas**
 
-Man patinka kurti dirbtiniu intelektu pagrįstus, atviro kodo kūrėjų įrankius, kurie veikia globaliai, paverčiant ankstyvos stadijos idėjas į gamybai paruoštus sprendimus su realiu poveikiu.
+Man patinka kurti dirbtiniu intelektu pagrįstus, atviro kodo kūrėjų įrankius, kurie veikia globaliai, paverčiant ankstyvos stadijos idėjas į gamybai paruoštus sprendimus su realia įtaka.
 
 ### 🌐 Daugiakalbė palaikymas
 
@@ -33,8 +33,8 @@ Man patinka kurti dirbtiniu intelektu pagrįstus, atviro kodo kūrėjų įrankiu
 ## Pagrindinis projektas
 
 ### 🚀 Localizeflow (dabartinis projektas)
-**GitHub gimtoji automatizuota dokumentacijos vertimo darbo eiga**  
-Nereikia jokio nustatymo. Talpinama. Automatinis sinchronizavimas daugiakalbiams projektams.  
+**GitHub gimtoji automatizuota dokumentacijos vertimo eiga**  
+Nulinis nustatymas. Talpinama. Automatinis sinchronizavimas daugiakalbiams projektams.  
 → https://localizeflow.com
 
 - Automatiškai aptinka pakeitimus jūsų šaltinio failuose
@@ -46,7 +46,7 @@ Nereikia jokio nustatymo. Talpinama. Automatinis sinchronizavimas daugiakalbiams
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown + vaizdų turiniui (OCR)  
-**Poveikis:** Užtikrina vertimus Microsoft švietimo saugykloms, turinčioms daugiau nei 200 tūkst. žvaigždžių, visada atnaujintą turinį 10+ kalbų.
+**Įtaka:** Užtikrina vertimus Microsoft švietimo saugykloms, turinčioms daugiau nei 200 tūkst. žvaigždžių, visada atnaujintą turinį 10+ kalbų.
 
 - Išauginta nuo ankstyvo PoC iki gamybos lygio Python CLI
 - Integruota Azure OpenAI + Azure AI Vision vertimui ir OCR automatizavimui
@@ -75,7 +75,7 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown
 </p>
 
 - [Open at Microsoft – Daugiakalbės prieigos atvėrimas su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planuokite ir ruoškitės kurti DI sprendimus Azure platformoje](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Planuokite ir ruoškitės kurti DI sprendimus Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 

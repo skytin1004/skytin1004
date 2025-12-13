@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:41:38+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:23:01+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -39,7 +39,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 - 소스 파일 변경 사항 자동 감지
 - 변경된 부분만 번역
-- 각 언어별 PR 생성
+- 각 언어별로 PR 생성
 - Co-op Translator (Azure OSS) 기반 구축
 
 

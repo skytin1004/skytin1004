@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:47:35+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:29:25+00:00",
   "source_file": "README.md",
   "language_code": "no"
 }
@@ -75,7 +75,7 @@ En offisiell Azure OSS CLI som automatiserer **flerspråklige oversettelser** fo
 </p>
 
 - [Open at Microsoft – Åpning av flerspråklig tilgjengelighet med Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planlegg og forbered utvikling av AI-løsninger på Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Planlegg og forbered deg på å utvikle AI-løsninger på Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -102,7 +102,7 @@ En offisiell Azure OSS CLI som automatiserer **flerspråklige oversettelser** fo
 
 ## Statistikk & Aktivitet
 <details>
-<summary>Se GitHub-statistikk</summary>
+<summary>Vis GitHub-statistikk</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

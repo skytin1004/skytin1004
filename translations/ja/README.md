@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:41:07+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:22:36+00:00",
   "source_file": "README.md",
   "language_code": "ja"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) のOSSメンテナ**
 
-私は、初期段階のコンセプトを実際に影響力のある本番対応ソリューションに変える、グローバルにスケールするAI搭載のオープンソース開発者ツールを作ることが大好きです。
+私は、初期段階のコンセプトを実際に影響力のある本番対応ソリューションに変える、グローバルにスケールするAI搭載のオープンソース開発者ツールの構築が大好きです。
 
 ### 🌐 多言語サポート
 
@@ -34,7 +34,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 🚀 Localizeflow（現在のプロジェクト）
 **GitHubネイティブの自動ドキュメント翻訳ワークフロー**  
-ゼロセットアップ。ホスティング済み。多言語プロジェクトの自動同期。  
+セットアップ不要。ホスティング済み。多言語プロジェクトの自動同期。  
 → https://localizeflow.com
 
 - ソースファイルの変更を自動検出
@@ -49,15 +49,15 @@ Markdown + 画像コンテンツ（OCR）の**多言語翻訳**を自動化す�
 **影響:** Microsoftの教育リポジトリ200k★超の翻訳を支え、10以上の言語で常に最新のコンテンツを提供。
 
 - 初期PoCから本番対応のPython CLIへスケール
-- Azure OpenAI + Azure AI Visionを統合し翻訳とOCRを自動化
-- 以下のリポジトリで使用：
+- Azure OpenAI + Azure AI Visionを翻訳とOCR自動化に統合
+- 以下のリポジトリで使用:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - **Open at Microsoft** OSSショーケースに掲載
-- **Microsoft AI MVP 2025**を受賞
+- **Microsoft AI MVP 2025**受賞
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -81,9 +81,9 @@ Markdown + 画像コンテンツ（OCR）の**多言語翻訳**を自動化す�
 
 ## 受賞歴
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1位**, 仁荷大学オープンソースフェスティバル（Co-op Translator）
-- **優勝**, Microsoft Korea Azurethon（プロンプトエンジニアリング部門）
-- **3回最も閲覧されたブロガー**, Microsoft Educator Developer Blog
+- 仁荷大学オープンソースフェスティバル 1位（Co-op Translator）
+- Microsoft Korea Azurethon 優勝（プロンプトエンジニアリング部門）
+- Microsoft Educator Developer Blog 3回最も閲覧されたブロガー
 
 ---
 

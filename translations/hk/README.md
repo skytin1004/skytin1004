@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:40:14+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:21:44+00:00",
   "source_file": "README.md",
   "language_code": "hk"
 }
@@ -46,16 +46,16 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator（Microsoft Azure 開源專案）**
 
 官方 Azure 開源 CLI，自動化處理 Markdown + 圖像內容（OCR）的**多語言翻譯**  
-**影響力：** 為 Microsoft 教育類倉庫提供翻譯，累計超過 20 萬星，確保 10 多種語言內容持續更新。
+**影響力：** 為 Microsoft 教育相關倉庫提供翻譯，累計超過 20 萬星，確保 10 多種語言內容持續更新。
 
 - 從早期概念驗證擴展至生產級 Python CLI
 - 整合 Azure OpenAI + Azure AI Vision 進行翻譯與 OCR 自動化
 - 被以下倉庫採用：
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners)（84k★）
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners)（72k★）
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners)（37k★）
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)（17k★）
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook)（3k★）
 - 入選 **Open at Microsoft** 開源專案展示
 - 榮獲 **Microsoft AI MVP 2025**
 

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:38:19+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:19:49+00:00",
   "source_file": "README.md",
   "language_code": "ar"
 }
@@ -46,10 +46,10 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 أداة CLI مفتوحة المصدر رسمية من Azure لأتمتة **الترجمات متعددة اللغات** لمحتوى Markdown + الصور (OCR)  
-**التأثير:** يدعم الترجمات لمستودعات تعليمية من Microsoft بإجمالي 200k★+، مما يضمن محتوى محدث دائمًا بأكثر من 10 لغات.
+**التأثير:** يدعم الترجمات لمستودعات تعليمية من Microsoft تزيد عن 200 ألف نجمة، مما يضمن محتوى محدث دائمًا بأكثر من 10 لغات.
 
 - تطور من إثبات مفهوم مبكر إلى أداة CLI بايثون جاهزة للإنتاج
-- دمج Azure OpenAI + Azure AI Vision للترجمة + أتمتة OCR
+- دمج Azure OpenAI + Azure AI Vision للترجمة وأتمتة OCR
 - مستخدم في مستودعات مثل:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)

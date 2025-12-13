@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:51:44+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:33:19+00:00",
   "source_file": "README.md",
   "language_code": "cs"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS správce [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Rád vytvářím nástroje pro vývojáře poháněné AI, otevřeného zdroje, které škálují globálně a přeměňují rané koncepty na produkčně připravená řešení s reálným dopadem.
+Rád vytvářím nástroje pro vývojáře poháněné AI, které jsou open-source a škálují se globálně, přeměňující rané koncepty na produkčně připravená řešení s reálným dopadem.
 
 ### 🌐 Podpora více jazyků
 
@@ -75,7 +75,7 @@ Oficiální Azure OSS CLI, které automatizuje **vícejazyčné překlady** pro 
 </p>
 
 - [Open at Microsoft – Odemknutí vícejazyčné přístupnosti s Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plánování a příprava vývoje AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Plánujte a připravujte se na vývoj AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 

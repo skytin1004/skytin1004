@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:51:23+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:32:55+00:00",
   "source_file": "README.md",
   "language_code": "hu"
 }
@@ -30,7 +30,7 @@ Szeretek AI-alapú, nyílt forráskódú fejlesztői eszközöket építeni, ame
 
 ---
 
-## Fő Projekt
+## Fő projekt
 
 ### 🚀 Localizeflow (Jelenlegi projekt)
 **GitHub-natív, automatizált dokumentációfordítási munkafolyamat**  
@@ -49,8 +49,8 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 **Hatás:** Több mint 200k★-t elérő Microsoft oktatási tárolók fordítását támogatja, biztosítva a mindig friss tartalmat 10+ nyelven.
 
 - Korai PoC-ból → éles, termelési szintű Python CLI-vé nőtte ki magát
-- Integrálta az Azure OpenAI + Azure AI Vision szolgáltatásokat fordításhoz és OCR automatizáláshoz
-- Használják olyan tárolók, mint:
+- Integrált Azure OpenAI + Azure AI Vision fordításhoz + OCR automatizáláshoz
+- Használják például:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -87,7 +87,7 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 
 ---
 
-## Technológiai Stakk
+## Technológiai stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,9 +100,9 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 
 ---
 
-## Statisztikák & Aktivitás
+## Statisztikák & aktivitás
 <details>
-<summary>GitHub Statisztikák megtekintése</summary>
+<summary>GitHub statisztikák megtekintése</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
