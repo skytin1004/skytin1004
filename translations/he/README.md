@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:20:09+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:49:01+00:00",
   "source_file": "README.md",
   "language_code": "he"
 }
@@ -39,14 +39,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 - מזהה שינויים בקבצי המקור שלך באופן אוטומטי
 - מתרגם רק את מה שהשתנה
-- פותח pull request לכל שפה
+- פותח pull requests לכל שפה
 - מבוסס על Co-op Translator (קוד פתוח של Azure)
 
 
 ### **Co-op Translator (קוד פתוח של Microsoft Azure)**
 
 כלי שורת פקודה רשמי של Azure OSS שמאוטומט תרגומים **רב-לשוניים** לתוכן Markdown + תמונות (OCR)  
-**השפעה:** מפעיל תרגומים למאגרים חינוכיים של מיקרוסופט עם מעל 200k★, ומבטיח תוכן מעודכן תמיד ב-10+ שפות.
+**השפעה:** מפעיל תרגומים עבור מאגרי קוד חינוכיים של מיקרוסופט עם מעל 200k★, ומבטיח תוכן מעודכן תמיד ב-10+ שפות.
 
 - התפתח מ-PoC ראשוני → כלי Python ברמת ייצור
 - משולב עם Azure OpenAI + Azure AI Vision לתרגום + אוטומציה של OCR

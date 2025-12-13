@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:22:17+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:50:58+00:00",
   "source_file": "README.md",
   "language_code": "sw"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Msimamizi wa OSS wa [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Ninapenda kujenga zana za maendeleo zilizoendeshwa na AI, chanzo wazi zinazoweza kupanuka duniani kote, kubadilisha dhana za awali kuwa suluhisho za uzalishaji zenye athari halisi.
+Ninapenda kujenga zana za maendeleo zilizoendeshwa na AI, chanzo wazi zinazoweza kupanuka duniani kote, kubadilisha dhana za awali kuwa suluhisho tayari kwa uzalishaji zenye athari halisi.
 
 ### 🌐 Msaada wa Lugha Nyingi
 
@@ -34,7 +34,7 @@ Ninapenda kujenga zana za maendeleo zilizoendeshwa na AI, chanzo wazi zinazoweza
 
 ### 🚀 Localizeflow (Mradi wa Sasa)
 **Mtiririko wa kazi wa utafsiri wa nyaraka ulioendeshwa moja kwa moja ndani ya GitHub**  
-Hakuna usanidi. Imehifadhiwa. Ulinganifu wa moja kwa moja kwa miradi ya lugha nyingi.  
+Hakuna usanidi. Imehifadhiwa. Ulandanishi wa moja kwa moja kwa miradi ya lugha nyingi.  
 → https://localizeflow.com
 
 - Hugutambua mabadiliko kwenye faili zako za chanzo moja kwa moja
@@ -46,7 +46,7 @@ Hakuna usanidi. Imehifadhiwa. Ulinganifu wa moja kwa moja kwa miradi ya lugha ny
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 CLI rasmi ya Azure OSS inayotautomatisha **utafsiri wa lugha nyingi** kwa maandishi ya Markdown + maudhui ya picha (OCR)  
-**Athari:** Inaendesha tafsiri kwa hifadhidata za elimu za Microsoft zenye jumla ya nyota 200k+, kuhakikisha maudhui yanasasishwa kila wakati katika lugha 10+.
+**Athari:** Inaendesha tafsiri kwa hifadhidata za elimu za Microsoft zenye jumla ya nyota 200k★+, kuhakikisha maudhui yanasasishwa kila wakati katika lugha 10+.
 
 - Ilipanuka kutoka PoC ya awali → CLI ya Python ya kiwango cha uzalishaji
 - Imeunganishwa na Azure OpenAI + Azure AI Vision kwa utafsiri + otomatiki ya OCR
@@ -83,7 +83,7 @@ CLI rasmi ya Azure OSS inayotautomatisha **utafsiri wa lugha nyingi** kwa maandi
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **Nafasi ya 1**, Tamasha la Chanzo Huru la Chuo Kikuu cha Inha (Co-op Translator)
 - **Mshindi**, Microsoft Korea Azurethon (Kategoria ya Uhandisi wa Prompt)
-- **Mwandishi wa Blogu Aliyotazamwa Zaidi mara 3**, Blogu ya Waendelezaji wa Elimu ya Microsoft
+- **Mwandishi wa Blogu Aliyotazamwa Zaidi mara 3**, Blogu ya Mwalimu wa Maendeleo ya Microsoft
 
 ---
 

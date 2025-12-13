@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:21:25+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:50:08+00:00",
   "source_file": "README.md",
   "language_code": "ms"
 }
@@ -50,7 +50,7 @@ CLI OSS rasmi Azure yang mengautomasikan **terjemahan berbilang bahasa** untuk k
 
 - Diskalakan dari PoC awal → CLI Python tahap produksi
 - Mengintegrasikan Azure OpenAI + Azure AI Vision untuk terjemahan + automasi OCR
-- Digunakan oleh repos seperti:
+- Digunakan oleh repositori seperti:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -74,7 +74,7 @@ CLI OSS rasmi Azure yang mengautomasikan **terjemahan berbilang bahasa** untuk k
   </a>
 </p>
 
-- [Open at Microsoft – Membuka Aksesibiliti Berbilang Bahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Membuka Aksesibiliti Pelbagai Bahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Rancang dan Sediakan untuk Membangunkan Penyelesaian AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
@@ -83,7 +83,7 @@ CLI OSS rasmi Azure yang mengautomasikan **terjemahan berbilang bahasa** untuk k
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **Tempat 1**, Festival Sumber Terbuka Universiti Inha (Co-op Translator)
 - **Pemenang**, Microsoft Korea Azurethon (kategori Kejuruteraan Prompt)
-- **3× Blogger Paling Banyak Dilihat**, Blog Pembangun Pendidik Microsoft
+- **3× Blogger Paling Dilihat**, Blog Pembangun Pendidik Microsoft
 
 ---
 

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:23:02+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:51:44+00:00",
   "source_file": "README.md",
   "language_code": "cs"
 }
@@ -75,7 +75,7 @@ Oficiální Azure OSS CLI, které automatizuje **vícejazyčné překlady** pro 
 </p>
 
 - [Open at Microsoft – Odemknutí vícejazyčné přístupnosti s Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plánujte a připravujte se na vývoj AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Plánování a příprava vývoje AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 

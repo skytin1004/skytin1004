@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:18:34+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:47:16+00:00",
   "source_file": "README.md",
   "language_code": "da"
 }
@@ -34,7 +34,7 @@ Jeg elsker at bygge AI-drevne, open-source udviklerværktøjer, der skalerer glo
 
 ### 🚀 Localizeflow (Nuværende Projekt)
 **GitHub-native automatiseret dokumentationsoversættelsesworkflow**  
-Ingen opsætning. Hosted. Auto-synkronisering for flersprogede projekter.  
+Ingen opsætning. Hosted. Auto-sync for flersprogede projekter.  
 → https://localizeflow.com
 
 - Registrerer automatisk ændringer i dine kildefiler

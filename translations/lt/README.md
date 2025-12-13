@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:26:44+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:55:35+00:00",
   "source_file": "README.md",
   "language_code": "lt"
 }
@@ -33,7 +33,7 @@ Man patinka kurti dirbtiniu intelektu pagrįstus, atviro kodo kūrėjų įrankiu
 ## Pagrindinis projektas
 
 ### 🚀 Localizeflow (dabartinis projektas)
-**GitHub natūralus automatizuotas dokumentacijos vertimo darbo eiga**  
+**GitHub gimtoji automatizuota dokumentacijos vertimo darbo eiga**  
 Nereikia jokio nustatymo. Talpinama. Automatinis sinchronizavimas daugiakalbiams projektams.  
 → https://localizeflow.com
 
@@ -79,7 +79,7 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown
 
 ---
 
-## Pripažinimas
+## Pripažinimai
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1 vieta**, Inha universiteto atvirojo kodo festivalyje (Co-op Translator)
 - **Nugalėtojas**, Microsoft Korea Azurethon (Prompt Engineering kategorija)

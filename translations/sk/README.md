@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:23:32+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:52:30+00:00",
   "source_file": "README.md",
   "language_code": "sk"
 }
@@ -16,9 +16,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Tvorca [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS správca [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Správca OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Rád vytváram nástroje pre vývojárov poháňané AI, open-source, ktoré škálujú globálne a premieňajú koncepty v počiatočnej fáze na produkčne pripravené riešenia s reálnym dopadom.
+Rád vytváram nástroje pre vývojárov poháňané AI, ktoré sú open-source a škálujú sa globálne, premieňajúc koncepty v počiatočnej fáze na riešenia pripravené na produkciu s reálnym dopadom.
 
 ### 🌐 Podpora viacerých jazykov
 
@@ -33,31 +33,31 @@ Rád vytváram nástroje pre vývojárov poháňané AI, open-source, ktoré šk
 ## Kľúčový projekt
 
 ### 🚀 Localizeflow (aktuálny projekt)
-**GitHub-natívny automatizovaný workflow pre preklad dokumentácie**  
+**Automatizovaný workflow pre preklad dokumentácie natívny pre GitHub**  
 Žiadna konfigurácia. Hostované. Automatická synchronizácia pre viacjazyčné projekty.  
 → https://localizeflow.com
 
 - Automaticky detekuje zmeny vo vašich zdrojových súboroch
 - Prekladá iba to, čo sa zmenilo
-- Otvára PR pre každý jazyk
-- Postavené na Co-op Translator (Azure OSS)
+- Otvára pull requesty pre každý jazyk
+- Postavené na základe Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Oficiálny Azure OSS CLI, ktorý automatizuje **viacjazyčné preklady** pre Markdown + obsah obrázkov (OCR)  
-**Dopad:** Poháňa preklady pre Microsoft vzdelávacie repozitáre s viac ako 200k★, zabezpečujúc vždy aktuálny obsah v 10+ jazykoch.
+**Dopad:** Poháňa preklady pre vzdelávacie repozitáre Microsoftu s viac ako 200k★, zabezpečujúc vždy aktuálny obsah v 10+ jazykoch.
 
 - Vyvinuté z počiatočného PoC → produkčný Python CLI
-- Integrované Azure OpenAI + Azure AI Vision pre preklad + OCR automatizáciu
+- Integrované Azure OpenAI + Azure AI Vision pre preklad + automatizáciu OCR
 - Používané v repozitároch ako:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Predstavené v **Open at Microsoft** OSS showcase
-- Získal **Microsoft AI MVP 2025**
+- Predstavené v prehliadke OSS **Open at Microsoft**
+- Získal ocenenie **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -83,7 +83,7 @@ Oficiálny Azure OSS CLI, ktorý automatizuje **viacjazyčné preklady** pre Mar
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1. miesto**, Inha University Open Source Festival (Co-op Translator)
 - **Víťaz**, Microsoft Korea Azurethon (kategória Prompt Engineering)
-- **3× Najsledovanejší bloger**, Microsoft Educator Developer Blog
+- **3× Najviac sledovaný bloger**, Microsoft Educator Developer Blog
 
 ---
 

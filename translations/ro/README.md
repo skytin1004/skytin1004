@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:23:53+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:52:52+00:00",
   "source_file": "README.md",
   "language_code": "ro"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 ## Proiect Cheie
 
 ### 🚀 Localizeflow (Proiect Curent)
-**Flux de lucru automatizat pentru traducerea documentației nativ GitHub**  
+**Flux de lucru automatizat pentru traducerea documentației nativ pe GitHub**  
 Fără configurare. Găzduit. Sincronizare automată pentru proiecte multilingve.  
 → https://localizeflow.com
 

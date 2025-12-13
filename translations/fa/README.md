@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:09:47+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:38:39+00:00",
   "source_file": "README.md",
   "language_code": "fa"
 }
@@ -37,10 +37,10 @@ CO_OP_TRANSLATOR_METADATA:
 بدون نیاز به تنظیمات. میزبانی شده. همگام‌سازی خودکار برای پروژه‌های چندزبانه.  
 → https://localizeflow.com
 
-- به‌طور خودکار تغییرات فایل‌های منبع شما را تشخیص می‌دهد
+- به‌طور خودکار تغییرات در فایل‌های منبع شما را تشخیص می‌دهد
 - فقط موارد تغییر یافته را ترجمه می‌کند
-- برای هر زبان درخواست pull ایجاد می‌کند
-- بر پایه Co-op Translator (Azure OSS) ساخته شده است
+- برای هر زبان درخواست pull request باز می‌کند
+- ساخته شده بر پایه Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (مایکروسافت Azure OSS)**
@@ -48,7 +48,7 @@ CO_OP_TRANSLATOR_METADATA:
 یک CLI رسمی Azure OSS که ترجمه‌های چندزبانه را برای محتوای Markdown + تصویر (OCR) خودکار می‌کند  
 **تأثیر:** ترجمه‌های مخازن آموزشی مایکروسافت با بیش از ۲۰۰ هزار ستاره را تأمین می‌کند و محتوای همیشه به‌روز را در بیش از ۱۰ زبان تضمین می‌کند.
 
-- از نمونه اولیه اولیه به CLI پایتون آماده تولید ارتقا یافته است
+- از نمونه اولیه اولیه به CLI پایتون درجه تولید ارتقا یافته است
 - ادغام Azure OpenAI + Azure AI Vision برای ترجمه و خودکارسازی OCR
 - استفاده شده توسط مخازنی مانند:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (۸۴ هزار ستاره)
@@ -56,7 +56,7 @@ CO_OP_TRANSLATOR_METADATA:
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (۳۷ هزار ستاره)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (۱۷ هزار ستاره)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (۳ هزار ستاره)
-- در نمایشگاه OSS **Open at Microsoft** معرفی شده است
+- معرفی شده در نمایشگاه OSS **Open at Microsoft**
 - دریافت‌کننده عنوان **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)

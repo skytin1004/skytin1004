@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:24:39+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:53:37+00:00",
   "source_file": "README.md",
   "language_code": "sr"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 ## Кључни пројекат
 
 ### 🚀 Localizeflow (Тренутни пројекат)
-**GitHub-нативни аутоматизовани ток рада за превод документације**  
+**GitHub-нативан аутоматизовани ток рада за превод документације**  
 Нема потребе за подешавањем. Хостовано. Аутоматска синхронизација за вишезичне пројекте.  
 → https://localizeflow.com
 
@@ -48,7 +48,7 @@ CO_OP_TRANSLATOR_METADATA:
 Званични Azure OSS CLI који аутоматизује **вишезичне преводе** за Markdown + садржај слика (OCR)  
 **Утицај:** Омогућава преводе за Microsoft образовне репозиторијуме са укупно преко 200к★, обезбеђујући увек ажуриран садржај на више од 10 језика.
 
-- Развијен од раног PoC до производног Python CLI
+- Развијен од раног PoC до производног Python CLI алата
 - Интегрисан Azure OpenAI + Azure AI Vision за превод и OCR аутоматизацију
 - Користе га репозиторијуми као што су:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -57,7 +57,7 @@ CO_OP_TRANSLATOR_METADATA:
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - Представљен у **Open at Microsoft** OSS изложби
-- Освојио **Microsoft AI MVP 2025**
+- Добитник **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 

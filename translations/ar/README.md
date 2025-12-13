@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:09:27+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:38:19+00:00",
   "source_file": "README.md",
   "language_code": "ar"
 }
@@ -16,7 +16,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **مُبدع [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • مسؤول صيانة OSS لـ [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • صانع وصيانة مفتوحة المصدر لـ [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
 أحب بناء أدوات مطورين مفتوحة المصدر مدعومة بالذكاء الاصطناعي وقابلة للتوسع عالميًا، لتحويل المفاهيم في مراحلها المبكرة إلى حلول جاهزة للإنتاج ذات تأثير حقيقي.
 
@@ -45,7 +45,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-أداة CLI رسمية من Azure OSS لأتمتة **الترجمات متعددة اللغات** لمحتوى Markdown + الصور (OCR)  
+أداة CLI مفتوحة المصدر رسمية من Azure لأتمتة **الترجمات متعددة اللغات** لمحتوى Markdown + الصور (OCR)  
 **التأثير:** يدعم الترجمات لمستودعات تعليمية من Microsoft بإجمالي 200k★+، مما يضمن محتوى محدث دائمًا بأكثر من 10 لغات.
 
 - تطور من إثبات مفهوم مبكر إلى أداة CLI بايثون جاهزة للإنتاج
@@ -79,10 +79,10 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## الجوائز والتكريم
-- **أفضل محترف في الذكاء الاصطناعي من مايكروسوفت** 2024–2025
+## الجوائز والتقدير
+- **أفضل محترف من مايكروسوفت (AI)** 2024–2025
 - **المركز الأول**، مهرجان المصادر المفتوحة بجامعة إنها (Co-op Translator)
-- **الفائز**، Azurethon كوريا من مايكروسوفت (فئة هندسة البرمجة)
+- **الفائز**، Azurethon كوريا مايكروسوفت (فئة هندسة البرمجة)
 - **3× أكثر المدونين مشاهدة**، مدونة مطوري Microsoft Educator
 
 ---

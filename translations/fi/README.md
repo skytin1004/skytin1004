@@ -1,22 +1,22 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:19:21+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:48:05+00:00",
   "source_file": "README.md",
   "language_code": "fi"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hei, olen Minseok Song! 
+# Hei, olen Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) -luoja**
+**[Localizeflow](https://localizeflow.com) luoja**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) - OSS:n ylläpitäjä**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS:n ylläpitäjä**
 
 Rakastan rakentaa tekoälyllä tehostettuja, avoimen lähdekoodin kehittäjätyökaluja, jotka skaalautuvat maailmanlaajuisesti ja muuttavat varhaisen vaiheen konseptit tuotantovalmiiksi ratkaisuiksi, joilla on todellista vaikutusta.
 
@@ -46,17 +46,17 @@ Ei asennusta. Isännöity. Automaattinen synkronointi monikielisille projekteill
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdown- ja kuvasisällölle (OCR)  
-**Vaikutus:** Mahdollistaa Microsoftin koulutusvarastojen yli 200k★ käännökset, varmistaen aina ajan tasalla olevan sisällön yli 10 kielellä.
+**Vaikutus:** Mahdollistaa Microsoftin koulutusvarastojen käännökset, joilla on yhteensä yli 200k★, varmistaen aina ajan tasalla olevan sisällön yli 10 kielellä.
 
-- Kasvettu varhaisesta PoC:sta tuotantotason Python CLI:ksi
-- Integroitu Azure OpenAI + Azure AI Vision käännöksiin + OCR-automaatioon
+- Kasvanut varhaisesta PoC:sta tuotantotason Python CLI:ksi
+- Integroitu Azure OpenAI + Azure AI Vision käännöksiin ja OCR-automaatioon
 - Käytössä varastoissa kuten:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Esitelty **Open at Microsoft** OSS -näyttelyssä
+- Esitelty **Open at Microsoft** OSS-näyttelyssä
 - Saavuttanut **Microsoft AI MVP 2025** -tunnustuksen
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)

@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:25:03+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:53:58+00:00",
   "source_file": "README.md",
   "language_code": "hr"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Bok, ja sam Minseok Song! 
+# Bok, ja sam Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -34,7 +34,7 @@ Volim graditi AI-pokretane, open-source alate za programere koji se globalno ska
 
 ### 🚀 Localizeflow (trenutni projekt)
 **GitHub-native automatizirani tijek rada za prijevod dokumentacije**  
-Nema potrebe za postavkama. Hostano. Automatska sinkronizacija za višejezične projekte.  
+Nema potrebe za postavkama. Hostano. Automatska sinkronizacija za višelingvalne projekte.  
 → https://localizeflow.com
 
 - Automatski detektira promjene u vašim izvornim datotekama
@@ -45,11 +45,11 @@ Nema potrebe za postavkama. Hostano. Automatska sinkronizacija za višejezične 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Službeni Azure OSS CLI koji automatizira **višejezične prijevode** za Markdown + sadržaj slika (OCR)  
+Službeni Azure OSS CLI koji automatizira **višelingvalne prijevode** za Markdown + sadržaj slika (OCR)  
 **Utjecaj:** Pokreće prijevode za Microsoftove obrazovne repozitorije s ukupno preko 200k★, osiguravajući uvijek ažuriran sadržaj na 10+ jezika.
 
 - Razvijen od rane PoC faze do produkcijskog Python CLI-ja
-- Integriran Azure OpenAI + Azure AI Vision za prijevod + OCR automatizaciju
+- Integrirani Azure OpenAI + Azure AI Vision za prijevod + OCR automatizaciju
 - Koriste ga repozitoriji poput:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -74,8 +74,8 @@ Službeni Azure OSS CLI koji automatizira **višejezične prijevode** za Markdow
   </a>
 </p>
 
-- [Open at Microsoft – Otključavanje višejezične pristupačnosti s Co-op Translatorom](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planirajte i pripremite razvoj AI rješenja na Azureu](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Otključavanje višelingvalne pristupačnosti s Co-op Translatorom](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planirajte i pripremite se za razvoj AI rješenja na Azureu](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:17:20+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:46:00+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Διαχειριστής OSS του [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Αγαπώ να δημιουργώ εργαλεία προγραμματιστών ανοιχτού κώδικα με τεχνητή νοημοσύνη που κλιμακώνονται παγκοσμίως, μετατρέποντας ιδέες πρώιμου σταδίου σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
+Αγαπώ να δημιουργώ εργαλεία προγραμματιστών με τεχνητή νοημοσύνη, ανοιχτού κώδικα, που κλιμακώνονται παγκοσμίως μετατρέποντας ιδέες πρώιμου σταδίου σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
 
 ### 🌐 Υποστήριξη Πολλών Γλωσσών
 
@@ -49,15 +49,15 @@ CO_OP_TRANSLATOR_METADATA:
 **Αντίκτυπος:** Υποστηρίζει μεταφράσεις για εκπαιδευτικά αποθετήρια της Microsoft με συνολικά 200k★+, εξασφαλίζοντας πάντα ενημερωμένο περιεχόμενο σε 10+ γλώσσες.
 
 - Αναπτύχθηκε από πρώιμο PoC → παραγωγικό Python CLI
-- Ενσωμάτωση Azure OpenAI + Azure AI Vision για μετάφραση + αυτοματοποίηση OCR
+- Ενσωματωμένο Azure OpenAI + Azure AI Vision για μετάφραση + αυτοματοποίηση OCR
 - Χρησιμοποιείται από αποθετήρια όπως:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Παρουσιάστηκε στο showcase OSS **Open at Microsoft**
-- Βραβεύτηκε με **Microsoft AI MVP 2025**
+- Παρουσιάστηκε στο **Open at Microsoft** OSS showcase
+- Απέσπασε **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -102,7 +102,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## Στατιστικά & Δραστηριότητα
 <details>
-<summary>Δείτε τα Στατιστικά GitHub</summary>
+<summary>Προβολή Στατιστικών GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

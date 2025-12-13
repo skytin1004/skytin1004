@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:11:50+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:40:39+00:00",
   "source_file": "README.md",
   "language_code": "tw"
 }
@@ -14,11 +14,11 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 創建者**
+**[Localizeflow](https://localizeflow.com) 創辦人**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 開源維護者**
 
-我熱愛打造具備 AI 功能的開源開發者工具，能夠全球擴展，將早期概念轉化為具備實際影響力的生產級解決方案。
+我熱愛打造具備 AI 技術的開源開發者工具，能夠全球擴展，將早期概念轉化為具備實際影響力的生產級解決方案。
 
 ### 🌐 多語言支援
 
@@ -40,13 +40,13 @@ CO_OP_TRANSLATOR_METADATA:
 - 自動偵測原始檔案變更
 - 只翻譯變更部分
 - 為每種語言開啟 PR
-- 建立於 Co-op Translator（Azure 開源專案）之上
+- 建構於 Co-op Translator（Azure 開源專案）之上
 
 
 ### **Co-op Translator（Microsoft Azure 開源專案）**
 
 官方 Azure 開源 CLI，自動化處理 Markdown + 圖像內容（OCR）的**多語言翻譯**  
-**影響力：** 為 Microsoft 教育類倉庫提供翻譯，累計超過 20 萬星，確保 10 多種語言內容持續更新。
+**影響力：** 為 Microsoft 教育相關倉庫提供翻譯，累計超過 20 萬星，確保 10 多種語言內容持續更新。
 
 - 從早期概念驗證擴展至生產級 Python CLI
 - 整合 Azure OpenAI + Azure AI Vision 進行翻譯與 OCR 自動化

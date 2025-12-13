@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:15:20+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:44:00+00:00",
   "source_file": "README.md",
   "language_code": "pt"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Mantenedor OSS do [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Adoro construir ferramentas para programadores com IA, open-source, que escalam globalmente, transformando conceitos em fase inicial em soluções prontas para produção com impacto real.
+Adoro construir ferramentas de desenvolvimento open-source potenciadas por IA que escalam globalmente, transformando conceitos em fase inicial em soluções prontas para produção com impacto real.
 
 ### 🌐 Suporte Multilíngue
 
@@ -45,11 +45,11 @@ Zero configuração. Hospedado. Sincronização automática para projetos multil
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-CLI oficial Azure OSS que automatiza **traduções multilíngues** para conteúdo Markdown + imagens (OCR)  
-**Impacto:** Alimenta traduções para repositórios educacionais Microsoft com mais de 200k★, garantindo conteúdo sempre atualizado em mais de 10 idiomas.
+Um CLI oficial Azure OSS que automatiza **traduções multilíngues** para conteúdo Markdown + imagens (OCR)  
+**Impacto:** Alimenta traduções para repositórios educacionais da Microsoft com mais de 200k★, garantindo conteúdo sempre atualizado em mais de 10 idiomas.
 
-- Evoluiu de PoC inicial para CLI Python de nível produção
-- Integrado com Azure OpenAI + Azure AI Vision para tradução + automação OCR
+- Escalado de PoC inicial → CLI Python de nível de produção
+- Integrado Azure OpenAI + Azure AI Vision para tradução + automação OCR
 - Usado por repositórios como:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -75,7 +75,7 @@ CLI oficial Azure OSS que automatiza **traduções multilíngues** para conteúd
 </p>
 
 - [Open at Microsoft – Desbloqueando Acessibilidade Multilíngue com Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planear e Preparar para Desenvolver Soluções de IA no Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Planear e Preparar para Desenvolver Soluções de IA na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 

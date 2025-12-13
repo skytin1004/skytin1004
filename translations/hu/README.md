@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:22:39+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:51:23+00:00",
   "source_file": "README.md",
   "language_code": "hu"
 }
@@ -30,7 +30,7 @@ Szeretek AI-alapú, nyílt forráskódú fejlesztői eszközöket építeni, ame
 
 ---
 
-## Fő projekt
+## Fő Projekt
 
 ### 🚀 Localizeflow (Jelenlegi projekt)
 **GitHub-natív, automatizált dokumentációfordítási munkafolyamat**  
@@ -81,13 +81,13 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 
 ## Elismerések
 - **Microsoft Legértékesebb Szakértő (AI)** 2024–2025
-- **1. helyezés**, Inha Egyetem Nyílt Forráskód Fesztivál (Co-op Translator)
+- **1. helyezés**, Inha Egyetem Nyílt Forráskódú Fesztivál (Co-op Translator)
 - **Győztes**, Microsoft Korea Azurethon (Prompt Engineering kategória)
 - **3× Legnézettebb Blogger**, Microsoft Educator Developer Blog
 
 ---
 
-## Technológiai stack
+## Technológiai Stakk
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,9 +100,9 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 
 ---
 
-## Statisztikák & aktivitás
+## Statisztikák & Aktivitás
 <details>
-<summary>GitHub statisztikák megtekintése</summary>
+<summary>GitHub Statisztikák megtekintése</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
