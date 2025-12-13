@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:45:39+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:27:15+00:00",
   "source_file": "README.md",
   "language_code": "tr"
 }
@@ -14,11 +14,11 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) Kurucusu**
+**[Localizeflow](https://localizeflow.com) yaratıcısı**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS Bakımcısı**
 
-Erken aşama kavramları gerçek etkiye sahip üretime hazır çözümlere dönüştüren, küresel ölçekte ölçeklenen yapay zeka destekli açık kaynak geliştirici araçları oluşturmayı seviyorum.
+Erken aşama kavramları gerçek etkisi olan üretime hazır çözümlere dönüştüren, küresel ölçekte ölçeklenen yapay zeka destekli açık kaynak geliştirici araçları oluşturmayı seviyorum.
 
 ### 🌐 Çok Dilli Destek
 
@@ -45,12 +45,12 @@ Sıfır kurulum. Barındırılan. Çok dilli projeler için otomatik senkronizas
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + görsel içeriği (OCR) için **çok dilli çevirileri** otomatikleştiren resmi Azure OSS CLI  
-**Etkisi:** Microsoft eğitim depoları için 200k★+ toplamda çevirileri güçlendirir, 10+ dilde her zaman güncel içerik sağlar.
+Markdown + resim içeriği (OCR) için **çok dilli çevirileri** otomatikleştiren resmi Azure OSS CLI  
+**Etkisi:** Microsoft eğitim depoları için 200k★+ toplamda çevirileri destekler, 10+ dilde her zaman güncel içerik sağlar.
 
-- Erken PoC'den → üretim kalitesinde Python CLI'ye ölçeklendi
+- Erken PoC'den üretim kalitesinde Python CLI'ya ölçeklendi
 - Çeviri + OCR otomasyonu için Azure OpenAI + Azure AI Vision entegre edildi
-- Aşağıdaki depolar tarafından kullanıldı:
+- Aşağıdaki depolar tarafından kullanılıyor:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -75,7 +75,7 @@ Markdown + görsel içeriği (OCR) için **çok dilli çevirileri** otomatikleş
 </p>
 
 - [Open at Microsoft – Co-op Translator ile Çok Dilli Erişilebilirliği Açmak](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure Üzerinde AI Çözümleri Geliştirmeyi Planlayın ve Hazırlanın](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Azure'da AI Çözümleri Geliştirmeyi Planlayın ve Hazırlanın](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -83,7 +83,7 @@ Markdown + görsel içeriği (OCR) için **çok dilli çevirileri** otomatikleş
 - **Microsoft En Değerli Profesyonel (AI)** 2024–2025
 - **1. LİK**, Inha Üniversitesi Açık Kaynak Festivali (Co-op Translator)
 - **Kazanan**, Microsoft Korea Azurethon (Prompt Engineering kategorisi)
-- **3× En Çok Okunan Blog Yazarı**, Microsoft Educator Developer Blog
+- **3× En Çok Okunan Blogger**, Microsoft Educator Developer Blog
 
 ---
 

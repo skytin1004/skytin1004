@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:56:21+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:37:59+00:00",
   "source_file": "README.md",
   "language_code": "et"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS hooldaja**
 
-Mulle meeldib luua AI-põhiseid, avatud lähtekoodiga arendustööriistu, mis skaleeruvad üle maailma, muutes varajase staadiumi kontseptsioonid tootmiseks valmis lahendusteks, millel on reaalne mõju.
+Mulle meeldib luua AI-põhiseid, avatud lähtekoodiga arendajatööriistu, mis skaleeruvad üle maailma, muutes varajase staadiumi kontseptsioonid tootmiseks valmis lahendusteks, millel on reaalne mõju.
 
 ### 🌐 Mitmekeelne tugi
 
@@ -34,7 +34,7 @@ Mulle meeldib luua AI-põhiseid, avatud lähtekoodiga arendustööriistu, mis sk
 
 ### 🚀 Localizeflow (Praegune projekt)
 **GitHubi-põhine automatiseeritud dokumentatsiooni tõlkimise töövoog**  
-Null seadistust. Hostitud. Automaatne sünkroonimine mitmekeelsete projektide jaoks.  
+Null seadistust. Majutatud. Automaatne sünkroonimine mitmekeelsetele projektidele.  
 → https://localizeflow.com
 
 - Tuletab automaatselt meelde muudatusi teie lähtefailides
@@ -45,11 +45,11 @@ Null seadistust. Hostitud. Automaatne sünkroonimine mitmekeelsete projektide ja
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Ametlik Azure OSS CLI, mis automatiseerib **mitmekeelseid tõlkeid** Markdown + pildisisu (OCR) jaoks  
+Ametlik Azure OSS CLI, mis automatiseerib **mitmekeelseid tõlkeid** Markdowni + pildisisu (OCR) jaoks  
 **Mõju:** Toetab Microsofti hariduslike hoidlate tõlkeid, millel on kokku üle 200k★, tagades alati ajakohase sisu 10+ keeles.
 
-- Kasvas varajasest PoC-st tootmisvalmis Python CLI-ks
-- Integreeris Azure OpenAI + Azure AI Vision tõlke ja OCR automatiseerimiseks
+- Kasvas varajasest PoC-st → tootmiskõlblikuks Python CLI-ks
+- Integreeris Azure OpenAI + Azure AI Vision tõlke + OCR automatiseerimiseks
 - Kasutatud hoidlates nagu:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -75,7 +75,7 @@ Ametlik Azure OSS CLI, mis automatiseerib **mitmekeelseid tõlkeid** Markdown + 
 </p>
 
 - [Open at Microsoft – Mitmekeelse ligipääsetavuse avamine Co-op Translatoriga](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plaanige ja valmistuge AI lahenduste arendamiseks Azure'is](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Plaan ja ettevalmistus AI lahenduste arendamiseks Azure’is](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 

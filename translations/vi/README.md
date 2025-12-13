@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:49:22+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:31:03+00:00",
   "source_file": "README.md",
   "language_code": "vi"
 }
@@ -56,7 +56,7 @@ CLI OSS chính thức của Azure tự động hóa **dịch đa ngôn ngữ** c
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Xuất hiện trong triển lãm OSS **Open at Microsoft**
+- Xuất hiện trong bộ sưu tập OSS **Open at Microsoft**
 - Đạt danh hiệu **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)

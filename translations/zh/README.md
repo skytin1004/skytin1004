@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:39:29+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:20:57+00:00",
   "source_file": "README.md",
   "language_code": "zh"
 }
@@ -14,9 +14,9 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 创始人**
+**[Localizeflow](https://localizeflow.com) 的创建者**
 
-**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 开源维护者**
+**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 的开源维护者**
 
 我热衷于构建由 AI 驱动的开源开发者工具，能够全球扩展，将早期概念转化为具有实际影响的生产级解决方案。
 
@@ -37,19 +37,19 @@ CO_OP_TRANSLATOR_METADATA:
 零配置。托管服务。多语言项目自动同步。  
 → https://localizeflow.com
 
-- 自动检测源文件变更
-- 仅翻译变更内容
-- 为每种语言开启 PR
-- 构建于 Co-op Translator（Azure 开源项目）之上
+- 自动检测源文件的更改
+- 仅翻译更改部分
+- 为每种语言打开 PR
+- 基于 Co-op Translator（Azure 开源项目）构建
 
 
 ### **Co-op Translator（微软 Azure 开源项目）**
 
 官方 Azure 开源 CLI，自动化处理 Markdown + 图片内容（OCR）的**多语言翻译**  
-**影响力：** 支持微软教育类仓库翻译，累计 20 万★+，确保 10 多种语言内容始终更新。
+**影响力：** 支持微软教育类仓库的翻译，累计 20 万★+，确保 10 多种语言内容始终保持最新。
 
 - 从早期概念验证扩展到生产级 Python CLI
-- 集成 Azure OpenAI + Azure AI Vision 实现翻译与 OCR 自动化
+- 集成 Azure OpenAI + Azure AI Vision 实现翻译和 OCR 自动化
 - 被以下仓库使用：
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)

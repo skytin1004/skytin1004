@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:36:51+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:18:32+00:00",
   "source_file": "README.md",
   "language_code": "es"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Mantenedor OSS de [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Me encanta crear herramientas para desarrolladores impulsadas por IA y de código abierto que escalan globalmente, convirtiendo conceptos en etapa temprana en soluciones listas para producción con impacto real.
+Me encanta crear herramientas para desarrolladores impulsadas por IA, de código abierto, que escalan globalmente, convirtiendo conceptos en etapa temprana en soluciones listas para producción con impacto real.
 
 ### 🌐 Soporte Multilingüe
 
@@ -83,7 +83,7 @@ Una CLI oficial de Azure OSS que automatiza **traducciones multilingües** para 
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1er Lugar**, Festival de Código Abierto de la Universidad Inha (Co-op Translator)
 - **Ganador**, Microsoft Korea Azurethon (categoría Ingeniería de Prompts)
-- **3× Blogger más visto**, Blog de Desarrolladores Educativos de Microsoft
+- **3× Blogger más visto**, Microsoft Educator Developer Blog
 
 ---
 
@@ -102,7 +102,7 @@ Una CLI oficial de Azure OSS que automatiza **traducciones multilingües** para 
 
 ## Estadísticas y Actividad
 <details>
-<summary>Ver Estadísticas de GitHub</summary>
+<summary>Ver estadísticas de GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

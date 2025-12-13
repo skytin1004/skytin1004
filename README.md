@@ -108,3 +108,4 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 [![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
 
 
+
