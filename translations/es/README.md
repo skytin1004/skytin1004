@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:08:02+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:36:51+00:00",
   "source_file": "README.md",
   "language_code": "es"
 }
@@ -83,7 +83,7 @@ Una CLI oficial de Azure OSS que automatiza **traducciones multilingües** para 
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1er Lugar**, Festival de Código Abierto de la Universidad Inha (Co-op Translator)
 - **Ganador**, Microsoft Korea Azurethon (categoría Ingeniería de Prompts)
-- **3× Blogger más visto**, Microsoft Educator Developer Blog
+- **3× Blogger más visto**, Blog de Desarrolladores Educativos de Microsoft
 
 ---
 

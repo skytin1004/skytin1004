@@ -1,22 +1,22 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:10:41+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:39:29+00:00",
   "source_file": "README.md",
   "language_code": "zh"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 你好，我是 Minseok Song！
+# 嗨，我是 Minseok Song！
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 的创始人**
+**[Localizeflow](https://localizeflow.com) 创始人**
 
-**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 的开源维护者**
+**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 开源维护者**
 
 我热衷于构建由 AI 驱动的开源开发者工具，能够全球扩展，将早期概念转化为具有实际影响的生产级解决方案。
 
@@ -39,14 +39,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 - 自动检测源文件变更
 - 仅翻译变更内容
-- 为每种语言打开 PR
-- 基于 Co-op Translator（Azure 开源项目）构建
+- 为每种语言开启 PR
+- 构建于 Co-op Translator（Azure 开源项目）之上
 
 
 ### **Co-op Translator（微软 Azure 开源项目）**
 
 官方 Azure 开源 CLI，自动化处理 Markdown + 图片内容（OCR）的**多语言翻译**  
-**影响力：** 支持微软教育类仓库翻译，累计 20 万★+，确保 10 多种语言内容始终保持最新。
+**影响力：** 支持微软教育类仓库翻译，累计 20 万★+，确保 10 多种语言内容始终更新。
 
 - 从早期概念验证扩展到生产级 Python CLI
 - 集成 Azure OpenAI + Azure AI Vision 实现翻译与 OCR 自动化
@@ -102,7 +102,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 统计与活跃度
 <details>
-<summary>查看 GitHub 统计数据</summary>
+<summary>查看 GitHub 统计</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

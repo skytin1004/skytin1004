@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:21:46+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:50:27+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS Maintainer ng [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Mahilig akong gumawa ng mga AI-powered, open-source na mga tool para sa mga developer na kayang mag-scale sa buong mundo na nagbabago ng mga konsepto sa maagang yugto tungo sa mga solusyong handa na para sa produksyon na may tunay na epekto.
+Mahilig akong gumawa ng mga AI-powered, open-source na mga tool para sa mga developer na kayang mag-scale sa buong mundo, na nagbabago ng mga konsepto sa maagang yugto tungo sa mga solusyong handa na para sa produksyon na may tunay na epekto.
 
 ### 🌐 Suporta sa Maramihang Wika
 
@@ -46,10 +46,10 @@ Walang setup. Hosted. Auto-sync para sa mga proyektong maraming wika.
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Isang opisyal na Azure OSS CLI na nag-aautomat ng **maramihang pagsasalin** para sa Markdown + nilalaman ng imahe (OCR)  
-**Epekto:** Pinapagana ang mga pagsasalin para sa mga Microsoft educational repositories na may kabuuang 200k★+, na tinitiyak na palaging napapanahon ang nilalaman sa 10+ na mga wika.
+**Epekto:** Pinapagana ang mga pagsasalin para sa mga Microsoft educational repositories na may kabuuang 200k★+, na tinitiyak na palaging napapanahon ang nilalaman sa higit sa 10 wika.
 
 - Lumago mula sa maagang PoC → production-grade Python CLI
-- Pinagsama ang Azure OpenAI + Azure AI Vision para sa pagsasalin + OCR automation
+- Pinagsama ang Azure OpenAI + Azure AI Vision para sa pagsasalin + awtomasyon ng OCR
 - Ginagamit ng mga repos tulad ng:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -63,7 +63,7 @@ Isang opisyal na Azure OSS CLI na nag-aautomat ng **maramihang pagsasalin** para
 
 ---
 
-## Mga Talakayan at Media
+## Mga Talumpati at Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -81,7 +81,7 @@ Isang opisyal na Azure OSS CLI na nag-aautomat ng **maramihang pagsasalin** para
 
 ## Pagkilala
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1st Place**, Inha University Open Source Festival (Co-op Translator)
+- **Unang Pwesto**, Inha University Open Source Festival (Co-op Translator)
 - **Nanalo**, Microsoft Korea Azurethon (Prompt Engineering category)
 - **3× Pinakamadalas Tingnang Blogger**, Microsoft Educator Developer Blog
 
@@ -100,7 +100,7 @@ Isang opisyal na Azure OSS CLI na nag-aautomat ng **maramihang pagsasalin** para
 
 ---
 
-## Stats & Aktibidad
+## Stats at Aktibidad
 <details>
 <summary>Tingnan ang GitHub Stats</summary>
 

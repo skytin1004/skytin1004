@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:15:47+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:44:28+00:00",
   "source_file": "README.md",
   "language_code": "br"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Mantenedor OSS do [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Eu adoro construir ferramentas para desenvolvedores com IA, open-source, que escalam globalmente transformando conceitos iniciais em soluções prontas para produção com impacto real.
+Eu adoro construir ferramentas de desenvolvedor open-source com inteligência artificial que escalam globalmente, transformando conceitos em estágio inicial em soluções prontas para produção com impacto real.
 
 ### 🌐 Suporte Multilíngue
 
@@ -49,7 +49,7 @@ Um CLI oficial Azure OSS que automatiza **traduções multilíngues** para conte
 **Impacto:** Alimenta traduções para repositórios educacionais da Microsoft com mais de 200k★, garantindo conteúdo sempre atualizado em mais de 10 idiomas.
 
 - Escalado de PoC inicial → CLI Python de nível produção
-- Integrado Azure OpenAI + Azure AI Vision para tradução + automação OCR
+- Integrado com Azure OpenAI + Azure AI Vision para tradução + automação OCR
 - Usado por repositórios como:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -57,7 +57,7 @@ Um CLI oficial Azure OSS que automatiza **traduções multilíngues** para conte
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - Destaque no showcase OSS **Open at Microsoft**
-- Conquistou **Microsoft AI MVP 2025**
+- Recebeu o título **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 

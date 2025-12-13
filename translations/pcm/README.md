@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:28:00+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:56:53+00:00",
   "source_file": "README.md",
   "language_code": "pcm"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-I like to build AI-powered, open-source developer tools wey fit scale worldwide, wey dey turn early-stage ideas to production-ready solutions wey get real impact.
+I like to build AI-powered, open-source developer tools wey fit scale worldwide wey dey turn early-stage ideas to production-ready solutions wey get real impact.
 
 ### 🌐 Multi-Language Support
 
@@ -34,7 +34,7 @@ I like to build AI-powered, open-source developer tools wey fit scale worldwide,
 
 ### 🚀 Localizeflow (Current Project)
 **GitHub-native automated documentation translation workflow**  
-No setup needed. Hosted. Auto-sync for multilingual projects.  
+No setup. Hosted. Auto-sync for multilingual projects.  
 → https://localizeflow.com
 
 - Automatically dey detect changes for your source files
@@ -48,16 +48,16 @@ No setup needed. Hosted. Auto-sync for multilingual projects.
 Official Azure OSS CLI wey dey automate **multilingual translations** for Markdown + image content (OCR)  
 **Impact:** E dey power translations for Microsoft educational repositories wey get 200k★+ total, dey make sure say content dey always updated for 10+ languages.
 
-- Scaled from early PoC → production-grade Python CLI
-- Integrated Azure OpenAI + Azure AI Vision for translation + OCR automation
-- Dem dey use am for repos like:
+- E scale from early PoC → production-grade Python CLI
+- E integrate Azure OpenAI + Azure AI Vision for translation + OCR automation
+- E dey used by repos like:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Featured for **Open at Microsoft** OSS showcase
-- Earned **Microsoft AI MVP 2025**
+- E feature for **Open at Microsoft** OSS showcase
+- E earn **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 

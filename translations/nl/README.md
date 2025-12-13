@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:19:46+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:48:34+00:00",
   "source_file": "README.md",
   "language_code": "nl"
 }
@@ -75,7 +75,7 @@ Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor M
 </p>
 
 - [Open at Microsoft – Meertalige Toegankelijkheid Ontgrendelen met Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan en Bereid je Voor om AI-oplossingen op Azure te Ontwikkelen](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Plan en Bereid Voor om AI-oplossingen op Azure te Ontwikkelen](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 

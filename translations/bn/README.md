@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:13:35+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:42:25+00:00",
   "source_file": "README.md",
   "language_code": "bn"
 }
@@ -45,7 +45,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-একটি অফিসিয়াল Azure OSS CLI যা Markdown + ইমেজ কনটেন্ট (OCR) এর জন্য **বহু-ভাষার অনুবাদ** স্বয়ংক্রিয় করে  
+একটি অফিসিয়াল Azure OSS CLI যা Markdown + ইমেজ কনটেন্ট (OCR) এর জন্য **বহুভাষিক অনুবাদ** স্বয়ংক্রিয় করে  
 **প্রভাব:** Microsoft এর শিক্ষামূলক রিপোজিটরিগুলোর জন্য ২০০ক+ স্টার সহ অনুবাদ চালায়, যা ১০+ ভাষায় সর্বদা আপডেটেড কনটেন্ট নিশ্চিত করে।
 
 - প্রাথমিক PoC থেকে প্রোডাকশন-গ্রেড পাইথন CLI এ উন্নীত
@@ -74,7 +74,7 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator দিয়ে বহু-ভাষার অ্যাক্সেসিবিলিটি আনলক করা](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Co-op Translator দিয়ে বহু-ভাষিক অ্যাক্সেসিবিলিটি আনলক করা](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Azure-তে AI সমাধান তৈরি করার পরিকল্পনা ও প্রস্তুতি](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---

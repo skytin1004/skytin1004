@@ -1,24 +1,24 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:12:45+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:41:38+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 안녕하세요, 저는 송민석입니다!
+# 안녕하세요, 저는 송민석입니다! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
 **[Localizeflow](https://localizeflow.com) 제작자**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지 관리자**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지관리자**
 
-저는 초기 단계의 아이디어를 실제 영향력을 가진 프로덕션 수준의 솔루션으로 전환하는, 전 세계적으로 확장 가능한 AI 기반 오픈 소스 개발자 도구를 만드는 것을 좋아합니다.
+저는 초기 단계의 아이디어를 실제 영향력을 가진 프로덕션 수준의 솔루션으로 전환하는, 전 세계적으로 확장 가능한 AI 기반 오픈소스 개발자 도구를 만드는 것을 좋아합니다.
 
 ### 🌐 다국어 지원
 
@@ -39,14 +39,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 - 소스 파일 변경 사항 자동 감지
 - 변경된 부분만 번역
-- 각 언어별로 PR 생성
+- 각 언어별 PR 생성
 - Co-op Translator (Azure OSS) 기반 구축
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Markdown + 이미지 콘텐츠(OCR)의 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향력:** Microsoft 교육용 저장소 20만★ 이상에 번역 기능 제공, 10개 이상의 언어로 항상 최신 콘텐츠 유지.
+**영향력:** Microsoft 교육용 저장소 20만★ 이상 번역 지원, 10개 이상의 언어로 항상 최신 콘텐츠 유지.
 
 - 초기 PoC에서 프로덕션급 Python CLI로 확장
 - Azure OpenAI + Azure AI Vision 통합하여 번역 및 OCR 자동화

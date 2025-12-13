@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:12:15+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:41:07+00:00",
   "source_file": "README.md",
   "language_code": "ja"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) のOSSメンテナ**
 
-私は、初期段階のコンセプトを実際に影響力のある本番対応ソリューションに変える、グローバルにスケールするAI搭載のオープンソース開発者ツールの構築が大好きです。
+私は、初期段階のコンセプトを実際に影響力のある本番対応ソリューションに変える、グローバルにスケールするAI搭載のオープンソース開発者ツールを作ることが大好きです。
 
 ### 🌐 多言語サポート
 
@@ -46,11 +46,11 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator（Microsoft Azure OSS）**
 
 Markdown + 画像コンテンツ（OCR）の**多言語翻訳**を自動化する公式Azure OSS CLI  
-**影響:** Microsoftの教育リポジトリ（20万★以上）で翻訳を支え、10以上の言語で常に最新のコンテンツを提供。
+**影響:** Microsoftの教育リポジトリ200k★超の翻訳を支え、10以上の言語で常に最新のコンテンツを提供。
 
 - 初期PoCから本番対応のPython CLIへスケール
 - Azure OpenAI + Azure AI Visionを統合し翻訳とOCRを自動化
-- 以下のリポジトリで使用:
+- 以下のリポジトリで使用：
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:10:17+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:39:06+00:00",
   "source_file": "README.md",
   "language_code": "ur"
 }
@@ -37,15 +37,15 @@ CO_OP_TRANSLATOR_METADATA:
 زیرو سیٹ اپ۔ ہوسٹڈ۔ کثیراللسانی پروجیکٹس کے لیے خودکار ہم آہنگی۔  
 → https://localizeflow.com
 
-- خودکار طور پر آپ کی سورس فائلوں میں تبدیلیاں معلوم کرتا ہے
+- آپ کی سورس فائلوں میں تبدیلیاں خودکار طور پر معلوم کرتا ہے
 - صرف جو بدلا ہے اس کا ترجمہ کرتا ہے
 - ہر زبان کے لیے PR کھولتا ہے
 - Co-op Translator (Azure OSS) پر مبنی
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-ایک سرکاری Azure OSS CLI جو Markdown + تصویر کے مواد (OCR) کے لیے **کثیراللسانی تراجم** کو خودکار بناتا ہے  
-**اثر:** Microsoft کے تعلیمی ریپوزٹریز کے لیے 200k★+ کے مجموعی تراجم کو طاقت دیتا ہے، جو 10+ زبانوں میں ہمیشہ تازہ ترین مواد کو یقینی بناتا ہے۔
+ایک سرکاری Azure OSS CLI جو Markdown + تصویر کے مواد (OCR) کے لیے **کثیراللسانی ترجمے** کو خودکار بناتا ہے  
+**اثر:** Microsoft کے تعلیمی ریپوزٹریز کے لیے 200k★+ کے مجموعی ترجمے فراہم کرتا ہے، جو 10+ زبانوں میں ہمیشہ تازہ ترین مواد کو یقینی بناتا ہے۔
 
 - ابتدائی PoC سے لے کر پروڈکشن گریڈ Python CLI تک ترقی کی
 - ترجمہ + OCR خودکاری کے لیے Azure OpenAI + Azure AI Vision کو مربوط کیا
@@ -73,7 +73,7 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator کے ساتھ کثیراللسانی رسائی کو کھولنا](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Co-op Translator کے ساتھ کثیراللسانی رسائی کو فعال کرنا](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Azure پر AI حل تیار کرنے کی منصوبہ بندی اور تیاری](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---

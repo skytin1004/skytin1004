@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-13T11:24:18+00:00",
+  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
+  "translation_date": "2025-12-13T11:53:16+00:00",
   "source_file": "README.md",
   "language_code": "bg"
 }
@@ -48,7 +48,7 @@ CO_OP_TRANSLATOR_METADATA:
 Официален Azure OSS CLI, който автоматизира **многоезични преводи** за Markdown + съдържание на изображения (OCR)  
 **Въздействие:** Захранва преводите за образователни хранилища на Microsoft с общо 200k★+, осигурявайки винаги актуално съдържание на 10+ езика.
 
-- Развит от ранен PoC → производствен Python CLI
+- Развит от ранен PoC → продукционен Python CLI
 - Интегриран Azure OpenAI + Azure AI Vision за превод + OCR автоматизация
 - Използван от хранилища като:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -56,14 +56,14 @@ CO_OP_TRANSLATOR_METADATA:
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Представен в изложението на OSS **Open at Microsoft**
+- Представен в изложението за OSS на **Open at Microsoft**
 - Носител на **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Лекции и медии
+## Презентации и медии
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
