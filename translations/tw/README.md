@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:17:15+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:11:50+00:00",
   "source_file": "README.md",
   "language_code": "tw"
 }
@@ -14,11 +14,11 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 創辦人**
+**[Localizeflow](https://localizeflow.com) 創建者**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 開源維護者**
 
-我熱愛打造以 AI 為動力的開源開發者工具，能夠全球擴展，將早期概念轉化為具備實際影響力的生產級解決方案。
+我熱愛打造具備 AI 功能的開源開發者工具，能夠全球擴展，將早期概念轉化為具備實際影響力的生產級解決方案。
 
 ### 🌐 多語言支援
 
@@ -27,6 +27,7 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](./README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## 主要專案
@@ -39,7 +40,7 @@ CO_OP_TRANSLATOR_METADATA:
 - 自動偵測原始檔案變更
 - 只翻譯變更部分
 - 為每種語言開啟 PR
-- 建構於 Co-op Translator（Azure 開源專案）之上
+- 建立於 Co-op Translator（Azure 開源專案）之上
 
 
 ### **Co-op Translator（Microsoft Azure 開源專案）**
@@ -50,11 +51,11 @@ CO_OP_TRANSLATOR_METADATA:
 - 從早期概念驗證擴展至生產級 Python CLI
 - 整合 Azure OpenAI + Azure AI Vision 進行翻譯與 OCR 自動化
 - 被以下倉庫採用：
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners)（84k★）
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners)（72k★）
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners)（37k★）
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)（17k★）
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook)（3k★）
 - 入選 **Open at Microsoft** 開源專案展示
 - 榮獲 **Microsoft AI MVP 2025**
 
@@ -106,15 +107,6 @@ CO_OP_TRANSLATOR_METADATA:
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>近期活動</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ 關閉 PR [#26](../../undefined) 於 [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 聯絡我

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:34:09+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:26:44+00:00",
   "source_file": "README.md",
   "language_code": "lt"
 }
@@ -16,9 +16,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 **[Localizeflow](https://localizeflow.com) kūrėjas**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) atvirojo kodo palaikytojas**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS prižiūrėtojas**
 
-Man patinka kurti dirbtiniu intelektu pagrįstus, atvirojo kodo kūrėjų įrankius, kurie veikia globaliai, paverčiant ankstyvos stadijos idėjas į gamybai paruoštus sprendimus su realiu poveikiu.
+Man patinka kurti dirbtiniu intelektu pagrįstus, atviro kodo kūrėjų įrankius, kurie veikia globaliai, paverčiant ankstyvos stadijos idėjas į gamybai paruoštus sprendimus su realiu poveikiu.
 
 ### 🌐 Daugiakalbė palaikymas
 
@@ -27,13 +27,14 @@ Man patinka kurti dirbtiniu intelektu pagrįstus, atvirojo kodo kūrėjų įrank
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](./README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Pagrindinis projektas
 
 ### 🚀 Localizeflow (dabartinis projektas)
 **GitHub natūralus automatizuotas dokumentacijos vertimo darbo eiga**  
-Nereikia jokių nustatymų. Talpinama. Automatinis sinchronizavimas daugiakalbiams projektams.  
+Nereikia jokio nustatymo. Talpinama. Automatinis sinchronizavimas daugiakalbiams projektams.  
 → https://localizeflow.com
 
 - Automatiškai aptinka pakeitimus jūsų šaltinio failuose
@@ -44,12 +45,12 @@ Nereikia jokių nustatymų. Talpinama. Automatinis sinchronizavimas daugiakalbia
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Oficialus Azure OSS CLI, automatizuojantis **daugiakalbius vertimus** Markdown + vaizdų turiniui (OCR)  
-**Poveikis:** Užtikrina vertimus Microsoft švietimo saugyklose, turinčiose daugiau nei 200 tūkst. žvaigždučių, visada atnaujintą turinį daugiau nei 10 kalbų.
+Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown + vaizdų turiniui (OCR)  
+**Poveikis:** Užtikrina vertimus Microsoft švietimo saugykloms, turinčioms daugiau nei 200 tūkst. žvaigždžių, visada atnaujintą turinį 10+ kalbų.
 
-- Iš ankstyvo PoC išaugo į gamybos lygio Python CLI
-- Integruotas Azure OpenAI + Azure AI Vision vertimui ir OCR automatizavimui
-- Naudojamas tokiose saugyklose kaip:
+- Išauginta nuo ankstyvo PoC iki gamybos lygio Python CLI
+- Integruota Azure OpenAI + Azure AI Vision vertimui ir OCR automatizavimui
+- Naudojama tokiose saugyklose kaip:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -82,7 +83,7 @@ Oficialus Azure OSS CLI, automatizuojantis **daugiakalbius vertimus** Markdown +
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1 vieta**, Inha universiteto atvirojo kodo festivalyje (Co-op Translator)
 - **Nugalėtojas**, Microsoft Korea Azurethon (Prompt Engineering kategorija)
-- **3× labiausiai skaitomas tinklaraštininkas**, Microsoft Educator Developer Blog
+- **3 kartus labiausiai skaitomas tinklaraštininkas**, Microsoft Educator Developer Blog
 
 ---
 
@@ -99,22 +100,13 @@ Oficialus Azure OSS CLI, automatizuojantis **daugiakalbius vertimus** Markdown +
 
 ---
 
-## Statistika ir veikla
+## Statistika ir aktyvumas
 <details>
 <summary>Peržiūrėti GitHub statistiką</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Naujausia veikla</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Uždarytas PR [#26](../../undefined) projekte [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Susisiekite su manimi

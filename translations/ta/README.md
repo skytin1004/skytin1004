@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:34:39+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:27:04+00:00",
   "source_file": "README.md",
   "language_code": "ta"
 }
@@ -27,6 +27,7 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](./README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## முக்கிய திட்டம்
@@ -45,7 +46,7 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Markdown + பட உள்ளடக்கத்திற்கான (OCR) **பன்மொழி மொழிபெயர்ப்புகளை தானியக்கமாக்கும் அதிகாரப்பூர்வ Azure OSS CLI**  
-**தாக்கம்:** 10+ மொழிகளில் எப்போதும் புதுப்பிக்கப்பட்ட உள்ளடக்கத்துடன் Microsoft கல்வி ரெப்போக்களுக்கு 200k★+ மொழிபெயர்ப்புகளை இயக்குகிறது.
+**பாதிப்பு:** 10+ மொழிகளில் எப்போதும் புதுப்பிக்கப்பட்ட உள்ளடக்கத்துடன் Microsoft கல்வி ரெப்போசிடோரிகளுக்கு 200k★+ மொழிபெயர்ப்புகளை இயக்குகிறது.
 
 - ஆரம்ப PoC → தயாரிப்பு தர Python CLI ஆக விரிவடைந்தது
 - மொழிபெயர்ப்பு + OCR தானியக்கத்திற்காக Azure OpenAI + Azure AI Vision இணைக்கப்பட்டது
@@ -56,7 +57,7 @@ Markdown + பட உள்ளடக்கத்திற்கான (OCR) **�
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - **Open at Microsoft** OSS கண்காட்சியில் இடம்பெற்றது
-- **Microsoft AI MVP 2025** விருதை பெற்றது
+- **Microsoft AI MVP 2025** விருது பெற்றது
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -81,8 +82,8 @@ Markdown + பட உள்ளடக்கத்திற்கான (OCR) **�
 ## அங்கீகாரம்
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **முதல் இடம்**, Inha பல்கலைக்கழக திறந்த மூல விழா (Co-op Translator)
-- **வெற்றி பெற்றவர்**, Microsoft Korea Azurethon (Prompt Engineering பிரிவு)
-- **3 முறை அதிகம் பார்வையிடப்பட்ட பிளாக்கர்**, Microsoft Educator Developer Blog
+- **வெற்றியாளர்**, Microsoft Korea Azurethon (Prompt Engineering பிரிவு)
+- **3 முறை மிக அதிகம் பார்வையிடப்பட்ட வலைப்பதிவாளர்**, Microsoft Educator Developer Blog
 
 ---
 
@@ -106,18 +107,9 @@ Markdown + பட உள்ளடக்கத்திற்கான (OCR) **�
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>சமீபத்திய செயல்பாடு</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004) இல் PR [#26](../../undefined) மூடப்பட்டது
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
-## 📫 என்னுடன் தொடர்பு கொள்ள
+## 📫 என்னுடன் தொடர்பு கொள்ளவும்
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

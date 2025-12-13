@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:30:27+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:23:53+00:00",
   "source_file": "README.md",
   "language_code": "ro"
 }
@@ -27,12 +27,13 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](./README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Proiect Cheie
 
 ### 🚀 Localizeflow (Proiect Curent)
-**Flux de lucru automatizat pentru traducerea documentației nativ pe GitHub**  
+**Flux de lucru automatizat pentru traducerea documentației nativ GitHub**  
 Fără configurare. Găzduit. Sincronizare automată pentru proiecte multilingve.  
 → https://localizeflow.com
 
@@ -81,7 +82,7 @@ Un CLI oficial Azure OSS care automatizează **traducerile multilingve** pentru 
 ## Recunoaștere
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **Locul 1**, Festivalul Open Source al Universității Inha (Co-op Translator)
-- **Câștigător**, Microsoft Korea Azurethon (categoria Prompt Engineering)
+- **Câștigător**, Microsoft Korea Azurethon (categoria Inginerie Prompt)
 - **3× Blogger cu cele mai multe vizualizări**, Microsoft Educator Developer Blog
 
 ---
@@ -106,15 +107,6 @@ Un CLI oficial Azure OSS care automatizează **traducerile multilingve** pentru 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Activitate Recentă</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ PR închis [#26](../../undefined) în [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Conectează-te cu mine

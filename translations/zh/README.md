@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:10:58+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:10:41+00:00",
   "source_file": "README.md",
   "language_code": "zh"
 }
@@ -27,35 +27,36 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](./README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## 主要项目
 
 ### 🚀 Localizeflow（当前项目）
-**GitHub 原生的自动化文档翻译工作流**  
+**GitHub 原生自动化文档翻译工作流**  
 零配置。托管服务。多语言项目自动同步。  
 → https://localizeflow.com
 
-- 自动检测源文件的更改
+- 自动检测源文件变更
 - 仅翻译变更内容
 - 为每种语言打开 PR
-- 构建于 Co-op Translator（Azure 开源项目）之上
+- 基于 Co-op Translator（Azure 开源项目）构建
 
 
 ### **Co-op Translator（微软 Azure 开源项目）**
 
 官方 Azure 开源 CLI，自动化处理 Markdown + 图片内容（OCR）的**多语言翻译**  
-**影响力：** 支持微软教育类仓库的翻译，累计 20 万★+，确保 10 多种语言内容始终保持最新。
+**影响力：** 支持微软教育类仓库翻译，累计 20 万★+，确保 10 多种语言内容始终保持最新。
 
 - 从早期概念验证扩展到生产级 Python CLI
-- 集成 Azure OpenAI + Azure AI Vision 实现翻译和 OCR 自动化
+- 集成 Azure OpenAI + Azure AI Vision 实现翻译与 OCR 自动化
 - 被以下仓库使用：
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- 入选 **Open at Microsoft** 开源展示
+- 入选 **Open at Microsoft** 开源项目展示
 - 荣获 **微软 AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -99,22 +100,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## 统计与活动
+## 统计与活跃度
 <details>
-<summary>查看 GitHub 统计</summary>
+<summary>查看 GitHub 统计数据</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>最近活动</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ 关闭了 PR [#26](../../undefined) 于 [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 联系我

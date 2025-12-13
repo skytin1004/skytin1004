@@ -1,13 +1,13 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:13:22+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:08:02+00:00",
   "source_file": "README.md",
   "language_code": "es"
 }
 -->
-![Banner de encabezado](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # ¡Hola, soy Minseok Song!
 
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Mantenedor OSS de [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Me encanta crear herramientas para desarrolladores de código abierto impulsadas por IA que escalan globalmente, convirtiendo conceptos en etapa temprana en soluciones listas para producción con impacto real.
+Me encanta crear herramientas para desarrolladores impulsadas por IA y de código abierto que escalan globalmente, convirtiendo conceptos en etapa temprana en soluciones listas para producción con impacto real.
 
 ### 🌐 Soporte Multilingüe
 
@@ -27,13 +27,14 @@ Me encanta crear herramientas para desarrolladores de código abierto impulsadas
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](./README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Proyecto Clave
 
 ### 🚀 Localizeflow (Proyecto Actual)
 **Flujo de trabajo automatizado de traducción de documentación nativo de GitHub**  
-Sin configuración. Hospedado. Auto-sincronización para proyectos multilingües.  
+Sin configuración. Hospedado. Sincronización automática para proyectos multilingües.  
 → https://localizeflow.com
 
 - Detecta automáticamente cambios en tus archivos fuente
@@ -48,8 +49,8 @@ Una CLI oficial de Azure OSS que automatiza **traducciones multilingües** para 
 **Impacto:** Potencia las traducciones para repositorios educativos de Microsoft con más de 200k★, asegurando contenido siempre actualizado en más de 10 idiomas.
 
 - Escalado de PoC inicial → CLI Python de nivel producción
-- Integró Azure OpenAI + Azure AI Vision para traducción + automatización OCR
-- Usado por repos como:
+- Integración de Azure OpenAI + Azure AI Vision para traducción + automatización OCR
+- Usado por repositorios como:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -101,20 +102,11 @@ Una CLI oficial de Azure OSS que automatiza **traducciones multilingües** para 
 
 ## Estadísticas y Actividad
 <details>
-<summary>Ver estadísticas de GitHub</summary>
+<summary>Ver Estadísticas de GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Actividad Reciente</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ PR cerrado [#26](../../undefined) en [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Conéctate conmigo

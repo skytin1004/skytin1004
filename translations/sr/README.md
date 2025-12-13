@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:31:24+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:24:39+00:00",
   "source_file": "README.md",
   "language_code": "sr"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Здраво, ја сам Минсеок Сонг!
+# Здраво, ја сам Минсеок Сонг! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -27,18 +27,19 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](./README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Кључни пројекат
 
 ### 🚀 Localizeflow (Тренутни пројекат)
 **GitHub-нативни аутоматизовани ток рада за превод документације**  
-Нема подешавања. Хостовано. Аутоматска синхронизација за вишезичне пројекте.  
+Нема потребе за подешавањем. Хостовано. Аутоматска синхронизација за вишезичне пројекте.  
 → https://localizeflow.com
 
 - Аутоматски детектује промене у вашим изворним фајловима
 - Преводи само оно што је променљено
-- Отвара PR-ове за сваки језик
+- Отвара PR за сваки језик
 - Изграђен на врху Co-op Translator (Azure OSS)
 
 
@@ -47,8 +48,8 @@ CO_OP_TRANSLATOR_METADATA:
 Званични Azure OSS CLI који аутоматизује **вишезичне преводе** за Markdown + садржај слика (OCR)  
 **Утицај:** Омогућава преводе за Microsoft образовне репозиторијуме са укупно преко 200к★, обезбеђујући увек ажуриран садржај на више од 10 језика.
 
-- Развијен од раног PoC → производни Python CLI
-- Интегрисан Azure OpenAI + Azure AI Vision за превод + OCR аутоматизацију
+- Развијен од раног PoC до производног Python CLI
+- Интегрисан Azure OpenAI + Azure AI Vision за превод и OCR аутоматизацију
 - Користе га репозиторијуми као што су:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -106,15 +107,6 @@ CO_OP_TRANSLATOR_METADATA:
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Недавна активност</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Затворен PR [#26](../../undefined) у [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Повежите се са мном

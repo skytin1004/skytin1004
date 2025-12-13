@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:36:36+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:28:54+00:00",
   "source_file": "README.md",
   "language_code": "ml"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# ഹായ്, ഞാൻ മിൻസിയോക് സോങ് ആണ്!
+# ഹായ്, ഞാൻ മിൻസിയോക് സോങ്!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) എന്ന ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റിന്റെ പരിപാലകൻ**
 
-ആഗോളതലത്തിൽ വ്യാപിക്കുന്ന AI-സഹായിത, ഓപ്പൺ സോഴ്‌സ് ഡെവലപ്പർ ടൂളുകൾ നിർമ്മിക്കാൻ ഞാൻ ഇഷ്ടപ്പെടുന്നു, തുടക്ക ഘട്ട ആശയങ്ങളെ യഥാർത്ഥ പ്രഭാവമുള്ള ഉത്പാദന-സജ്ജമായ പരിഹാരങ്ങളായി മാറ്റുന്നു.
+ആഗോളതലത്തിൽ വ്യാപിക്കുന്ന, എഐ-സഹായിത, ഓപ്പൺ സോഴ്‌സ് ഡെവലപ്പർ ടൂളുകൾ നിർമ്മിക്കാൻ ഞാൻ ഇഷ്ടപ്പെടുന്നു, തുടക്ക ഘട്ട ആശയങ്ങളെ യാഥാർത്ഥ്യത്തിൽ പ്രയോഗിക്കാൻ ഉത്പാദന-സജ്ജമായ പരിഹാരങ്ങളായി മാറ്റുന്നു.
 
 ### 🌐 ബഹുഭാഷാ പിന്തുണ
 
@@ -27,12 +27,13 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](./README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## പ്രധാന പ്രോജക്റ്റ്
 
 ### 🚀 Localizeflow (നിലവിലെ പ്രോജക്റ്റ്)
-**GitHub-സ്വദേശീയ സ്വയം പ്രവർത്തിക്കുന്ന ഡോക്യുമെന്റേഷൻ വിവർത്തന പ്രവാഹം**  
+**GitHub-സ്വദേശീയമായ സ്വയം പ്രവർത്തിക്കുന്ന ഡോക്യുമെന്റേഷൻ വിവർത്തന പ്രവാഹം**  
 സെറ്റപ്പ് വേണ്ട. ഹോസ്റ്റുചെയ്തത്. ബഹുഭാഷാ പ്രോജക്റ്റുകൾക്കായി ഓട്ടോ-സിങ്ക്.  
 → https://localizeflow.com
 
@@ -45,9 +46,9 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Markdown + ഇമേജ് ഉള്ളടക്കത്തിനായുള്ള **ബഹുഭാഷാ വിവർത്തനങ്ങൾ** സ്വയം പ്രവർത്തിപ്പിക്കുന്ന ഔദ്യോഗിക Azure OSS CLI  
-**പ്രഭാവം:** 10+ ഭാഷകളിൽ എപ്പോഴും പുതുക്കപ്പെട്ട ഉള്ളടക്കം ഉറപ്പാക്കുന്ന Microsoft വിദ്യാഭ്യാസ റിപോസിറ്ററികൾക്ക് 200k★+ ത്തിന്റെ വിവർത്തനങ്ങൾ ശക്തിപ്പെടുത്തുന്നു.
+**പ്രഭാവം:** 10+ ഭാഷകളിൽ എപ്പോഴും പുതുക്കപ്പെട്ട ഉള്ളടക്കം ഉറപ്പാക്കുന്ന Microsoft വിദ്യാഭ്യാസ റിപോസിറ്ററികൾക്ക് 200k★+ സ്റ്റാർസുള്ള വിവർത്തനങ്ങൾ നൽകുന്നു.
 
-- തുടക്കത്തിലെ PoC-ൽ നിന്ന് ഉത്പാദന-നിലവാര Python CLI ആയി വികസിപ്പിച്ചു
+- തുടക്കത്തിലെ PoC-യിൽ നിന്ന് ഉത്പാദന-നിലവാര Python CLI ആയി വികസിപ്പിച്ചു
 - വിവർത്തനത്തിനും OCR ഓട്ടോമേഷനും Azure OpenAI + Azure AI Vision സംയോജിപ്പിച്ചു
 - താഴെപ്പറയുന്ന റിപോസിറ്ററികൾ ഉപയോഗിക്കുന്നു:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -74,7 +75,7 @@ Markdown + ഇമേജ് ഉള്ളടക്കത്തിനായുള�
 </p>
 
 - [Open at Microsoft – Co-op Translator ഉപയോഗിച്ച് ബഹുഭാഷാ ആക്സസിബിലിറ്റി തുറക്കുന്നു](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure-യിൽ AI പരിഹാരങ്ങൾ വികസിപ്പിക്കാൻ പദ്ധതി തയ്യാറാക്കുക](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Azure-യിൽ AI പരിഹാരങ്ങൾ വികസിപ്പിക്കാൻ പദ്ധതിയിടുകയും തയ്യാറെടുക്കുകയും ചെയ്യുക](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -106,15 +107,6 @@ Markdown + ഇമേജ് ഉള്ളടക്കത്തിനായുള�
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>സമീപകാല പ്രവർത്തനങ്ങൾ</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004) ലെ PR [#26](../../undefined) അടച്ചു
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 എന്നെ ബന്ധപ്പെടുക

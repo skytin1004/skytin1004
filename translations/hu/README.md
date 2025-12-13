@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:29:03+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:22:39+00:00",
   "source_file": "README.md",
   "language_code": "hu"
 }
@@ -27,6 +27,7 @@ Szeretek AI-alapú, nyílt forráskódú fejlesztői eszközöket építeni, ame
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](./README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Fő projekt
@@ -39,17 +40,17 @@ Nulla beállítás. Hosztolt. Automatikus szinkronizálás többnyelvű projekte
 - Automatikusan észleli a forrásfájlok változásait
 - Csak a változásokat fordítja le
 - Minden nyelvhez PR-eket nyit
-- A Co-op Translator (Azure OSS) tetejére építve
+- A Co-op Translator (Azure OSS) alapjaira épül
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításokat** Markdown + képtartalom (OCR) esetén  
-**Hatás:** Több mint 200k★-t elérő Microsoft oktatási tárolók fordításait támogatja, biztosítva a mindig friss tartalmat 10+ nyelven.
+**Hatás:** Több mint 200k★-t elérő Microsoft oktatási tárolók fordítását támogatja, biztosítva a mindig friss tartalmat 10+ nyelven.
 
 - Korai PoC-ból → éles, termelési szintű Python CLI-vé nőtte ki magát
-- Integrált Azure OpenAI + Azure AI Vision fordításhoz + OCR automatizáláshoz
-- Használják például:
+- Integrálta az Azure OpenAI + Azure AI Vision szolgáltatásokat fordításhoz és OCR automatizáláshoz
+- Használják olyan tárolók, mint:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -80,7 +81,7 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 
 ## Elismerések
 - **Microsoft Legértékesebb Szakértő (AI)** 2024–2025
-- **1. helyezett**, Inha Egyetem Nyílt Forráskódú Fesztivál (Co-op Translator)
+- **1. helyezés**, Inha Egyetem Nyílt Forráskód Fesztivál (Co-op Translator)
 - **Győztes**, Microsoft Korea Azurethon (Prompt Engineering kategória)
 - **3× Legnézettebb Blogger**, Microsoft Educator Developer Blog
 
@@ -106,15 +107,6 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Legutóbbi tevékenység</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Bezárt PR [#26](../../undefined) a [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004) projektben
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Kapcsolat velem

@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:32:32+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:25:27+00:00",
   "source_file": "README.md",
   "language_code": "sl"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Živjo, jaz sem Minseok Song!
+# Živjo, jaz sem Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS vzdrževalec [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Rad ustvarjam AI-podprta, odprtokodna orodja za razvijalce, ki se globalno širijo in zgodnje koncepte spreminjajo v rešitve, pripravljene za produkcijo z resničnim vplivom.
+Rad ustvarjam AI-podprta, odprtokodna orodja za razvijalce, ki se globalno razširijo in zgodnje koncepte spremenijo v rešitve, pripravljene za produkcijo z resničnim vplivom.
 
 ### 🌐 Podpora več jezikom
 
@@ -27,6 +27,7 @@ Rad ustvarjam AI-podprta, odprtokodna orodja za razvijalce, ki se globalno širi
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](./README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Ključni projekt
@@ -45,11 +46,11 @@ Brez nastavitve. Gostovano. Samodejna sinhronizacija za večjezične projekte.
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Uradni Azure OSS CLI, ki avtomatizira **večjezične prevode** za Markdown + vsebino slik (OCR)  
-**Vpliv:** Poganja prevode za Microsoftove izobraževalne repozitorije s skupno 200k★+, zagotavlja vedno posodobljeno vsebino v več kot 10 jezikih.
+**Vpliv:** Omogoča prevode za Microsoftove izobraževalne repozitorije s skupno 200k★+, zagotavljajoč vedno posodobljeno vsebino v več kot 10 jezikih.
 
 - Razvito iz zgodnjega PoC → produkcijski Python CLI
 - Integriran Azure OpenAI + Azure AI Vision za prevajanje + avtomatizacijo OCR
-- Uporablja se v repozitorijih, kot so:
+- Uporabljajo repozitoriji, kot so:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -106,15 +107,6 @@ Uradni Azure OSS CLI, ki avtomatizira **večjezične prevode** za Markdown + vse
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Nedavna aktivnost</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Zaprt PR [#26](../../undefined) v [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Poveži se z mano

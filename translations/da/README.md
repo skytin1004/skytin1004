@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f07ab08c1a59656891e5a30800723f5a",
-  "translation_date": "2025-12-12T01:24:10+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-13T11:18:34+00:00",
   "source_file": "README.md",
   "language_code": "da"
 }
@@ -20,13 +20,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 Jeg elsker at bygge AI-drevne, open-source udviklerværktøjer, der skalerer globalt og forvandler tidlige koncepter til produktionsklare løsninger med reel effekt.
 
-### 🌐 Flersproget Support
+### 🌐 Multisproget Support
 
 #### Understøttet af [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](./README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Nøgleprojekt
@@ -45,11 +46,11 @@ Ingen opsætning. Hosted. Auto-synkronisering for flersprogede projekter.
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 En officiel Azure OSS CLI, der automatiserer **flersprogede oversættelser** for Markdown + billedindhold (OCR)  
-**Indflydelse:** Driver oversættelser for Microsoft uddannelsesrepositories med over 200k★, og sikrer altid opdateret indhold på 10+ sprog.
+**Indflydelse:** Driver oversættelser for Microsofts uddannelsesrepositories med over 200k★, hvilket sikrer altid opdateret indhold på 10+ sprog.
 
 - Skaleret fra tidlig PoC → produktionsklar Python CLI
 - Integreret Azure OpenAI + Azure AI Vision til oversættelse + OCR-automatisering
-- Bruges af repos som:
+- Bruges af repositories som:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -106,15 +107,6 @@ En officiel Azure OSS CLI, der automatiserer **flersprogede oversættelser** for
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<details>
-<summary>Seneste Aktivitet</summary>
-
-<!--START_SECTION:activity-->
-1. ❌ Lukket PR [#26](../../undefined) i [skytin1004/skytin1004](https://github.com/skytin1004/skytin1004)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ## 📫 Forbind med mig
