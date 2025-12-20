@@ -1,24 +1,24 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:37:53+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:19:29+00:00",
   "source_file": "README.md",
   "language_code": "ru"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Привет, я Минсок Сонг!
+# Привет, я Минсок Сонг! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
 **Создатель [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Поддерживающий разработчик OSS проекта [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Поддерживающий OSS проекта [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Я люблю создавать инструменты для разработчиков с поддержкой ИИ с открытым исходным кодом, которые масштабируются по всему миру, превращая ранние концепции в готовые к производству решения с реальным воздействием.
+Я люблю создавать инструменты для разработчиков с поддержкой ИИ и открытым исходным кодом, которые масштабируются по всему миру, превращая ранние концепции в готовые к производству решения с реальным воздействием.
 
 ### 🌐 Поддержка нескольких языков
 
@@ -48,8 +48,8 @@ CO_OP_TRANSLATOR_METADATA:
 Официальный CLI Azure OSS, который автоматизирует **многоязычные переводы** для Markdown и изображений (OCR)  
 **Влияние:** Обеспечивает переводы для образовательных репозиториев Microsoft с общим рейтингом 200k★+, гарантируя всегда актуальный контент на 10+ языках.
 
-- Развитие от раннего PoC до производственного Python CLI
-- Интеграция Azure OpenAI + Azure AI Vision для автоматизации перевода и OCR
+- Масштабировался от раннего PoC до производственного Python CLI
+- Интегрирован с Azure OpenAI + Azure AI Vision для автоматизации перевода и OCR
 - Используется в репозиториях, таких как:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -57,7 +57,7 @@ CO_OP_TRANSLATOR_METADATA:
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - Представлен в демонстрации OSS **Open at Microsoft**
-- Награждён званием **Microsoft AI MVP 2025**
+- Получил звание **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 

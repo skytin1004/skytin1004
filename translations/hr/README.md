@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:53:58+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:35:25+00:00",
   "source_file": "README.md",
   "language_code": "hr"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Bok, ja sam Minseok Song!
+# Bok, ja sam Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -32,24 +32,24 @@ Volim graditi AI-pokretane, open-source alate za programere koji se globalno ska
 
 ## Ključni projekt
 
-### 🚀 Localizeflow (trenutni projekt)
+### 🚀 Localizeflow (Trenutni projekt)
 **GitHub-native automatizirani tijek rada za prijevod dokumentacije**  
-Nema potrebe za postavkama. Hostano. Automatska sinkronizacija za višelingvalne projekte.  
+Nema potrebe za postavkama. Hostano. Automatska sinkronizacija za višejezične projekte.  
 → https://localizeflow.com
 
 - Automatski detektira promjene u vašim izvornim datotekama
 - Prevodi samo ono što se promijenilo
 - Otvara PR-ove za svaki jezik
-- Izgrađeno na Co-op Translatoru (Azure OSS)
+- Izgrađeno na vrhu Co-op Translatora (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Službeni Azure OSS CLI koji automatizira **višelingvalne prijevode** za Markdown + sadržaj slika (OCR)  
+Službeni Azure OSS CLI koji automatizira **višejezične prijevode** za Markdown + sadržaj slika (OCR)  
 **Utjecaj:** Pokreće prijevode za Microsoftove obrazovne repozitorije s ukupno preko 200k★, osiguravajući uvijek ažuriran sadržaj na 10+ jezika.
 
 - Razvijen od rane PoC faze do produkcijskog Python CLI-ja
-- Integrirani Azure OpenAI + Azure AI Vision za prijevod + OCR automatizaciju
+- Integriran Azure OpenAI + Azure AI Vision za prijevod + OCR automatizaciju
 - Koriste ga repozitoriji poput:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -74,7 +74,7 @@ Službeni Azure OSS CLI koji automatizira **višelingvalne prijevode** za Markdo
   </a>
 </p>
 
-- [Open at Microsoft – Otključavanje višelingvalne pristupačnosti s Co-op Translatorom](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Otključavanje višejezične pristupačnosti s Co-op Translatorom](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Planirajte i pripremite se za razvoj AI rješenja na Azureu](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
@@ -102,14 +102,14 @@ Službeni Azure OSS CLI koji automatizira **višelingvalne prijevode** za Markdo
 
 ## Statistika i aktivnost
 <details>
-<summary>Pogledaj GitHub statistiku</summary>
+<summary>Pogledajte GitHub statistiku</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
-## 📫 Poveži se sa mnom
+## 📫 Povežite se sa mnom
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

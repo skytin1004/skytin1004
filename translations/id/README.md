@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:49:43+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:31:24+00:00",
   "source_file": "README.md",
   "language_code": "id"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hai, saya Minseok Song!
+# Hai, saya Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Pemelihara OSS dari [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Saya suka membangun alat pengembang open-source bertenaga AI yang dapat diskalakan secara global, mengubah konsep tahap awal menjadi solusi siap produksi dengan dampak nyata.
+Saya suka membangun alat pengembang open-source bertenaga AI yang dapat diskalakan secara global mengubah konsep tahap awal menjadi solusi siap produksi dengan dampak nyata.
 
 ### 🌐 Dukungan Multi-Bahasa
 
@@ -45,7 +45,7 @@ Tanpa pengaturan. Di-host. Sinkronisasi otomatis untuk proyek multibahasa.
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-CLI OSS resmi Azure yang mengotomatisasi **terjemahan multibahasa** untuk konten Markdown + gambar (OCR)  
+CLI resmi Azure OSS yang mengotomatisasi **terjemahan multibahasa** untuk konten Markdown + gambar (OCR)  
 **Dampak:** Mendukung terjemahan untuk repositori edukasi Microsoft dengan total 200k★+, memastikan konten selalu diperbarui dalam 10+ bahasa.
 
 - Berkembang dari PoC awal → CLI Python tingkat produksi

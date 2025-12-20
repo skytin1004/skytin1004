@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:50:08+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:31:50+00:00",
   "source_file": "README.md",
   "language_code": "ms"
 }
@@ -49,8 +49,8 @@ CLI OSS rasmi Azure yang mengautomasikan **terjemahan berbilang bahasa** untuk k
 **Impak:** Menyokong terjemahan untuk repositori pendidikan Microsoft dengan jumlah 200k★+, memastikan kandungan sentiasa dikemas kini dalam 10+ bahasa.
 
 - Diskalakan dari PoC awal → CLI Python tahap produksi
-- Mengintegrasikan Azure OpenAI + Azure AI Vision untuk terjemahan + automasi OCR
-- Digunakan oleh repositori seperti:
+- Mengintegrasi Azure OpenAI + Azure AI Vision untuk terjemahan + automasi OCR
+- Digunakan oleh repos seperti:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)

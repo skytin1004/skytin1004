@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:36:15+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:18:05+00:00",
   "source_file": "README.md",
   "language_code": "fr"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Mainteneur OSS de [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-J'adore créer des outils développeurs open-source propulsés par l'IA qui s'adaptent à l'échelle mondiale, transformant des concepts en phase initiale en solutions prêtes pour la production avec un impact réel.
+J'adore créer des outils développeurs open-source propulsés par l'IA qui s'étendent à l'échelle mondiale, transformant des concepts en phase initiale en solutions prêtes pour la production avec un impact réel.
 
 ### 🌐 Support Multilingue
 
@@ -40,7 +40,7 @@ Aucune configuration. Hébergé. Synchronisation automatique pour projets multil
 - Détecte automatiquement les modifications dans vos fichiers source
 - Traduit uniquement ce qui a changé
 - Ouvre des PR pour chaque langue
-- Construit sur Co-op Translator (OSS Azure)
+- Construit sur Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
@@ -57,7 +57,7 @@ Un CLI OSS officiel Azure qui automatise les **traductions multilingues** pour l
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - Présenté dans la vitrine OSS **Open at Microsoft**
-- Lauréat du titre **Microsoft AI MVP 2025**
+- Lauréat du **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 

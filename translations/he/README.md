@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:49:01+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:30:40+00:00",
   "source_file": "README.md",
   "language_code": "he"
 }
@@ -16,7 +16,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **יוצר של [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • אחראי על קוד פתוח של [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • אחראי על תחזוקת OSS של [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
 אני אוהב לבנות כלים למפתחים מבוססי AI בקוד פתוח שמתרחבים גלובלית והופכים רעיונות בשלב מוקדם לפתרונות מוכנים לייצור עם השפעה אמיתית.
 
@@ -39,16 +39,16 @@ CO_OP_TRANSLATOR_METADATA:
 
 - מזהה שינויים בקבצי המקור שלך באופן אוטומטי
 - מתרגם רק את מה שהשתנה
-- פותח pull requests לכל שפה
-- מבוסס על Co-op Translator (קוד פתוח של Azure)
+- פותח PR עבור כל שפה
+- מבוסס על Co-op Translator (Azure OSS)
 
 
-### **Co-op Translator (קוד פתוח של Microsoft Azure)**
+### **Co-op Translator (Microsoft Azure OSS)**
 
-כלי שורת פקודה רשמי של Azure OSS שמאוטומט תרגומים **רב-לשוניים** לתוכן Markdown + תמונות (OCR)  
-**השפעה:** מפעיל תרגומים עבור מאגרי קוד חינוכיים של מיקרוסופט עם מעל 200k★, ומבטיח תוכן מעודכן תמיד ב-10+ שפות.
+כלי CLI רשמי של Azure OSS שמאוטומט **תרגומים רב-לשוניים** לתוכן Markdown + תמונות (OCR)  
+**השפעה:** מפעיל תרגומים עבור מאגרי חינוך של מיקרוסופט עם מעל 200k★, ומבטיח תוכן מעודכן תמיד ב-10+ שפות.
 
-- התפתח מ-PoC ראשוני → כלי Python ברמת ייצור
+- התפתח מ-PoC מוקדם → CLI ברמת ייצור בפייתון
 - משולב עם Azure OpenAI + Azure AI Vision לתרגום + אוטומציה של OCR
 - בשימוש במאגרים כמו:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -57,7 +57,7 @@ CO_OP_TRANSLATOR_METADATA:
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - הוצג בתערוכת OSS של **Open at Microsoft**
-- זכה בתואר **Microsoft AI MVP 2025**
+- זכה ב-**Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -82,7 +82,7 @@ CO_OP_TRANSLATOR_METADATA:
 ## הכרה
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **מקום ראשון**, פסטיבל קוד פתוח של אוניברסיטת Inha (Co-op Translator)
-- **זוכה**, תחרות Azurethon של מיקרוסופט קוריאה (קטגוריית הנדסת פרומפטים)
+- **זוכה**, Microsoft Korea Azurethon (קטגוריית הנדסת פרומפט)
 - **3× הבלוגר הנצפה ביותר**, בלוג מפתחי חינוך של מיקרוסופט
 
 ---

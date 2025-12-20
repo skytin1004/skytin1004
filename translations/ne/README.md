@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:43:13+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:24:42+00:00",
   "source_file": "README.md",
   "language_code": "ne"
 }
@@ -14,7 +14,7 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) का निर्माता**
+**[Localizeflow](https://localizeflow.com) का स्रष्टा**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) का OSS मर्मतकर्ता**
 
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 ## प्रमुख परियोजना
 
 ### 🚀 Localizeflow (हालको परियोजना)
-**GitHub-नेटिभ स्वचालित कागजात अनुवाद कार्यप्रवाह**  
+**GitHub-स्वदेशी स्वचालित कागजात अनुवाद कार्यप्रवाह**  
 शून्य सेटअप। होस्ट गरिएको। बहुभाषी परियोजनाहरूको लागि अटो-सिंक।  
 → https://localizeflow.com
 
@@ -46,9 +46,9 @@ CO_OP_TRANSLATOR_METADATA:
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Markdown + छवि सामग्री (OCR) का लागि **बहुभाषी अनुवादहरू** स्वचालित गर्ने आधिकारिक Azure OSS CLI  
-**प्रभाव:** Microsoft शैक्षिक रिपोजिटोरीहरूमा 200k★+ को कुल अनुवादहरूलाई सशक्त बनाउँछ, १०+ भाषाहरूमा सधैं अपडेट गरिएको सामग्री सुनिश्चित गर्दै।
+**प्रभाव:** Microsoft शैक्षिक रिपोजिटोरीहरूका लागि 200k★+ भन्दा बढी अनुवादहरू सशक्त पार्दै, १०+ भाषाहरूमा सधैं अपडेट गरिएको सामग्री सुनिश्चित गर्दछ।
 
-- प्रारम्भिक PoC बाट उत्पादन-स्तरको Python CLI सम्म विस्तार
+- प्रारम्भिक PoC बाट उत्पादन-स्तर Python CLI सम्म विस्तार
 - अनुवाद र OCR स्वचालनका लागि Azure OpenAI + Azure AI Vision एकीकृत
 - निम्न रिपोजिटोरीहरूद्वारा प्रयोग गरिएको:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -57,7 +57,7 @@ Markdown + छवि सामग्री (OCR) का लागि **बहु
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - **Open at Microsoft** OSS प्रदर्शनमा समावेश
-- **Microsoft AI MVP 2025** प्राप्त
+- **Microsoft AI MVP 2025** प्राप्तकर्ता
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -75,7 +75,7 @@ Markdown + छवि सामग्री (OCR) का लागि **बहु
 </p>
 
 - [Open at Microsoft – Co-op Translator सँग बहुभाषी पहुँचयोग्यता अनलक गर्दै](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure मा AI समाधान विकास गर्न योजना र तयारी गर्नुहोस्](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Azure मा AI समाधान विकास गर्न योजना र तयारी](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -83,7 +83,7 @@ Markdown + छवि सामग्री (OCR) का लागि **बहु
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **१औं स्थान**, Inha University Open Source Festival (Co-op Translator)
 - **विजेता**, Microsoft Korea Azurethon (Prompt Engineering वर्ग)
-- **३× सबैभन्दा धेरै हेरिएको ब्लगर**, Microsoft Educator Developer Blog
+- **3× सबैभन्दा धेरै हेरिएको ब्लगर**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,9 +100,9 @@ Markdown + छवि सामग्री (OCR) का लागि **बहु
 
 ---
 
-## तथ्यांक र गतिविधि
+## तथ्याङ्क र गतिविधि
 <details>
-<summary>GitHub तथ्यांक हेर्नुहोस्</summary>
+<summary>GitHub तथ्याङ्क हेर्नुहोस्</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

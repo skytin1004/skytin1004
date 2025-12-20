@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:40:39+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:22:13+00:00",
   "source_file": "README.md",
   "language_code": "tw"
 }
@@ -40,23 +40,23 @@ CO_OP_TRANSLATOR_METADATA:
 - 自動偵測原始檔案變更
 - 只翻譯變更部分
 - 為每種語言開啟 PR
-- 建構於 Co-op Translator（Azure 開源專案）之上
+- 建構於 Co-op Translator（Azure OSS）之上
 
 
-### **Co-op Translator（Microsoft Azure 開源專案）**
+### **Co-op Translator（Microsoft Azure OSS）**
 
-官方 Azure 開源 CLI，自動化處理 Markdown + 圖像內容（OCR）的**多語言翻譯**  
-**影響力：** 為 Microsoft 教育相關倉庫提供翻譯，累計超過 20 萬星，確保 10 多種語言內容持續更新。
+官方 Azure OSS CLI，自動化處理 Markdown + 圖像內容（OCR）的**多語言翻譯**  
+**影響力：** 為 Microsoft 教育類倉庫提供翻譯，累計超過 20 萬★，確保 10 多種語言內容持續更新。
 
 - 從早期概念驗證擴展至生產級 Python CLI
 - 整合 Azure OpenAI + Azure AI Vision 進行翻譯與 OCR 自動化
 - 被以下倉庫採用：
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners)（84k★）
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners)（72k★）
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners)（37k★）
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners)（17k★）
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook)（3k★）
-- 入選 **Open at Microsoft** 開源專案展示
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
+- 入選 **Open at Microsoft** OSS 展示
 - 榮獲 **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -75,7 +75,7 @@ CO_OP_TRANSLATOR_METADATA:
 </p>
 
 - [Open at Microsoft – 使用 Co-op Translator 解鎖多語言無障礙](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – 計劃與準備在 Azure 上開發 AI 解決方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – 在 Azure 上規劃與準備開發 AI 解決方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -83,7 +83,7 @@ CO_OP_TRANSLATOR_METADATA:
 - **Microsoft 最有價值專家 (AI)** 2024–2025
 - 仁荷大學開源節冠軍（Co-op Translator）
 - 微軟韓國 Azurethon 冠軍（提示工程類別）
-- 微軟教育者開發者部落格三度最高瀏覽量博主
+- 微軟教育開發者部落格三度最高瀏覽量博主
 
 ---
 

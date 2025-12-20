@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:48:34+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:30:15+00:00",
   "source_file": "README.md",
   "language_code": "nl"
 }
@@ -38,7 +38,7 @@ Geen setup nodig. Gehost. Automatische synchronisatie voor meertalige projecten.
 → https://localizeflow.com
 
 - Detecteert automatisch wijzigingen in je bronbestanden
-- Vertaalt alleen wat is veranderd
+- Vertaalt alleen wat veranderd is
 - Opent PR's voor elke taal
 - Gebouwd bovenop Co-op Translator (Azure OSS)
 
@@ -46,10 +46,10 @@ Geen setup nodig. Gehost. Automatische synchronisatie voor meertalige projecten.
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor Markdown + afbeeldingsinhoud (OCR)  
-**Impact:** Zorgt voor vertalingen van Microsoft educatieve repositories met in totaal meer dan 200k★, waardoor inhoud altijd up-to-date is in meer dan 10 talen.
+**Impact:** Zorgt voor vertalingen van Microsoft educatieve repositories met in totaal 200k★+, waardoor inhoud altijd up-to-date is in meer dan 10 talen.
 
 - Geschaald van vroege PoC → productieklare Python CLI
-- Geïntegreerd met Azure OpenAI + Azure AI Vision voor vertaling + OCR-automatisering
+- Geïntegreerde Azure OpenAI + Azure AI Vision voor vertaling + OCR-automatisering
 - Gebruikt door repositories zoals:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)

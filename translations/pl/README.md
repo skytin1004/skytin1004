@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "ab9e432c0a28654bf4f8621f981d52ab",
-  "translation_date": "2025-12-13T11:45:13+00:00",
+  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
+  "translation_date": "2025-12-13T15:26:51+00:00",
   "source_file": "README.md",
   "language_code": "pl"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Cześć, jestem Minseok Song!
+# Cześć, jestem Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -34,7 +34,7 @@ Uwielbiam tworzyć narzędzia dla programistów oparte na AI, open-source, któr
 
 ### 🚀 Localizeflow (Aktualny projekt)
 **Natywny dla GitHub automatyczny workflow tłumaczenia dokumentacji**  
-Zero konfiguracji. Hostowane. Automatyczna synchronizacja dla projektów wielojęzycznych.  
+Zero konfiguracji. Hostowane. Auto-synchronizacja dla projektów wielojęzycznych.  
 → https://localizeflow.com
 
 - Automatycznie wykrywa zmiany w plikach źródłowych
@@ -46,10 +46,10 @@ Zero konfiguracji. Hostowane. Automatyczna synchronizacja dla projektów wieloj�
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Oficjalne CLI Azure OSS automatyzujące **wielojęzyczne tłumaczenia** dla treści Markdown + obrazów (OCR)  
-**Wpływ:** Obsługuje tłumaczenia dla repozytoriów edukacyjnych Microsoft o łącznej liczbie 200k★+, zapewniając zawsze aktualne treści w ponad 10 językach.
+**Wpływ:** Obsługuje tłumaczenia dla edukacyjnych repozytoriów Microsoft o łącznej liczbie 200k★+, zapewniając zawsze aktualne treści w ponad 10 językach.
 
 - Rozwój od wczesnego PoC do produkcyjnego CLI w Pythonie
-- Integracja Azure OpenAI + Azure AI Vision do tłumaczeń i automatyzacji OCR
+- Zintegrowano Azure OpenAI + Azure AI Vision do tłumaczeń i automatyzacji OCR
 - Używane przez repozytoria takie jak:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
@@ -74,7 +74,7 @@ Oficjalne CLI Azure OSS automatyzujące **wielojęzyczne tłumaczenia** dla tre�
   </a>
 </p>
 
-- [Open at Microsoft – Odblokowanie wielojęzycznej dostępności dzięki Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Odblokowanie wielojęzycznej dostępności z Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Planowanie i przygotowanie do tworzenia rozwiązań AI na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
