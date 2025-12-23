@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:32:10+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:35:37+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Banner ng Header](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hi, I'm Minseok Song! 
+# Hi, ako si Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS Maintainer ng [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Mahilig akong gumawa ng mga AI-powered, open-source na mga tool para sa mga developer na kayang mag-scale sa buong mundo, na nagbabago ng mga konsepto sa maagang yugto tungo sa mga solusyong handa na para sa produksyon na may tunay na epekto.
+Mahilig akong gumawa ng mga pinapagana ng AI, open-source na mga tool para sa developer na kayang mag-scale sa buong mundo, na naglilipat ng mga konsepto sa maagang yugto tungo sa mga production-ready na solusyon na may tunay na epekto.
 
 ### 🌐 Suporta sa Maramihang Wika
 
@@ -34,36 +34,36 @@ Mahilig akong gumawa ng mga AI-powered, open-source na mga tool para sa mga deve
 
 ### 🚀 Localizeflow (Kasalukuyang Proyekto)
 **GitHub-native na awtomatikong workflow para sa pagsasalin ng dokumentasyon**  
-Walang setup. Hosted. Auto-sync para sa mga multilingual na proyekto.  
+Walang setup. Naka-host. Awtomatikong pag-sync para sa mga proyekto sa maramihang wika.  
 → https://localizeflow.com
 
-- Awtomatikong nadedetect ang mga pagbabago sa iyong mga source file
+- Awtomatikong natutukoy ang mga pagbabago sa iyong mga source file
 - Isinasalin lamang ang mga nagbago
-- Nagbubukas ng PR para sa bawat wika
-- Naitayo sa ibabaw ng Co-op Translator (Azure OSS)
+- Nagbubukas ng PRs para sa bawat wika
+- Nabuo gamit ang Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Isang opisyal na Azure OSS CLI na nag-aautomat ng **multilingual na pagsasalin** para sa Markdown + nilalaman ng imahe (OCR)  
-**Epekto:** Pinapagana ang mga pagsasalin para sa mga Microsoft educational repositories na may kabuuang 200k★+, na tinitiyak ang palaging napapanahong nilalaman sa 10+ na mga wika.
+Isang opisyal na Azure OSS CLI na nag-a-automate ng **maramihang pagsasalin** para sa Markdown at nilalamang imahe (OCR)  
+**Epekto:** Pinapagana ang pagsasalin para sa mga repositoryo pang-edukasyon ng Microsoft na may kabuuang 200k★+, na tinitiyak na laging napapanahon ang nilalaman sa 10+ wika.
 
-- Lumago mula sa maagang PoC → production-grade Python CLI
-- Pinagsama ang Azure OpenAI + Azure AI Vision para sa pagsasalin + awtomasyon ng OCR
-- Ginagamit ng mga repos tulad ng:
+- Lumago mula sa paunang PoC → production-grade na Python CLI
+- Nagsama ng Azure OpenAI + Azure AI Vision para sa pagsasalin + automation ng OCR
+- Ginagamit ng mga repo tulad ng:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Tampok sa **Open at Microsoft** OSS showcase
-- Nakamit ang **Microsoft AI MVP 2025**
+- Itinatampok sa **Open at Microsoft** OSS showcase
+- Nakatanggap ng **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Mga Talakayan at Media
+## Mga Talumpati at Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -75,15 +75,15 @@ Isang opisyal na Azure OSS CLI na nag-aautomat ng **multilingual na pagsasalin**
 </p>
 
 - [Open at Microsoft – Pagbubukas ng Multilingual Accessibility gamit ang Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planuhin at Ihanda ang Pagbuo ng AI Solutions sa Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Magplano at Maghanda sa Pag-develop ng mga Solusyong AI sa Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Pagkilala
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1st Place**, Inha University Open Source Festival (Co-op Translator)
-- **Nanalo**, Microsoft Korea Azurethon (Prompt Engineering category)
-- **3× Pinakamadalas Tingnang Blogger**, Microsoft Educator Developer Blog
+- **Unang Lugar**, Inha University Open Source Festival (Co-op Translator)
+- **Panalo**, Microsoft Korea Azurethon (kategorya ng Prompt Engineering)
+- **3× Pinaka Maraming Pagtingin na Blogger**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,7 +100,7 @@ Isang opisyal na Azure OSS CLI na nag-aautomat ng **multilingual na pagsasalin**
 
 ---
 
-## Stats at Aktibidad
+## Mga Stats at Aktibidad
 <details>
 <summary>Tingnan ang GitHub Stats</summary>
 

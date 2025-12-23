@@ -1,28 +1,28 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:25:09+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:18:29+00:00",
   "source_file": "README.md",
   "language_code": "pa"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![ਹੈਡਰ ਬੈਨਰ](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# ਸਤ ਸ੍ਰੀ ਅਕਾਲ, ਮੈਂ ਮਿਨਸਿਓਕ ਸੋਂਗ ਹਾਂ! 
+# ਹੈਲੋ, ਮੈਂ Minseok Song ਹਾਂ! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) ਦੇ ਸਿਰਜਣਹਾਰ**
+**[Localizeflow](https://localizeflow.com) ਦਾ ਸਿਰਜਣਹਾਰ**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) ਦੇ OSS ਮੇਨਟੇਨਰ**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) ਦਾ OSS ਮੈਂਟੇਨਰ**
 
-ਮੈਂ ਐਸੇ AI-ਚਲਿਤ, ਖੁੱਲ੍ਹੇ ਸਰੋਤ ਵਿਕਾਸਕ ਸੰਦ ਬਣਾਉਣਾ ਪਸੰਦ ਕਰਦਾ ਹਾਂ ਜੋ ਵਿਸ਼ਵ ਪੱਧਰ 'ਤੇ ਵਧਦੇ ਹਨ ਅਤੇ ਸ਼ੁਰੂਆਤੀ ਦਰਜੇ ਦੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਸਲ ਪ੍ਰਭਾਵ ਵਾਲੇ ਉਤਪਾਦ-ਤਿਆਰ ਹੱਲਾਂ ਵਿੱਚ ਬਦਲਦੇ ਹਨ।
+ਮੈਂ ਐਸੇ AI-ਸਕਤੀਸ਼ালী, ਖੁੱਲੇ ਸਰੋਤ ਡਿਵੈਲਪਰ ਟੂਲ ਬਣਾਉਣ ਪਿਆਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ ਜੋ ਵਿਸ਼ਵ ਪੱਧਰ 'ਤੇ ਸਕੇਲ ਹੋ ਸਕਦੇ ਹਨ ਅਤੇ ਸ਼ੁਰੂਆਤੀ ਧਾਰਣਾਵਾਂ ਨੂੰ ਪ੍ਰੋਡਕਸ਼ਨ-ਯੋਗ ਹਲਾਂ ਵਿੱਚ ਬਦਲਦੇ ਹਨ ਜੋ ਵਾਸਤਵਿਕ ਪ੍ਰਭਾਵ ਪੈਦਾ ਕਰਦੇ ਹਨ।
 
-### 🌐 ਬਹੁਭਾਸ਼ੀ ਸਹਾਇਤਾ
+### 🌐 ਬਹੁ-ਭਾਸ਼ਾਈ ਸਮਰਥਨ
 
-#### [Localizeflow](https://localizeflow.com/) ਵੱਲੋਂ ਸਮਰਥਿਤ
+#### [Localizeflow](https://localizeflow.com/) ਵੱਲੋਂ ਸਹਾਇਤ
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](./README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
@@ -30,40 +30,40 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## ਮੁੱਖ ਪ੍ਰੋਜੈਕਟ
+## ਮਹੱਤਵਪੂਰਨ ਪ੍ਰੋਜੈਕਟ
 
 ### 🚀 Localizeflow (ਮੌਜੂਦਾ ਪ੍ਰੋਜੈਕਟ)
-**GitHub-ਮੂਲ ਆਟੋਮੇਟਿਕ ਦਸਤਾਵੇਜ਼ੀ ਅਨੁਵਾਦ ਵਰਕਫਲੋ**  
-ਕੋਈ ਸੈਟਅਪ ਨਹੀਂ। ਹੋਸਟ ਕੀਤਾ ਗਿਆ। ਬਹੁਭਾਸ਼ੀ ਪ੍ਰੋਜੈਕਟਾਂ ਲਈ ਆਟੋ-ਸਿੰਕ।  
+**GitHub-ਨੈਟਿਵ ਸੁਚਾਲਤ ਡੌਕਯੂਮੈਂਟ ਅਨੁਵਾਦ ਵਰਕਫਲੋ**  
+ਕੋਈ ਸੈਟਅਪ ਨਹੀਂ। ਹੋਸਟ ਕੀਤਾ ਗਿਆ। ਬਹੁ-ਭਾਸ਼ਾਈ ਪ੍ਰੋਜੈਕਟਾਂ ਲਈ ਆਟੋ-ਸਿੰਕ।  
 → https://localizeflow.com
 
-- ਤੁਹਾਡੇ ਸਰੋਤ ਫਾਈਲਾਂ ਵਿੱਚ ਬਦਲਾਅ ਨੂੰ ਆਪਣੇ ਆਪ ਪਛਾਣਦਾ ਹੈ
-- ਸਿਰਫ਼ ਬਦਲੇ ਗਏ ਹਿੱਸੇ ਦਾ ਅਨੁਵਾਦ ਕਰਦਾ ਹੈ
+- ਤੁਹਾਡੇ ਸਰੋਤ ਫਾਈਲਾਂ ਵਿਚ ਹੋਏ ਬਦਲਾਵਾਂ ਨੂੰ ਆਟੋਮੈਟਿਕ ਤੌਰ 'ਤੇ ਪਛਾਣਦਾ ਹੈ
+- ਸਿਰਫ ਉਹੀ ਅਨੁਵਾਦ ਕਰਦਾ ਹੈ ਜੋ ਬਦਲਿਆ ਹੈ
 - ਹਰ ਭਾਸ਼ਾ ਲਈ PR ਖੋਲ੍ਹਦਾ ਹੈ
 - Co-op Translator (Azure OSS) 'ਤੇ ਬਣਾਇਆ ਗਿਆ
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-ਇੱਕ ਅਧਿਕਾਰਿਕ Azure OSS CLI ਜੋ Markdown + ਚਿੱਤਰ ਸਮੱਗਰੀ (OCR) ਲਈ **ਬਹੁਭਾਸ਼ੀ ਅਨੁਵਾਦ** ਨੂੰ ਆਟੋਮੇਟ ਕਰਦਾ ਹੈ  
-**ਪ੍ਰਭਾਵ:** Microsoft ਦੀਆਂ ਸਿੱਖਿਆ ਸੰਬੰਧੀ ਰਿਪੋਜ਼ਟਰੀਆਂ ਲਈ 200k★+ ਤੱਕ ਦੇ ਅਨੁਵਾਦਾਂ ਨੂੰ ਚਲਾਉਂਦਾ ਹੈ, ਜੋ 10+ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਹਮੇਸ਼ਾ ਅਪਡੇਟ ਰਹਿੰਦੇ ਹਨ।
+Markdown + ਚਿੱਤਰ ਸਮੱਗਰੀ (OCR) ਲਈ **ਬਹੁ-ਭਾਸ਼ਾਈ ਅਨੁਵਾਦਾਂ** ਨੂੰ ਆਟੋਮੇਟ ਕਰਨ ਵਾਲਾ ਇੱਕ ਅਧਿਕਾਰਿਕ Azure OSS CLI  
+**ਪ੍ਰਭਾਵ:** Microsoft ਦੇ ਸਿੱਖਿਆ ਸੰਬੰਧੀ ਰਿਪੋਜ਼ਿਟਰੀਜ਼ ਲਈ 200k★+ ਕੁੱਲ ਰੇਟਿੰਗ ਵਾਲੇ ਅਨੁਵਾਦਾਂ ਨੂੰ ਚਲਾਉਂਦਾ ਹੈ, ਯਕੀਨੀ ਬਣਾਉਂਦਾ ਹੈ ਕਿ ਸਮੱਗਰੀ 10+ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਸਦਾ ਅਪਡੇਟ ਰਹੇ।
 
-- ਸ਼ੁਰੂਆਤੀ PoC ਤੋਂ → ਉਤਪਾਦ-ਗ੍ਰੇਡ Python CLI ਤੱਕ ਵਧਾਇਆ
-- ਅਨੁਵਾਦ ਅਤੇ OCR ਆਟੋਮੇਸ਼ਨ ਲਈ Azure OpenAI + Azure AI Vision ਨੂੰ ਜੋੜਿਆ
-- ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਰਿਪੋਜ਼ਟਰੀਆਂ ਵੱਲੋਂ ਵਰਤਿਆ ਗਿਆ:
+- ਸ਼ੁਰੂਆਤੀ PoC ਤੋਂ → ਪ੍ਰੋਡਕਸ਼ਨ-ਗਰੇਡ Python CLI ਤੱਕ ਸਕੇਲ ਕੀਤਾ ਗਿਆ
+- ਅਨੁਵਾਦ ਅਤੇ OCR ਆਟੋਮੇਸ਼ਨ ਲਈ Azure OpenAI + Azure AI Vision ਨੂੰ ਏਕਤ੍ਰਿਤ ਕੀਤਾ
+- ਇਹਨਾਂ ਰਿਪੋਜ਼ਿਟਰੀਜ਼ ਵਲੋਂ ਵਰਤਿਆ ਗਿਆ:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - **Open at Microsoft** OSS ਸ਼ੋਕੇਸ ਵਿੱਚ ਦਰਸਾਇਆ ਗਿਆ
-- **Microsoft AI MVP 2025** ਪ੍ਰਾਪਤ ਕੀਤਾ
+- **Microsoft AI MVP 2025** ਦੀ ਪ੍ਰਾਪਤੀ
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## ਗੱਲਬਾਤਾਂ ਅਤੇ ਮੀਡੀਆ
+## ਟਾਕਸ ਅਤੇ ਮੀਡੀਆ
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,20 +74,20 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator ਨਾਲ ਬਹੁਭਾਸ਼ੀ ਪਹੁੰਚਯੋਗਤਾ ਖੋਲ੍ਹਣਾ](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure 'ਤੇ AI ਹੱਲ ਵਿਕਸਿਤ ਕਰਨ ਲਈ ਯੋਜਨਾ ਬਣਾਓ ਅਤੇ ਤਿਆਰੀ ਕਰੋ](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translator ਨਾਲ ਬਹੁ-ਭਾਸ਼ਾਈ ਪਹੁੰਚਯੋਗਤਾ ਨੂੰ ਖੋਲ੍ਹਣਾ](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Azure 'ਤੇ AI ਹੱਲ ਵਿਕਸਿਤ ਕਰਨ ਦੀ ਯੋਜਨਾ ਅਤੇ ਤਿਆਰੀ](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## ਸਨਮਾਨ
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **ਪਹਿਲਾ ਸਥਾਨ**, ਇਨਹਾ ਯੂਨੀਵਰਸਿਟੀ ਓਪਨ ਸਰੋਤ ਮੇਲਾ (Co-op Translator)
+- **ਪਹਿਲਾ ਸਥਾਨ**, Inha University Open Source Festival (Co-op Translator)
 - **ਵਿਜੇਤਾ**, Microsoft Korea Azurethon (Prompt Engineering ਸ਼੍ਰੇਣੀ)
-- **3× ਸਭ ਤੋਂ ਵੱਧ ਵੇਖਿਆ ਗਿਆ ਬਲੌਗਰ**, Microsoft Educator Developer Blog
+- **3× ਸਭ ਤੋਂ ਵੱਧ ਦੇਖਿਆ ਗਿਆ ਬਲੌਗਰ**, Microsoft Educator Developer Blog
 
 ---
 
-## ਤਕਨੀਕੀ ਸਟੈਕ
+## ਟੈਕ ਸਟੈਕ
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,7 +100,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## ਅੰਕੜੇ ਅਤੇ ਗਤੀਵਿਧੀ
+## ਅੰਕੜੇ ਅਤੇ ਗਤਿਵਿਧੀ
 <details>
 <summary>GitHub ਅੰਕੜੇ ਵੇਖੋ</summary>
 
@@ -109,7 +109,7 @@ CO_OP_TRANSLATOR_METADATA:
 </details>
 ---
 
-## 📫 ਮੇਰੇ ਨਾਲ ਜੁੜੋ
+## 📫 ਮੇਰੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

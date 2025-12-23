@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:28:08+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:25:25+00:00",
   "source_file": "README.md",
   "language_code": "th"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![แบนเนอร์ส่วนหัว](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# สวัสดีครับ ผมชื่อ Minseok Song!
+# สวัสดี ฉันคือ Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,14 +18,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • ผู้ดูแล OSS ของ [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-ผมชอบสร้างเครื่องมือสำหรับนักพัฒนาที่ขับเคลื่อนด้วย AI แบบโอเพนซอร์สที่สามารถขยายได้ทั่วโลก เปลี่ยนแนวคิดในช่วงเริ่มต้นให้กลายเป็นโซลูชันที่พร้อมใช้งานจริงและมีผลกระทบที่แท้จริง
+ฉันชอบสร้างเครื่องมือสำหรับนักพัฒนาที่ขับเคลื่อนด้วย AI แบบโอเพนซอร์สที่สามารถขยายไปทั่วโลก เปลี่ยนแนวคิดในระยะเริ่มต้นให้กลายเป็นโซลูชันที่พร้อมใช้งานในผลิตภัณฑ์ด้วยผลกระทบที่จับต้องได้
 
 ### 🌐 รองรับหลายภาษา
 
 #### สนับสนุนโดย [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](./README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[อาหรับ](../ar/README.md) | [เบงกาลี](../bn/README.md) | [บัลแกเรีย](../bg/README.md) | [พม่า (เมียนมาร์)](../my/README.md) | [จีน (ตัวย่อ)](../zh/README.md) | [จีน (ตัวเต็ม, ฮ่องกง)](../hk/README.md) | [จีน (ตัวเต็ม, มาเก๊า)](../mo/README.md) | [จีน (ตัวเต็ม, ไต้หวัน)](../tw/README.md) | [โครเอเชีย](../hr/README.md) | [เช็ก](../cs/README.md) | [เดนมาร์ก](../da/README.md) | [ดัตช์](../nl/README.md) | [เอสโตเนีย](../et/README.md) | [ฟินแลนด์](../fi/README.md) | [ฝรั่งเศส](../fr/README.md) | [เยอรมัน](../de/README.md) | [กรีก](../el/README.md) | [ฮีบรู](../he/README.md) | [ฮินดี](../hi/README.md) | [ฮังการี](../hu/README.md) | [อินโดนีเซีย](../id/README.md) | [อิตาลี](../it/README.md) | [ญี่ปุ่น](../ja/README.md) | [คันนาดา](../kn/README.md) | [เกาหลี](../ko/README.md) | [ลิทัวเนีย](../lt/README.md) | [มลายู](../ms/README.md) | [มาลายาลัม](../ml/README.md) | [มราฐี](../mr/README.md) | [เนปาลี](../ne/README.md) | [ไนจีเรีย พิดจิน](../pcm/README.md) | [นอร์เวย์](../no/README.md) | [เปอร์เซีย (ฟาร์ซี)](../fa/README.md) | [โปแลนด์](../pl/README.md) | [โปรตุเกส (บราซิล)](../br/README.md) | [โปรตุเกส (โปรตุเกส)](../pt/README.md) | [ปัญจาบี (Gurmukhi)](../pa/README.md) | [โรมาเนีย](../ro/README.md) | [รัสเซีย](../ru/README.md) | [เซอร์เบีย (คีริลลิก)](../sr/README.md) | [สโลวัก](../sk/README.md) | [สโลวีเนีย](../sl/README.md) | [สเปน](../es/README.md) | [สวาฮีลี](../sw/README.md) | [สวีเดน](../sv/README.md) | [ตากาล็อก (ฟิลิปปินส์)](../tl/README.md) | [ทมิฬ](../ta/README.md) | [เทลูกู](../te/README.md) | [ไทย](./README.md) | [ตุรกี](../tr/README.md) | [ยูเครน](../uk/README.md) | [อูรดู](../ur/README.md) | [เวียดนาม](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -34,29 +34,29 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 🚀 Localizeflow (โครงการปัจจุบัน)
 **เวิร์กโฟลว์แปลเอกสารอัตโนมัติแบบเนทีฟบน GitHub**  
-ไม่ต้องตั้งค่า โฮสต์ไว้แล้ว ซิงค์อัตโนมัติสำหรับโครงการหลายภาษา  
+ไม่ต้องตั้งค่า โฮสต์แล้ว ซิงค์อัตโนมัติสำหรับโครงการหลายภาษา  
 → https://localizeflow.com
 
-- ตรวจจับการเปลี่ยนแปลงในไฟล์ต้นฉบับของคุณโดยอัตโนมัติ
-- แปลเฉพาะสิ่งที่เปลี่ยนแปลง
+- ตรวจจับการเปลี่ยนแปลงในไฟล์ต้นทางของคุณโดยอัตโนมัติ
+- แปลเฉพาะส่วนที่เปลี่ยนแปลง
 - เปิด PR สำหรับแต่ละภาษา
-- สร้างบนพื้นฐานของ Co-op Translator (Azure OSS)
+- สร้างขึ้นบน Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-CLI OSS อย่างเป็นทางการของ Azure ที่ทำงานอัตโนมัติสำหรับ **การแปลหลายภาษา** สำหรับ Markdown + เนื้อหาภาพ (OCR)  
-**ผลกระทบ:** ขับเคลื่อนการแปลสำหรับที่เก็บข้อมูลการศึกษาของ Microsoft ที่มีดาวรวมกว่า 200k★+ เพื่อให้เนื้อหาอัปเดตเสมอในกว่า 10 ภาษา
+CLI อย่างเป็นทางการของ Azure OSS ที่ทำการอัตโนมัติสำหรับ **การแปลหลายภาษา** ของเนื้อหา Markdown และรูปภาพ (OCR)  
+**ผลกระทบ:** ให้พลังการแปลแก่ที่เก็บข้อมูลด้านการศึกษาใน Microsoft รวมกว่า 200k★+ ทำให้เนื้อหาอัปเดตเสมอในกว่า 10 ภาษา
 
-- ขยายจาก PoC เริ่มต้น → CLI Python ระดับการผลิต
-- ผสานรวม Azure OpenAI + Azure AI Vision สำหรับการแปล + อัตโนมัติ OCR
-- ใช้งานโดยที่เก็บข้อมูลเช่น:
+- ขยายจาก PoC ระยะแรก → เป็น Python CLI ระดับการนำไปผลิต
+- ผสาน Azure OpenAI + Azure AI Vision สำหรับการแปลและการทำ OCR อัตโนมัติ
+- ใช้โดยที่เก็บโค้ดดังต่อไปนี้:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- นำเสนอในงาน **Open at Microsoft** OSS showcase
+- นำเสนอในงานแสดง OSS **Open at Microsoft**
 - ได้รับรางวัล **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -74,16 +74,16 @@ CLI OSS อย่างเป็นทางการของ Azure ที่�
   </a>
 </p>
 
-- [Open at Microsoft – ปลดล็อกการเข้าถึงหลายภาษาโดยใช้ Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – ปลดล็อกการเข้าถึงหลายภาษาด้วย Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – วางแผนและเตรียมพัฒนาโซลูชัน AI บน Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## การยอมรับ
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **อันดับ 1**, งานเทศกาลโอเพนซอร์ส มหาวิทยาลัย Inha (Co-op Translator)
-- **ผู้ชนะ**, Microsoft Korea Azurethon (หมวด Prompt Engineering)
-- **บล็อกเกอร์ที่มีผู้ชมมากที่สุด 3 ครั้ง**, บล็อก Microsoft Educator Developer
+- **รางวัลที่ 1**, Inha University Open Source Festival (Co-op Translator)
+- **ผู้ชนะ**, Microsoft Korea Azurethon (ประเภท Prompt Engineering)
+- **บล็อกเกอร์ที่มีผู้ชมมากที่สุด 3 ครั้ง**, Microsoft Educator Developer Blog
 
 ---
 
@@ -109,7 +109,7 @@ CLI OSS อย่างเป็นทางการของ Azure ที่�
 </details>
 ---
 
-## 📫 ติดต่อกับผม
+## 📫 ติดต่อฉัน
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

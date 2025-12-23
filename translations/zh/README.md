@@ -1,63 +1,63 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:20:57+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:06:26+00:00",
   "source_file": "README.md",
   "language_code": "zh"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![页眉横幅](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 嗨，我是 Minseok Song！
+# 嗨，我是 Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 的创建者**
+**Localizeflow 的创建者**
 
-**微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 的开源维护者**
+**Microsoft AI MVP • OSS 维护者： [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-我热衷于构建由 AI 驱动的开源开发者工具，能够全球扩展，将早期概念转化为具有实际影响的生产级解决方案。
+我热衷于构建支持 AI 的开源开发者工具，面向全球扩展，将早期概念转化为具有实际影响的生产就绪解决方案。
 
 ### 🌐 多语言支持
 
 #### 由 [Localizeflow](https://localizeflow.com/) 支持
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](./README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[阿拉伯语](../ar/README.md) | [孟加拉语](../bn/README.md) | [保加利亚语](../bg/README.md) | [缅甸语（缅甸）](../my/README.md) | [中文（简体）](./README.md) | [中文（繁体，香港）](../hk/README.md) | [中文（繁体，澳门）](../mo/README.md) | [中文（繁体，台湾）](../tw/README.md) | [克罗地亚语](../hr/README.md) | [捷克语](../cs/README.md) | [丹麦语](../da/README.md) | [荷兰语](../nl/README.md) | [爱沙尼亚语](../et/README.md) | [芬兰语](../fi/README.md) | [法语](../fr/README.md) | [德语](../de/README.md) | [希腊语](../el/README.md) | [希伯来语](../he/README.md) | [印地语](../hi/README.md) | [匈牙利语](../hu/README.md) | [印尼语](../id/README.md) | [意大利语](../it/README.md) | [日语](../ja/README.md) | [卡纳达语](../kn/README.md) | [韩语](../ko/README.md) | [立陶宛语](../lt/README.md) | [马来语](../ms/README.md) | [马拉雅拉姆语](../ml/README.md) | [马拉地语](../mr/README.md) | [尼泊尔语](../ne/README.md) | [尼日利亚皮钦语](../pcm/README.md) | [挪威语](../no/README.md) | [波斯语（法尔西）](../fa/README.md) | [波兰语](../pl/README.md) | [葡萄牙语（巴西）](../br/README.md) | [葡萄牙语（葡萄牙）](../pt/README.md) | [旁遮普语（古鲁姆基）](../pa/README.md) | [罗马尼亚语](../ro/README.md) | [俄语](../ru/README.md) | [塞尔维亚语（西里尔字母）](../sr/README.md) | [斯洛伐克语](../sk/README.md) | [斯洛文尼亚语](../sl/README.md) | [西班牙语](../es/README.md) | [斯瓦西里语](../sw/README.md) | [瑞典语](../sv/README.md) | [他加禄语（菲律宾语）](../tl/README.md) | [泰米尔语](../ta/README.md) | [泰卢固语](../te/README.md) | [泰语](../th/README.md) | [土耳其语](../tr/README.md) | [乌克兰语](../uk/README.md) | [乌尔都语](../ur/README.md) | [越南语](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## 主要项目
+## 关键项目
 
-### 🚀 Localizeflow（当前项目）
-**GitHub 原生自动化文档翻译工作流**  
-零配置。托管服务。多语言项目自动同步。  
+### 🚀 Localizeflow (当前项目)
+**GitHub 原生的自动化文档翻译工作流**  
+无需设置。托管。面向多语言项目的自动同步。  
 → https://localizeflow.com
 
 - 自动检测源文件的更改
-- 仅翻译更改部分
+- 仅翻译变更部分
 - 为每种语言打开 PR
-- 基于 Co-op Translator（Azure 开源项目）构建
+- 基于 Co-op Translator（Azure OSS）构建
 
 
-### **Co-op Translator（微软 Azure 开源项目）**
+### **Co-op Translator (Microsoft Azure OSS)**
 
-官方 Azure 开源 CLI，自动化处理 Markdown + 图片内容（OCR）的**多语言翻译**  
-**影响力：** 支持微软教育类仓库的翻译，累计 20 万★+，确保 10 多种语言内容始终保持最新。
+一个官方的 Azure OSS CLI，用于自动化针对 Markdown + 图像内容（OCR）的**多语言翻译**  
+**影响：** 为微软的教育类仓库提供翻译，总计 200k★+，确保 10+ 种语言的内容始终保持更新。
 
 - 从早期概念验证扩展到生产级 Python CLI
-- 集成 Azure OpenAI + Azure AI Vision 实现翻译和 OCR 自动化
-- 被以下仓库使用：
+- 集成 Azure OpenAI + Azure AI Vision 实现翻译与 OCR 自动化
+- 被如下仓库使用：
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- 入选 **Open at Microsoft** 开源项目展示
-- 荣获 **微软 AI MVP 2025**
+- 在 **Open at Microsoft** 的 OSS 展示中亮相
+- 获得 **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,16 +74,16 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – 使用 Co-op Translator 解锁多语言无障碍](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – 规划与准备在 Azure 上开发 AI 解决方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – 使用 Co-op Translator 解锁多语言可访问性](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – 在 Azure 上规划并准备开发 AI 解决方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## 荣誉
-- **微软最有价值专家（AI）** 2024–2025
-- 仁荷大学开源节一等奖（Co-op Translator）
-- 微软韩国 Azurethon 冠军（提示工程类别）
-- 三次微软教育者开发者博客最受关注博主
+- **Microsoft Most Valuable Professional (AI)** 2024–2025
+- **第1名**，Inha University Open Source Festival (Co-op Translator)
+- **获奖者**，Microsoft Korea Azurethon（Prompt Engineering 类别）
+- **3× 最受欢迎博主**，Microsoft Educator Developer Blog
 
 ---
 
@@ -100,12 +100,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## 统计与活跃度
+## 统计与活动
 <details>
 <summary>查看 GitHub 统计</summary>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![统计](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![主要语言](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 

@@ -1,26 +1,26 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:38:23+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:52:23+00:00",
   "source_file": "README.md",
   "language_code": "pcm"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hi, Na me be Minseok Song! 
+# Hi, I be Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Creator of [Localizeflow](https://localizeflow.com)**
+**Na me be creator of [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Na OSS Maintainer for [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-I like to build AI-powered, open-source developer tools wey fit scale worldwide, wey dey turn early-stage ideas to production-ready solutions wey get real impact.
+I like build AI-powered, open-source developer tools wey fit scale globally — I dey turn early-stage ideas to production-ready solutions wey get real impact.
 
-### 🌐 Multi-Language Support
+### 🌐 Support for plenty languages
 
 #### Supported by [Localizeflow](https://localizeflow.com/)
 
@@ -32,21 +32,21 @@ I like to build AI-powered, open-source developer tools wey fit scale worldwide,
 
 ## Key Project
 
-### 🚀 Localizeflow (Current Project)
+### 🚀 Localizeflow (Project wey I dey work on now)
 **GitHub-native automated documentation translation workflow**  
-No setup. Hosted. Auto-sync for multilingual projects.  
+No setup. Hosted. E dey auto-sync for multilingual projects.  
 → https://localizeflow.com
 
-- Automatically dey detect changes for your source files
-- Dey translate only wetin change
-- Dey open PRs for each language
-- Built on top of Co-op Translator (Azure OSS)
+- E dey automatically detect changes for your source files
+- E go translate only wetin change
+- E dey open PRs for each language
+- E build on top of Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Official Azure OSS CLI wey dey automate **multilingual translations** for Markdown + image content (OCR)  
-**Impact:** E dey power translations for Microsoft educational repositories wey get 200k★+ total, dey make sure say content dey always updated for 10+ languages.
+An official Azure OSS CLI wey dey automate **multilingual translations** for Markdown + image content (OCR)  
+**Impact:** E power translations for Microsoft educational repositories wey total reach 200k★+, make sure say content dey always updated for 10+ languages.
 
 - Scaled from early PoC → production-grade Python CLI
 - Integrated Azure OpenAI + Azure AI Vision for translation + OCR automation
@@ -56,7 +56,7 @@ Official Azure OSS CLI wey dey automate **multilingual translations** for Markdo
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Featured for **Open at Microsoft** OSS showcase
+- Featured in **Open at Microsoft** OSS showcase
 - Earned **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -74,8 +74,8 @@ Official Azure OSS CLI wey dey automate **multilingual translations** for Markdo
   </a>
 </p>
 
-- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – How dem take unlock multilingual accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plan and prepare how to build AI solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -102,14 +102,14 @@ Official Azure OSS CLI wey dey automate **multilingual translations** for Markdo
 
 ## Stats & Activity
 <details>
-<summary>View GitHub Stats</summary>
+<summary>See GitHub Stats</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
-## 📫 Connect with Me
+## 📫 How you fit connect me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
