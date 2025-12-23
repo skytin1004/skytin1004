@@ -1,26 +1,26 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:37:11+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:48:54+00:00",
   "source_file": "README.md",
   "language_code": "lt"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Antraštės baneris](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Sveiki, aš esu Minseok Song!
+# Sveiki, aš esu Minseok Song! 
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub Rėmėjai](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![Nupirk man kavą](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) kūrėjas**
+**Kūrėjas [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS prižiūrėtojas**
+**Microsoft AI MVP • OSS prižiūrėtojas [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Man patinka kurti dirbtiniu intelektu pagrįstus, atviro kodo kūrėjų įrankius, kurie veikia globaliai, paverčiant ankstyvos stadijos idėjas į gamybai paruoštus sprendimus su realia įtaka.
+Man patinka kurti dirbtiniu intelektu varomus atviro kodo įrankius kūrėjams, kuriuos galima mastuoti globaliai — paversti ankstyvos stadijos koncepcijas gamybai paruoštais sprendimais, turinčiais realų poveikį.
 
-### 🌐 Daugiakalbė palaikymas
+### 🌐 Daugiakalbė parama
 
 #### Palaikoma [Localizeflow](https://localizeflow.com/)
 
@@ -33,31 +33,31 @@ Man patinka kurti dirbtiniu intelektu pagrįstus, atviro kodo kūrėjų įrankiu
 ## Pagrindinis projektas
 
 ### 🚀 Localizeflow (dabartinis projektas)
-**GitHub gimtoji automatizuota dokumentacijos vertimo eiga**  
-Nulinis nustatymas. Talpinama. Automatinis sinchronizavimas daugiakalbiams projektams.  
+**GitHub integruotas automatizuotas dokumentacijos vertimo darbo eiga**  
+Nereikia nustatymų. Talpinama. Automatinis sinchronizavimas daugiakalbiams projektams.  
 → https://localizeflow.com
 
 - Automatiškai aptinka pakeitimus jūsų šaltinio failuose
-- Verčia tik pakeistą turinį
+- Verčia tik tai, kas pasikeitė
 - Atidaro PR kiekvienai kalbai
-- Sukurta ant Co-op Translator (Azure OSS) pagrindo
+- Sukurtas naudojant Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown + vaizdų turiniui (OCR)  
-**Įtaka:** Užtikrina vertimus Microsoft švietimo saugykloms, turinčioms daugiau nei 200 tūkst. žvaigždžių, visada atnaujintą turinį 10+ kalbų.
+Oficialus Azure OSS CLI, automatizuojantis **daugiakalbius vertimus** Markdown ir vaizdų turiniui (OCR)  
+**Poveikis:** Teikia vertimus Microsoft mokomosioms saugykloms, kurių viso reitingas viršija 200k★+, užtikrinant nuolat atnaujinamą turinį daugiau nei 10 kalbų.
 
-- Išauginta nuo ankstyvo PoC iki gamybos lygio Python CLI
+- Išsiplėtė nuo ankstyvo PoC → iki gamybos lygio Python CLI
 - Integruota Azure OpenAI + Azure AI Vision vertimui ir OCR automatizavimui
-- Naudojama tokiose saugyklose kaip:
+- Naudojama saugyklose, tokiuose kaip:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Paminėtas **Open at Microsoft** OSS demonstracijoje
-- Apdovanotas **Microsoft AI MVP 2025**
+- Pateikta **Open at Microsoft** atvirojo kodo parodoje
+- Gavau **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,16 +74,16 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown
   </a>
 </p>
 
-- [Open at Microsoft – Daugiakalbės prieigos atvėrimas su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planuokite ir ruoškitės kurti DI sprendimus Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Daugakalbio prieinamumo užtikrinimas su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planuokite ir pasiruoškite kurti DI sprendimus Azure platformoje](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Pripažinimai
+## Pripažinimas
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1 vieta**, Inha universiteto atvirojo kodo festivalyje (Co-op Translator)
 - **Nugalėtojas**, Microsoft Korea Azurethon (Prompt Engineering kategorija)
-- **3 kartus labiausiai skaitomas tinklaraštininkas**, Microsoft Educator Developer Blog
+- **3× daugiausiai peržiūrų turintis tinklaraštininkas**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,12 +100,12 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown
 
 ---
 
-## Statistika ir aktyvumas
+## Statistika ir veikla
 <details>
 <summary>Peržiūrėti GitHub statistiką</summary>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistika](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Populiariausios kalbos](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 

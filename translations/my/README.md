@@ -1,26 +1,26 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:36:19+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:46:48+00:00",
   "source_file": "README.md",
   "language_code": "my"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![ခေါင်းစီးဘန်နာ](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # ဟိုင်း၊ ကျွန်တော်က Minseok Song ပါ!
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub ပံ့ပိုးသူ](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![ကော်ဖီ ဝယ်ပေးပါ](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) ၏ ဖန်တီးသူ**
+**[Localizeflow](https://localizeflow.com) ဖန်တီးသူ**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) ၏ OSS ထိန်းသိမ်းသူ**
 
-ကျွန်တော်က ကမ္ဘာတစ်ဝှမ်းမှာ တိုးချဲ့နိုင်တဲ့ AI အခြေပြု၊ open-source developer tools တွေကို တည်ဆောက်ရတာကို ကြိုက်တယ်၊ အစောပိုင်းအတွေးတွေကို ထုတ်လုပ်မှုအဆင့်သို့ ပြောင်းလဲပေးနိုင်တဲ့ အကျိုးသက်ရောက်မှုရှိတဲ့ ဖြေရှင်းချက်တွေဖြစ်အောင်လုပ်တယ်။
+ကျွန်တော်သည် AI ပါဝင်သော၊ open-source အခြေခံ developer tools များကို ကမ္ဘာအနှံ့ကျော် တိုးချဲ့နိုင်စေရန် ဖန်တီးရတာနှစ်သက်ပါတယ်။ ဤကိစ္စများသည် စတင်အဆင့်ရှိသော စိတ်ကူးများကို production-ready ဖြေရှင်းချက်များအဖြစ် ပြောင်းလဲပေးပြီး တကယ့်ထိရောက်မှုရှိစေပါသည်။
 
-### 🌐 ဘာသာစကားစုံ ထောက်ပံ့မှု
+### 🌐 မျိုးစုံဘာသာစကား ပံ့ပိုးမှု
 
 #### [Localizeflow](https://localizeflow.com/) မှ ထောက်ပံ့သည်
 
@@ -33,37 +33,37 @@ CO_OP_TRANSLATOR_METADATA:
 ## အဓိက ပရောဂျက်
 
 ### 🚀 Localizeflow (လက်ရှိ ပရောဂျက်)
-**GitHub-မူရင်း အလိုအလျောက် စာတမ်းဘာသာပြန်လုပ်ငန်းစဉ်**  
-တစ်ချက်တည်း စတင်ရန် မလိုအပ်ပါ။ Hosted ဖြစ်ပြီး ဘာသာစကားစုံ ပရောဂျက်များအတွက် အလိုအလျောက် စနစ်ကို စနစ်တကျ ထိန်းသိမ်းပေးသည်။  
+**GitHub-မူလ အလိုအလျောက် စာရွက်စာတမ်း ဘာသာပြန်လုပ်ငန်းစဉ်**  
+တပ်ဆင်စရာ မလို။ ဟိုစ့်ထားပြီး၊ ဘာသာစုံ ပရောဂျက်များအတွက် အလိုအလျောက် ကိုက်ညီစေသည်။  
 → https://localizeflow.com
 
-- သင့်ရဲ့ အရင်းအမြစ်ဖိုင်များတွင် ပြောင်းလဲမှုများကို အလိုအလျောက် တွေ့ရှိသည်
-- ပြောင်းလဲမှုရှိသမျှကိုသာ ဘာသာပြန်သည်
+- မူရင်းဖိုင်များတွင် ပြောင်းလဲမှုများကို အလိုအလျောက် တွေ့ရှိသည်
+- ပြောင်းလဲခဲ့သော အပိုင်းပင်သာ ဘာသာပြန်သည်
 - ဘာသာစကားတိုင်းအတွက် PR များ ဖွင့်ပေးသည်
-- Co-op Translator (Azure OSS) အပေါ်တွင် တည်ဆောက်ထားသည်
+- Co-op Translator (Azure OSS) အပေါ် အခြေခံ၍ တည်ဆောက်ထားသည်
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + ပုံရိပ် အကြောင်းအရာ (OCR) များအတွက် **ဘာသာစကားစုံ ဘာသာပြန်မှုများကို အလိုအလျောက် လုပ်ဆောင်ပေးသော** Azure OSS CLI တရားဝင်ဖြစ်သည်  
-**သက်ရောက်မှု:** Microsoft ၏ ပညာရေး repository များ 200k★+ အထိ ဘာသာပြန်မှုများကို အားပေးကာ 10+ ဘာသာစကားတွင် အမြဲတမ်း အပ်ဒိတ်ဖြစ်နေစေသည်။
+Markdown + ပုံ (OCR) အကြောင်းအရာများအတွက် **ဘာသာစကားစုံ အလိုအလျောက် ဘာသာပြန်မှုများ** ကို အလိုအလျောက် ဆောင်ရွက်ပေးသော Azure ၏ တရားဝင် OSS CLI တစ်ခု  
+**သက်ရောက်မှု:** Microsoft ၏ ပညာရေး repositories များ (စုစုပေါင်း 200k★+) အတွက် ဘာသာပြန်မှုများ ဆောင်ရွက်ပေးကာ 10+ ဘာသာစကားများတွင် အမြဲတမ်း နောက်ဆုံးထိ अपडेट ထားသည်။
 
-- အစောပိုင်း PoC မှ ထုတ်လုပ်မှုအဆင့် Python CLI သို့ တိုးတက်လာသည်
-- Azure OpenAI + Azure AI Vision ကို ဘာသာပြန်မှုနှင့် OCR အလိုအလျောက်လုပ်ငန်းစဉ်များအတွက် ပေါင်းစည်းထားသည်
-- အောက်ပါ repository များတွင် အသုံးပြုသည် -
+- စမ်းသပ် PoC အဆင့်မှ production-grade Python CLI အထိ တိုးချဲ့ခဲ့သည်
+- ဘာသာပြန်နှင့် OCR အလိုအလျှောက်လုပ်ဆောင်မှုများအတွက် Azure OpenAI + Azure AI Vision ကို ပေါင်းစည်းထားသည်
+- အောက်ပါ repo များကဲ့သို့ အသုံးပြုထားပါသည်:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS ပြပွဲတွင် ဖော်ပြခဲ့သည်
-- **Microsoft AI MVP 2025** ဆုရရှိခဲ့သည်
+- **Open at Microsoft** OSS showcase တွင် ဖော်ပြထားသည်
+- **Microsoft AI MVP 2025** အဖြစ် ရရှိခဲ့သည်
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## စကားပြောပွဲများနှင့် မီဒီယာ
+## မိန့်ခွန်းများနှင့် မီဒီယာ
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,16 +74,16 @@ Markdown + ပုံရိပ် အကြောင်းအရာ (OCR) မျ�
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator ဖြင့် ဘာသာစကားစုံ လက်လှမ်းမီမှု ဖွင့်လှစ်ခြင်း](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure ပေါ်တွင် AI ဖြေရှင်းချက်များ ဖန်တီးရန် စီစဉ်ခြင်းနှင့် ပြင်ဆင်ခြင်း](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translator ဖြင့် ဘာသာစကားစုံ လက်လှမ်းမီမှုကို ဖွင့်လှစ်ခြင်း](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Azure ပေါ်တွင် AI ဖြေရှင်းချက်များ ဖွံ့ဖြိုးရန် စီမံရေးဆွဲခြင်းနှင့် ပြင်ဆင်ခြင်း](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## အသိအမှတ်ပြုချက်များ
+## အသိအမှတ်ပြုမှု
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **ပထမဆု**, Inha University Open Source Festival (Co-op Translator)
-- **အနိုင်ရသူ**, Microsoft Korea Azurethon (Prompt Engineering အမျိုးအစား)
-- **3 ကြိမ် အများဆုံး ကြည့်ရှုခံရသော Blogger**, Microsoft Educator Developer Blog
+- **ဆုရသူ**, Microsoft Korea Azurethon (Prompt Engineering အမျိုးအစား)
+- **၃ ကြိမ် အများဆုံး ကြည့်ရှုခံရသည့် ဘလော့ဂ်ရေးသူ**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,16 +100,16 @@ Markdown + ပုံရိပ် အကြောင်းအရာ (OCR) မျ�
 
 ---
 
-## အချက်အလက်များနှင့် လှုပ်ရှားမှု
+## စာရင်းနှင့် လှုပ်ရှားမှု
 <details>
-<summary>GitHub အချက်အလက်များ ကြည့်ရန်</summary>
+<summary>GitHub စာရင်းများ ကြည့်ရန်</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
-## 📫 ကျွန်တော့်နဲ့ ဆက်သွယ်ရန်
+## 📫 ဆက်သွယ်ရန်
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

@@ -1,69 +1,69 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:29:49+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:28:54+00:00",
   "source_file": "README.md",
   "language_code": "fi"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Ylätunniste](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hei, olen Minseok Song!
+# Hei, olen Minseok Song! 
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub Sponsorit](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![Osta minulle kahvi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) luoja**
+**Tekijä: [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) -hankkeen OSS-ylläpitäjä**
+**Microsoft AI MVP • OSS:n ylläpitäjä [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Rakastan rakentaa tekoälyllä tehostettuja, avoimen lähdekoodin kehittäjätyökaluja, jotka skaalautuvat maailmanlaajuisesti ja muuttavat varhaisen vaiheen konseptit tuotantovalmiiksi ratkaisuiksi, joilla on todellista vaikutusta.
+Rakastan rakentaa tekoälyllä varustettuja, avoimen lähdekoodin kehittäjätyökaluja, jotka skaalautuvat globaalisti ja muuttavat varhaisen vaiheen konseptit tuotantovalmiiksi ratkaisuiksi, joilla on todellista vaikutusta.
 
 ### 🌐 Monikielinen tuki
 
-#### Tuettu [Localizeflow](https://localizeflow.com/) avulla
+#### Tuettu [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](./README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabia](../ar/README.md) | [bengali](../bn/README.md) | [bulgaria](../bg/README.md) | [burma (Myanmar)](../my/README.md) | [kiina (yksinkertaistettu)](../zh/README.md) | [kiina (perinteinen, Hongkong)](../hk/README.md) | [kiina (perinteinen, Macao)](../mo/README.md) | [kiina (perinteinen, Taiwan)](../tw/README.md) | [kroatia](../hr/README.md) | [tšekki](../cs/README.md) | [tanska](../da/README.md) | [hollanti](../nl/README.md) | [viro](../et/README.md) | [suomi](./README.md) | [ranska](../fr/README.md) | [saksa](../de/README.md) | [kreikka](../el/README.md) | [heprea](../he/README.md) | [hindi](../hi/README.md) | [unkari](../hu/README.md) | [indonesia](../id/README.md) | [italia](../it/README.md) | [japani](../ja/README.md) | [kannada](../kn/README.md) | [korea](../ko/README.md) | [liettua](../lt/README.md) | [malaiji](../ms/README.md) | [malayalam](../ml/README.md) | [marathi](../mr/README.md) | [nepali](../ne/README.md) | [nigerialainen pidgin](../pcm/README.md) | [norja](../no/README.md) | [persia (farsi)](../fa/README.md) | [puola](../pl/README.md) | [portugali (Brasilia)](../br/README.md) | [portugali (Portugali)](../pt/README.md) | [punjabi (Gurmukhi)](../pa/README.md) | [romania](../ro/README.md) | [venäjä](../ru/README.md) | [serbia (kyrillinen)](../sr/README.md) | [slovakki](../sk/README.md) | [slovenia](../sl/README.md) | [espanja](../es/README.md) | [svahili](../sw/README.md) | [ruotsi](../sv/README.md) | [tagalog (filipino)](../tl/README.md) | [tamili](../ta/README.md) | [telugu](../te/README.md) | [thai](../th/README.md) | [turkki](../tr/README.md) | [ukraina](../uk/README.md) | [urdu](../ur/README.md) | [vietnam](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## Keskeinen projekti
+## Avainprojekti
 
-### 🚀 Localizeflow (Nykyinen projekti)  
-**GitHubin natiivinen automatisoitu dokumentaation käännöstyönkulku**  
+### 🚀 Localizeflow (Current Project)
+**GitHub-pohjainen automatisoitu dokumentaation käännöstyönkulku**  
 Ei asennusta. Isännöity. Automaattinen synkronointi monikielisille projekteille.  
 → https://localizeflow.com
 
 - Havaitsee automaattisesti muutokset lähdetiedostoissasi
-- Kääntää vain muuttuneet osat
-- Avaa PR:t jokaiselle kielelle
+- Kääntää vain muuttuneet kohdat
+- Avaa PR:it jokaiselle kielelle
 - Rakennettu Co-op Translatorin (Azure OSS) päälle
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdown- ja kuvasisällölle (OCR)  
-**Vaikutus:** Mahdollistaa Microsoftin koulutusvarastojen käännökset, joilla on yhteensä yli 200 000 tähteä, varmistaen aina ajan tasalla olevan sisällön yli 10 kielellä.
+Virallinen Azure OSS -CLI, joka automatisoi **monikieliset käännökset** Markdown- ja kuvasisällölle (OCR)  
+**Vaikutus:** Varmistaa käännökset Microsoftin opetussäiliöille, yhteensä yli 200k★, varmistaen aina ajan tasalla olevan sisällön yli 10 kielellä.
 
-- Kasvatti varhaisesta PoC:sta tuotantotason Python CLI:ksi
-- Integroi Azure OpenAI:n + Azure AI Visionin käännös- ja OCR-automaatioon
-- Käytetty varastoissa kuten:
+- Skaalautui varhaisesta PoC-asteesta tuotantovalmiiksi Python-CLI:ksi
+- Integroi Azure OpenAI:n + Azure AI Visionin käännös- ja OCR-automaation varten
+- Käytössä repoissa kuten:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Esitelty **Open at Microsoft** OSS-näyttelyssä
-- Sai **Microsoft AI MVP 2025** -tunnustuksen
+- Esitelty **Open at Microsoft** -OSS-esittelyssä
+- Saanut **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Puheet & Media
+## Puheet & media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,8 +74,8 @@ Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdo
   </a>
 </p>
 
-- [Open at Microsoft – Monikielisen saavutettavuuden avaaminen Co-op Translatorin avulla](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Suunnittele ja valmistaudu kehittämään tekoälyratkaisuja Azurella](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -83,7 +83,7 @@ Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdo
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1. sija**, Inha University Open Source Festival (Co-op Translator)
 - **Voittaja**, Microsoft Korea Azurethon (Prompt Engineering -kategoria)
-- **3× eniten katsottu bloggaaja**, Microsoft Educator Developer Blog
+- **3× eniten luettu bloggaaja**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,7 +100,7 @@ Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdo
 
 ---
 
-## Tilastot & Aktiviteetti
+## Tilastot & aktiivisuus
 <details>
 <summary>Näytä GitHub-tilastot</summary>
 
@@ -114,4 +114,4 @@ Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdo
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
 [![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
-[![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+[![Sähköposti](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)

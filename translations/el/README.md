@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84f1496e412915ebd76bb7d6cce28fdc",
-  "translation_date": "2025-12-13T15:27:42+00:00",
+  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
+  "translation_date": "2025-12-23T22:24:19+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
@@ -16,16 +16,16 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Δημιουργός του [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Διαχειριστής OSS του [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Αγαπώ να δημιουργώ εργαλεία προγραμματιστών με τεχνητή νοημοσύνη, ανοιχτού κώδικα, που κλιμακώνονται παγκοσμίως μετατρέποντας ιδέες πρώιμου σταδίου σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
+Λατρεύω να δημιουργώ εργαλεία ανάπτυξης ανοιχτού κώδικα με ισχύ από AI που κλιμακώνονται παγκοσμίως, μετατρέποντας πρώιμες ιδέες σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
 
 ### 🌐 Υποστήριξη Πολλών Γλωσσών
 
-#### Υποστηρίζεται από το [Localizeflow](https://localizeflow.com/)
+#### Υποστηρίζεται από [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](./README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Αραβικά](../ar/README.md) | [Βεγγαλικά](../bn/README.md) | [Βουλγαρικά](../bg/README.md) | [Βιρμανικά (Μιανμάρ)](../my/README.md) | [Κινέζικα (Απλοποιημένα)](../zh/README.md) | [Κινέζικα (Παραδοσιακά, Χονγκ Κονγκ)](../hk/README.md) | [Κινέζικα (Παραδοσιακά, Μακάο)](../mo/README.md) | [Κινέζικα (Παραδοσιακά, Ταϊβάν)](../tw/README.md) | [Κροατικά](../hr/README.md) | [Τσέχικα](../cs/README.md) | [Δανικά](../da/README.md) | [Ολλανδικά](../nl/README.md) | [Εσθονικά](../et/README.md) | [Φινλανδικά](../fi/README.md) | [Γαλλικά](../fr/README.md) | [Γερμανικά](../de/README.md) | [Ελληνικά](./README.md) | [Εβραϊκά](../he/README.md) | [Χίντι](../hi/README.md) | [Ουγγρικά](../hu/README.md) | [Ινδονησιακά](../id/README.md) | [Ιταλικά](../it/README.md) | [Ιαπωνικά](../ja/README.md) | [Κανάντα](../kn/README.md) | [Κορεατικά](../ko/README.md) | [Λιθουανικά](../lt/README.md) | [Μαλαικά](../ms/README.md) | [Μαλαγιαλάμ](../ml/README.md) | [Μαραθικά](../mr/README.md) | [Νεπαλικά](../ne/README.md) | [Νιγηριανό Pidgin](../pcm/README.md) | [Νορβηγικά](../no/README.md) | [Περσικά (Φαρσί)](../fa/README.md) | [Πολωνικά](../pl/README.md) | [Πορτογαλικά (Βραζιλία)](../br/README.md) | [Πορτογαλικά (Πορτογαλία)](../pt/README.md) | [Πουντζάμπι (Gurmukhi)](../pa/README.md) | [Ρουμανικά](../ro/README.md) | [Ρωσικά](../ru/README.md) | [Σερβικά (Κυριλλικά)](../sr/README.md) | [Σλοβακικά](../sk/README.md) | [Σλοβενικά](../sl/README.md) | [Ισπανικά](../es/README.md) | [Σουαχίλι](../sw/README.md) | [Σουηδικά](../sv/README.md) | [Ταγκάλογκ (Φιλιππινέζικα)](../tl/README.md) | [Ταμίλ](../ta/README.md) | [Τελούγκου](../te/README.md) | [Ταϊλανδικά](../th/README.md) | [Τουρκικά](../tr/README.md) | [Ουκρανικά](../uk/README.md) | [Ουρντού](../ur/README.md) | [Βιετναμέζικα](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -34,10 +34,10 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 🚀 Localizeflow (Τρέχον Έργο)
 **Αυτοματοποιημένη ροή εργασίας μετάφρασης τεκμηρίωσης εγγενής στο GitHub**  
-Μηδενική ρύθμιση. Φιλοξενούμενο. Αυτόματος συγχρονισμός για πολυγλωσσικά έργα.  
+Χωρίς ρυθμίσεις. Φιλοξενείται. Αυτόματος συγχρονισμός για πολυγλωσσικά έργα.  
 → https://localizeflow.com
 
-- Εντοπίζει αυτόματα αλλαγές στα αρχεία πηγής σας
+- Εντοπίζει αυτόματα τις αλλαγές στα αρχεία πηγής σας
 - Μεταφράζει μόνο ό,τι άλλαξε
 - Ανοίγει PR για κάθε γλώσσα
 - Βασίζεται στο Co-op Translator (Azure OSS)
@@ -45,19 +45,19 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Επίσημο Azure OSS CLI που αυτοματοποιεί **πολυγλωσσικές μεταφράσεις** για περιεχόμενο Markdown + εικόνων (OCR)  
-**Αντίκτυπος:** Υποστηρίζει μεταφράσεις για εκπαιδευτικά αποθετήρια της Microsoft με συνολικά 200k★+, εξασφαλίζοντας πάντα ενημερωμένο περιεχόμενο σε 10+ γλώσσες.
+Ένα επίσημο Azure OSS CLI που αυτοματοποιεί τις **πολυγλωσσικές μεταφράσεις** για περιεχόμενο Markdown + εικόνων (OCR)  
+**Επίδραση:** Υποστηρίζει μεταφράσεις για εκπαιδευτικά αποθετήρια της Microsoft συνολικού αριθμού 200k★+, εξασφαλίζοντας πάντα ενημερωμένο περιεχόμενο σε 10+ γλώσσες.
 
-- Αναπτύχθηκε από πρώιμο PoC → παραγωγικό Python CLI
-- Ενσωμάτωση Azure OpenAI + Azure AI Vision για μετάφραση + αυτοματοποίηση OCR
+- Αναπτύχθηκε από πρώιμο PoC → σε Python CLI παραγωγικού επιπέδου
+- Ενσωματώνει Azure OpenAI + Azure AI Vision για μετάφραση + αυτοματοποίηση OCR
 - Χρησιμοποιείται από αποθετήρια όπως:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Παρουσιάστηκε στο **Open at Microsoft** OSS showcase
-- Απέσπασε **Microsoft AI MVP 2025**
+- Προβλήθηκε στο showcase OSS **Open at Microsoft**
+- Έλαβε τον τίτλο **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,20 +74,20 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Ξεκλειδώνοντας την Πολυγλωσσική Προσβασιμότητα με το Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Σχεδιάστε και Προετοιμαστείτε για Ανάπτυξη Λύσεων AI στο Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Απελευθέρωση Πολυγλωσσικής Προσβασιμότητας με Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Σχεδιάστε και Προετοιμαστείτε για την Ανάπτυξη Λύσεων AI στο Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Αναγνωρίσεις
+## Διακρίσεις
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1η Θέση**, Φεστιβάλ Ανοιχτού Κώδικα Πανεπιστημίου Inha (Co-op Translator)
-- **Νικητής**, Microsoft Korea Azurethon (Κατηγορία Prompt Engineering)
+- **1η Θέση**, Inha University Open Source Festival (Co-op Translator)
+- **Νικητής**, Microsoft Korea Azurethon (κατηγορία Prompt Engineering)
 - **3× Blogger με τις περισσότερες προβολές**, Microsoft Educator Developer Blog
 
 ---
 
-## Τεχνολογικό Υπόβαθρο
+## Τεχνολογικό Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -102,7 +102,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## Στατιστικά & Δραστηριότητα
 <details>
-<summary>Προβολή Στατιστικών GitHub</summary>
+<summary>Δείτε τα Στατιστικά GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
