@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:33:20+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T06:16:56+00:00",
   "source_file": "README.md",
   "language_code": "id"
 }
@@ -16,13 +16,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Pencipta [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Pemelihara OSS dari [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Saya suka membangun alat pengembang open-source bertenaga AI yang dapat diskalakan secara global, mengubah konsep tahap awal menjadi solusi siap-produksi dengan dampak nyata.
+Saya senang membangun alat pengembang open-source bertenaga AI yang dapat diskalakan secara global mengubah konsep tahap awal menjadi solusi siap produksi dengan dampak nyata.
 
-### 🌐 Dukungan Multibahasa
+### 🌐 Multi-Language Support
 
-#### Didukung oleh [Localizeflow](https://localizeflow.com/)
+#### Supported by [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](./README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
@@ -33,11 +33,11 @@ Saya suka membangun alat pengembang open-source bertenaga AI yang dapat diskalak
 ## Proyek Utama
 
 ### 🚀 Localizeflow (Proyek Saat Ini)
-**GitHub-native automated documentation translation workflow**  
-Zero setup. Hosted. Auto-sync for multilingual projects.  
+**Alur kerja terjemahan dokumentasi otomatis berbasis GitHub**  
+Tanpa pengaturan. Dihosting. Sinkronisasi otomatis untuk proyek multibahasa.  
 → https://localizeflow.com
 
-- Mendeteksi perubahan pada berkas sumber Anda secara otomatis
+- Mendeteksi perubahan pada file sumber Anda secara otomatis
 - Menerjemahkan hanya yang berubah
 - Membuka PR untuk setiap bahasa
 - Dibangun di atas Co-op Translator (Azure OSS)
@@ -45,19 +45,19 @@ Zero setup. Hosted. Auto-sync for multilingual projects.
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Sebuah CLI Azure OSS resmi yang mengotomatiskan **terjemahan multibahasa** untuk konten Markdown + gambar (OCR)  
-**Dampak:** Memberdayakan terjemahan untuk repositori edukasi Microsoft dengan total 200k★+, memastikan konten selalu diperbarui dalam lebih dari 10 bahasa.
+Sebuah CLI Azure OSS resmi yang mengotomatisasi **terjemahan multibahasa** untuk konten Markdown + gambar (OCR)  
+**Dampak:** Menjalankan terjemahan untuk repositori edukasi Microsoft dengan total 200k★+, memastikan konten selalu diperbarui dalam 10+ bahasa.
 
-- Diskalakan dari PoC awal → CLI Python layak produksi
-- Mengintegrasikan Azure OpenAI + Azure AI Vision untuk automasi terjemahan + OCR
+- Berkembang dari PoC awal → CLI Python tingkat produksi
+- Mengintegrasikan Azure OpenAI + Azure AI Vision untuk otomatisasi terjemahan + OCR
 - Digunakan oleh repositori seperti:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Ditampilkan di showcase OSS **Open at Microsoft**
-- Meraih **Microsoft AI MVP 2025**
+- Tampil di showcase OSS **Open at Microsoft**
+- Mendapatkan **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,8 +74,8 @@ Sebuah CLI Azure OSS resmi yang mengotomatiskan **terjemahan multibahasa** untuk
   </a>
 </p>
 
-- [Open at Microsoft – Membuka Aksesibilitas Multibahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Merencanakan dan Mempersiapkan untuk Mengembangkan Solusi AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Membuka Akses Multibahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Rencanakan dan Persiapkan untuk Mengembangkan Solusi AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -83,7 +83,7 @@ Sebuah CLI Azure OSS resmi yang mengotomatiskan **terjemahan multibahasa** untuk
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **Juara 1**, Inha University Open Source Festival (Co-op Translator)
 - **Pemenang**, Microsoft Korea Azurethon (kategori Prompt Engineering)
-- **3× Blogger Paling Banyak Dikunjungi**, Microsoft Educator Developer Blog
+- **3× Blogger Paling Banyak Dilihat**, Microsoft Educator Developer Blog
 
 ---
 
@@ -104,8 +104,8 @@ Sebuah CLI Azure OSS resmi yang mengotomatiskan **terjemahan multibahasa** untuk
 <details>
 <summary>Lihat Statistik GitHub</summary>
 
-[![Statistik](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 

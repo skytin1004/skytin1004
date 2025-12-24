@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:35:37+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T06:18:47+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS Maintainer ng [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Mahilig akong gumawa ng mga pinapagana ng AI, open-source na mga tool para sa developer na kayang mag-scale sa buong mundo, na naglilipat ng mga konsepto sa maagang yugto tungo sa mga production-ready na solusyon na may tunay na epekto.
+Mahilig akong gumawa ng mga AI-powered, open-source na developer tools na kayang mag-scale nang global — binabago ang mga konsepto sa maagang yugto tungo sa production-ready na mga solusyon na may tunay na epekto.
 
 ### 🌐 Suporta sa Maramihang Wika
 
@@ -33,24 +33,24 @@ Mahilig akong gumawa ng mga pinapagana ng AI, open-source na mga tool para sa de
 ## Pangunahing Proyekto
 
 ### 🚀 Localizeflow (Kasalukuyang Proyekto)
-**GitHub-native na awtomatikong workflow para sa pagsasalin ng dokumentasyon**  
-Walang setup. Naka-host. Awtomatikong pag-sync para sa mga proyekto sa maramihang wika.  
+**Automatikong workflow para sa pagsasalin ng dokumentasyon na native sa GitHub**  
+Walang setup. Hosted. Awtomatikong pag-sync para sa mga proyektong may maramihang wika.  
 → https://localizeflow.com
 
 - Awtomatikong natutukoy ang mga pagbabago sa iyong mga source file
 - Isinasalin lamang ang mga nagbago
 - Nagbubukas ng PRs para sa bawat wika
-- Nabuo gamit ang Co-op Translator (Azure OSS)
+- Nakatayo sa Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Isang opisyal na Azure OSS CLI na nag-a-automate ng **maramihang pagsasalin** para sa Markdown at nilalamang imahe (OCR)  
-**Epekto:** Pinapagana ang pagsasalin para sa mga repositoryo pang-edukasyon ng Microsoft na may kabuuang 200k★+, na tinitiyak na laging napapanahon ang nilalaman sa 10+ wika.
+Isang opisyal na Azure OSS CLI na nag-a-automate ng **mga pagsasalin sa maramihang wika** para sa Markdown + image content (OCR)  
+**Epekto:** Pinapagana ang mga pagsasalin para sa mga repositoryo ng edukasyon ng Microsoft na may kabuuang 200k★+, tinitiyak na laging napapanahon ang nilalaman sa 10+ mga wika.
 
-- Lumago mula sa paunang PoC → production-grade na Python CLI
-- Nagsama ng Azure OpenAI + Azure AI Vision para sa pagsasalin + automation ng OCR
-- Ginagamit ng mga repo tulad ng:
+- Lumago mula sa maagang PoC → production-grade na Python CLI
+- Naka-integrate ang Azure OpenAI + Azure AI Vision para sa pagsasalin at awtomasyon ng OCR
+- Ginagamit ng mga repositoryo tulad ng:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
@@ -63,7 +63,7 @@ Isang opisyal na Azure OSS CLI na nag-a-automate ng **maramihang pagsasalin** pa
 
 ---
 
-## Mga Talumpati at Media
+## Mga Talakayan at Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,16 +74,16 @@ Isang opisyal na Azure OSS CLI na nag-a-automate ng **maramihang pagsasalin** pa
   </a>
 </p>
 
-- [Open at Microsoft – Pagbubukas ng Multilingual Accessibility gamit ang Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Magplano at Maghanda sa Pag-develop ng mga Solusyong AI sa Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Pagbubukas ng Multilingual na Aksesibilidad gamit ang Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Magplano at Maghanda para Bumuo ng Mga Solusyon sa AI sa Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Pagkilala
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **Unang Lugar**, Inha University Open Source Festival (Co-op Translator)
-- **Panalo**, Microsoft Korea Azurethon (kategorya ng Prompt Engineering)
-- **3× Pinaka Maraming Pagtingin na Blogger**, Microsoft Educator Developer Blog
+- **1st Place**, Inha University Open Source Festival (Co-op Translator)
+- **Winner**, Microsoft Korea Azurethon (Prompt Engineering category)
+- **3× Most Viewed Blogger**, Microsoft Educator Developer Blog
 
 ---
 

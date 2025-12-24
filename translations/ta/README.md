@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:50:00+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T06:35:04+00:00",
   "source_file": "README.md",
   "language_code": "ta"
 }
@@ -11,21 +11,21 @@ CO_OP_TRANSLATOR_METADATA:
 
 # வணக்கம், நான் Minseok Song! 
 
-[![GitHub ஆதரவாளர்கள்](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![எனக்கு ஒரு காபி வாங்குங்கள்](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub நன்கொடையாளர்கள்](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![எனக்கு ஒரு காப்பி வாங்கவும்](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**உருவாக்குனர் [Localizeflow](https://localizeflow.com)**
+**Creator of [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS பராமரிப்பாளர் [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) இன் OSS பராமரிப்பாளர்**
 
-AI-ஆல் இயக்கப்படும், திறந்த மூல டெவலப்பர் கருவிகளை உருவாக்குவதில் நான் ஆர்வமுள்ளவன் — ஆரம்ப கட்ட கருத்துக்களை உலகளாவிய அளவிற்கு சென்று உண்மையான தாக்கம் உள்ள தயாரிப்பு-தயார் தீர்வுகளாக்குவதை நேசிக்கிறேன்.
+நான் உலகளாவிய அளவில் விரிவடையும் AI சார்ந்த திறன் கொண்ட, திறந்த மூல டெவலப்பர் கருவிகளை உருவாக்க விரும்புகிறேன் — ஆரம்பக் கருத்துக்களை தயாரிப்புக்குத் தயாரான தீர்வுகளாக மாற்றி உண்மையான விளைவுகளை ஏற்படுத்துவதை நேசிக்கிறேன்.
 
-### 🌐 பலமொழி ஆதரவு
+### 🌐 பல மொழி ஆதரவு
 
-#### [Localizeflow](https://localizeflow.com/) மூலம் ஆதரிக்கப்படுகிறது
+#### [Localizeflow](https://localizeflow.com) மூலம் ஆதரிக்கப்படுகிறது
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](./README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[அரபிக்](../ar/README.md) | [பெங்காலி](../bn/README.md) | [பல்கேரியன்](../bg/README.md) | [பர்மீஸ் (மியான்மார்)](../my/README.md) | [சீன (எளிமைப்படுத்தப்பட்ட)](../zh/README.md) | [சீன (பாரம்பரிய, ஹொங்காங்)](../hk/README.md) | [சீன (பாரம்பரிய, மகாவ்)](../mo/README.md) | [சீன (பாரம்பரிய, தைவான்)](../tw/README.md) | [குரோஷியன்](../hr/README.md) | [செக்](../cs/README.md) | [டேனிஷ்](../da/README.md) | [டச்சு](../nl/README.md) | [எஸ்தோனியன்](../et/README.md) | [பினிஷ்](../fi/README.md) | [பிரஞ்சு](../fr/README.md) | [ஜெர்மன்](../de/README.md) | [கிரேக்கு](../el/README.md) | [ஹீப்ரு](../he/README.md) | [இந்தி](../hi/README.md) | [ஹங்கேரியன்](../hu/README.md) | [இந்தோனேசியன்](../id/README.md) | [இத்தாலியன்](../it/README.md) | [ஜப்பானீஸ்](../ja/README.md) | [கன்னடம்](../kn/README.md) | [கொரியன்](../ko/README.md) | [லிதுவேனியன்](../lt/README.md) | [மலாய்](../ms/README.md) | [மலையாளம்](../ml/README.md) | [மராத்தி](../mr/README.md) | [நேபாளி](../ne/README.md) | [நைஜீரியன் பிட்ஜின்](../pcm/README.md) | [நோர்வேஜியன்](../no/README.md) | [பெர்ஷியன் (பார்சி)](../fa/README.md) | [போலிஷ்](../pl/README.md) | [போர்ச்சுகீஸ் (பிரசில்)](../br/README.md) | [போர்ச்சுகீஸ் (போர்த்துகால்)](../pt/README.md) | [பஞ்சாபி (குருமுகி)](../pa/README.md) | [ருமேனியன்](../ro/README.md) | [ரஷ்யன்](../ru/README.md) | [செர்பியன் (சிரிலிக்)](../sr/README.md) | [ஸ்லோவாக்](../sk/README.md) | [ஸ்லோவேனியன்](../sl/README.md) | [ஸ்பானிய](../es/README.md) | [ஸ்வாஹிலி](../sw/README.md) | [சுவீடிஷ்](../sv/README.md) | [டாகாலோக் (பிலிப்பீன்)](../tl/README.md) | [தமிழ்](./README.md) | [తెలుగు](../te/README.md) | [தாய்](../th/README.md) | [துருக்கிஷ்](../tr/README.md) | [உக்ரேனியன்](../uk/README.md) | [உருது](../ur/README.md) | [வியட்நாமி](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,31 +33,31 @@ AI-ஆல் இயக்கப்படும், திறந்த மூல 
 ## முக்கிய திட்டம்
 
 ### 🚀 Localizeflow (தற்போதைய திட்டம்)
-**GitHub-நிலை தானியங்கி ஆவண மொழிபெயர்ப்பு பணிமுறை**  
-இயக்கத்திற்கு எதுவும் தேவையில்லை. ஹோஸ்ட் செய்யப்பட்டுள்ளது. பலமொழி திட்டங்களுக்கு தானாக ஒத்திசைவு.  
+**GitHub-சார்ந்த தானியங்கி ஆவண மொழிபெயர்ப்பு பணிமுறை**  
+அமைப்புசெய்ய தேவையில்லை. ஹோஸ்ட் செய்யப்படுகிறது. பல மொழி திட்டங்களுக்கு தானாக ஒத்திசைவு.  
 → https://localizeflow.com
 
-- உங்கள் மூல கோப்புகளில் நடந்த மாற்றங்களை தானாக கண்டறிகிறது
-- மாற்றமடைந்தவற்றையே மொழிபெயர்க்கிறது
-- ஒவ்வொரு மொழிக்குமான PRகளை திறக்கிறது
-- Co-op Translator (Azure OSS) மேல் உருவாக்கப்பட்டுள்ளது
+- உங்கள் மூல கோப்புகளில் உள்ள மாற்றங்களை தானாக கண்டறிகிறது
+- மாற்றமடைந்தவற்றை மட்டும் மொழிபெயர்க்கிறது
+- ஒவ்வொரு மொழிக்கும் தனித்தனியான PR-களை திறக்கிறது
+- Co-op Translator (Azure OSS) மேல் கட்டப்பட்டுள்ளது
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + படம் உள்ளடக்கத்திற்கான (OCR) **பலமொழி மொழிபெயர்ப்புகளை** தானாகச் செயற்படுத்தும் அதிகாரப்பூர்வ Azure OSS CLI  
-**பயன்:** மொத்தம் 200k★+ நடுத்தரமான Microsoft கல்வி repositories-கு மொழிபெயர்ப்புகளை வழங்கி, 10+ மொழிகளில் அனைத்தும் புதுப்பிக்கப்பட்ட உள்ளடக்கத்தைக் காக்கிறது.
+Markdown + படத் தரவுகளுக்கான (OCR) **பலமொழி மொழிபெயர்ப்பை** தானியக்கமாகச் செய்பவரான அதிகாரப்பூர்வ Azure OSS CLI  
+**பயன்:** Microsoft கல்வி ரெப்போசிடோரிகளுக்கான மொழிபெயர்ப்புகளை 200k★+ வரை செயல்படுத்தி, 10+ மொழிகளில் எப்போதும் புதுப்பிக்கப்பட்ட உள்ளடக்கத்தை உறுதி செய்கிறது.
 
-- ஆரம்ப PoC இருந்து production-தர Python CLI ஆக விரிந்தது
-- மொழிபெயர்ப்பு + OCR தானியக்கத்திற்காக Azure OpenAI + Azure AI Vision உடன் ஒருங்கிணைக்கப்பட்டது
-- பின்வகை repo-களால் பயன்படுத்தப்படுகிறது:
+- தொடக்க PoC இருந்து → தயாரிப்புக்குரிய Python CLI ஆக வளர்ச்சியடைந்தது
+- மொழிபெயர்ப்பு + OCR தானியக்கத்திற்கு Azure OpenAI + Azure AI Vision ஐ ஒருங்கிணைத்துள்ளது
+- பின்வரும் ரெப்போக்கள் இதை பயன்படுத்துகின்றன:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS ஷோக்கேஸில் குறிப்பிட்டு இடம்பெற்றது
-- **Microsoft AI MVP 2025** பெற்றவர்
+- **Open at Microsoft** OSS வெளியீட்டு கண்காட்சியில் குறிப்பிடப்பட்டது
+- **Microsoft AI MVP 2025** ஐ பெற்றுள்ளது
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,20 +74,20 @@ Markdown + படம் உள்ளடக்கத்திற்கான (OCR
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator மூலம் பலமொழி அணுகலை திறக்குதல்](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure இல் AI தீர்வுகளை உருவாக்க திட்டமிடுதல் மற்றும் தயாராகுதல்](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translator உதவியுடன் பலமொழி அணுகலை திறத்தல்](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Azure இல் AI தீர்வுகளை உருவாக்க திட்டமிடவும், தயாராகவும்](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## அங்கீகாரம்
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **முதல் இடம்**, Inha University Open Source Festival (Co-op Translator)
-- **வெற்றியாளர்**, Microsoft Korea Azurethon (Prompt Engineering category)
+- **வெற்றியாளர்**, Microsoft Korea Azurethon (Prompt Engineering பிரிவு)
 - **3× Most Viewed Blogger**, Microsoft Educator Developer Blog
 
 ---
 
-## தொழில்நுட்ப ஸ்டாக்
+## தொழில்நுட்ப ஸ்டாக்
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,12 +100,12 @@ Markdown + படம் உள்ளடக்கத்திற்கான (OCR
 
 ---
 
-## புள்ளிவிவரங்கள் & செயல்பாடு
+## புள்ளிவிவரங்கள் & செயற்பாடு
 <details>
 <summary>GitHub புள்ளிவிவரங்களை காண்க</summary>
 
-[![புள்ளிவிவரம்](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![பிரபல மொழிகள்](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![புள்ளிவிவரங்கள்](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![சிறந்த மொழிகள்](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
@@ -113,5 +113,5 @@ Markdown + படம் உள்ளடக்கத்திற்கான (OCR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
-[![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
-[![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+[![தொழில்நுட்ப சமூகம்](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
+[![மின்னஞ்சல்](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)

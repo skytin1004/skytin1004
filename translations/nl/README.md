@@ -1,13 +1,13 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:30:00+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T06:13:45+00:00",
   "source_file": "README.md",
   "language_code": "nl"
 }
 -->
-![Headerbanner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Kopbanner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # Hoi, ik ben Minseok Song! 
 
@@ -18,14 +18,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS-maintainer van [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Ik hou van het bouwen van AI-gestuurde, open-source ontwikkeltools die wereldwijd opschalen en vroege concepten omzetten in productierijpe oplossingen met echte impact.
+Ik bouw graag AI-gestuurde, open-source ontwikkelaarstools die wereldwijd schalen en vroege concepten omzetten naar productieklare oplossingen met echte impact.
 
 ### 🌐 Meertalige ondersteuning
 
 #### Ondersteund door [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabisch](../ar/README.md) | [Bengaals](../bn/README.md) | [Bulgaars](../bg/README.md) | [Birmaans (Myanmar)](../my/README.md) | [Chinees (Vereenvoudigd)](../zh/README.md) | [Chinees (Traditioneel, Hongkong)](../hk/README.md) | [Chinees (Traditioneel, Macau)](../mo/README.md) | [Chinees (Traditioneel, Taiwan)](../tw/README.md) | [Kroatisch](../hr/README.md) | [Tsjechisch](../cs/README.md) | [Deens](../da/README.md) | [Nederlands](./README.md) | [Ests](../et/README.md) | [Fins](../fi/README.md) | [Frans](../fr/README.md) | [Duits](../de/README.md) | [Grieks](../el/README.md) | [Hebreeuws](../he/README.md) | [Hindi](../hi/README.md) | [Hongaars](../hu/README.md) | [Indonesisch](../id/README.md) | [Italiaans](../it/README.md) | [Japans](../ja/README.md) | [Kannada](../kn/README.md) | [Koreaans](../ko/README.md) | [Litouws](../lt/README.md) | [Maleis](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalees](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Noors](../no/README.md) | [Perzisch (Farsi)](../fa/README.md) | [Pools](../pl/README.md) | [Portugees (Brazilië)](../br/README.md) | [Portugees (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Roemeens](../ro/README.md) | [Russisch](../ru/README.md) | [Servisch (Cyrillisch)](../sr/README.md) | [Slowaaks](../sk/README.md) | [Sloveens](../sl/README.md) | [Spaans](../es/README.md) | [Swahili](../sw/README.md) | [Zweeds](../sv/README.md) | [Tagalog (Filipijns)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turks](../tr/README.md) | [Oekraïens](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamees](../vi/README.md)
+[Arabisch](../ar/README.md) | [Bengaals](../bn/README.md) | [Bulgaars](../bg/README.md) | [Birmaans (Myanmar)](../my/README.md) | [Chinees (vereenvoudigd)](../zh/README.md) | [Chinees (traditioneel, Hongkong)](../hk/README.md) | [Chinees (traditioneel, Macau)](../mo/README.md) | [Chinees (traditioneel, Taiwan)](../tw/README.md) | [Kroatisch](../hr/README.md) | [Tsjechisch](../cs/README.md) | [Deens](../da/README.md) | [Nederlands](./README.md) | [Ests](../et/README.md) | [Fins](../fi/README.md) | [Frans](../fr/README.md) | [Duits](../de/README.md) | [Grieks](../el/README.md) | [Hebreeuws](../he/README.md) | [Hindi](../hi/README.md) | [Hongaars](../hu/README.md) | [Indonesisch](../id/README.md) | [Italiaans](../it/README.md) | [Japans](../ja/README.md) | [Kannada](../kn/README.md) | [Koreaans](../ko/README.md) | [Litouws](../lt/README.md) | [Maleis](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalees](../ne/README.md) | [Nigeriaans Pidgin](../pcm/README.md) | [Noors](../no/README.md) | [Perzisch (Farsi)](../fa/README.md) | [Pools](../pl/README.md) | [Portugees (Brazilië)](../br/README.md) | [Portugees (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Roemeens](../ro/README.md) | [Russisch](../ru/README.md) | [Servisch (Cyrillisch)](../sr/README.md) | [Slowaaks](../sk/README.md) | [Sloveens](../sl/README.md) | [Spaans](../es/README.md) | [Swahili](../sw/README.md) | [Zweeds](../sv/README.md) | [Tagalog (Filipijns)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turks](../tr/README.md) | [Oekraïens](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamees](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -34,21 +34,21 @@ Ik hou van het bouwen van AI-gestuurde, open-source ontwikkeltools die wereldwij
 
 ### 🚀 Localizeflow (Huidig project)
 **GitHub-native geautomatiseerde workflow voor documentatievertaling**  
-Geen configuratie. Gehost. Automatische synchronisatie voor meertalige projecten.  
+Geen configuratie nodig. Gehost. Automatische synchronisatie voor meertalige projecten.  
 → https://localizeflow.com
 
 - Detecteert automatisch wijzigingen in je bronbestanden
-- Vertaalt alleen wat is gewijzigd
+- Vertaalt alleen wat gewijzigd is
 - Opent PRs voor elke taal
-- Gebouwd bovenop Co-op Translator (Azure OSS)
+- Gebouwd op Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor Markdown + afbeeldingsinhoud (OCR)  
-**Impact:** Levert vertalingen voor Microsoft-educatieve repositories met in totaal meer dan 200k★, en zorgt ervoor dat de inhoud altijd bijgewerkt is in meer dan 10 talen.
+Een officiële Azure OSS CLI die **meertalige vertalingen** voor Markdown + afbeeldingsinhoud (OCR) automatiseert  
+**Impact:** Maakt vertalingen mogelijk voor Microsoft-educatie-repositories met in totaal meer dan 200k★, en zorgt voor altijd bijgewerkte inhoud in meer dan 10 talen.
 
-- Opgeschaald van vroege PoC → productierijpe Python CLI
+- Opgeschaald van vroege PoC → productieklare Python CLI
 - Geïntegreerd met Azure OpenAI + Azure AI Vision voor vertaling + OCR-automatisering
 - Gebruikt door repositories zoals:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -56,8 +56,8 @@ Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor M
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Uitgelicht in de OSS-showcase van **Open at Microsoft**
-- Ontvangen **Microsoft AI MVP 2025**
+- Uitgelicht in de OSS-showcase **Open at Microsoft**
+- Behaald **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,7 +74,7 @@ Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor M
   </a>
 </p>
 
-- [Open at Microsoft – Meertalige toegankelijkheid ontgrendelen met Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Meertalige toegankelijkheid ontsluiten met Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Plannen en voorbereiden om AI-oplossingen op Azure te ontwikkelen](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
@@ -82,7 +82,7 @@ Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor M
 ## Erkenning
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1e plaats**, Inha University Open Source Festival (Co-op Translator)
-- **Winnaar**, Microsoft Korea Azurethon (categorie Prompt Engineering)
+- **Winnaar**, Microsoft Korea Azurethon (Prompt Engineering-categorie)
 - **3× Meest bekeken blogger**, Microsoft Educator Developer Blog
 
 ---
@@ -100,7 +100,7 @@ Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor M
 
 ---
 
-## Statistieken & Activiteit
+## Statistieken & activiteit
 <details>
 <summary>Bekijk GitHub-statistieken</summary>
 

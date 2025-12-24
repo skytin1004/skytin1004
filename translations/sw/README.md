@@ -1,28 +1,28 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:36:40+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T06:19:58+00:00",
   "source_file": "README.md",
   "language_code": "sw"
 }
 -->
 ![Bango la Kichwa](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Habari, mimi ni Minseok Song! 
+# Halo, mimi ni Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Mbunifu wa [Localizeflow](https://localizeflow.com)**
+**Muumba wa [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Mtunzaji wa OSS wa [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Msimamizi wa OSS wa [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Napenda kujenga zana za watengenezaji zinazoendeshwa na AI, chanzo wazi, zinazoweza kutumika kimataifa, nikibadilisha dhana za awali kuwa suluhisho zenye uzalishaji na athari halisi.
+Napenda kujenga zana za waendelezaji zilizoendeshwa na AI, za chanzo huria zinazoweza kupanuka kimataifa, nikibadilisha dhana za awali kuwa suluhisho zenye uzalishaji na athari halisi.
 
-### 🌐 Msaada wa Lugha Nyingi
+### 🌐 Multi-Language Support
 
-#### Inasaidiwa na [Localizeflow](https://localizeflow.com/)
+#### Supported by [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](./README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
@@ -33,37 +33,37 @@ Napenda kujenga zana za watengenezaji zinazoendeshwa na AI, chanzo wazi, zinazow
 ## Mradi Muhimu
 
 ### 🚀 Localizeflow (Mradi wa Sasa)
-**Mfumo otomatiki wa kutafsiri nyaraka unaofanya kazi ndani ya GitHub**  
-Hakuna usanidi. Imepangiliwa mwenyeji. Ulandanishaji otomatiki kwa miradi yenye lugha nyingi.  
+**GitHub-native automated documentation translation workflow**  
+Zero setup. Hosted. Auto-sync for multilingual projects.  
 → https://localizeflow.com
 
-- Inagundua mabadiliko kwenye faili zako za chanzo kwa otomatiki
-- Inatafsiri tu kilichobadilika
-- Inafungua PRs kwa kila lugha
+- Inagundua mabadiliko kwenye faili zako za chanzo kwa kiotomatiki
+- Inatafsiri tu kile kilichobadilika
+- Inafungua PR kwa kila lugha
 - Imejengwa juu ya Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-CLI rasmi ya Azure OSS inayofanya kazi ya otomatiki ya **tafsiri za lugha nyingi** kwa maudhui ya Markdown + picha (OCR)  
-**Athari:** Inaendesha tafsiri kwa maktaba za elimu za Microsoft zenye jumla ya 200k★+, ikihakikisha maudhui yanasasishwa kila wakati katika lugha 10+.
+CLI rasmi ya Azure OSS inayowezesha kiotomatiki **tafsiri za lugha nyingi** kwa Markdown + maudhui ya picha (OCR)  
+**Athari:** Inaendesha tafsiri za hazina za elimu za Microsoft zenye jumla ya 200k★+, kuhakikisha maudhui daima yanabaki kusasishwa katika lugha 10+.
 
-- Imeongezeka kutoka PoC ya awali → CLI ya Python yenye kiwango cha uzalishaji
-- Imejumuisha Azure OpenAI + Azure AI Vision kwa tafsiri na otomatiki ya OCR
-- Imetumika na repo kama:
+- Imeongezeka kutoka early PoC → CLI ya Python ya kiwango cha uzalishaji
+- Imeunganishwa na Azure OpenAI + Azure AI Vision kwa otomatiki ya tafsiri na OCR
+- Imetumika kwenye hazina kama:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Imetangazwa katika onyesho la OSS la **Open at Microsoft**
+- Imeonyeshwa katika onyesho la OSS la **Open at Microsoft**
 - Imepata **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Mawasilisho & Vyombo vya Habari
+## Hotuba & Vyombo vya Habari
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,7 +74,7 @@ CLI rasmi ya Azure OSS inayofanya kazi ya otomatiki ya **tafsiri za lugha nyingi
   </a>
 </p>
 
-- [Open at Microsoft – Kufungua Upatikanaji wa Lugha Nyingi na Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Kufungua Ufikikaji wa Lugha Nyingi kwa Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Panga na Jiandae Kuendeleza Suluhisho za AI kwenye Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
@@ -83,11 +83,11 @@ CLI rasmi ya Azure OSS inayofanya kazi ya otomatiki ya **tafsiri za lugha nyingi
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **Nafasi ya Kwanza**, Inha University Open Source Festival (Co-op Translator)
 - **Mshindi**, Microsoft Korea Azurethon (kitengo cha Prompt Engineering)
-- **Blogger aliyeonekana zaidi mara 3**, Microsoft Educator Developer Blog
+- **Mwandishi wa Blogu Aliyeangaliwa Zaidi mara 3**, Microsoft Educator Developer Blog
 
 ---
 
-## Teknolojia
+## Stack ya Teknolojia
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -102,10 +102,10 @@ CLI rasmi ya Azure OSS inayofanya kazi ya otomatiki ya **tafsiri za lugha nyingi
 
 ## Takwimu & Shughuli
 <details>
-<summary>Tazama Takwimu za GitHub</summary>
+<summary>Angalia Takwimu za GitHub</summary>
 
 [![Takwimu](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Lugha Zilizotumika Zaidi](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Lugha Kuu](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
@@ -114,4 +114,4 @@ CLI rasmi ya Azure OSS inayofanya kazi ya otomatiki ya **tafsiri za lugha nyingi
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
 [![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
-[![Barua pepe](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+[![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
