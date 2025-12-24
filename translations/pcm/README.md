@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:52:23+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T06:37:53+00:00",
   "source_file": "README.md",
   "language_code": "pcm"
 }
@@ -14,15 +14,15 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Na me be creator of [Localizeflow](https://localizeflow.com)**
+**Na me create [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Na OSS Maintainer for [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-I like build AI-powered, open-source developer tools wey fit scale globally — I dey turn early-stage ideas to production-ready solutions wey get real impact.
+I like to build AI-powered, open-source developer tools wey fit scale go worldwide, dey turn early-stage concepts into production-ready solutions wey get real impact.
 
-### 🌐 Support for plenty languages
+### 🌐 Support for Many Languages
 
-#### Supported by [Localizeflow](https://localizeflow.com/)
+#### Na [Localizeflow](https://localizeflow.com) dey support am
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](./README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
@@ -34,30 +34,30 @@ I like build AI-powered, open-source developer tools wey fit scale globally — 
 
 ### 🚀 Localizeflow (Project wey I dey work on now)
 **GitHub-native automated documentation translation workflow**  
-No setup. Hosted. E dey auto-sync for multilingual projects.  
+No setup. E dey hosted. Auto-sync for multilingual projects.  
 → https://localizeflow.com
 
 - E dey automatically detect changes for your source files
-- E go translate only wetin change
-- E dey open PRs for each language
-- E build on top of Co-op Translator (Azure OSS)
+- E go translate only wetin don change
+- E go open PRs for each language
+- Built on top of Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-An official Azure OSS CLI wey dey automate **multilingual translations** for Markdown + image content (OCR)  
-**Impact:** E power translations for Microsoft educational repositories wey total reach 200k★+, make sure say content dey always updated for 10+ languages.
+Na official Azure OSS CLI wey dey automate **multilingual translations** for Markdown + image content (OCR)  
+**Impact:** E dey power translations for Microsoft educational repositories wey don reach 200k★+, make sure content dey always updated for 10+ languages.
 
 - Scaled from early PoC → production-grade Python CLI
-- Integrated Azure OpenAI + Azure AI Vision for translation + OCR automation
-- Dem dey use am for repos like:
+- Dem integrate Azure OpenAI + Azure AI Vision for translation + OCR automation
+- Repos wey dey use am include:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Featured in **Open at Microsoft** OSS showcase
-- Earned **Microsoft AI MVP 2025**
+- E feature for **Open at Microsoft** OSS showcase
+- E don earn **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,8 +74,8 @@ An official Azure OSS CLI wey dey automate **multilingual translations** for Mar
   </a>
 </p>
 
-- [Open at Microsoft – How dem take unlock multilingual accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan and prepare how to build AI solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – How dem dey unlock Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – How to Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -109,7 +109,7 @@ An official Azure OSS CLI wey dey automate **multilingual translations** for Mar
 </details>
 ---
 
-## 📫 How you fit connect me
+## 📫 How to Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

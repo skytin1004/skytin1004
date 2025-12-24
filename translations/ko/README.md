@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:12:07+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T05:53:09+00:00",
   "source_file": "README.md",
   "language_code": "ko"
 }
@@ -14,18 +14,18 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com)의 제작자**
+**Creator of [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator)의 OSS 유지관리자**
+**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-저는 초기 단계의 개념을 실제 영향력을 가진 생산 준비된 솔루션으로 전환하여 전 세계적으로 확장 가능한 AI 기반 오픈 소스 개발자 도구를 만드는 것을 좋아합니다.
+저는 AI 기반의 오픈 소스 개발 도구를 전 세계적으로 확장 가능한 방식으로 구축하는 것을 좋아하며, 초기 단계의 아이디어를 실제 영향력을 지닌 프로덕션 준비된 솔루션으로 전환하는 것을 즐깁니다.
 
 ### 🌐 다국어 지원
 
-#### [Localizeflow](https://localizeflow.com/)에서 지원
+#### Supported by [Localizeflow](https://localizeflow.com)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[아랍어](../ar/README.md) | [벵골어](../bn/README.md) | [불가리아어](../bg/README.md) | [버마어 (미얀마)](../my/README.md) | [중국어(간체)](../zh/README.md) | [중국어(번체, 홍콩)](../hk/README.md) | [중국어(번체, 마카오)](../mo/README.md) | [중국어(번체, 대만)](../tw/README.md) | [크로아티아어](../hr/README.md) | [체코어](../cs/README.md) | [덴마크어](../da/README.md) | [네덜란드어](../nl/README.md) | [에스토니아어](../et/README.md) | [핀란드어](../fi/README.md) | [프랑스어](../fr/README.md) | [독일어](../de/README.md) | [그리스어](../el/README.md) | [히브리어](../he/README.md) | [힌디어](../hi/README.md) | [헝가리어](../hu/README.md) | [인도네시아어](../id/README.md) | [이탈리아어](../it/README.md) | [일본어](../ja/README.md) | [칸나다어](../kn/README.md) | [한국어](./README.md) | [리투아니아어](../lt/README.md) | [말레이어](../ms/README.md) | [말라얄람어](../ml/README.md) | [마라티어](../mr/README.md) | [네팔어](../ne/README.md) | [나이지리아 피진](../pcm/README.md) | [노르웨이어](../no/README.md) | [페르시아어(파르시)](../fa/README.md) | [폴란드어](../pl/README.md) | [포르투갈어(브라질)](../br/README.md) | [포르투갈어(포르투갈)](../pt/README.md) | [펀자브어(구르무키)](../pa/README.md) | [루마니아어](../ro/README.md) | [러시아어](../ru/README.md) | [세르비아어(키릴)](../sr/README.md) | [슬로바키아어](../sk/README.md) | [슬로베니아어](../sl/README.md) | [스페인어](../es/README.md) | [스와힐리어](../sw/README.md) | [스웨덴어](../sv/README.md) | [타갈로그어(필리핀)](../tl/README.md) | [타밀어](../ta/README.md) | [텔루구어](../te/README.md) | [태국어](../th/README.md) | [터키어](../tr/README.md) | [우크라이나어](../uk/README.md) | [우르두어](../ur/README.md) | [베트남어](../vi/README.md)
+[아랍어](../ar/README.md) | [벵골어](../bn/README.md) | [불가리아어](../bg/README.md) | [버마어 (미얀마)](../my/README.md) | [중국어 (간체)](../zh/README.md) | [중국어 (번체, 홍콩)](../hk/README.md) | [중국어 (번체, 마카오)](../mo/README.md) | [중국어 (번체, 대만)](../tw/README.md) | [크로아티아어](../hr/README.md) | [체코어](../cs/README.md) | [덴마크어](../da/README.md) | [네덜란드어](../nl/README.md) | [에스토니아어](../et/README.md) | [핀란드어](../fi/README.md) | [프랑스어](../fr/README.md) | [독일어](../de/README.md) | [그리스어](../el/README.md) | [히브리어](../he/README.md) | [힌디어](../hi/README.md) | [헝가리어](../hu/README.md) | [인도네시아어](../id/README.md) | [이탈리아어](../it/README.md) | [일본어](../ja/README.md) | [칸나다어](../kn/README.md) | [한국어](./README.md) | [리투아니아어](../lt/README.md) | [말레이어](../ms/README.md) | [말라얄람어](../ml/README.md) | [마라티어](../mr/README.md) | [네팔어](../ne/README.md) | [나이지리아 피진어](../pcm/README.md) | [노르웨이어](../no/README.md) | [페르시아어 (파르시)](../fa/README.md) | [폴란드어](../pl/README.md) | [포르투갈어 (브라질)](../br/README.md) | [포르투갈어 (포르투갈)](../pt/README.md) | [펀자브어 (구르무키)](../pa/README.md) | [루마니아어](../ro/README.md) | [러시아어](../ru/README.md) | [세르비아어 (키릴)](../sr/README.md) | [슬로바키아어](../sk/README.md) | [슬로베니아어](../sl/README.md) | [스페인어](../es/README.md) | [스와힐리어](../sw/README.md) | [스웨덴어](../sv/README.md) | [따갈로그어 (필리핀)](../tl/README.md) | [타밀어](../ta/README.md) | [텔루구어](../te/README.md) | [타이어](../th/README.md) | [터키어](../tr/README.md) | [우크라이나어](../uk/README.md) | [우르두어](../ur/README.md) | [베트남어](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,22 +33,22 @@ CO_OP_TRANSLATOR_METADATA:
 ## 주요 프로젝트
 
 ### 🚀 Localizeflow (현재 프로젝트)
-**GitHub 네이티브 자동 문서 번역 워크플로우**  
+**GitHub 기반 자동 문서 번역 워크플로우**  
 설정 불필요. 호스팅됨. 다국어 프로젝트 자동 동기화.  
 → https://localizeflow.com
 
 - 소스 파일의 변경 사항을 자동으로 감지합니다
 - 변경된 부분만 번역합니다
-- 언어별로 PR을 엽니다
+- 각 언어별로 PRs를 엽니다
 - Co-op Translator (Azure OSS) 위에 구축됨
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown 및 이미지 콘텐츠(OCR)에 대한 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향:** Microsoft 교육용 리포지토리 번역을 총합 200k★+ 이상 지원하여 10개 이상의 언어로 항상 최신 상태를 보장합니다.
+Markdown + 이미지 콘텐츠(OCR)의 다국어 번역을 자동화하는 공식 Azure OSS CLI  
+**영향:** Microsoft의 교육용 리포지토리 번역을 총 200k★+ 규모로 지원하며, 10개 이상의 언어로 항상 업데이트된 콘텐츠를 보장합니다.
 
-- 초기 PoC에서 프로덕션 수준의 Python CLI로 확장됨
+- 초기 PoC에서 프로덕션 수준의 Python CLI로 확장
 - 번역 및 OCR 자동화를 위해 Azure OpenAI + Azure AI Vision 통합
 - 다음과 같은 리포지토리에서 사용됨:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -74,16 +74,16 @@ Markdown 및 이미지 콘텐츠(OCR)에 대한 **다국어 번역**을 자동�
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator로 다국어 접근성 향상](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure에서 AI 솔루션 개발을 계획하고 준비하기](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translator로 다국어 접근성 강화](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Azure에서 AI 솔루션을 개발하기 위한 계획 및 준비](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## 수상 및 인정
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1위**, 인하대학교 오픈 소스 페스티벌 (Co-op Translator)
-- **우승**, Microsoft Korea Azurethon (Prompt Engineering 부문)
-- **3회 최다 조회 블로거**, Microsoft Educator Developer Blog
+- **우승**, Microsoft Korea Azurethon (프롬프트 엔지니어링 부문)
+- **3× 최다 조회 블로거**, Microsoft Educator Developer Blog
 
 ---
 
@@ -104,14 +104,14 @@ Markdown 및 이미지 콘텐츠(OCR)에 대한 **다국어 번역**을 자동�
 <details>
 <summary>GitHub 통계 보기</summary>
 
-[![통계](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![상위 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
 ## 📫 연락하기
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
-[![포트폴리오](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
-[![기술 커뮤니티](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
-[![이메일](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
+[![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
+[![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)

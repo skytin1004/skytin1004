@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:03:10+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T05:43:05+00:00",
   "source_file": "README.md",
   "language_code": "ar"
 }
@@ -11,21 +11,21 @@ CO_OP_TRANSLATOR_METADATA:
 
 # مرحبًا، أنا Minseok Song! 
 
-[![راعي GitHub](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![اشترِ لي قهوة](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**مبتكر [Localizeflow](https://localizeflow.com)**
+**مُؤسس [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • مسؤول الحفاظ على OSS لـ [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • مشرف صيانة OSS لمستودع [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-أحب بناء أدوات مفتوحة المصدر مدعومة بالذكاء الاصطناعي للمطوّرين قابلة للتوسع عالميًا، وتحويل مفاهيم المرحلة المبكرة إلى حلول جاهزة للإنتاج ذات تأثير حقيقي.
+أحب بناء أدوات مطورين مفتوحة المصدر مدعومة بالذكاء الاصطناعي وقابلة للتوسع عالميًا، وتحويل المفاهيم المبكرة إلى حلول جاهزة للإنتاج ذات تأثير حقيقي.
 
 ### 🌐 دعم متعدد اللغات
 
-#### مدعوم من قبل [Localizeflow](https://localizeflow.com)
+#### مدعوم بواسطة [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[العربية](./README.md) | [البنغالية](../bn/README.md) | [البلغارية](../bg/README.md) | [البرمية (ميانمار)](../my/README.md) | [الصينية (مبسطة)](../zh/README.md) | [الصينية (تقليدية، هونغ كونغ)](../hk/README.md) | [الصينية (تقليدية، ماكاو)](../mo/README.md) | [الصينية (تقليدية، تايوان)](../tw/README.md) | [الكرواتية](../hr/README.md) | [التشيكية](../cs/README.md) | [الدانمركية](../da/README.md) | [الهولندية](../nl/README.md) | [الإستونية](../et/README.md) | [الفنلندية](../fi/README.md) | [الفرنسية](../fr/README.md) | [الألمانية](../de/README.md) | [اليونانية](../el/README.md) | [العبرية](../he/README.md) | [الهندية](../hi/README.md) | [الهنغارية](../hu/README.md) | [الإندونيسية](../id/README.md) | [الإيطالية](../it/README.md) | [اليابانية](../ja/README.md) | [الكانادا](../kn/README.md) | [الكورية](../ko/README.md) | [الليتوانية](../lt/README.md) | [الملايوية](../ms/README.md) | [المالايالامية](../ml/README.md) | [الماراثية](../mr/README.md) | [النيبالية](../ne/README.md) | [البيجن النيجيري](../pcm/README.md) | [النرويجية](../no/README.md) | [الفارسية (فارسي)](../fa/README.md) | [البولندية](../pl/README.md) | [البرتغالية (البرازيل)](../br/README.md) | [البرتغالية (البرتغال)](../pt/README.md) | [البنجابية (غورموخي)](../pa/README.md) | [الرومانية](../ro/README.md) | [الروسية](../ru/README.md) | [الصربية (السيريلية)](../sr/README.md) | [السلوفاكية](../sk/README.md) | [السلوفينية](../sl/README.md) | [الإسبانية](../es/README.md) | [السواحيلية](../sw/README.md) | [السويدية](../sv/README.md) | [التاغالوغية (الفلبينية)](../tl/README.md) | [التاميلية](../ta/README.md) | [التيلجو](../te/README.md) | [التايلاندية](../th/README.md) | [التركية](../tr/README.md) | [الأوكرانية](../uk/README.md) | [الأردية](../ur/README.md) | [الفيتنامية](../vi/README.md)
+[العربية](./README.md) | [البنغالية](../bn/README.md) | [البلغارية](../bg/README.md) | [البرمية (ميانمار)](../my/README.md) | [الصينية (المبسطة)](../zh/README.md) | [الصينية (التقليدية، هونغ كونغ)](../hk/README.md) | [الصينية (التقليدية، ماكاو)](../mo/README.md) | [الصينية (التقليدية، تايوان)](../tw/README.md) | [الكرواتية](../hr/README.md) | [التشيكية](../cs/README.md) | [الدانمركية](../da/README.md) | [الهولندية](../nl/README.md) | [الإستونية](../et/README.md) | [الفنلندية](../fi/README.md) | [الفرنسية](../fr/README.md) | [الألمانية](../de/README.md) | [اليونانية](../el/README.md) | [العبرية](../he/README.md) | [الهندية](../hi/README.md) | [الهنغارية](../hu/README.md) | [الإندونيسية](../id/README.md) | [الإيطالية](../it/README.md) | [اليابانية](../ja/README.md) | [الكانادية](../kn/README.md) | [الكورية](../ko/README.md) | [الليتوانية](../lt/README.md) | [الماليزية](../ms/README.md) | [المالايالامية](../ml/README.md) | [الماراثية](../mr/README.md) | [النيبالية](../ne/README.md) | [بيدجين نيجيريا](../pcm/README.md) | [النرويجية](../no/README.md) | [الفارسية (فارسي)](../fa/README.md) | [البولندية](../pl/README.md) | [البرتغالية (البرازيل)](../br/README.md) | [البرتغالية (البرتغال)](../pt/README.md) | [البنجابية (Gurmukhi)](../pa/README.md) | [الرومانية](../ro/README.md) | [الروسية](../ru/README.md) | [الصربية (السيريلية)](../sr/README.md) | [السلوفاكية](../sk/README.md) | [السلوفينية](../sl/README.md) | [الإسبانية](../es/README.md) | [السواحيلية](../sw/README.md) | [السويدية](../sv/README.md) | [التاغالوغية (الفلبين)](../tl/README.md) | [التاميلية](../ta/README.md) | [التيلوجو](../te/README.md) | [التايلاندية](../th/README.md) | [التركية](../tr/README.md) | [الأوكرانية](../uk/README.md) | [الأردية](../ur/README.md) | [الفيتنامية](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,30 +33,30 @@ CO_OP_TRANSLATOR_METADATA:
 ## المشروع الرئيسي
 
 ### 🚀 Localizeflow (المشروع الحالي)
-**سير عمل مترجم تلقائي للمستندات مدمج مع GitHub**  
-بدون إعداد. مستضاف. تزامن تلقائي للمشاريع متعددة اللغات.  
+**سير عمل تلقائي لترجمة الوثائق متكامل مع GitHub**  
+بدون إعداد. مستضاف. مزامنة تلقائية للمشاريع متعددة اللغات.  
 → https://localizeflow.com
 
 - يكتشف التغييرات في ملفات المصدر تلقائيًا
-- يترجم فقط ما تغيّر
+- يترجم فقط ما تغير
 - يفتح PR لكل لغة
 - مبني على Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-CLI رسمي من Azure OSS يقوم بأتمتة **الترجمات متعددة اللغات** لمحتوى Markdown + الصور (OCR)  
-**الأثر:** يدعم الترجمات لمستودعات تعليمية تابعة لمايكروسوفت بإجمالي أكثر من 200k★، مما يضمن محتوى محدث دائمًا بأكثر من 10 لغات.
+أداة سطر أوامر رسمية من Azure OSS تؤتمت عمليات **الترجمة متعددة اللغات** لمحتوى Markdown و الصور (OCR)  
+**التأثير:** يدعم ترجمات مستودعات Microsoft التعليمية بمجموع يزيد عن 200k★+، موفّرًا محتوى محدثًا دائمًا بأكثر من 10 لغات.
 
-- تطور من إثبات مفهوم مبكر → إلى CLI Python جاهز للاستخدام في الإنتاج
-- دمج Azure OpenAI + Azure AI Vision لأتمتة الترجمة وOCR
+- نُقِل من إثبات مفهوم مبكر → أداة CLI بلغة Python جاهزة للإنتاج
+- دمج Azure OpenAI + Azure AI Vision للترجمة وأتمتة OCR
 - مستخدم في مستودعات مثل:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- مُعرض في عرض OSS الخاص بـ **Open at Microsoft**
+- مُسلَّط عليه في معرض OSS الخاص بـ **Open at Microsoft**
 - حصل على **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -75,19 +75,19 @@ CLI رسمي من Azure OSS يقوم بأتمتة **الترجمات متعدد�
 </p>
 
 - [Open at Microsoft – تمكين الوصول متعدد اللغات باستخدام Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – التخطيط والتحضير لتطوير حلول الذكاء الاصطناعي على Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – التخطيط والاستعداد لتطوير حلول الذكاء الاصطناعي على Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## الجوائز والتقدير
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **المركز الأول**، مهرجان المصدر المفتوح بجامعة Inha (Co-op Translator)
-- **الفائز**، Microsoft Korea Azurethon (فئة Prompt Engineering)
-- **مدوّن الأكثر مشاهدة ×3**، مدونة Microsoft Educator Developer
+- **المركز الأول**, Inha University Open Source Festival (Co-op Translator)
+- **الفائز**, Microsoft Korea Azurethon (فئة هندسة المحفزات)
+- **مدوّن الأكثر مشاهدة (3 مرات)**، مدونة Microsoft Educator Developer
 
 ---
 
-## التقنيات المستخدمة
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,12 +100,12 @@ CLI رسمي من Azure OSS يقوم بأتمتة **الترجمات متعدد�
 
 ---
 
-## الإحصائيات والنشاط
+## الإحصاءات والنشاط
 <details>
 <summary>عرض إحصاءات GitHub</summary>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![إحصاءات](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![أهم اللغات](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 

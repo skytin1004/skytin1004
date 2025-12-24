@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "759d86063ef5e4c972d3eda565ea803c",
-  "translation_date": "2025-12-23T22:37:23+00:00",
+  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
+  "translation_date": "2025-12-24T06:21:17+00:00",
   "source_file": "README.md",
   "language_code": "hu"
 }
@@ -18,52 +18,52 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Az [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS karbantartója**
 
-Imádom olyan, MI-vezérelt, nyílt forráskódú fejlesztői eszközök építését, amelyek világszinten skálázódnak, korai koncepciókat éles, valódi hatással bíró megoldásokká alakítva.
+Szeretek AI-meghajtású, nyílt forráskódú fejlesztői eszközöket építeni, amelyek globálisan skálázhatók, és korai fázisú koncepciókat valós, éles környezetre kész megoldásokká alakítanak.
 
 ### 🌐 Többnyelvű támogatás
 
-#### Támogatja a [Localizeflow](https://localizeflow.com/)
+#### A Localizeflow támogatásával
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arab](../ar/README.md) | [Bengáli](../bn/README.md) | [Bolgár](../bg/README.md) | [Burmai (Mianmar)](../my/README.md) | [Kínai (egyszerűsített)](../zh/README.md) | [Kínai (hagyományos, Hongkong)](../hk/README.md) | [Kínai (hagyományos, Makaó)](../mo/README.md) | [Kínai (hagyományos, Tajvan)](../tw/README.md) | [Horvát](../hr/README.md) | [Cseh](../cs/README.md) | [Dán](../da/README.md) | [Holland](../nl/README.md) | [Észt](../et/README.md) | [Finn](../fi/README.md) | [Francia](../fr/README.md) | [Német](../de/README.md) | [Görög](../el/README.md) | [Héber](../he/README.md) | [Hindi](../hi/README.md) | [Magyar](./README.md) | [Indonéz](../id/README.md) | [Olasz](../it/README.md) | [Japán](../ja/README.md) | [Kannada](../kn/README.md) | [Koreai](../ko/README.md) | [Litván](../lt/README.md) | [Maláj](../ms/README.md) | [Malayálám](../ml/README.md) | [Maráthi](../mr/README.md) | [Nepáli](../ne/README.md) | [Nigériai Pidgin](../pcm/README.md) | [Norvég](../no/README.md) | [Perzsa (fárszi)](../fa/README.md) | [Lengyel](../pl/README.md) | [Portugál (Brazília)](../br/README.md) | [Portugál (Portugália)](../pt/README.md) | [Pandzsábi (Gurmukhi)](../pa/README.md) | [Román](../ro/README.md) | [Orosz](../ru/README.md) | [Szerb (cirill)](../sr/README.md) | [Szlovák](../sk/README.md) | [Szlovén](../sl/README.md) | [Spanyol](../es/README.md) | [Svahili](../sw/README.md) | [Svéd](../sv/README.md) | [Tagalog (filippínó)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Török](../tr/README.md) | [Ukrán](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnami](../vi/README.md)
+[Arab](../ar/README.md) | [Bengáli](../bn/README.md) | [Bolgár](../bg/README.md) | [Burmai (Mianmar)](../my/README.md) | [Kínai (egyszerűsített)](../zh/README.md) | [Kínai (hagyományos, Hongkong)](../hk/README.md) | [Kínai (hagyományos, Makaó)](../mo/README.md) | [Kínai (hagyományos, Tajvan)](../tw/README.md) | [Horvát](../hr/README.md) | [Cseh](../cs/README.md) | [Dán](../da/README.md) | [Holland](../nl/README.md) | [Észt](../et/README.md) | [Finn](../fi/README.md) | [Francia](../fr/README.md) | [Német](../de/README.md) | [Görög](../el/README.md) | [Héber](../he/README.md) | [Hindi](../hi/README.md) | [Magyar](./README.md) | [Indonéz](../id/README.md) | [Olasz](../it/README.md) | [Japán](../ja/README.md) | [Kannada](../kn/README.md) | [Koreai](../ko/README.md) | [Litván](../lt/README.md) | [Maláj](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepáli](../ne/README.md) | [Nigériai pidgin](../pcm/README.md) | [Norvég](../no/README.md) | [Perzsa (Fárszi)](../fa/README.md) | [Lengyel](../pl/README.md) | [Portugál (Brazília)](../br/README.md) | [Portugál (Portugália)](../pt/README.md) | [Pandzsábi (Gurmukhi)](../pa/README.md) | [Román](../ro/README.md) | [Orosz](../ru/README.md) | [Szerb (cirill)](../sr/README.md) | [Szlovák](../sk/README.md) | [Szlovén](../sl/README.md) | [Spanyol](../es/README.md) | [Szuahéli](../sw/README.md) | [Svéd](../sv/README.md) | [Tagalog (filippínó)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Török](../tr/README.md) | [Ukrán](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnami](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## Kiemelt projekt
+## Fő projekt
 
-### 🚀 Localizeflow (aktuális projekt)
+### 🚀 Localizeflow (jelenlegi projekt)
 **GitHub-hoz natív, automatizált dokumentációfordítási munkafolyamat**  
-Nincs szükség beállításra. Hosztolt. Automatikus szinkronizálás többnyelvű projektekhez.  
+Konfiguráció nélkül. Hosztolt. Automatikus szinkronizáció többnyelvű projektekhez.  
 → https://localizeflow.com
 
-- Automatikusan észleli a forrásfájlok módosításait
+- Automatikusan észleli a forrásfájlok változásait
 - Csak a megváltozott részeket fordítja le
-- Minden nyelvhez PR-eket nyit
+- Nyit PR-eket minden nyelvhez
 - A Co-op Translator (Azure OSS) alapjaira épül
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításokat** Markdown + képtartalom (OCR) esetén  
-**Hatás:** Több mint 200k★ összesített csillaggal rendelkező Microsoft oktatási repó fordítását támogatja, biztosítva, hogy a tartalom 10+ nyelven mindig naprakész legyen.
+Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításokat** Markdown és képtartalom (OCR) esetén  
+**Hatás:** Fordításokat szolgáltat Microsoft oktatási tárolók számára, összesen több mint 200k★, biztosítva a folyamatosan naprakész tartalmat 10+ nyelven.
 
-- Korai PoC-ból → gyártásra alkalmas Python CLI-vé nőtte ki magát
-- Integrálta az Azure OpenAI-t + Azure AI Vision-t a fordítás és OCR automatizálásához
-- Használják például az alábbi repók:
+- Korai PoC-ból éles, gyártási minőségű Python CLI-vé nőtte ki magát
+- Integrálva az Azure OpenAI és Azure AI Vision a fordítás és OCR automatizáláshoz
+- Olyan tárolók használják, mint:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Feltűnt az **Open at Microsoft** OSS válogatásában
-- Elnyerte a **Microsoft AI MVP 2025** címet
+- Megjelent az **Open at Microsoft** OSS bemutatóban
+- Elnyerte a **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Előadások & média
+## Előadások és média
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,20 +74,20 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
   </a>
 </p>
 
-- [Open at Microsoft – Többnyelvű hozzáférhetőség megteremtése a Co-op Translator segítségével](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Többnyelvű hozzáférhetőség biztosítása a Co-op Translatorral](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Tervezés és felkészülés AI-megoldások fejlesztéséhez Azure-on](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Elismerések
-- **Microsoft Legértékesebb Szakember (AI)** 2024–2025
-- **1. hely**, Inha Egyetem Nyílt Forráskódú Fesztivál (Co-op Translator)
+- **Microsoft Most Valuable Professional (AI)** 2024–2025
+- **1. hely**, Inha University Open Source Festival (Co-op Translator)
 - **Győztes**, Microsoft Korea Azurethon (Prompt Engineering kategória)
-- **3× Legnézettebb blogger**, Microsoft Educator Developer Blog
+- **3× Legolvasottabb Blogger**, Microsoft Educator Developer Blog
 
 ---
 
-## Technológiai stack
+## Technológiák
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,18 +100,18 @@ Egy hivatalos Azure OSS CLI, amely automatizálja a **többnyelvű fordításoka
 
 ---
 
-## Statisztikák & aktivitás
+## Statisztikák és aktivitás
 <details>
 <summary>GitHub statisztikák megtekintése</summary>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Statisztikák](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Fő nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
-## 📫 Kapcsolat
+## 📫 Lépj kapcsolatba velem
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
 [![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
-[![E-mail](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+[![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
