@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
-  "translation_date": "2025-12-24T06:01:38+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-24T07:19:27+00:00",
   "source_file": "README.md",
   "language_code": "it"
 }
@@ -18,14 +18,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Manutentore OSS di [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Amo creare strumenti per sviluppatori open source potenziati dall'AI che scalano a livello globale, trasformando concetti in fase iniziale in soluzioni pronte per la produzione con impatto reale.
+Amo costruire strumenti per sviluppatori open-source potenziati dall'AI che si scalano a livello globale, trasformando concetti in fase iniziale in soluzioni pronte per la produzione con impatto reale.
 
 ### 🌐 Supporto multilingue
 
 #### Supportato da [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabo](../ar/README.md) | [Bengalese](../bn/README.md) | [Bulgaro](../bg/README.md) | [Birmano (Myanmar)](../my/README.md) | [Cinese (semplificato)](../zh/README.md) | [Cinese (tradizionale, Hong Kong)](../hk/README.md) | [Cinese (tradizionale, Macao)](../mo/README.md) | [Cinese (tradizionale, Taiwan)](../tw/README.md) | [Croato](../hr/README.md) | [Ceco](../cs/README.md) | [Danese](../da/README.md) | [Olandese](../nl/README.md) | [Estone](../et/README.md) | [Finlandese](../fi/README.md) | [Francese](../fr/README.md) | [Tedesco](../de/README.md) | [Greco](../el/README.md) | [Ebraico](../he/README.md) | [Hindi](../hi/README.md) | [Ungherese](../hu/README.md) | [Indonesiano](../id/README.md) | [Italiano](./README.md) | [Giapponese](../ja/README.md) | [Kannada](../kn/README.md) | [Coreano](../ko/README.md) | [Lituano](../lt/README.md) | [Malese](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalese](../ne/README.md) | [Pidgin nigeriano](../pcm/README.md) | [Norvegese](../no/README.md) | [Persiano (Farsi)](../fa/README.md) | [Polacco](../pl/README.md) | [Portoghese (Brasile)](../br/README.md) | [Portoghese (Portogallo)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romeno](../ro/README.md) | [Russo](../ru/README.md) | [Serbo (Cirillico)](../sr/README.md) | [Slovacco](../sk/README.md) | [Sloveno](../sl/README.md) | [Spagnolo](../es/README.md) | [Swahili](../sw/README.md) | [Svedese](../sv/README.md) | [Tagalog (Filippino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turco](../tr/README.md) | [Ucraino](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamita](../vi/README.md)
+[Arabo](../ar/README.md) | [Bengalese](../bn/README.md) | [Bulgaro](../bg/README.md) | [Birmano (Myanmar)](../my/README.md) | [Cinese (Semplificato)](../zh/README.md) | [Cinese (Tradizionale, Hong Kong)](../hk/README.md) | [Cinese (Tradizionale, Macao)](../mo/README.md) | [Cinese (Tradizionale, Taiwan)](../tw/README.md) | [Croato](../hr/README.md) | [Ceco](../cs/README.md) | [Danese](../da/README.md) | [Olandese](../nl/README.md) | [Estone](../et/README.md) | [Finlandese](../fi/README.md) | [Francese](../fr/README.md) | [Tedesco](../de/README.md) | [Greco](../el/README.md) | [Ebraico](../he/README.md) | [Hindi](../hi/README.md) | [Ungherese](../hu/README.md) | [Indonesiano](../id/README.md) | [Italiano](./README.md) | [Giapponese](../ja/README.md) | [Kannada](../kn/README.md) | [Coreano](../ko/README.md) | [Lituano](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalese](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norvegese](../no/README.md) | [Persiano (Farsi)](../fa/README.md) | [Polacco](../pl/README.md) | [Portoghese (Brasile)](../br/README.md) | [Portoghese (Portogallo)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romeno](../ro/README.md) | [Russo](../ru/README.md) | [Serbo (Cirillico)](../sr/README.md) | [Slovacco](../sk/README.md) | [Sloveno](../sl/README.md) | [Spagnolo](../es/README.md) | [Swahili](../sw/README.md) | [Svedese](../sv/README.md) | [Tagalog (Filippino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turco](../tr/README.md) | [Ucraino](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamita](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,37 +33,37 @@ Amo creare strumenti per sviluppatori open source potenziati dall'AI che scalano
 ## Progetto principale
 
 ### 🚀 Localizeflow (Progetto attuale)
-**Flusso di lavoro di traduzione della documentazione automatizzato nativo per GitHub**  
+**Workflow di traduzione automatizzata della documentazione, nativo per GitHub**  
 Nessuna configurazione. Ospitato. Sincronizzazione automatica per progetti multilingue.  
 → https://localizeflow.com
 
-- Rileva automaticamente le modifiche nei tuoi file sorgente
+- Rileva automaticamente le modifiche nei tuoi file di origine
 - Traduce solo ciò che è cambiato
 - Apre PR per ogni lingua
-- Basato su Co-op Translator (Azure OSS)
+- Costruito su Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Una CLI OSS ufficiale di Azure che automatizza le **traduzioni multilingue** per contenuti Markdown + immagini (OCR)  
-**Impatto:** Alimenta le traduzioni per repository educativi Microsoft con oltre 200k★ totali, garantendo contenuti sempre aggiornati in più di 10 lingue.
+Una CLI ufficiale di Azure OSS che automatizza le **traduzioni multilingue** per contenuti Markdown + immagini (OCR)  
+**Impatto:** Alimenta le traduzioni per repository educativi Microsoft con un totale di oltre 200k★, assicurando contenuti sempre aggiornati in oltre 10 lingue.
 
-- Scalato da PoC iniziale → CLI Python di livello produttivo
-- Integrato Azure OpenAI + Azure AI Vision per traduzione e automazione OCR
+- Evoluto da PoC iniziale → CLI Python di livello production
+- Integrato con Azure OpenAI + Azure AI Vision per traduzione e automazione OCR
 - Utilizzato da repository come:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Presentato nello showcase OSS di **Open at Microsoft**
-- Ricevuto **Microsoft AI MVP 2025**
+- Presentato nello showcase OSS **Open at Microsoft**
+- Ha ricevuto **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Interventi e media
+## Talk e Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -75,15 +75,15 @@ Una CLI OSS ufficiale di Azure che automatizza le **traduzioni multilingue** per
 </p>
 
 - [Open at Microsoft – Abilitare l'accessibilità multilingue con Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Pianifica e preparati per sviluppare soluzioni AI su Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Pianificare e Prepararsi a Sviluppare Soluzioni AI su Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Riconoscimenti
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1º posto**, Inha University Open Source Festival (Co-op Translator)
+- **1° posto**, Inha University Open Source Festival (Co-op Translator)
 - **Vincitore**, Microsoft Korea Azurethon (categoria Prompt Engineering)
-- **3× Blogger più letto**, Microsoft Educator Developer Blog
+- **3× Blogger più visualizzato**, Microsoft Educator Developer Blog
 
 ---
 

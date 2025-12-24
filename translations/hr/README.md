@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
-  "translation_date": "2025-12-24T06:28:49+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-24T07:44:42+00:00",
   "source_file": "README.md",
   "language_code": "hr"
 }
@@ -16,29 +16,29 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Stvoritelj [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Održavatelj OSS-a [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS održavatelj [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Volim graditi AI-pokretane open-source alate za programere koji se mogu skalirati globalno, pretvarajući rane koncepte u rješenja spremna za produkciju s stvarnim utjecajem.
+Volim graditi AI-pokretane, open-source alate za developere koji se skaliraju globalno, pretvarajući rane koncepte u rješenja spremna za produkciju s pravim učinkom.
 
 ### 🌐 Višejezična podrška
 
-#### Podržano od [Localizeflow](https://localizeflow.com/)
+#### Podržano od strane [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arapski](../ar/README.md) | [Bengalski](../bn/README.md) | [Bugarski](../bg/README.md) | [Burmanski (Myanmar)](../my/README.md) | [Kineski (pojednostavljeni)](../zh/README.md) | [Kineski (tradicionalni, Hong Kong)](../hk/README.md) | [Kineski (tradicionalni, Macau)](../mo/README.md) | [Kineski (tradicionalni, Taiwan)](../tw/README.md) | [Hrvatski](./README.md) | [Češki](../cs/README.md) | [Danski](../da/README.md) | [Nizozemski](../nl/README.md) | [Estonski](../et/README.md) | [Finski](../fi/README.md) | [Francuski](../fr/README.md) | [Njemački](../de/README.md) | [Grčki](../el/README.md) | [Hebrejski](../he/README.md) | [Hindi](../hi/README.md) | [Mađarski](../hu/README.md) | [Indonezijski](../id/README.md) | [Talijanski](../it/README.md) | [Japanski](../ja/README.md) | [Kannada](../kn/README.md) | [Korejski](../ko/README.md) | [Litvanski](../lt/README.md) | [Malajski](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalski](../ne/README.md) | [Nigerijski Pidgin](../pcm/README.md) | [Norveški](../no/README.md) | [Perzijski (Farsi)](../fa/README.md) | [Poljski](../pl/README.md) | [Portugalski (Brazil)](../br/README.md) | [Portugalski (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumunjski](../ro/README.md) | [Ruski](../ru/README.md) | [Srpski (ćirilica)](../sr/README.md) | [Slovački](../sk/README.md) | [Slovenski](../sl/README.md) | [Španjolski](../es/README.md) | [Svahili](../sw/README.md) | [Švedski](../sv/README.md) | [Tagalog (Filipinski)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Tajlandski](../th/README.md) | [Turski](../tr/README.md) | [Ukrajinski](../uk/README.md) | [Urduski](../ur/README.md) | [Vijetnamski](../vi/README.md)
+[Arapski](../ar/README.md) | [Bengalski](../bn/README.md) | [Bugarski](../bg/README.md) | [Burmanski (Mjanmar)](../my/README.md) | [Kineski (pojednostavljeni)](../zh/README.md) | [Kineski (tradicionalni, Hong Kong)](../hk/README.md) | [Kineski (tradicionalni, Macau)](../mo/README.md) | [Kineski (tradicionalni, Taiwan)](../tw/README.md) | [Hrvatski](./README.md) | [Češki](../cs/README.md) | [Danski](../da/README.md) | [Nizozemski](../nl/README.md) | [Estonski](../et/README.md) | [Finski](../fi/README.md) | [Francuski](../fr/README.md) | [Njemački](../de/README.md) | [Grčki](../el/README.md) | [Hebrejski](../he/README.md) | [Hindi](../hi/README.md) | [Mađarski](../hu/README.md) | [Indonezijski](../id/README.md) | [Talijanski](../it/README.md) | [Japanski](../ja/README.md) | [Kannada](../kn/README.md) | [Korejski](../ko/README.md) | [Litvanski](../lt/README.md) | [Malajski](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalski](../ne/README.md) | [Nigerijski pidžin](../pcm/README.md) | [Norveški](../no/README.md) | [Perzijski (Farsi)](../fa/README.md) | [Poljski](../pl/README.md) | [Portugalski (Brazil)](../br/README.md) | [Portugalski (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumunjski](../ro/README.md) | [Ruski](../ru/README.md) | [Srpski (ćirilica)](../sr/README.md) | [Slovački](../sk/README.md) | [Slovenski](../sl/README.md) | [Španjolski](../es/README.md) | [Svahili](../sw/README.md) | [Švedski](../sv/README.md) | [Tagalog (Filipinski)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Tajlandski](../th/README.md) | [Turski](../tr/README.md) | [Ukrajinski](../uk/README.md) | [Urdu](../ur/README.md) | [Vijetnamski](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## Ključni projekt
 
-### 🚀 Localizeflow (Trenutni projekt)
-**GitHub-native automatizirani tijek rada za automatsko prevođenje dokumentacije**  
-Nema postavljanja. Hostirano. Automatska sinkronizacija za višejezične projekte.  
+### 🚀 Localizeflow (trenutni projekt)
+**GitHub-native automatizirani tijek rada za prevođenje dokumentacije**  
+Bez postavki. Hostirano. Automatska sinkronizacija za višejezične projekte.  
 → https://localizeflow.com
 
-- Automatski otkriva promjene u vašim izvornim datotekama
-- Prevodi samo ono što se promijenilo
+- Automatski detektira promjene u vašim izvornih datotekama
+- Prevede samo ono što se promijenilo
 - Otvara PR-ove za svaki jezik
 - Izgrađeno na vrhu Co-op Translator (Azure OSS)
 
@@ -46,17 +46,17 @@ Nema postavljanja. Hostirano. Automatska sinkronizacija za višejezične projekt
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 Službeni Azure OSS CLI koji automatizira **višejezične prijevode** za Markdown + sadržaj slika (OCR)  
-**Utjecaj:** Omogućuje prijevode za Microsoftove obrazovne repozitorije u ukupnom broju 200k★+, osiguravajući uvijek ažurirani sadržaj na 10+ jezika.
+**Utjecaj:** Pogoni prijevode za Microsoftove edukacijske repozitorije s ukupno preko 200k★, osiguravajući uvijek ažuriran sadržaj na 10+ jezika.
 
-- Proširen iz rane PoC faze → do proizvodnog Python CLI-a
-- Integrirano Azure OpenAI + Azure AI Vision za automatsko prevođenje + OCR
+- Skalirano od ranog PoC → produkcijski Python CLI
+- Integrirano Azure OpenAI + Azure AI Vision za automatizaciju prijevoda + OCR-a
 - Koriste ga repozitoriji poput:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Istaknuto u OSS prikazu **Open at Microsoft**
+- Istaknuto u **Open at Microsoft** OSS izložbi
 - Dobio **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -74,7 +74,7 @@ Službeni Azure OSS CLI koji automatizira **višejezične prijevode** za Markdow
   </a>
 </p>
 
-- [Open at Microsoft – Otključavanje višejezične pristupačnosti s Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Omogućavanje višejezične pristupačnosti s Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Planirajte i pripremite se za razvoj AI rješenja na Azureu](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
@@ -102,7 +102,7 @@ Službeni Azure OSS CLI koji automatizira **višejezične prijevode** za Markdow
 
 ## Statistika i aktivnost
 <details>
-<summary>Prikaži GitHub statistiku</summary>
+<summary>Prikaži GitHub statistike</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
-  "translation_date": "2025-12-24T05:52:01+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-24T07:07:22+00:00",
   "source_file": "README.md",
   "language_code": "ja"
 }
@@ -11,53 +11,53 @@ CO_OP_TRANSLATOR_METADATA:
 
 # こんにちは、Minseok Songです！ 
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub スポンサー](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![コーヒーを一杯](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Creator of [Localizeflow](https://localizeflow.com)**
+**[Localizeflow](https://localizeflow.com)の作成者**
 
-**Microsoft AI MVP • [Azure/co-op-translator] の OSS メンテナ**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) の OSS メンテナ**
 
-私は、AI搭載のオープンソース開発者向けツールを構築することが好きで、初期段階のコンセプトを実運用に耐えるソリューションへと成長させ、グローバルに展開できるようにしています。
+AIを活用したオープンソースの開発者向けツールをグローバルに拡張し、初期のコンセプトを実運用可能なソリューションへと導くことが大好きです。
 
 ### 🌐 多言語サポート
 
-#### Supported by [Localizeflow](https://localizeflow.com)
+#### [Localizeflow](https://localizeflow.com/) によるサポート
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[アラビア語](../ar/README.md) | [ベンガル語](../bn/README.md) | [ブルガリア語](../bg/README.md) | [ビルマ語（ミャンマー）](../my/README.md) | [中国語（簡体字）](../zh/README.md) | [中国語（繁体字、香港）](../hk/README.md) | [中国語（繁体字、マカオ）](../mo/README.md) | [中国語（繁体字、台湾）](../tw/README.md) | [クロアチア語](../hr/README.md) | [チェコ語](../cs/README.md) | [デンマーク語](../da/README.md) | [オランダ語](../nl/README.md) | [エストニア語](../et/README.md) | [フィンランド語](../fi/README.md) | [フランス語](../fr/README.md) | [ドイツ語](../de/README.md) | [ギリシャ語](../el/README.md) | [ヘブライ語](../he/README.md) | [ヒンディー語](../hi/README.md) | [ハンガリー語](../hu/README.md) | [インドネシア語](../id/README.md) | [イタリア語](../it/README.md) | [日本語](./README.md) | [カンナダ語](../kn/README.md) | [韓国語](../ko/README.md) | [リトアニア語](../lt/README.md) | [マレー語](../ms/README.md) | [マラヤーラム語](../ml/README.md) | [マラーティー語](../mr/README.md) | [ネパール語](../ne/README.md) | [ナイジェリア・ピジン語](../pcm/README.md) | [ノルウェー語](../no/README.md) | [ペルシア語（ファルシ）](../fa/README.md) | [ポーランド語](../pl/README.md) | [ポルトガル語（ブラジル）](../br/README.md) | [ポルトガル語（ポルトガル）](../pt/README.md) | [パンジャブ語（グルムキー）](../pa/README.md) | [ルーマニア語](../ro/README.md) | [ロシア語](../ru/README.md) | [セルビア語（キリル文字）](../sr/README.md) | [スロバキア語](../sk/README.md) | [スロベニア語](../sl/README.md) | [スペイン語](../es/README.md) | [スワヒリ語](../sw/README.md) | [スウェーデン語](../sv/README.md) | [タガログ語（フィリピン）](../tl/README.md) | [タミル語](../ta/README.md) | [テルグ語](../te/README.md) | [タイ語](../th/README.md) | [トルコ語](../tr/README.md) | [ウクライナ語](../uk/README.md) | [ウルドゥー語](../ur/README.md) | [ベトナム語](../vi/README.md)
+[アラビア語](../ar/README.md) | [ベンガル語](../bn/README.md) | [ブルガリア語](../bg/README.md) | [ビルマ語（ミャンマー）](../my/README.md) | [中国語（簡体字）](../zh/README.md) | [中国語（繁体字、香港）](../hk/README.md) | [中国語（繁体字、マカオ）](../mo/README.md) | [中国語（繁体字、台湾）](../tw/README.md) | [クロアチア語](../hr/README.md) | [チェコ語](../cs/README.md) | [デンマーク語](../da/README.md) | [オランダ語](../nl/README.md) | [エストニア語](../et/README.md) | [フィンランド語](../fi/README.md) | [フランス語](../fr/README.md) | [ドイツ語](../de/README.md) | [ギリシャ語](../el/README.md) | [ヘブライ語](../he/README.md) | [ヒンディー語](../hi/README.md) | [ハンガリー語](../hu/README.md) | [インドネシア語](../id/README.md) | [イタリア語](../it/README.md) | [日本語](./README.md) | [カンナダ語](../kn/README.md) | [韓国語](../ko/README.md) | [リトアニア語](../lt/README.md) | [マレー語](../ms/README.md) | [マラヤーラム語](../ml/README.md) | [マラーティー語](../mr/README.md) | [ネパール語](../ne/README.md) | [ナイジェリア・ピジン](../pcm/README.md) | [ノルウェー語](../no/README.md) | [ペルシア語（ファルシ）](../fa/README.md) | [ポーランド語](../pl/README.md) | [ポルトガル語（ブラジル）](../br/README.md) | [ポルトガル語（ポルトガル）](../pt/README.md) | [パンジャブ語（グルムキー）](../pa/README.md) | [ルーマニア語](../ro/README.md) | [ロシア語](../ru/README.md) | [セルビア語（キリル文字）](../sr/README.md) | [スロバキア語](../sk/README.md) | [スロベニア語](../sl/README.md) | [スペイン語](../es/README.md) | [スワヒリ語](../sw/README.md) | [スウェーデン語](../sv/README.md) | [タガログ語（フィリピン）](../tl/README.md) | [タミル語](../ta/README.md) | [テルグ語](../te/README.md) | [タイ語](../th/README.md) | [トルコ語](../tr/README.md) | [ウクライナ語](../uk/README.md) | [ウルドゥー語](../ur/README.md) | [ベトナム語](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## 主要プロジェクト
+## 主なプロジェクト
 
 ### 🚀 Localizeflow (現在のプロジェクト)
 **GitHubネイティブの自動ドキュメント翻訳ワークフロー**  
 セットアップ不要。ホスティング済み。多言語プロジェクトの自動同期。  
 → https://localizeflow.com
 
-- ソースファイルの変更を自動検出します
+- ソースファイルの変更を自動で検出します
 - 変更された部分のみを翻訳します
 - 各言語ごとにPRを作成します
-- Co-op Translator (Azure OSS) 上に構築
+- Co-op Translator (Azure OSS) の上に構築されています
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown と画像コンテンツ（OCR）のための**多言語翻訳**を自動化する公式の Azure OSS CLI  
-**影響:** Microsoft の教育用リポジトリ合計で 200k★+ を超える翻訳を支え、10以上の言語で常に最新のコンテンツを提供しています。
+Markdown と画像コンテンツ（OCR）のための**多言語翻訳**を自動化する公式 Azure OSS CLI  
+**影響:** 合計200k★以上のMicrosoft教育用リポジトリの翻訳を支え、10以上の言語で常に最新のコンテンツを提供します。
 
-- 初期の PoC から本番対応の Python CLI へスケール
-- 翻訳とOCR自動化のために Azure OpenAI + Azure AI Vision を統合
-- 以下のようなリポジトリで利用されています:
+- 初期のPoCから本番品質のPython CLIへとスケールしました
+- 翻訳とOCR自動化のために Azure OpenAI と Azure AI Vision を統合しました
+- 以下のようなリポジトリで使用されています:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Open at Microsoft の OSSショーケースで紹介されました
-- Microsoft AI MVP 2025 を受賞
+- **Open at Microsoft** の OSS ショーケースで特集されました
+- **Microsoft AI MVP 2025** を受賞しました
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,16 +74,16 @@ Markdown と画像コンテンツ（OCR）のための**多言語翻訳**を自�
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translatorによる多言語アクセシビリティの実現](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Co-op Translator による多言語アクセシビリティの向上](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Azure上でAIソリューションを開発するための計画と準備](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## 表彰・受賞
+## 受賞・表彰
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1位**, Inha University Open Source Festival (Co-op Translator)
-- **優勝**, Microsoft Korea Azurethon（プロンプトエンジニアリング部門）
-- **最多閲覧ブロガー（3回）**, Microsoft Educator Developer Blog
+- **優勝**, Microsoft Korea Azurethon（Prompt Engineering 部門）
+- **3回にわたり最も閲覧されたブロガー**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,7 +100,7 @@ Markdown と画像コンテンツ（OCR）のための**多言語翻訳**を自�
 
 ---
 
-## 統計とアクティビティ
+## 統計・活動
 <details>
 <summary>GitHubの統計を見る</summary>
 
