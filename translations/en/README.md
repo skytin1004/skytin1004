@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
-  "translation_date": "2025-12-24T05:38:13+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-24T06:53:36+00:00",
   "source_file": "README.md",
   "language_code": "en"
 }

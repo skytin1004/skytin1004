@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
-  "translation_date": "2025-12-24T06:16:02+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-24T07:32:49+00:00",
   "source_file": "README.md",
   "language_code": "vi"
 }
@@ -14,18 +14,18 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Người sáng lập của [Localizeflow](https://localizeflow.com)**
+**Người sáng tạo của [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • Người duy trì OSS của [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Tôi yêu thích việc xây dựng các công cụ dành cho nhà phát triển mã nguồn mở tích hợp AI, có thể mở rộng toàn cầu, biến những ý tưởng giai đoạn đầu thành các giải pháp sẵn sàng đưa vào sản xuất với tác động thực tế.
+Tôi thích xây dựng các công cụ dành cho nhà phát triển mã nguồn mở được trang bị AI, có khả năng mở rộng toàn cầu, biến các ý tưởng giai đoạn đầu thành các giải pháp sẵn sàng sản xuất với tác động thực tế.
 
 ### 🌐 Hỗ trợ đa ngôn ngữ
 
-#### Được hỗ trợ bởi [Localizeflow](https://localizeflow.com)
+#### Được hỗ trợ bởi [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Tiếng Ả Rập](../ar/README.md) | [Tiếng Bengal](../bn/README.md) | [Tiếng Bungari](../bg/README.md) | [Tiếng Miến Điện (Myanmar)](../my/README.md) | [Tiếng Trung (Giản thể)](../zh/README.md) | [Tiếng Trung (Phồn thể, Hồng Kông)](../hk/README.md) | [Tiếng Trung (Phồn thể, Macao)](../mo/README.md) | [Tiếng Trung (Phồn thể, Đài Loan)](../tw/README.md) | [Tiếng Croatia](../hr/README.md) | [Tiếng Séc](../cs/README.md) | [Tiếng Đan Mạch](../da/README.md) | [Tiếng Hà Lan](../nl/README.md) | [Tiếng Estonia](../et/README.md) | [Tiếng Phần Lan](../fi/README.md) | [Tiếng Pháp](../fr/README.md) | [Tiếng Đức](../de/README.md) | [Tiếng Hy Lạp](../el/README.md) | [Tiếng Do Thái](../he/README.md) | [Tiếng Hindi](../hi/README.md) | [Tiếng Hungary](../hu/README.md) | [Tiếng Indonesia](../id/README.md) | [Tiếng Ý](../it/README.md) | [Tiếng Nhật](../ja/README.md) | [Tiếng Kannada](../kn/README.md) | [Tiếng Hàn](../ko/README.md) | [Tiếng Litva](../lt/README.md) | [Tiếng Mã Lai](../ms/README.md) | [Tiếng Malayalam](../ml/README.md) | [Tiếng Marathi](../mr/README.md) | [Tiếng Nepal](../ne/README.md) | [Tiếng Pidgin Nigeria](../pcm/README.md) | [Tiếng Na Uy](../no/README.md) | [Tiếng Ba Tư (Farsi)](../fa/README.md) | [Tiếng Ba Lan](../pl/README.md) | [Tiếng Bồ Đào Nha (Brazil)](../br/README.md) | [Tiếng Bồ Đào Nha (Bồ Đào Nha)](../pt/README.md) | [Tiếng Punjabi (Gurmukhi)](../pa/README.md) | [Tiếng Romania](../ro/README.md) | [Tiếng Nga](../ru/README.md) | [Tiếng Serbia (Chữ Cyril)](../sr/README.md) | [Tiếng Slovakia](../sk/README.md) | [Tiếng Slovenia](../sl/README.md) | [Tiếng Tây Ban Nha](../es/README.md) | [Tiếng Swahili](../sw/README.md) | [Tiếng Thụy Điển](../sv/README.md) | [Tiếng Tagalog (Filipino)](../tl/README.md) | [Tiếng Tamil](../ta/README.md) | [Tiếng Telugu](../te/README.md) | [Tiếng Thái](../th/README.md) | [Tiếng Thổ Nhĩ Kỳ](../tr/README.md) | [Tiếng Ukraina](../uk/README.md) | [Tiếng Urdu](../ur/README.md) | [Tiếng Việt](./README.md)
+[Tiếng Ả Rập](../ar/README.md) | [Tiếng Bengal](../bn/README.md) | [Tiếng Bungari](../bg/README.md) | [Tiếng Miến Điện (Myanmar)](../my/README.md) | [Tiếng Trung (Giản thể)](../zh/README.md) | [Tiếng Trung (Phồn thể, Hồng Kông)](../hk/README.md) | [Tiếng Trung (Phồn thể, Macau)](../mo/README.md) | [Tiếng Trung (Phồn thể, Đài Loan)](../tw/README.md) | [Tiếng Croatia](../hr/README.md) | [Tiếng Séc](../cs/README.md) | [Tiếng Đan Mạch](../da/README.md) | [Tiếng Hà Lan](../nl/README.md) | [Tiếng Estonia](../et/README.md) | [Tiếng Phần Lan](../fi/README.md) | [Tiếng Pháp](../fr/README.md) | [Tiếng Đức](../de/README.md) | [Tiếng Hy Lạp](../el/README.md) | [Tiếng Do Thái](../he/README.md) | [Tiếng Hindi](../hi/README.md) | [Tiếng Hungary](../hu/README.md) | [Tiếng Indonesia](../id/README.md) | [Tiếng Ý](../it/README.md) | [Tiếng Nhật](../ja/README.md) | [Tiếng Kannada](../kn/README.md) | [Tiếng Hàn](../ko/README.md) | [Tiếng Litva](../lt/README.md) | [Tiếng Mã Lai](../ms/README.md) | [Tiếng Malayalam](../ml/README.md) | [Tiếng Marathi](../mr/README.md) | [Tiếng Nepal](../ne/README.md) | [Tiếng Pidgin Nigeria](../pcm/README.md) | [Tiếng Na Uy](../no/README.md) | [Tiếng Ba Tư (Farsi)](../fa/README.md) | [Tiếng Ba Lan](../pl/README.md) | [Tiếng Bồ Đào Nha (Brazil)](../br/README.md) | [Tiếng Bồ Đào Nha (Bồ Đào Nha)](../pt/README.md) | [Tiếng Punjabi (Gurmukhi)](../pa/README.md) | [Tiếng Romania](../ro/README.md) | [Tiếng Nga](../ru/README.md) | [Tiếng Serbia (Chữ Cyrillic)](../sr/README.md) | [Tiếng Slovak](../sk/README.md) | [Tiếng Slovenia](../sl/README.md) | [Tiếng Tây Ban Nha](../es/README.md) | [Tiếng Swahili](../sw/README.md) | [Tiếng Thụy Điển](../sv/README.md) | [Tiếng Tagalog (Filipino)](../tl/README.md) | [Tiếng Tamil](../ta/README.md) | [Tiếng Telugu](../te/README.md) | [Tiếng Thái](../th/README.md) | [Tiếng Thổ Nhĩ Kỳ](../tr/README.md) | [Tiếng Ukraina](../uk/README.md) | [Tiếng Urdu](../ur/README.md) | [Tiếng Việt](./README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,30 +33,30 @@ Tôi yêu thích việc xây dựng các công cụ dành cho nhà phát triển
 ## Dự án chính
 
 ### 🚀 Localizeflow (Dự án hiện tại)
-**Quy trình dịch tài liệu tự động tích hợp trên GitHub**  
-Không cần thiết lập. Được lưu trữ. Tự động đồng bộ cho các dự án đa ngôn ngữ.  
+**Quy trình dịch tài liệu tự động gốc trên GitHub**  
+Không cần cấu hình. Được lưu trữ. Tự đồng bộ cho các dự án đa ngôn ngữ.  
 → https://localizeflow.com
 
 - Tự động phát hiện thay đổi trong các tệp nguồn của bạn
 - Chỉ dịch những gì đã thay đổi
 - Mở PR cho từng ngôn ngữ
-- Xây dựng dựa trên Co-op Translator (Azure OSS)
+- Xây dựng trên nền tảng Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Một CLI chính thức của Azure OSS tự động hóa **dịch đa ngôn ngữ** cho nội dung Markdown + hình ảnh (OCR)  
-**Tác động:** Cung cấp sức mạnh cho việc dịch các kho lưu trữ giáo dục của Microsoft với tổng cộng hơn 200k★, đảm bảo nội dung luôn được cập nhật bằng hơn 10 ngôn ngữ.
+Một CLI OSS chính thức của Azure tự động hóa **dịch đa ngôn ngữ** cho nội dung Markdown + hình ảnh (OCR)  
+**Tác động:** Cung cấp khả năng dịch cho các kho lưu trữ giáo dục của Microsoft với tổng cộng hơn 200k★, đảm bảo nội dung luôn được cập nhật bằng hơn 10 ngôn ngữ.
 
-- Mở rộng từ PoC ban đầu → CLI Python đạt chuẩn sản xuất
-- Tích hợp Azure OpenAI + Azure AI Vision cho tự động hóa dịch thuật + OCR
+- Phát triển từ bằng chứng khái niệm (PoC) ban đầu → CLI Python đạt tiêu chuẩn sản xuất
+- Tích hợp Azure OpenAI + Azure AI Vision cho dịch thuật + tự động hóa OCR
 - Được sử dụng bởi các kho như:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Được giới thiệu trong showcase OSS của **Open at Microsoft**
+- Được giới thiệu trong showcase OSS **Open at Microsoft**
 - Được trao **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
@@ -75,19 +75,19 @@ Một CLI chính thức của Azure OSS tự động hóa **dịch đa ngôn ng�
 </p>
 
 - [Open at Microsoft – Mở khóa khả năng truy cập đa ngôn ngữ với Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Lập kế hoạch và Chuẩn bị để Phát triển Giải pháp AI trên Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Lên kế hoạch và Chuẩn bị để Phát triển Giải pháp AI trên Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Ghi nhận
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **Giải nhất**, Inha University Open Source Festival (Co-op Translator)
-- **Người chiến thắng**, Microsoft Korea Azurethon (hạng mục Prompt Engineering)
-- **Blogger được xem nhiều nhất (3×)**, Microsoft Educator Developer Blog
+- **Giải Nhất**, Inha University Open Source Festival (Co-op Translator)
+- **Người chiến thắng**, Microsoft Korea Azurethon (hạng Prompt Engineering)
+- **3× Blogger được xem nhiều nhất**, Microsoft Educator Developer Blog
 
 ---
 
-## Công nghệ
+## Ngăn xếp công nghệ
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -104,8 +104,8 @@ Một CLI chính thức của Azure OSS tự động hóa **dịch đa ngôn ng�
 <details>
 <summary>Xem Thống kê GitHub</summary>
 
-[![Thống kê](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Ngôn ngữ hàng đầu](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 

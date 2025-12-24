@@ -1,31 +1,31 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
-  "translation_date": "2025-12-24T05:41:57+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-24T06:57:23+00:00",
   "source_file": "README.md",
   "language_code": "ru"
 }
 -->
-![Баннер заголовка](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # Привет, я Minseok Song! 
 
-[![Спонсоры GitHub](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Купи мне кофе](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
 **Создатель [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Мейнтейнер OSS-проекта [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Мейнтейнер OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Мне нравится создавать инструменты для разработчиков с поддержкой AI, с открытым исходным кодом, которые масштабируются глобально, превращая ранние концепции в готовые к производству решения с реальным воздействием.
+Мне нравится создавать инструменты для разработчиков с поддержкой ИИ и открытым исходным кодом, которые масштабируются глобально, превращая идеи на ранних стадиях в готовые к продакшену решения с реальным эффектом.
 
-### 🌐 Поддержка нескольких языков
+### 🌐 Многоязычная поддержка
 
 #### Поддерживается [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Арабский](../ar/README.md) | [Бенгальский](../bn/README.md) | [Болгарский](../bg/README.md) | [Бирманский (Мьянма)](../my/README.md) | [Китайский (упрощённый)](../zh/README.md) | [Китайский (традиционный, Гонконг)](../hk/README.md) | [Китайский (традиционный, Макао)](../mo/README.md) | [Китайский (традиционный, Тайвань)](../tw/README.md) | [Хорватский](../hr/README.md) | [Чешский](../cs/README.md) | [Датский](../da/README.md) | [Нидерландский](../nl/README.md) | [Эстонский](../et/README.md) | [Финский](../fi/README.md) | [Французский](../fr/README.md) | [Немецкий](../de/README.md) | [Греческий](../el/README.md) | [Иврит](../he/README.md) | [Хинди](../hi/README.md) | [Венгерский](../hu/README.md) | [Индонезийский](../id/README.md) | [Итальянский](../it/README.md) | [Японский](../ja/README.md) | [Каннада](../kn/README.md) | [Корейский](../ko/README.md) | [Литовский](../lt/README.md) | [Малайский](../ms/README.md) | [Малаялам](../ml/README.md) | [Маратхи](../mr/README.md) | [Непальский](../ne/README.md) | [Нигерийский пиджин](../pcm/README.md) | [Норвежский](../no/README.md) | [Персидский (фарси)](../fa/README.md) | [Польский](../pl/README.md) | [Португальский (Бразилия)](../br/README.md) | [Португальский (Португалия)](../pt/README.md) | [Пенджаби (Gurmukhi)](../pa/README.md) | [Румынский](../ro/README.md) | [Русский](./README.md) | [Сербский (кириллица)](../sr/README.md) | [Словацкий](../sk/README.md) | [Словенский](../sl/README.md) | [Испанский](../es/README.md) | [Суахили](../sw/README.md) | [Шведский](../sv/README.md) | [Тагалог (филиппинский)](../tl/README.md) | [Тамильский](../ta/README.md) | [Телугу](../te/README.md) | [Тайский](../th/README.md) | [Турецкий](../tr/README.md) | [Украинский](../uk/README.md) | [Урду](../ur/README.md) | [Вьетнамский](../vi/README.md)
+[Арабский](../ar/README.md) | [Бенгальский](../bn/README.md) | [Болгарский](../bg/README.md) | [Бирманский (Мьянма)](../my/README.md) | [Китайский (упрощённый)](../zh/README.md) | [Китайский (традиционный, Гонконг)](../hk/README.md) | [Китайский (традиционный, Макао)](../mo/README.md) | [Китайский (традиционный, Тайвань)](../tw/README.md) | [Хорватский](../hr/README.md) | [Чешский](../cs/README.md) | [Датский](../da/README.md) | [Нидерландский](../nl/README.md) | [Эстонский](../et/README.md) | [Финский](../fi/README.md) | [Французский](../fr/README.md) | [Немецкий](../de/README.md) | [Греческий](../el/README.md) | [Иврит](../he/README.md) | [Хинди](../hi/README.md) | [Венгерский](../hu/README.md) | [Индонезийский](../id/README.md) | [Итальянский](../it/README.md) | [Японский](../ja/README.md) | [Каннада](../kn/README.md) | [Корейский](../ko/README.md) | [Литовский](../lt/README.md) | [Малайский](../ms/README.md) | [Малаялам](../ml/README.md) | [Маратхи](../mr/README.md) | [Непальский](../ne/README.md) | [Нигерийский пиджин](../pcm/README.md) | [Норвежский](../no/README.md) | [Персидский (фарси)](../fa/README.md) | [Польский](../pl/README.md) | [Португальский (Бразилия)](../br/README.md) | [Португальский (Португалия)](../pt/README.md) | [Пенджабский (гурмукхи)](../pa/README.md) | [Румынский](../ro/README.md) | [Русский](./README.md) | [Сербский (кириллица)](../sr/README.md) | [Словацкий](../sk/README.md) | [Словенский](../sl/README.md) | [Испанский](../es/README.md) | [Свахили](../sw/README.md) | [Шведский](../sv/README.md) | [Тагальский (филиппинский)](../tl/README.md) | [Тамильский](../ta/README.md) | [Телугу](../te/README.md) | [Тайский](../th/README.md) | [Турецкий](../tr/README.md) | [Украинский](../uk/README.md) | [Урду](../ur/README.md) | [Вьетнамский](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,31 +33,31 @@ CO_OP_TRANSLATOR_METADATA:
 ## Ключевой проект
 
 ### 🚀 Localizeflow (текущий проект)
-**GitHub-native автоматизированный рабочий процесс перевода документации**  
-Никакой настройки. Хостинг. Автосинхронизация для многоязычных проектов.  
+**Автоматизированный рабочий процесс перевода документации, интегрированный с GitHub**  
+Без настройки. Хостинг. Автосинхронизация для многоязычных проектов.  
 → https://localizeflow.com
 
-- Автоматически обнаруживает изменения в ваших исходных файлах
-- Переводит только то, что изменилось
-- Создаёт PR для каждого языка
-- Построен поверх Co-op Translator (Azure OSS)
+- Автоматически обнаруживает изменения в исходных файлах
+- Переводит только изменённые части
+- Открывает PR для каждого языка
+- Построен на базе Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Официальный Azure OSS CLI, который автоматизирует **многоязычные переводы** для Markdown и содержимого изображений (OCR)  
-**Влияние:** Обеспечивает переводы для образовательных репозиториев Microsoft с суммарным рейтингом 200k★+, гарантируя всегда актуальный контент на более чем 10 языках.
+Официальный CLI Azure OSS, который автоматизирует **многоязычные переводы** для контента Markdown и изображений (OCR)  
+**Влияние:** Обеспечивает переводы для образовательных репозиториев Microsoft с общим количеством звёзд 200k★+, гарантируя постоянно обновляемый контент на более чем 10 языках.
 
-- Масштабировался от раннего PoC → до промышленного Python CLI
-- Интегрировал Azure OpenAI + Azure AI Vision для автоматизации перевода и OCR
+- Развился от раннего PoC → до производственного уровня Python CLI
+- Интегрирован с Azure OpenAI и Azure AI Vision для автоматизации перевода и OCR
 - Используется в репозиториях, таких как:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Показано в OSS витрине **Open at Microsoft**
-- Награждён званием **Microsoft AI MVP 2025**
+- Показан в OSS-демонстрации **Open at Microsoft**
+- Получил звание **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,20 +74,20 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Обеспечение многоязычной доступности с помощью Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Планирование и подготовка к разработке AI-решений в Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Обеспечение многоязычной доступности с Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Планирование и подготовка к разработке AI-решений на Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Признание
+## Награды и признание
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1-е место**, Фестиваль открытого программного обеспечения Университета Inha (Co-op Translator)
-- **Победитель**, Microsoft Korea Azurethon (категория Prompt Engineering)
-- **3× самый просматриваемый автор**, Microsoft Educator Developer Blog
+- **1-е место**, Фестиваль Open Source Университета Инха (Co-op Translator)
+- **Победитель**, Microsoft Korea Azurethon (в категории Prompt Engineering)
+- **3× самый просматриваемый автор блога**, Microsoft Educator Developer Blog
 
 ---
 
-## Стек технологий
+## Технологический стек
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -104,8 +104,8 @@ CO_OP_TRANSLATOR_METADATA:
 <details>
 <summary>Просмотреть статистику GitHub</summary>
 
-[![Статистика](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 

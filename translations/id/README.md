@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "b10e09bc8a0f83d3051ae7efdb31c2e5",
-  "translation_date": "2025-12-24T06:16:56+00:00",
+  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
+  "translation_date": "2025-12-24T07:33:45+00:00",
   "source_file": "README.md",
   "language_code": "id"
 }
@@ -16,9 +16,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Pencipta [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Pemelihara OSS dari [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Saya senang membangun alat pengembang open-source bertenaga AI yang dapat diskalakan secara global mengubah konsep tahap awal menjadi solusi siap produksi dengan dampak nyata.
+Saya senang membangun alat pengembang open-source bertenaga AI yang dapat diskalakan secara global, mengubah konsep tahap awal menjadi solusi siap produksi dengan dampak nyata.
 
 ### 🌐 Multi-Language Support
 
@@ -32,12 +32,12 @@ Saya senang membangun alat pengembang open-source bertenaga AI yang dapat diskal
 
 ## Proyek Utama
 
-### 🚀 Localizeflow (Proyek Saat Ini)
-**Alur kerja terjemahan dokumentasi otomatis berbasis GitHub**  
-Tanpa pengaturan. Dihosting. Sinkronisasi otomatis untuk proyek multibahasa.  
+### 🚀 Localizeflow (Current Project)
+**GitHub-native automated documentation translation workflow**  
+Zero setup. Hosted. Auto-sync for multilingual projects.  
 → https://localizeflow.com
 
-- Mendeteksi perubahan pada file sumber Anda secara otomatis
+- Secara otomatis mendeteksi perubahan pada file sumber Anda
 - Menerjemahkan hanya yang berubah
 - Membuka PR untuk setiap bahasa
 - Dibangun di atas Co-op Translator (Azure OSS)
@@ -45,10 +45,10 @@ Tanpa pengaturan. Dihosting. Sinkronisasi otomatis untuk proyek multibahasa.
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Sebuah CLI Azure OSS resmi yang mengotomatisasi **terjemahan multibahasa** untuk konten Markdown + gambar (OCR)  
-**Dampak:** Menjalankan terjemahan untuk repositori edukasi Microsoft dengan total 200k★+, memastikan konten selalu diperbarui dalam 10+ bahasa.
+Sebuah CLI resmi Azure OSS yang mengotomatiskan **terjemahan multibahasa** untuk konten Markdown + gambar (OCR)  
+**Dampak:** Menjalankan terjemahan untuk repositori pendidikan Microsoft dengan total 200k★+, memastikan konten selalu diperbarui dalam lebih dari 10 bahasa.
 
-- Berkembang dari PoC awal → CLI Python tingkat produksi
+- Berkembang dari PoC awal → CLI Python berkelas produksi
 - Mengintegrasikan Azure OpenAI + Azure AI Vision untuk otomatisasi terjemahan + OCR
 - Digunakan oleh repositori seperti:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
@@ -56,8 +56,8 @@ Sebuah CLI Azure OSS resmi yang mengotomatisasi **terjemahan multibahasa** untuk
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Tampil di showcase OSS **Open at Microsoft**
-- Mendapatkan **Microsoft AI MVP 2025**
+- Ditampilkan di showcase OSS **Open at Microsoft**
+- Meraih **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -74,12 +74,12 @@ Sebuah CLI Azure OSS resmi yang mengotomatisasi **terjemahan multibahasa** untuk
   </a>
 </p>
 
-- [Open at Microsoft – Membuka Akses Multibahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Rencanakan dan Persiapkan untuk Mengembangkan Solusi AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Penghargaan
+## Pengakuan
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **Juara 1**, Inha University Open Source Festival (Co-op Translator)
 - **Pemenang**, Microsoft Korea Azurethon (kategori Prompt Engineering)
