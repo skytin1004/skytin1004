@@ -1,69 +1,79 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:23:27+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:23:54+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
 -->
-![Πάνελ Επικεφαλίδας](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Γεια, είμαι ο Minseok Song! 
+# Γεια, είμαι ο Minseok Song!
 
-[![Χορηγοί GitHub](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
 **Δημιουργός του [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Συντηρητής OSS του [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Διαχειριστής OSS του [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Αγαπώ να δημιουργώ εργαλεία ανάπτυξης ανοιχτού κώδικα με δυνατότητες AI που κλιμακώνονται παγκοσμίως, μετατρέποντας ιδέες αρχικού σταδίου σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
+Λατρεύω να φτιάχνω εργαλεία ανάπτυξης ανοιχτού κώδικα με τεχνητή νοημοσύνη που κλιμακώνονται παγκοσμίως μετατρέποντας ιδέες σε πρώιμο στάδιο σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
 
-### 🌐 Υποστήριξη Πολλών Γλωσσών
+### 🌐 Υποστήριξη πολλαπλών γλωσσών
 
-#### Υποστηρίζεται από [Localizeflow](https://localizeflow.com/)
+#### Υποστηρίζεται από το [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Αραβικά](../ar/README.md) | [Μπενγκάλι](../bn/README.md) | [Βουλγαρικά](../bg/README.md) | [Βιρμανικά (Μιανμάρ)](../my/README.md) | [Κινεζικά (Απλοποιημένα)](../zh/README.md) | [Κινεζικά (Παραδοσιακά, Χονγκ Κονγκ)](../hk/README.md) | [Κινεζικά (Παραδοσιακά, Μακάο)](../mo/README.md) | [Κινεζικά (Παραδοσιακά, Ταϊβάν)](../tw/README.md) | [Κροατικά](../hr/README.md) | [Τσέχικα](../cs/README.md) | [Δανέζικα](../da/README.md) | [Ολλανδικά](../nl/README.md) | [Εσθονικά](../et/README.md) | [Φινλανδικά](../fi/README.md) | [Γαλλικά](../fr/README.md) | [Γερμανικά](../de/README.md) | [Ελληνικά](./README.md) | [Εβραϊκά](../he/README.md) | [Χίντι](../hi/README.md) | [Ουγγρικά](../hu/README.md) | [Ινδονησιακά](../id/README.md) | [Ιταλικά](../it/README.md) | [Ιαπωνικά](../ja/README.md) | [Κανάντα](../kn/README.md) | [Κορεατικά](../ko/README.md) | [Λιθουανικά](../lt/README.md) | [Μαλαιικά](../ms/README.md) | [Μαλαγιάλαμ](../ml/README.md) | [Μαραθικά](../mr/README.md) | [Νεπάλι](../ne/README.md) | [Νιγηριανό Pidgin](../pcm/README.md) | [Νορβηγικά](../no/README.md) | [Περσικά (Φαρσί)](../fa/README.md) | [Πολωνικά](../pl/README.md) | [Πορτογαλικά (Βραζιλία)](../br/README.md) | [Πορτογαλικά (Πορτογαλία)](../pt/README.md) | [Πουντζάμπι (Gurmukhi)](../pa/README.md) | [Ρουμανικά](../ro/README.md) | [Ρωσικά](../ru/README.md) | [Σερβικά (Κυριλλικά)](../sr/README.md) | [Σλοβακικά](../sk/README.md) | [Σλοβενικά](../sl/README.md) | [Ισπανικά](../es/README.md) | [Σουαχίλι](../sw/README.md) | [Σουηδικά](../sv/README.md) | [Ταγκαλόγκ (Φιλιππινέζικα)](../tl/README.md) | [Ταμίλ](../ta/README.md) | [Τελούγκου](../te/README.md) | [Ταϊλανδικά](../th/README.md) | [Τουρκικά](../tr/README.md) | [Ουκρανικά](../uk/README.md) | [Ουρντού](../ur/README.md) | [Βιετναμέζικα](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](./README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **Προτιμάτε να κάνετε κλωνοποίηση τοπικά;**
+
+> Αυτό το αποθετήριο περιλαμβάνει πάνω από 50 μεταφράσεις γλωσσών που αυξάνουν σημαντικά το μέγεθος λήψης. Για να κλωνοποιήσετε χωρίς τις μεταφράσεις, χρησιμοποιήστε sparse checkout:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Αυτό σας παρέχει ό,τι χρειάζεστε για να ολοκληρώσετε το μάθημα με πολύ πιο γρήγορη λήψη.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## Κύριο Έργο
 
-### 🚀 Localizeflow (Τρέχον Έργο)
-**Αυτοματοποιημένη ροή εργασίας μετάφρασης τεκμηρίωσης εγγενής στο GitHub**  
-Χωρίς ρυθμίσεις. Φιλοξενούμενο. Αυτόματος συγχρονισμός για πολυγλωσσικά έργα.  
+### 🚀 Localizeflow (Τρέχον Έργο)  
+**GitHub-ενσωματωμένη αυτοματοποιημένη ροή εργασίας μετάφρασης τεκμηρίωσης**  
+Μηδενική ρύθμιση. Φιλοξενούμενο. Αυτόματος συγχρονισμός για πολυγλωσσικά έργα.  
 → https://localizeflow.com
 
 - Εντοπίζει αυτόματα αλλαγές στα αρχεία πηγής σας
 - Μεταφράζει μόνο ό,τι άλλαξε
 - Ανοίγει PR για κάθε γλώσσα
-- Χτισμένο πάνω στο Co-op Translator (Azure OSS)
+- Βασίζεται στο Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Μια επίσημη Azure OSS CLI που αυτοματοποιεί τις **πολύγλωσσικές μεταφράσεις** για περιεχόμενο Markdown + εικόνων (OCR)  
-**Επίδραση:** Υποστηρίζει μεταφράσεις για εκπαιδευτικά αποθετήρια της Microsoft συνολικής απήχησης 200k★+, εξασφαλίζοντας πάντα ενημερωμένο περιεχόμενο σε 10+ γλώσσες.
+Επίσημο CLI Azure OSS που αυτοματοποιεί τις **πολυγλωσσικές μεταφράσεις** για περιεχόμενο Markdown + εικόνες (OCR)  
+**Αντικτύπος:** Τροφοδοτεί τις μεταφράσεις για εκπαιδευτικά αποθετήρια Microsoft με συνολικά 200k★+, εξασφαλίζοντας πάντα ενημερωμένο περιεχόμενο σε πάνω από 10 γλώσσες.
 
-- Επεκτάθηκε από πρώιμο PoC → παραγωγικής ποιότητας Python CLI
-- Ενσωμάτωση Azure OpenAI + Azure AI Vision για αυτοματοποίηση μετάφρασης + OCR
-- Χρησιμοποιείται από αποθετήρια όπως:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Παρουσιάστηκε στο showcase OSS **Open at Microsoft**
-- Έλαβε τον τίτλο **Microsoft AI MVP 2025**
+- Κλιμακώθηκε από πρώιμο PoC → παραγωγικό επίπεδο CLI Python
+- Ενσωμάτωσε Azure OpenAI + Azure AI Vision για μεταφράσεις + αυτοματοποίηση OCR
+- Χρησιμοποιείται σε αποθετήρια όπως:  
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)  
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)  
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)  
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)  
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)  
+- Προβλήθηκε στο Open at Microsoft OSS showcase
+- Κέρδισε **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Ομιλίες & Μέσα
+## Ομιλίες & Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,20 +84,20 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Απελευθέρωση της Πολυγλωσσικής Προσβασιμότητας με Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Σχεδιάστε και Προετοιμαστείτε για την Ανάπτυξη Λύσεων Τεχνητής Νοημοσύνης στο Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Απελευθέρωση πολυγλωσσικής προσβασιμότητας με το Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Σχεδιάστε και Προετοιμαστείτε για Ανάπτυξη Λύσεων AI στο Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Διακρίσεις
+## Αναγνώριση
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1η Θέση**, Φεστιβάλ Open Source του Πανεπιστημίου Inha (Co-op Translator)
-- **Νικητής**, Microsoft Korea Azurethon (Κατηγορία Prompt Engineering)
-- **3× Blogger με τις περισσότερες προβολές**, Microsoft Educator Developer Blog
+- **1η Θέση**, Φεστιβάλ Ανοιχτού Κώδικα Πανεπιστημίου Inha (Co-op Translator)
+- **Νικητής**, Microsoft Korea Azurethon (Κατηγορία Μηχανικής Εντολών)
+- **3× Πιο Διάσημος Blogger**, Microsoft Educator Developer Blog
 
 ---
 
-## Τεχνολογίες
+## Τεχνολογικό Στοίβαγμα
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -102,16 +112,16 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## Στατιστικά & Δραστηριότητα
 <details>
-<summary>Προβολή Στατιστικών GitHub</summary>
+<summary>Δείτε τα στατιστικά GitHub</summary>
 
-[![Στατιστικά](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Κορυφαίες Γλώσσες](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
 ## 📫 Επικοινωνήστε μαζί μου
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
-[![Πορτφόλιο](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
-[![Κοινότητα Τεχνολογίας](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
+[![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
 [![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
