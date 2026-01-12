@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:26:31+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T15:02:49+00:00",
   "source_file": "README.md",
   "language_code": "fi"
 }
@@ -14,22 +14,22 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) -luoja**
+**Localizeflow'n luoja [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) -avointen lähdekoodien ylläpitäjä**
+**Microsoft AI MVP • OSS-ylläpitäjä [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Rakastan rakentaa tekoälyllä tehostettuja, avoimen lähdekoodin kehittäjätyökaluja, jotka skaalautuvat maailmanlaajuisesti ja muuttavat varhaisen vaiheen ideat tuotantovalmiiksi ratkaisuiksi, joilla on todellista vaikutusta.
+Rakastan rakentaa tekoälyllä toimivia, avoimen lähdekoodin kehittäjätyökaluja, jotka skaalautuvat maailmanlaajuisesti ja muuttavat varhaisen vaiheen ideat tuotantovalmiiksi ratkaisuiksi, joilla on todellista vaikutusta.
 
 ### 🌐 Monikielinen tuki
 
-#### Tuettu [Localizeflow](https://localizeflow.com/) -palvelulla
+#### Tuettu [Localizeflow'n](https://localizeflow.com/) toimesta
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](./README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
 > **Haluatko kloonata paikallisesti?**
 
-> Tämä arkisto sisältää yli 50 käännösvaihtoehtoa, mikä lisää merkittävästi latauskokoa. Jos haluat kloonata ilman käännöksiä, käytä harvaa checkoutia:
+> Tämä arkisto sisältää yli 50 kielen käännökset, mikä kasvattaa merkittävästi latauskokoa. Kloonaa ilman käännöksiä käyttämällä sparse checkout -toimintoa:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
@@ -42,37 +42,36 @@ Rakastan rakentaa tekoälyllä tehostettuja, avoimen lähdekoodin kehittäjäty�
 
 ## Keskeinen projekti
 
-### 🚀 Localizeflow (Nykyinen projekti)
-**GitHub-native automatisoitu dokumentaation käännösworkflow**  
-Ei vaadi asennusta. Isännöity. Automaattinen synkronointi monikielisille projekteille.  
+### 🚀 Localizeflow (Nykyinen projekti)  
+**GitHubin natiivikäyttöinen automatisoitu dokumentaation käännös työnkulku**  
+Ei asennusta. Isännöity. Automaattinen synkronointi monikielisille projekteille.  
 → https://localizeflow.com
 
-- Havaitsee automaattisesti muutokset lähdetiedostoissa
-- Kääntää vain muutetun sisällön
-- Avautuu PR:itä kullekin kielelle
-- Rakennettu Co-op Translatorin (Azure OSS) päälle
+- Havaitsee automaattisesti muutokset lähdetiedostoissasi
+- Kääntää vain muuttuneet osat
+- Avaa PR:t jokaista kieltä varten
+- Rakennettu Co-op Translatorin päälle (Azure OSS)
+
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdown- ja kuvasisällölle (OCR)  
-**Vaikutus:** Toimittaa käännöksiä Microsoftin opetussovellusarkistoille, joissa on yhteensä yli 200 000 tähteä, varmistaen sisällön ajantasaisuuden yli 10 kielellä.
+Virallinen Azure OSS -komentorivityökalu, joka automatisoi **monikieliset käännökset** Markdown- ja kuva-sisällölle (OCR)  
+**Vaikutus:** Tukee Microsoftin koulutusarkistoja, joilla on yhteensä yli 200k tähteä, varmistaen aina ajan tasalla olevan sisällön yli 10 kielellä.
 
-- Kasvoi varhaisesta PoC-vaiheesta tuotantoluokan Python CLI:ksi
-- Integroi Azure OpenAI:n ja Azure AI Visionin käännöksiä ja OCR-automaatioita varten
+- Laajentunut varhaisesta PoC:sta tuotantotason Python CLI:ksi
+- Integroitu Azure OpenAI + Azure AI Vision käännöksiin ja OCR-automaatioon
 - Käytössä arkistoissa kuten:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Esillä **Open at Microsoft** OSS -näyttelyssä
-- Saavutti **Microsoft AI MVP 2025** -tunnustuksen
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- Esitelty **Open at Microsoft** OSS -näyttelyssä
+- Saavutti **Microsoft AI MVP 2025**
 
 ---
 
-## Puheet & media
+## Puheet & Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -83,16 +82,8 @@ Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdo
   </a>
 </p>
 
-- [Open at Microsoft – Monikielisen saavutettavuuden avaaminen Co-op Translator -työkalulla](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Suunnittele ja valmistaudu kehittämään tekoälyratkaisuja Azurella](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
-
----
-
-## Tunnustuksia
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1. sija**, Inha University Open Source Festival (Co-op Translator)
-- **Voittaja**, Microsoft Korea Azurethon (Prompt Engineering -kategoria)
-- **3× katsotuin bloggaaja**, Microsoft Educator Developer Blog
+- [Open at Microsoft – Monikielisen saavutettavuuden avaaminen Co-op Translatorin avulla](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Suunnittele ja valmistaudu kehittämään tekoälyratkaisuja Azureen](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -109,7 +100,7 @@ Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdo
 
 ---
 
-## Tilastot & aktiivisuus
+## Tilastot & Toiminta
 <details>
 <summary>Näytä GitHub-tilastot</summary>
 
@@ -118,7 +109,7 @@ Virallinen Azure OSS CLI, joka automatisoi **monikieliset käännökset** Markdo
 </details>
 ---
 
-## 📫 Ota yhteyttä minuun
+## 📫 Ota yhteyttä
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

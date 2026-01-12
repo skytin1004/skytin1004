@@ -1,41 +1,41 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:16:19+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T14:52:36+00:00",
   "source_file": "README.md",
   "language_code": "ja"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# こんにちは、私はMinseok Songです！
+# こんにちは、ミンソク・ソングです！
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
 **[Localizeflow](https://localizeflow.com) のクリエイター**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) のOSSメンテナ**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) の OSS メンテナ**
 
-私は、初期段階のコンセプトを実世界の影響力のある本番対応ソリューションにスケールさせる、AI搭載のオープンソース開発者ツールを作ることが大好きです。
+私は、初期段階のコンセプトを実際に影響を与える本番対応ソリューションに変える、AI搭載のオープンソース開発者向けツールの構築が大好きです。
 
 ### 🌐 多言語サポート
 
-#### [Localizeflow](https://localizeflow.com/) によってサポートされています
+#### [Localizeflow](https://localizeflow.com/) によるサポート
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](./README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **ローカルにクローンするのが好きですか？**
+> **ローカルでクローンするのがお好みですか？**
 
-> このリポジトリは50以上の言語翻訳を含んでいるため、ダウンロードサイズが大幅に増加します。翻訳なしでクローンするには、スパースチェックアウトを使用してください：
+> このリポジトリには50以上の言語翻訳が含まれているため、ダウンロードサイズが大幅に増えます。翻訳なしでクローンするには、スパースチェックアウトを使用してください：
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> これにより、より速いダウンロードでコースを完了するために必要なすべてのものを入手できます。
+> これにより、はるかに高速なダウンロードでコースを完了するために必要なすべてが得られます。
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -44,32 +44,30 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 🚀 Localizeflow（現在のプロジェクト）
 **GitHubネイティブの自動ドキュメント翻訳ワークフロー**  
-ゼロセットアップ。ホステッド。多言語プロジェクトの自動同期。  
+ゼロセットアップ。ホスティング済み。多言語プロジェクト用の自動同期。  
 → https://localizeflow.com
 
-- ソースファイルの変更を自動検出
-- 変更された部分のみを翻訳
-- 各言語ごとにPRをオープン
-- Co-op Translator（Azure OSS）上に構築
+- ソースファイルの変更を自動検知
+- 変更があった部分のみ翻訳
+- 各言語ごとにPRを開く
+- Co-op Translator (Azure OSS) 上に構築
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + 画像コンテンツ（OCR）の多言語翻訳を自動化する公式Azure OSS CLI  
-**影響:** Microsoftの教育用リポジトリ（計200k★以上）の翻訳を支え、10以上の言語で常に最新のコンテンツを保証。
+Markdown + 画像コンテンツ（OCR）向けに**多言語翻訳を自動化**する公式Azure OSS CLI  
+**インパクト:** Microsoftの教育リポジトリ計20万★以上の翻訳を支え、10言語以上で常に最新のコンテンツを提供。
 
-- 初期PoCから本番レベルのPython CLIへスケール
-- 翻訳＋OCR自動化にAzure OpenAI + Azure AI Visionを統合
-- 以下のようなリポジトリで使用：
+- 初期PoCから本番対応のPython CLIへスケール
+- Azure OpenAI + Azure AI Visionを翻訳＋OCR自動化に統合
+- 以下のリポジトリで使用:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
 - **Open at Microsoft** OSSショーケースにて紹介
-- **Microsoft AI MVP 2025** 受賞
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- **Microsoft AI MVP 2025**受賞
 
 ---
 
@@ -84,16 +82,8 @@ Markdown + 画像コンテンツ（OCR）の多言語翻訳を自動化する公
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translatorによる多言語アクセシビリティの解放](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure上でAIソリューションを計画・準備する](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
-
----
-
-## 受賞歴
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- 仁荷大学オープンソースフェスティバル1位（Co-op Translator）
-- Microsoft Korea Azurethon（プロンプトエンジニアリング部門）優勝
-- Microsoft Educator Developer Blog 3回最も閲覧されたブロガー
+- [Open at Microsoft – Co-op Translatorで多言語アクセシビリティを解放](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Azure上でAIソリューションの計画・準備](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -110,7 +100,7 @@ Markdown + 画像コンテンツ（OCR）の多言語翻訳を自動化する公
 
 ---
 
-## 統計 & アクティビティ
+## 統計とアクティビティ
 <details>
 <summary>GitHub統計を見る</summary>
 

@@ -1,78 +1,77 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:12:59+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T14:49:13+00:00",
   "source_file": "README.md",
   "language_code": "ur"
 }
 -->
-![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![ہیڈر بینر](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # ہیلو، میں منسئوک سانگ ہوں!
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub اسپانسرز](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![مجھے کافی خریدیں](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) کے تخلیق کار**
+**[Localizeflow](https://localizeflow.com) کے خالق**
 
-**مائیکروسافٹ AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) کے OSS مینٹینر**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) کے OSS مینٹینر**
 
-میں AI پر مبنی، اوپن سورس ڈیولپر ٹولز بنانا پسند کرتا ہوں جو عالمی سطح پر پھیل جاتے ہیں اور ابتدائی مرحلے کے تصورات کو حقیقی اثر کے ساتھ تیار شدہ حل میں بدل دیتے ہیں۔
+میں AI پر مبنی، اوپن سورس ڈیولپر ٹولز بنانا پسند کرتا ہوں جو عالمی سطح پر پھیلتے ہیں، ابتدائی تصورات کو حقیقی اثر کے ساتھ پروڈکشن-ریڈی حل میں تبدیل کرتے ہیں۔
 
-### 🌐 کثیر لسانی حمایت
+### 🌐 کثیراللسانی سپورٹ
 
-#### [Localizeflow](https://localizeflow.com/) کی حمایت میں
+#### [Localizeflow](https://localizeflow.com/) کی طرف سے سپورٹ شدہ
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](./README.md) | [Vietnamese](../vi/README.md)
 
-> **مقامی طور پر کلون کرنا پسند کریں؟**
+> **کیا آپ مقامی طور پر کلون کرنا پسند کریں گے؟**
 
-> یہ ریپوزیٹری 50+ زبانوں کے تراجم پر مشتمل ہے جو ڈاؤن لوڈ کے حجم کو کافی بڑھاتے ہیں۔ ترجموں کے بغیر کلون کرنے کے لیے sparse checkout استعمال کریں:
+> یہ ریپوزٹری 50+ زبانوں کے تراجم پر مشتمل ہے جو ڈاؤن لوڈ سائز کو نمایاں طور پر بڑھاتے ہیں۔ تراجم کے بغیر کلون کرنے کے لیے sparse checkout استعمال کریں:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> یہ آپ کو کورس مکمل کرنے کے لیے ہر چیز فراہم کرتا ہے اور ڈاؤن لوڈ تیز ہوجاتی ہے۔
+> یہ آپ کو وہ سب کچھ دیتا ہے جو آپ کورس مکمل کرنے کے لیے چاہتے ہیں، بہت تیز ڈاؤن لوڈ کے ساتھ۔
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## اہم پروجیکٹ
+## کلیدی پروجیکٹ
 
 ### 🚀 Localizeflow (موجودہ پروجیکٹ)
-**GitHub-مقامی خودکار دستاویزات ترجمہ کا ورک فلو**  
-کوئی سیٹ اپ نہیں۔ ہوسٹڈ۔ کثیر لسانی پروجیکٹس کے لیے آٹو-سِنک۔  
+**GitHub-نیٹو خودکار دستاویزات ترجمہ ورک فلو**  
+زرو سیٹ اپ۔ ہوسٹڈ۔ کثیراللسانی پروجیکٹس کے لیے خودکار ہم آہنگی۔  
 → https://localizeflow.com
 
-- آپ کے سورس فائلوں میں تبدیلیاں خودکار طور پر ڈھونڈتا ہے
-- صرف جو بدلا ہے اسے ترجمہ کرتا ہے
+- آپ کے سورس فائلوں میں تبدیلیاں خود بخود شناخت کرتا ہے
+- صرف جو بدلا ہے اس کا ترجمہ کرتا ہے
 - ہر زبان کے لیے PR کھولتا ہے
-- Co-op Translator (Azure OSS) پر بنایا گیا ہے
+- Co-op Translator (Azure OSS) پر مبنی
+
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-ایک سرکاری Azure OSS CLI جو مارکڈاؤن + امیج مواد (OCR) کے لیے **کثیر لسانی تراجم** کو خودکار بناتا ہے  
-**اثر:** مائیکروسافٹ کی تعلیمی ریپوزیٹریز کے لیے 200k★+ سے زیادہ تراجم فراہم کرتا ہے، جو 10+ زبانوں میں ہمیشہ تازہ مواد یقینی بناتا ہے۔
+ایک سرکاری Azure OSS CLI جو Markdown + تصویر کے مواد (OCR) کے لیے **کثیراللسانی تراجم** کو خودکار بناتا ہے  
+**اثرات:** Microsoft کے تعلیمی ریپوزٹریز کے لیے 200k★+ کے مجموعی تراجم کی طاقت دیتا ہے، ہمیشہ 10+ زبانوں میں اپ ٹو ڈیٹ مواد کو یقینی بناتا ہے۔
 
-- ابتدائی PoC سے لے کر پروڈکشن گریڈ Python CLI تک ترقی دی گئی
-- Azure OpenAI + Azure AI Vision کو ترجمہ اور OCR خودکاری کے لیے مربوط کیا گیا
-- ریپوزیٹریز میں استعمال کیا گیا جیسے:
+- ابتدائی PoC سے لے کر پروڈکشن گریڈ Python CLI تک بڑھا
+- Azure OpenAI + Azure AI Vision کو ترجمہ + OCR آٹومیشن کے لیے ضم کیا
+- ان ریپوز جیسی جگہوں پر استعمال ہوتا ہے:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS نمائش میں دکھایا گیا
+- **Open at Microsoft** OSS نمائش میں نمایاں
 - **Microsoft AI MVP 2025** حاصل کیا
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## تقریریں اور میڈیا
+## مذاکرات اور میڈیا
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -83,16 +82,8 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator کے ساتھ کثیر لسانی رسائی کو فعال کرنا](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Co-op Translator کے ساتھ کثیراللسانی رسائی کو کھولنا](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Azure پر AI حل تیار کرنے کی منصوبہ بندی اور تیاری](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
-
----
-
-## اعزازات
-- **مائیکروسافٹ موز ویلویبل پروفیشنل (AI)** 2024–2025
-- **پہلا مقام**، انہا یونیورسٹی اوپن سورس فیسٹیول (Co-op Translator)
-- **فاتح**، مائیکروسافٹ کوریا Azurethon (پرومپٹ انجینئرنگ زمرہ)
-- **3× سب سے زیادہ ملاحظہ کردہ بلاگر**، مائیکروسافٹ ایجوکیٹر ڈیولپر بلاگ
 
 ---
 
@@ -109,7 +100,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## اعداد وشمار اور سرگرمی
+## اعدادوشمار اور سرگرمی
 <details>
 <summary>GitHub کے اعدادوشمار دیکھیں</summary>
 

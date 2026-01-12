@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:20:41+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T14:57:10+00:00",
   "source_file": "README.md",
   "language_code": "pt"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Olá, sou o Minseok Song! 
+# Olá, sou o Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Mantenedor OSS de [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Adoro construir ferramentas para programadores potenciadas por IA e open-source que escalam globalmente, transformando conceitos em estágios iniciais em soluções prontas para produção com impacto real.
+Adoro criar ferramentas de desenvolvimento open-source alimentadas por IA que escalam globalmente, transformando conceitos em estágios iniciais em soluções prontas para produção com impacto real.
 
 ### 🌐 Suporte Multilíngue
 
@@ -29,13 +29,13 @@ Adoro construir ferramentas para programadores potenciadas por IA e open-source 
 
 > **Prefere Clonar Localmente?**
 
-> Este repositório inclui traduções em mais de 50 idiomas, o que aumenta significativamente o tamanho do download. Para clonar sem traduções, use o sparse checkout:
+> Este repositório inclui mais de 50 traduções de línguas, o que aumenta significativamente o tamanho do download. Para clonar sem traduções, use sparse checkout:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Isto oferece tudo o que precisa para completar o curso com um download muito mais rápido.
+> Isto dá-lhe tudo o que precisa para completar o curso com um download muito mais rápido.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -43,37 +43,35 @@ Adoro construir ferramentas para programadores potenciadas por IA e open-source 
 ## Projeto Principal
 
 ### 🚀 Localizeflow (Projeto Atual)
-**Fluxo de trabalho de tradução automática de documentação nativo do GitHub**  
+**Fluxo de trabalho de tradução automatizada da documentação nativa do GitHub**  
 Sem configuração. Hospedado. Sincronização automática para projetos multilíngues.  
 → https://localizeflow.com
 
-- Deteta automaticamente alterações nos seus ficheiros fonte
+- Detecta automaticamente mudanças nos seus ficheiros fonte
 - Traduz apenas o que mudou
 - Abre PRs para cada idioma
-- Construído em cima do Co-op Translator (Azure OSS)
+- Construído sobre o Co-op Translator (OSS da Azure)
 
 
-### **Co-op Translator (Microsoft Azure OSS)**
+### **Co-op Translator (OSS da Microsoft Azure)**
 
-Um CLI oficial Azure OSS que automatiza **traduções multilíngues** para conteúdos Markdown + imagem (OCR)  
-**Impacto:** Alimenta traduções para repositórios educacionais da Microsoft com mais de 200k★, garantindo conteúdos sempre atualizados em mais de 10 idiomas.
+CLI OSS oficial da Azure que automatiza **traduções multilíngues** para conteúdos Markdown + imagem (OCR)  
+**Impacto:** Alimenta traduções para repositórios educacionais da Microsoft com mais de 200k★, garantindo conteúdo sempre atualizado em mais de 10 línguas.
 
-- Escalado de PoC inicial para CLI Python de nível de produção
+- Escalado de PoC inicial → CLI Python de produção
 - Integrado Azure OpenAI + Azure AI Vision para tradução + automação OCR
-- Utilizado por repositórios como:
+- Usado por repositórios como:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Apresentado na vitrine OSS **Open at Microsoft**
-- Recebeu o título de **Microsoft AI MVP 2025**
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- Destacado no showcase OSS **Open at Microsoft**
+- Conquistou o título de **Microsoft AI MVP 2025**
 
 ---
 
-## Apresentações & Media
+## Palestras & Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -84,20 +82,12 @@ Um CLI oficial Azure OSS que automatiza **traduções multilíngues** para conte
   </a>
 </p>
 
-- [Open at Microsoft – Desbloqueando a Acessibilidade Multilíngue com Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Desbloqueando Acessibilidade Multilíngue com Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Planear e Preparar para Desenvolver Soluções de IA no Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Reconhecimentos
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1º Lugar**, Festival Open Source da Universidade Inha (Co-op Translator)
-- **Vencedor**, Microsoft Korea Azurethon (categoria Prompt Engineering)
-- **Blogger Mais Visto 3×**, Blog de Educadores e Desenvolvedores Microsoft
-
----
-
-## Tecnologias Utilizadas
+## Stack Tecnológico
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)

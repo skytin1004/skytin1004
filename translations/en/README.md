@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:04:32+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T14:44:36+00:00",
   "source_file": "README.md",
   "language_code": "en"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hi, I'm Minseok Song! 
+# Hi, I'm Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -69,8 +69,6 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 - Featured in **Open at Microsoft** OSS showcase
 - Earned **Microsoft AI MVP 2025**
 
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
-
 ---
 
 ## Talks & Media
@@ -86,14 +84,6 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 - [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
-
----
-
-## Recognition
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1st Place**, Inha University Open Source Festival (Co-op Translator)
-- **Winner**, Microsoft Korea Azurethon (Prompt Engineering category)
-- **3× Most Viewed Blogger**, Microsoft Educator Developer Blog
 
 ---
 
