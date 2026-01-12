@@ -1,63 +1,73 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:41:28+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:33:53+00:00",
   "source_file": "README.md",
   "language_code": "ro"
 }
 -->
-![Banner antet](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # Bună, sunt Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Creator of [Localizeflow](https://localizeflow.com)**
+**Creator al [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS Maintainer al [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Îmi place să construiesc unelte pentru dezvoltatori, open-source, alimentate de AI, care scală la nivel global, transformând concepte în fază incipientă în soluții gata de producție cu impact real.
+Îmi place să construiesc unelte open-source pentru dezvoltatori, alimentate de AI, care scală la nivel global transformând concepte din faza incipientă în soluții gata de producție cu impact real.
 
-### 🌐 Suport multilingv
+### 🌐 Suport Multi-limbă
 
 #### Susținut de [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabă](../ar/README.md) | [Bengaleză](../bn/README.md) | [Bulgară](../bg/README.md) | [Birmană (Myanmar)](../my/README.md) | [Chineză (simplificată)](../zh/README.md) | [Chineză (tradițională, Hong Kong)](../hk/README.md) | [Chineză (tradițională, Macau)](../mo/README.md) | [Chineză (tradițională, Taiwan)](../tw/README.md) | [Croată](../hr/README.md) | [Cehă](../cs/README.md) | [Daneză](../da/README.md) | [Olandeză](../nl/README.md) | [Estonă](../et/README.md) | [Finlandeză](../fi/README.md) | [Franceză](../fr/README.md) | [Germană](../de/README.md) | [Greacă](../el/README.md) | [Ebraică](../he/README.md) | [Hindi](../hi/README.md) | [Maghiară](../hu/README.md) | [Indoneziană](../id/README.md) | [Italiană](../it/README.md) | [Japoneză](../ja/README.md) | [Kannada](../kn/README.md) | [Coreeană](../ko/README.md) | [Lituaniană](../lt/README.md) | [Malaieză](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepaleză](../ne/README.md) | [Pidgin nigerian](../pcm/README.md) | [Norvegiană](../no/README.md) | [Persană (Farsi)](../fa/README.md) | [Poloneză](../pl/README.md) | [Portugheză (Brazilia)](../br/README.md) | [Portugheză (Portugalia)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Română](./README.md) | [Rusă](../ru/README.md) | [Sârbă (chirilică)](../sr/README.md) | [Slovacă](../sk/README.md) | [Slovenă](../sl/README.md) | [Spaniolă](../es/README.md) | [Suaheli](../sw/README.md) | [Suedeză](../sv/README.md) | [Tagalog (Filipineză)](../tl/README.md) | [Tamileză](../ta/README.md) | [Telugu](../te/README.md) | [Thailandeză](../th/README.md) | [Turcă](../tr/README.md) | [Ucraineană](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnameză](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](./README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **Preferi să Clonezi Local?**
+
+> Acest depozit include traduceri în peste 50 de limbi, ceea ce crește semnificativ dimensiunea descărcării. Pentru a face clone fără traduceri, folosește sparse checkout:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Astfel obții tot ce ai nevoie pentru a finaliza cursul cu o descărcare mult mai rapidă.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## Proiect principal
+## Proiect Cheie
 
-### 🚀 Localizeflow (Proiect actual)
-**GitHub-native automated documentation translation workflow**  
+### 🚀 Localizeflow (Proiect Actual)
+**Flux de lucru automatizat nativ GitHub pentru traducerea documentației**  
 Fără configurare. Găzduit. Sincronizare automată pentru proiecte multilingve.  
 → https://localizeflow.com
 
-- Detectează automat modificările din fișierele sursă
-- Traduce doar ceea ce s-a schimbat
-- Deschide PRs pentru fiecare limbă
-- Construit pe baza Co-op Translator (Azure OSS)
+- Detectează automat modificările în fișierele sursă
+- Traduce doar ce s-a schimbat
+- Deschide PR-uri pentru fiecare limbă
+- Construit peste Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Un CLI oficial Azure OSS care automatizează **traducerile multilingve** pentru conținut Markdown + imagini (OCR)  
-**Impact:** Susține traducerile pentru depozitele educaționale Microsoft, totalizând 200k★+, asigurând conținut actualizat constant în peste 10 limbi.
+CLI oficial Azure OSS care automatizează **traduceri multilingve** pentru conținut Markdown + imagini (OCR)  
+**Impact:** Alimentează traduceri pentru depozitele educaționale Microsoft totalizând 200k★+, asigurând conținut mereu actualizat în peste 10 limbi.
 
-- Scalare de la un PoC timpuriu → la un CLI Python de nivel producție
+- Scalare de la PoC timpurie → CLI Python de nivel producție
 - Integrat Azure OpenAI + Azure AI Vision pentru traducere + automatizare OCR
-- Utilizat de repo-uri precum:
+- Folosit de depozite precum:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Prezentat în showcase-ul OSS **Open at Microsoft**
-- A câștigat **Microsoft AI MVP 2025**
+- Prezentat în expoziția OSS **Open at Microsoft**
+- Distins cu **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
@@ -75,19 +85,19 @@ Un CLI oficial Azure OSS care automatizează **traducerile multilingve** pentru 
 </p>
 
 - [Open at Microsoft – Deblocarea accesibilității multilingve cu Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planifică și pregătește-te să dezvolți soluții AI pe Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Planifică și Pregătește-te să Dezvolți Soluții AI pe Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Recunoaștere
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **Locul 1**, Inha University Open Source Festival (Co-op Translator)
-- **Câștigător**, Microsoft Korea Azurethon (categoria Prompt Engineering)
-- **3× Blogger cel mai vizionat**, Microsoft Educator Developer Blog
+- **Locul 1**, Festivalul Open Source al Universității Inha (Co-op Translator)
+- **Câștigător**, Microsoft Korea Azurethon (Categoria Prompt Engineering)
+- **3× Blogger cu cei mai mulți vizitatori**, Microsoft Educator Developer Blog
 
 ---
 
-## Tehnologii
+## Stack Tehnologic
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -102,7 +112,7 @@ Un CLI oficial Azure OSS care automatizează **traducerile multilingve** pentru 
 
 ## Statistici & Activitate
 <details>
-<summary>Vizualizează statistici GitHub</summary>
+<summary>Vezi Statistici GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

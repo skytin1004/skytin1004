@@ -1,69 +1,79 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:48:33+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:39:05+00:00",
   "source_file": "README.md",
   "language_code": "lt"
 }
 -->
-![Antraštės baneris](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Sveiki, aš esu Minseok Song! 
+# Sveiki, aš esu Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Localizeflow kūrėjas**
+**[Localizeflow](https://localizeflow.com) kūrėjas**
 
-**Microsoft AI MVP • OSS projekto prižiūrėtojas [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS palaikytojas [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Man patinka kurti dirbtiniu intelektu varomas atviro kodo kūrėjų priemones, kurios gali plėstis globaliai, paversdamos ankstyvos stadijos koncepcijas į gamybai paruoštus sprendimus su realiu poveikiu.
+Man patinka kurti dirbtiniu intelektu grįstus, atviro kodo kūrėjų įrankius, kurie veikia globaliai, paverčiant ankstyvos stadijos koncepcijas į gamybai paruoštus sprendimus su realiu poveikiu.
 
-### 🌐 Daugiakalbė palaikymas
+### 🌐 Daugiakalbė parama
 
-#### Palaikoma [Localizeflow](https://localizeflow.com/)
+#### Remiama [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](./README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **Norite Klonuoti Vietoje?**
+
+> Šiame saugykloje yra daugiau nei 50 kalbų vertimų, dėl ko reikšmingai padidėja atsisiuntimo dydis. Norėdami klonuoti be vertimų, naudokite sparse checkout:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Tai suteikia jums viską, ko reikia kursui užbaigti, su daug greitesniu atsisiuntimu.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## Pagrindinis projektas
 
-### 🚀 Localizeflow (Dabartinis projektas)
-**GitHub natyvus automatizuotas dokumentacijos vertimo darbo srautas**  
-Nereikia konfigūracijos. Talpinama. Automatinis sinchronizavimas daugakalbiams projektams.  
+### 🚀 Localizeflow (dabar vykdomas projektas)  
+**GitHub natūralus automatinis dokumentacijos vertimo darbo eiga**  
+Nulinis nustatymas. Hostinta. Automatinis sinchronizavimas daugiakalbiams projektams.  
 → https://localizeflow.com
 
-- Automatiškai aptinka pakeitimus jūsų šaltinio failuose
-- Išverčia tik tai, kas pasikeitė
+- Automatiškai aptinka šaltinio failų pakeitimus
+- Verčia tik pakeistą turinį
 - Atidaro PR kiekvienai kalbai
-- Sukurtas naudojant Co-op Translator (Azure OSS)
+- Sukurta ant Co-op Translator pagrindo (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown ir vaizdų turiniui (OCR)  
-**Poveikis:** Tiekia vertimus Microsoft edukacinių saugyklų, kurių žvaigždžių skaičius viršija 200k★, užtikrindamas visada atnaujinamą turinį daugiau nei 10 kalbų.
+Oficialus Azure OSS CLI įrankis, automatizuojantis **daugiakalbius vertimus** Markdown + vaizdų turiniui (OCR)  
+**Poveikis:** Užtikrina Microsoft švietimo saugyklų vertimus su daugiau nei 200 tūkst. žvaigždžių, visada atnaujintą turinį daugiau nei 10 kalbų.
 
-- Išsiplėtė nuo ankstyvo PoC → gamybinės klasės Python CLI
-- Integruotas Azure OpenAI + Azure AI Vision vertimui ir OCR automatizavimui
-- Naudojamas saugyklose, tokiuose kaip:
+- Išaugo nuo ankstyvo PoC iki gamybinio lygio Python CLI
+- Integruotas Azure OpenAI + Azure AI Vision vertimui + OCR automatizavimui
+- Naudojamas saugyklose:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Išryškintas **Open at Microsoft** OSS parodoje
-- Gavau **Microsoft AI MVP 2025**
+- Pasirodyta **Open at Microsoft** OSS showcase
+- Laimėta **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Pranešimai ir medija
+## Pranešimai ir medijos
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,16 +84,16 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown
   </a>
 </p>
 
-- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Daugiakalbės prieigos galimybės su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planuokite ir ruoškitės kurti DI sprendimus Azure platformoje](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Pripažinimas
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1-oji vieta**, Inha University Open Source Festival (Co-op Translator)
-- **Nugalėtojas**, Microsoft Korea Azurethon (Prompt Engineering kategorija)
-- **3× tarp daugiausiai peržiūrų turinčių tinklaraštininkų**, Microsoft Educator Developer Blog
+## Pripažinimai
+- **Microsoft vertingiausias specialistas (AI)** 2024–2025
+- **1 vieta**, Inha universiteto atvirojo kodo festivalyje (Co-op Translator)
+- **Laimėtojas**, Microsoft Korea Azurethon (Prompt Engineering kategorija)
+- **3 kartus labiausiai žiūrėtas tinklaraštininkas**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,7 +110,7 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbius vertimus** Markdown
 
 ---
 
-## Statistika ir aktyvumas
+## Statistikos ir veikla
 <details>
 <summary>Peržiūrėti GitHub statistiką</summary>
 
