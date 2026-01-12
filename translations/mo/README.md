@@ -1,69 +1,79 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:03:44+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:14:02+00:00",
   "source_file": "README.md",
   "language_code": "mo"
 }
 -->
-![標頭橫幅](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 嗨，我是 Minseok Song! 
+# 嗨，我是 Minseok Song！
 
-[![GitHub 贊助](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![請我喝咖啡](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**創作者 [Localizeflow](https://localizeflow.com)**
+**[Localizeflow](https://localizeflow.com) 的創建者**
 
-**Microsoft AI MVP • OSS 維護者 of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 的開源維護者**
 
-我熱衷於打造以 AI 為驅動的開源開發者工具，具備全球擴展性，將早期概念轉化為具有真實影響力的生產就緒解決方案。
+我熱愛打造以 AI 驅動、且開源的開發者工具，讓早期概念能擴展至全球使用，轉化為具實際影響力的生產就緒解決方案。
 
 ### 🌐 多語言支援
 
 #### 由 [Localizeflow](https://localizeflow.com/) 支援
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[阿拉伯語](../ar/README.md) | [孟加拉語](../bn/README.md) | [保加利亞語](../bg/README.md) | [緬甸語（緬甸）](../my/README.md) | [中文（簡體）](../zh/README.md) | [中文（繁體，香港）](../hk/README.md) | [中文（繁體，澳門）](./README.md) | [中文（繁體，台灣）](../tw/README.md) | [克羅地亞語](../hr/README.md) | [捷克語](../cs/README.md) | [丹麥語](../da/README.md) | [荷蘭語](../nl/README.md) | [愛沙尼亞語](../et/README.md) | [芬蘭語](../fi/README.md) | [法語](../fr/README.md) | [德語](../de/README.md) | [希臘語](../el/README.md) | [希伯來語](../he/README.md) | [印地語](../hi/README.md) | [匈牙利語](../hu/README.md) | [印尼語](../id/README.md) | [義大利語](../it/README.md) | [日語](../ja/README.md) | [卡納達語](../kn/README.md) | [韓語](../ko/README.md) | [立陶宛語](../lt/README.md) | [馬來語](../ms/README.md) | [馬拉雅拉姆語](../ml/README.md) | [馬拉地語](../mr/README.md) | [尼泊爾語](../ne/README.md) | [尼日利亞皮欽語](../pcm/README.md) | [挪威語](../no/README.md) | [波斯語（Farsi）](../fa/README.md) | [波蘭語](../pl/README.md) | [葡萄牙語（巴西）](../br/README.md) | [葡萄牙語（葡萄牙）](../pt/README.md) | [旁遮普語（Gurmukhi）](../pa/README.md) | [羅馬尼亞語](../ro/README.md) | [俄語](../ru/README.md) | [塞爾維亞語（西里爾字母）](../sr/README.md) | [斯洛伐克語](../sk/README.md) | [斯洛維尼亞語](../sl/README.md) | [西班牙語](../es/README.md) | [斯瓦希里語](../sw/README.md) | [瑞典語](../sv/README.md) | [他加祿語（菲律賓）](../tl/README.md) | [泰米爾語](../ta/README.md) | [泰盧固語](../te/README.md) | [泰語](../th/README.md) | [土耳其語](../tr/README.md) | [烏克蘭語](../uk/README.md) | [烏爾都語](../ur/README.md) | [越南語](../vi/README.md)
+[阿拉伯文](../ar/README.md) | [孟加拉文](../bn/README.md) | [保加利亞文](../bg/README.md) | [緬甸文 (Myanmar)](../my/README.md) | [中文（簡體）](../zh/README.md) | [中文（繁體，香港）](../hk/README.md) | [中文（繁體，澳門）](./README.md) | [中文（繁體，台灣）](../tw/README.md) | [克羅地亞文](../hr/README.md) | [捷克文](../cs/README.md) | [丹麥文](../da/README.md) | [荷蘭文](../nl/README.md) | [愛沙尼亞文](../et/README.md) | [芬蘭文](../fi/README.md) | [法文](../fr/README.md) | [德文](../de/README.md) | [希臘文](../el/README.md) | [希伯來文](../he/README.md) | [印地文](../hi/README.md) | [匈牙利文](../hu/README.md) | [印尼文](../id/README.md) | [義大利文](../it/README.md) | [日文](../ja/README.md) | [坎那達文](../kn/README.md) | [韓文](../ko/README.md) | [立陶宛文](../lt/README.md) | [馬來文](../ms/README.md) | [馬拉雅拉姆文](../ml/README.md) | [馬拉地文](../mr/README.md) | [尼泊爾文](../ne/README.md) | [奈及利亞皮欽語](../pcm/README.md) | [挪威文](../no/README.md) | [波斯文 (Farsi)](../fa/README.md) | [波蘭文](../pl/README.md) | [葡萄牙文（巴西）](../br/README.md) | [葡萄牙文（葡萄牙）](../pt/README.md) | [旁遮普文（Gurmukhi）](../pa/README.md) | [羅馬尼亞文](../ro/README.md) | [俄文](../ru/README.md) | [塞爾維亞文（西里爾字母）](../sr/README.md) | [斯洛伐克文](../sk/README.md) | [斯洛文尼亞文](../sl/README.md) | [西班牙文](../es/README.md) | [斯瓦希里文](../sw/README.md) | [瑞典文](../sv/README.md) | [他加祿文 (菲律賓)](../tl/README.md) | [泰米爾文](../ta/README.md) | [泰盧固文](../te/README.md) | [泰文](../th/README.md) | [土耳其文](../tr/README.md) | [烏克蘭文](../uk/README.md) | [烏爾都文](../ur/README.md) | [越南文](../vi/README.md)
+
+> **想要本地複製？**
+
+> 此倉庫包含 50 多種語言的翻譯，顯著增加下載大小。若想不帶翻譯檔案下載，請使用 sparse checkout：
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> 這樣可以讓你以更快的速度下載，並獲得完成課程所需全部內容。
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## 主要專案
 
-### 🚀 Localizeflow (Current Project)
-**GitHub-native 自動化文件翻譯工作流程**  
-免設置。託管。為多語言專案自動同步。  
+### 🚀 Localizeflow（目前專案）
+**GitHub 原生的自動化文件翻譯工作流程**  
+零設定。託管服務。多語言專案自動同步。  
 → https://localizeflow.com
 
-- 自動偵測來源檔案的變更
-- 僅翻譯變更的部分
+- 自動偵測您的原始檔案變更
+- 只翻譯變更部分
 - 為每種語言開啟 PR
-- 基於 Co-op Translator（Azure OSS）建立
+- 建構於 Co-op Translator (Azure OSS) 之上
 
 
-### **Co-op Translator (Microsoft Azure OSS)**
+### **Co-op Translator（Microsoft Azure OSS）**
 
-一個官方的 Azure OSS CLI，自動化 Markdown 與影像內容（OCR）的 **多語言翻譯**  
-**影響力：** 為 Microsoft 的教育性資源庫提供翻譯，累計超過 200k★，確保內容在 10+ 種語言中保持即時更新。
+官方 Azure OSS CLI，自動化處理 Markdown + 圖像內容（OCR）的**多語言翻譯**  
+**影響力：**為 Microsoft 教育倉庫提供翻譯，合計超過 20 萬星★，確保 10 多種語言內容隨時更新。
 
-- 從早期 PoC → 擴展到生產等級的 Python CLI
-- 整合 Azure OpenAI + Azure AI Vision 以進行翻譯 + OCR 自動化
-- 被以下倉庫使用，例如：
+- 從早期概念驗證擴展為生產級 Python CLI
+- 整合 Azure OpenAI + Azure AI 視覺以自動化翻譯及 OCR
+- 被以下倉庫使用：
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- 入選 **Open at Microsoft** OSS 展示
-- 獲得 **Microsoft AI MVP 2025**
+- 於 **Open at Microsoft** OSS 展示中受推薦
+- 榮獲 **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## 講座與媒體
+## 演講與媒體
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,16 +84,16 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – 使用 Co-op Translator 解鎖多語言可及性](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – 在 Azure 上規劃與準備開發 AI 解決方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – 以 Co-op Translator 解鎖多語言無障礙](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – 規劃與準備在 Azure 上開發 AI 解決方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## 榮譽
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **第一名**, Inha University Open Source Festival (Co-op Translator)
-- **冠軍**, Microsoft Korea Azurethon (Prompt Engineering category)
-- **3× 最多人觀看的部落客**, Microsoft Educator Developer Blog
+- **Microsoft 最有價值專家 (AI)** 2024–2025
+- 仁荷大學開源節第一名（Co-op Translator）
+- 韓國 Microsoft Azurethon 冠軍（提示工程類別）
+- 三度最高瀏覽率部落客，Microsoft 教育開發者部落格
 
 ---
 
@@ -102,7 +112,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 統計與活動
 <details>
-<summary>查看 GitHub 統計</summary>
+<summary>檢視 GitHub 統計</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
