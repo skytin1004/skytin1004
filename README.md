@@ -60,8 +60,6 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 - Featured in **Open at Microsoft** OSS showcase
 - Earned **Microsoft AI MVP 2025**
 
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
-
 ---
 
 ## Talks & Media
