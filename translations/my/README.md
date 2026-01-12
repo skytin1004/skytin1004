@@ -1,69 +1,79 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:46:32+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:37:23+00:00",
   "source_file": "README.md",
   "language_code": "my"
 }
 -->
-![ခေါင်းစီး Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# ဟိုင်း၊ ကျွန်တော်က Minseok Song ဖြစ်ပါတယ်! 
+# မင်ဆော့ စွန်း ဖြစ်ပါတယ်!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**ဖန်တီးသူของ [Localizeflow](https://localizeflow.com)**
+**[Localizeflow](https://localizeflow.com) အတွက် ဖန်တီးသူ**
 
-**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) ၏ OSS တာဝန်ခံ**
 
-ကျွန်တော်သည် ကမ္ဘာအနှံ့တွင် အကျယ်ပြန့်မြောက်ပြီး အကျိုးသက်ရောက်မှုရှိသော production-ready ဖြေရှင်းချက်များအဖြစ် အစောပိုင်းအကြံကို ပြောင်းလဲပေးနိုင်သော AI အားဖြင့် လုပ်ဆောင်သည့် open-source developer ကိရိယာများကို တည်ဆောက်ရတာကို စိတ်အားထက်သန်ပါတယ်။
+ကျွန်တော်က အဆင့်သစ်အတွင်း စတင်ထားတဲ့ အကြံပေးချက်တွေကို ထုတ်လုပ်မှုအဆင့် အဆောက်အအုံဖြစ်လာအောင် ကမ္ဘာလုံးဆိုင်ရာအတိုင်းအတာဖြင့် လည်ပတ်နိုင်တဲ့ AI အခြေပြု၊ အခမဲ့ အရင်းအမြစ် Developer ကိရိယာတွေ ဖန်တီးရတာကို ကြိုက်တယ်။
 
-### 🌐 ဘာသာစကားစုံ ထောက်ပံ့မှု
+### 🌐 ဘာသာစကားစုံ ပံ့ပိုးမှု
 
-#### Supported by [Localizeflow](https://localizeflow.com/)
+#### [Localizeflow](https://localizeflow.com/) မှ ပံ့ပိုးသည်
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](./README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **ကွန်ပျူတာမှာ ဒေါင်းလုပ် ချင်ပါသလား?**
+
+> ဒီ repository မှာ ဘာသာစကား ၅၀ ကျော် အနက် ဒေါင်းလုပ် အရွယ်အစား ကြီးတယ်။ ဘာသာစကားများမပါဘဲ ဒေါင်းလုပ်ချင်ရင် sparse checkout ကို အသုံးပြုပါ:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> ဒီနည်းနဲ့ သင်တန်းကို မြန်ဆန်စွာ ပြီးမြောက်နိုင်ဖို့ လိုအပ်တာ အကုန်ရရှိမှာ ဖြစ်ပါတယ်။
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## အဓိက စီမံကိန်း
 
-### 🚀 Localizeflow (Current Project)
-**GitHub-native အလိုအလျောက် စာတမ်းများ ဘာသာပြန်လုပ်ငန်းစဉ်**  
-တပ်ဆင်ရန် မလို။ Hosted။ ဘာသာစကားစုံ ပါဝင်တဲ့ ပရောဂျက်များအတွက် အလိုအလျောက် စင်ကရိုနိုင်း ဖြစ်စေသည်။  
+### 🚀 Localizeflow (လက်ရှိ စီမံကိန်း)
+**GitHub မူရင်း အလိုအလျောက် စာတမ်း ဘာသာပြန် လမ်းကြောင်း အလုပ်ကိရိယာ**  
+အဆင်ပြေစွာ စတင်နိုင်ပြီး။ Hosting ပြုလုပ်ထားသည်။ ဘာသာစကားစုံ ပရောဂျက်များအတွက် အလိုအလျောက် ဆက်သွယ်ပြောင်းလဲမှု။  
 → https://localizeflow.com
 
-- အရင်းအမြစ် ဖိုင်များရှိ ပြောင်းလဲမှုများကို အလိုအလျောက် တွေ့ရှိသည်
-- ပြောင်းလဲခဲ့သည့် အပိုင်းများကိုသာ ဘာသာပြန်သည်
-- ဘာသာစကားတိုင်းအတွက် PR များ ဖွင့်ပေးသည်
-- Co-op Translator (Azure OSS) အပေါ် တည်ဆောက်ထားသည်
+- သင့်၏ အရင်းအမြစ် ဖိုင်များ ထဲ ပြောင်းလဲမှုတွေကို အလိုအလျောက် သိရှိနိုင်သည်
+- ပြောင်းလဲမှုရှိတာကိုသာ ဘာသာပြန်တယ်
+- ဘာသာစကားတိုင်းအတွက် PR ဖွင့်တယ်
+- Co-op Translator (Azure OSS) ကို အခြေခံတည်ဆောက်ထားသည်
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-တရားဝင် Azure OSS CLI တစ်ခုဖြစ်ပြီး Markdown နှင့် ပုံအကြောင်းအရာများ (OCR) အတွက် **multilingual translations** ကို အလိုအလျောက် ဆောင်ရွက်ပေးသည်  
-**Impact:** Microsoft ၏ ပညာရေး repository များကို စုစုပေါင်း 200k★+ အထိ ဘာသာပြန်ပေးကာ 10+ ဘာသာစကားတွင် အမြဲတမ်း အချက်အလတ် အပ်ဒိတ် ဖြစ်နေစေပြီ ဖြစ်သည်။
+Markdown + ပုံအကြောင်းအရာ(OCR) အတွက် **ဘာသာစကားစုံ ဘာသာပြန်မှုကို အလိုအလောက် ပြုလုပ်ပေးနိုင်တဲ့** Azure OSS CLI တစ်ခု  
+**သက်ရောက်မှု:** Microsoft ရဲ့ ပညာရေး repository 200k★+ ကျော်အတွက် ဘာသာပြန်မှုများကိုထောက်ပံ့ကာ အမြဲ update ထားသော အချက်အလက်များကို 10+ ဘာသာစကားဖြင့် ထောက်ပံ့ပါတယ်။
 
-- PoC အဆင့်မှ ထုတ်ကုန်အဆင့်သို့ Python CLI အဖြစ် တိုးချဲ့ထားသည်
-- အလိုအလျောက် ဘာသာပြန်ခြင်းနှင့် OCR အလိုအလျောက်လုပ်ဆောင်ရေးအတွက် Azure OpenAI + Azure AI Vision ကို ညှိနှိုင်းထည့်သွင်းထားသည်
-- အောက်ပါ repos များကဲ့သို့ အသုံးပြုထားသည် -
+- စတင် PoC ကနေ → ထုတ်လုပ်မှုအဆင့် Python CLI ဖြစ်လာ
+- Azure OpenAI + Azure AI Vision ကို ဘာသာပြန်ခြင်းနှင့် OCR အလိုအလြောက်လုပ်ငန်းစဉ်အတွက် ပေါင်းစည်းထားသည်
+- အောက်ပါ repo များမှ အသုံးပြုသည် -
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS showcase တွင် ဖော်ပြခဲ့သည်
-- **Microsoft AI MVP 2025** အား ရရှိထားသည်
+- **Open at Microsoft** OSS ပြပွဲတွင် ဖော်ပြခဲ့သည်
+- **Microsoft AI MVP 2025** ဆု ရရှိခဲ့သည်
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## မီဒီယာနှင့် ဆွေးနွေးချက်များ
+## ဆွေးနွေးချက်များနှင့် မီဒီယာ
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,20 +84,20 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translator ဖြင့် ဘာသာစကားစုံ ရောင်းချနိုင်မှုဖွင့်ခြင်း](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Azure ပေါ်တွင် AI ဖြေရှင်းချက်များ တီထွင်ရေးအတွက် စီစဉ်ခြင်းနှင့် ပြင်ဆင်ခြင်း](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## ကော်မတီနှင့် ဆုရရှိမှုများ
+## အောင်မြင်မှုများ
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1st Place**, Inha University Open Source Festival (Co-op Translator)
-- **Winner**, Microsoft Korea Azurethon (Prompt Engineering category)
-- **3× Most Viewed Blogger**, Microsoft Educator Developer Blog
+- **ဝင်ရိုးတန်း ၁ ကြိမ်နေရာ**, Inha University Open Source ပွဲတော် (Co-op Translator)
+- **ပြိုင်ပွဲ ဆုရှင်**, Microsoft Korea Azurethon (Prompt Engineering ဗဟို)
+- **အများဆုံး ကြည့်ရှုသူ ၃ ကြိမ်**, Microsoft Educator Developer Blog
 
 ---
 
-## နည်းပညာ စာရင်း
+## နည်းပညာ စနစ်
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -100,9 +110,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## စတက်စ်နှင့် လှုပ်ရှားမှု
+## အချက်အလက်များနှင့် လှုပ်ရှားမှု
 <details>
-<summary>GitHub အချက်အလက်များ ကြည့်ရန်</summary>
+<summary>GitHub အချက်အလက် များ ကြည့်ပါ</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
