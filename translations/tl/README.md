@@ -1,24 +1,24 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:35:20+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:30:22+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
 -->
-![Banner ng Header](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hi, ako si Minseok Song! 
+# Hi, I'm Minseok Song! 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Tagalikha ng [Localizeflow](https://localizeflow.com)**
+**Lumikha ng [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS Maintainer ng [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Tagapangalaga ng OSS ng [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Gustung-gusto kong bumuo ng mga AI-powered, open-source na developer tools na lumalawak sa buong mundo — binabago ang mga maagang ideya upang maging production-ready na mga solusyon na may tunay na epekto.
+Mahilig akong gumawa ng mga developer tools na pinapatakbo ng AI at open-source na kayang umabot sa buong mundo na naglilikha ng mga solusyong handang gamitin mula sa mga ideyang nasa simula pa lamang na may tunay na epekto.
 
 ### 🌐 Suporta sa Maramihang Wika
 
@@ -26,6 +26,16 @@ Gustung-gusto kong bumuo ng mga AI-powered, open-source na developer tools na lu
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](./README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **Mas gusto mo bang i-Clone Lokal?**
+
+> Kasama sa repositoryong ito ang mahigit 50 mga pagsasalin ng wika na nagdadagdag nang malaki sa laki ng pag-download. Para mag-clone nang walang mga pagsasalin, gamitin ang sparse checkout:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Bibigyan ka nito ng lahat ng kailangan mo para matapos ang kurso nang mas mabilis ang pag-download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -33,37 +43,37 @@ Gustung-gusto kong bumuo ng mga AI-powered, open-source na developer tools na lu
 ## Pangunahing Proyekto
 
 ### 🚀 Localizeflow (Kasalukuyang Proyekto)
-**GitHub-native na awtomatikong workflow para sa pagsasalin ng dokumentasyon**  
-Zero setup. Hosted. Auto-sync para sa multilingual na mga proyekto.  
+**GitHub-native na awtomatikong daloy ng pagsasalin ng dokumentasyon**  
+Walang setup. Nakahost. Auto-sync para sa maramihang proyekto sa wika.  
 → https://localizeflow.com
 
-- Awtomatikong natutukoy ang mga pagbabago sa iyong mga source file
-- Isinasalin lamang ang nagbago
+- Awtomatikong nadidiskubre ang mga pagbabago sa iyong mga source file
+- Isinasalin lamang ang mga nagbago
 - Nagbubukas ng PR para sa bawat wika
-- Nakatayo sa Co-op Translator (Azure OSS)
+- Naitayo sa ibabaw ng Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Isang opisyal na Azure OSS CLI na nag-a-automate ng **multilingual translations** para sa Markdown + image content (OCR)  
-**Impact:** Pinapagana ang mga pagsasalin para sa mga Microsoft educational na repositoryong may kabuuang 200k★+, tinitiyak na laging napapanahon ang nilalaman sa 10+ wika.
+Isang opisyal na Azure OSS CLI na awtomatikong nagsasagawa ng **maramihang pagsasalin** para sa Markdown + nilalaman ng larawan (OCR)  
+**Epekto:** Pinapalakas ang mga pagsasalin para sa mga repositoryo ng edukasyon ng Microsoft na may kabuuang 200k★+, na tinitiyak ang palaging napapanahong nilalaman sa mahigit 10 wika.
 
-- Lumago mula sa maagang PoC → production-grade Python CLI
-- Pinagsama ang Azure OpenAI + Azure AI Vision para sa pagsasalin + awtomasyon ng OCR
-- Ginagamit ng mga repo tulad ng:
+- Lumaki mula sa maagang PoC → production-grade Python CLI
+- Pinagsama ang Azure OpenAI + Azure AI Vision para sa pagsasalin + OCR na awtomasyon
+- Ginagamit ng mga repos tulad ng:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Itinatampok sa **Open at Microsoft** OSS showcase
-- Nakuha ang **Microsoft AI MVP 2025**
+- Tampok sa **Open at Microsoft** OSS showcase
+- Nakamit ang **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Mga Talumpati at Media
+## Mga Talakayan & Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,16 +84,16 @@ Isang opisyal na Azure OSS CLI na nag-a-automate ng **multilingual translations*
   </a>
 </p>
 
-- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Pagbubukas ng Multilingual Accessibility gamit ang Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planuhin at Ihanda ang Pagbuo ng Mga Solusyong AI sa Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Pagkilala
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1st Place**, Inha University Open Source Festival (Co-op Translator)
-- **Winner**, Microsoft Korea Azurethon (Prompt Engineering category)
-- **3× Most Viewed Blogger**, Microsoft Educator Developer Blog
+- **Unang Pwesto**, Inha University Open Source Festival (Co-op Translator)
+- **Nanalo**, Microsoft Korea Azurethon (Prompt Engineering category)
+- **3× Pinaka-Maraming Pinanood na Blogger**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,16 +110,16 @@ Isang opisyal na Azure OSS CLI na nag-a-automate ng **multilingual translations*
 
 ---
 
-## Mga Estadistika at Aktibidad
+## Stats & Activity
 <details>
-<summary>Tingnan ang GitHub Stats</summary>
+<summary>View GitHub Stats</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
-## 📫 Makipag-ugnay sa Akin
+## 📫 Makipag-ugnayan sa Akin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
