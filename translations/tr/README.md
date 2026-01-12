@@ -1,39 +1,49 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:21:55+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:22:40+00:00",
   "source_file": "README.md",
   "language_code": "tr"
 }
 -->
-![Başlık Afişi](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Merhaba, ben Minseok Song! 
+# Merhaba, Ben Minseok Song! 
 
-[![GitHub Sponsorları](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Bana Bir Kahve Al](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com)'un Kurucusu**
+**[Localizeflow](https://localizeflow.com) Kurucusu**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS Bakımcısı**
 
-AI destekli, açık kaynaklı ve küresel ölçekte ölçeklenebilen geliştirici araçları oluşturmayı seviyorum; erken aşama kavramları gerçek etki yaratan üretime hazır çözümlere dönüştürüyorum.
+Küresel ölçekte ölçeklenen, erken aşama konseptleri gerçek etkiye sahip üretime hazır çözümlere dönüştüren yapay zeka destekli açık kaynak geliştirici araçları oluşturmayı çok seviyorum.
 
 ### 🌐 Çok Dilli Destek
 
-#### [Localizeflow](https://localizeflow.com) tarafından desteklenmektedir
+#### [Localizeflow](https://localizeflow.com/) tarafından desteklenmektedir
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arapça](../ar/README.md) | [Bengalce](../bn/README.md) | [Bulgarca](../bg/README.md) | [Burmaca (Myanmar)](../my/README.md) | [Çince (Basitleştirilmiş)](../zh/README.md) | [Çince (Geleneksel, Hong Kong)](../hk/README.md) | [Çince (Geleneksel, Macau)](../mo/README.md) | [Çince (Geleneksel, Taiwan)](../tw/README.md) | [Hırvatça](../hr/README.md) | [Çekçe](../cs/README.md) | [Danca](../da/README.md) | [Hollandaca](../nl/README.md) | [Estonca](../et/README.md) | [Fince](../fi/README.md) | [Fransızca](../fr/README.md) | [Almanca](../de/README.md) | [Yunanca](../el/README.md) | [İbranice](../he/README.md) | [Hintçe](../hi/README.md) | [Macarca](../hu/README.md) | [Endonezce](../id/README.md) | [İtalyanca](../it/README.md) | [Japonca](../ja/README.md) | [Kannada](../kn/README.md) | [Korece](../ko/README.md) | [Litvanca](../lt/README.md) | [Malayca](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalce](../ne/README.md) | [Nijerya Pidgin](../pcm/README.md) | [Norveççe](../no/README.md) | [Farsça (Farsi)](../fa/README.md) | [Lehçe](../pl/README.md) | [Portekizce (Brezilya)](../br/README.md) | [Portekizce (Portekiz)](../pt/README.md) | [Pencapça (Gurmukhi)](../pa/README.md) | [Romence](../ro/README.md) | [Rusça](../ru/README.md) | [Sırpça (Kiril)](../sr/README.md) | [Slovakça](../sk/README.md) | [Slovence](../sl/README.md) | [İspanyolca](../es/README.md) | [Svahili](../sw/README.md) | [İsveççe](../sv/README.md) | [Tagalog (Filipince)](../tl/README.md) | [Tamilce](../ta/README.md) | [Telugu](../te/README.md) | [Tayca](../th/README.md) | [Türkçe](./README.md) | [Ukraynaca](../uk/README.md) | [Urduca](../ur/README.md) | [Vietnamca](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](./README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **Yerelde Klonlamayı Tercih Ediyor musunuz?**
+
+> Bu depo, indirme boyutunu önemli ölçüde artıran 50+ dil çevirisini içerir. Çeviriler olmadan klonlamak için sparse checkout kullanın:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Bu, kursu tamamlamak için ihtiyacınız olan her şeyi çok daha hızlı bir indirme ile size verir.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## Önemli Proje
 
-### 🚀 Localizeflow (Mevcut Proje)
-**GitHub yerel otomatik dokümantasyon çeviri iş akışı**  
+### 🚀 Localizeflow (Güncel Proje)
+**GitHub’a özgü otomatik dökümantasyon çeviri iş akışı**  
 Kurulum gerektirmez. Barındırılır. Çok dilli projeler için otomatik senkronizasyon.  
 → https://localizeflow.com
 
@@ -45,25 +55,25 @@ Kurulum gerektirmez. Barındırılır. Çok dilli projeler için otomatik senkro
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + görsel içeriği (OCR) için **çok dilli çevirileri** otomatikleştiren resmi bir Azure OSS CLI'si  
-**Etkisi:** Microsoft eğitim depolarının toplam 200k★+ yıldızlı projelerinin çevirilerini destekleyerek 10+ dilde her zaman güncel içerik sağlanmasını mümkün kılıyor.
+Markdown + resim içeriği (OCR) için **çok dilli çevirileri otomatikleştiren** resmi Azure OSS CLI  
+**Etkisi:** Microsoft eğitim depoları için 200k★+ toplam çeviri sağlar, içeriğin 10+ dilde güncel kalmasını garanti eder.
 
-- Erken PoC'den → üretim düzeyinde Python CLI'ye ölçeklendi
-- Çeviri ve OCR otomasyonu için Azure OpenAI + Azure AI Vision ile entegre edildi
-- Aşağıdaki depolar tarafından kullanıldı:
+- Erken PoC’den üretim sınıfı Python CLI’ye ölçeklendi
+- Çeviri + OCR otomasyonu için Azure OpenAI + Azure AI Vision entegre edildi
+- Aşağıdaki depolar tarafından kullanılır:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Open at Microsoft OSS vitrininde yer aldı
-- Microsoft AI MVP 2025 ödülünü aldı
+- **Open at Microsoft** OSS vitrininde yer aldı
+- **Microsoft AI MVP 2025** ödülünü kazandı
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Konuşmalar ve Medya
+## Konuşmalar & Medya
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,16 +84,16 @@ Markdown + görsel içeriği (OCR) için **çok dilli çevirileri** otomatikleş
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator ile Çok Dilli Erişilebilirliğin Kilidini Açmak](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure'da AI Çözümleri Geliştirmeyi Planlayın ve Hazırlanın](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translator ile Çok Dilli Erişilebilirliği Açığa Çıkarmak](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Azure Üzerinde AI Çözümleri Geliştirmeye Planlayın ve Hazırlanın](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Tanınma
-- Microsoft Most Valuable Professional (AI) 2024–2025
-- 1. Ödül, Inha Üniversitesi Açık Kaynak Festivali (Co-op Translator)
-- Kazanan, Microsoft Korea Azurethon (Prompt Engineering kategorisi)
-- Microsoft Educator Developer Blog'da 3× En Çok Okunan Blog Yazarı
+## Ödüller
+- **Microsoft En Değerli Profesyonel (AI)** 2024–2025
+- **1. Yer**, Inha Üniversitesi Açık Kaynak Festivali (Co-op Translator)
+- **Kazanan**, Microsoft Korea Azurethon (Prompt Engineering kategorisi)
+- **3× En Çok Okunan Blogger**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,7 +110,7 @@ Markdown + görsel içeriği (OCR) için **çok dilli çevirileri** otomatikleş
 
 ---
 
-## İstatistikler ve Aktivite
+## İstatistikler & Aktivite
 <details>
 <summary>GitHub İstatistiklerini Görüntüle</summary>
 
@@ -109,9 +119,9 @@ Markdown + görsel içeriği (OCR) için **çok dilli çevirileri** otomatikleş
 </details>
 ---
 
-## 📫 Benimle İletişime Geçin
+## 📫 Benimle Bağlanın
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
-[![Portföy](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
-[![Teknoloji Topluluğu](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
-[![E-posta](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
+[![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
+[![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
