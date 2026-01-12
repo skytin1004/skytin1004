@@ -1,13 +1,13 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:50:54+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:09:01+00:00",
   "source_file": "README.md",
   "language_code": "et"
 }
 -->
-![Päisibänner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # Tere, mina olen Minseok Song! 
 
@@ -16,54 +16,64 @@ CO_OP_TRANSLATOR_METADATA:
 
 **[Localizeflow](https://localizeflow.com) looja**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS-i hooldaja**
+**Microsoft AI MVP • OSS hooldaja [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Mulle meeldib luua AI-toega avatud lähtekoodiga arendajatööriistu, mis skaleeruvad üle maailma — muutes varajase etapi kontseptsioonid tootmisküpseks lahenduseks, mis avaldab reaalselt mõju.
+Mulle meeldib luua AI-toega avatud lähtekoodiga arendustööriistu, mis on globaalselt skaleeritavad ja muudavad varajase faasi ideed tootmisküpseks lahenduseks, millel on tõeline mõju.
 
-### 🌐 Mitmekeelne tugi
+### 🌐 Mitmekeelse toe pakkuja
 
 #### Toetatud [Localizeflow](https://localizeflow.com/) poolt
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Araabia](../ar/README.md) | [Bengaali](../bn/README.md) | [Bulgaaria](../bg/README.md) | [Birma (Myanmar)](../my/README.md) | [Hiina (lihtsustatud)](../zh/README.md) | [Hiina (traditsiooniline, Hongkong)](../hk/README.md) | [Hiina (traditsiooniline, Macao)](../mo/README.md) | [Hiina (traditsiooniline, Taiwan)](../tw/README.md) | [Horvaadi](../hr/README.md) | [Tšehhi](../cs/README.md) | [Taani](../da/README.md) | [Hollandi](../nl/README.md) | [Eesti](./README.md) | [Soome](../fi/README.md) | [Prantsuse](../fr/README.md) | [Saksa](../de/README.md) | [Kreeka](../el/README.md) | [Heebrea](../he/README.md) | [Hindi](../hi/README.md) | [Ungari](../hu/README.md) | [Indoneesia](../id/README.md) | [Itaalia](../it/README.md) | [Jaapani](../ja/README.md) | [Kannada](../kn/README.md) | [Korea](../ko/README.md) | [Leedu](../lt/README.md) | [Malai](../ms/README.md) | [Malajalami](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigeeria pidžin](../pcm/README.md) | [Norra](../no/README.md) | [Pärsia (Farsi)](../fa/README.md) | [Poola](../pl/README.md) | [Portugali (Brasiilia)](../br/README.md) | [Portugali (Portugal)](../pt/README.md) | [Pundžabi (Gurmukhi)](../pa/README.md) | [Rumeenia](../ro/README.md) | [Vene](../ru/README.md) | [Serbia (kirillitsa)](../sr/README.md) | [Slovaki](../sk/README.md) | [Sloveenia](../sl/README.md) | [Hispaania](../es/README.md) | [Suaheli](../sw/README.md) | [Rootsi](../sv/README.md) | [Tagalog (Filipiinid)](../tl/README.md) | [Tamili](../ta/README.md) | [Telugu](../te/README.md) | [Tai](../th/README.md) | [Türgi](../tr/README.md) | [Ukraina](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnam](../vi/README.md)
+[Araabia](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgaaria](../bg/README.md) | [Birma (Myanmar)](../my/README.md) | [Hiina (lihtsustatud)](../zh/README.md) | [Hiina (traditsiooniline, Hongkong)](../hk/README.md) | [Hiina (traditsiooniline, Macau)](../mo/README.md) | [Hiina (traditsiooniline, Taiwan)](../tw/README.md) | [Horvaadi](../hr/README.md) | [Tšehhi](../cs/README.md) | [Taani](../da/README.md) | [Hollandi](../nl/README.md) | [Eesti](./README.md) | [Soome](../fi/README.md) | [Prantsuse](../fr/README.md) | [Saksa](../de/README.md) | [Kreeka](../el/README.md) | [Heebrea](../he/README.md) | [Hindi](../hi/README.md) | [Ungari](../hu/README.md) | [Indoneesia](../id/README.md) | [Itaalia](../it/README.md) | [Jaapani](../ja/README.md) | [Kannada](../kn/README.md) | [Korea](../ko/README.md) | [Leedu](../lt/README.md) | [Malai](../ms/README.md) | [Malajalami](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigeeria pidgin](../pcm/README.md) | [Norra](../no/README.md) | [Pärsia (Farsi)](../fa/README.md) | [Poola](../pl/README.md) | [Portugali (Brasiilia)](../br/README.md) | [Portugali (Portugal)](../pt/README.md) | [Pandžabi (Gurmukhi)](../pa/README.md) | [Rumeenia](../ro/README.md) | [Vene](../ru/README.md) | [Serbia (tsernitsaalne)](../sr/README.md) | [Slovaki](../sk/README.md) | [Sloveeni](../sl/README.md) | [Hispaania](../es/README.md) | [Suahiili](../sw/README.md) | [Rootsi](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamili](../ta/README.md) | [Telugu](../te/README.md) | [Tai](../th/README.md) | [Türgi](../tr/README.md) | [Ukraina](../uk/README.md) | [Urdu](../ur/README.md) | [ Vietnami](../vi/README.md)
+
+> **Eelistad kloonimist lokaalselt?**
+
+> See hoidla sisaldab 50+ keele tõlkeid, mis suurendab oluliselt allalaadimise mahtu. Kloonimiseks ilma tõlgeteta kasuta sparse checkout'i:  
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> See annab sulle kõik vajaliku kursuse läbimiseks palju kiirema allalaadimisega.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## Peamine projekt
 
-### 🚀 Localizeflow (praegune projekt)
-**GitHub-põhine automatiseeritud dokumentatsiooni tõlkimise töövoog**  
-Pole seadistust. Hostitud. Automaatne sünkroonimine mitmekeelsete projektide jaoks.  
+### 🚀 Localizeflow (Praegune projekt)
+**GitHub'i eest native automaatne dokumentatsiooni tõlkimise töövoog**  
+Null-seadistust. Majutatud. Automaatne sünkroonimine mitmekeelsel projektil.  
 → https://localizeflow.com
 
-- Tuvastab automaatselt muudatused teie lähtefailides
-- Tõlgib ainult seda, mis muutus
-- Avab PRs iga keele jaoks
-- Põhineb Co-op Translatoril (Azure OSS)
+- Tuvastab automaatselt muudatused sinu lähtefailides
+- Tõlgib ainult seda, mis on muutunud
+- Avab PR-id iga keele jaoks
+- Ehitatud Co-op Translator (Azure OSS) peale
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Ametlik Azure OSS CLI, mis automatiseerib **mitmekeelseid tõlkeid** Markdowni + pildisisu jaoks (OCR)  
-**Mõju:** Võimaldab tõlkeid Microsofti hariduslike hoidlate jaoks, mis kokku annavad üle 200k★, tagades sisu pideva ajakohastatuse 10+ keeles.
+Ametlik Azure OSS CLI, mis automatiseerib **mitmekeelseid tõlkeid** Markdown + pildisisu (OCR) jaoks  
+**Mõju:** Toetab Microsofti hariduslike hoidlate tõlkeid kokku üle 200k tärniga, tagades alati värske sisu 10+ keeles.
 
-- Kasvas varajasest PoC-ist → tootmiskõlbulikuks Python CLI-ks
-- Integreerib Azure OpenAI + Azure AI Vision tõlke- ja OCR-automatiseerimiseks
-- Kasutatakse hoidlates nagu:
+- Kasvanud varajasest PoC-st täistoonilisse tootmisklassi Python CLI-ks
+- Integreeritud Azure OpenAI + Azure AI Vision tõlke- ja OCR-automaatikaks
+- Kasutatakse sellistes hoidlates nagu:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Esile toodud Open at Microsoft OSS-näitusel
-- Saanud Microsoft AI MVP 2025
+- Esindatud **Open at Microsoft** OSS näitusel
+- Pälvinud **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Ettekanded ja meedia
+## Esitlused ja meedia
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -75,15 +85,15 @@ Ametlik Azure OSS CLI, mis automatiseerib **mitmekeelseid tõlkeid** Markdowni +
 </p>
 
 - [Open at Microsoft – Mitmekeelse ligipääsetavuse avamine Co-op Translatoriga](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – planeerimine ja ettevalmistused AI-lahenduste arendamiseks Azure'is](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Plaan ja ettevalmistus AI lahenduste arendamiseks Azures](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
 ## Tunnustused
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
+- **Microsofti kõige väärtuslikum professionaal (AI)** 2024–2025
 - **1. koht**, Inha University Open Source Festival (Co-op Translator)
 - **Võitja**, Microsoft Korea Azurethon (Prompt Engineering kategooria)
-- **3× enimvaadatud blogija**, Microsoft Educator Developer Blog
+- **3× kõige vaadatum blogija**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,7 +110,7 @@ Ametlik Azure OSS CLI, mis automatiseerib **mitmekeelseid tõlkeid** Markdowni +
 
 ---
 
-## Statistika ja tegevus
+## Statistika ja aktiivsus
 <details>
 <summary>Vaata GitHubi statistikat</summary>
 
