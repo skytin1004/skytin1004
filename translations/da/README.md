@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:25:32+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T15:01:49+00:00",
   "source_file": "README.md",
   "language_code": "da"
 }
@@ -18,9 +18,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS Vedligeholder af [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Jeg elsker at bygge AI-drevne, open-source udviklerværktøjer, der skalerer globalt og forvandler tidlige koncepter til produktionsklare løsninger med reel effekt.
+Jeg elsker at bygge AI-drevne, open-source udviklerværktøjer, der skalerer globalt ved at omsætte tidlige koncepter til produktionsklare løsninger med reel effekt.
 
-### 🌐 Multi-sprog understøttelse
+### 🌐 Multisprogunderstøttelse
 
 #### Understøttet af [Localizeflow](https://localizeflow.com/)
 
@@ -29,13 +29,13 @@ Jeg elsker at bygge AI-drevne, open-source udviklerværktøjer, der skalerer glo
 
 > **Foretrækker du at klone lokalt?**
 
-> Dette repository inkluderer 50+ sprogoversættelser, hvilket væsentligt øger download-størrelsen. For at klone uden oversættelser, brug sparse checkout:
+> Dette lager indeholder 50+ sprogoversættelser, hvilket betydeligt øger downloadstørrelsen. For at klone uden oversættelser, brug sparse checkout:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Dette giver dig alt, hvad du behøver for at gennemføre kurset med en meget hurtigere download.
+> Dette giver dig alt, hvad du har brug for til at gennemføre kurset med en meget hurtigere download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
@@ -44,32 +44,30 @@ Jeg elsker at bygge AI-drevne, open-source udviklerværktøjer, der skalerer glo
 
 ### 🚀 Localizeflow (Nuværende projekt)
 **GitHub-native automatiseret dokumentationsoversættelsesworkflow**  
-Ingen opsætning. Hosted. Auto-synkronisering for flersprogede projekter.  
+Ingen opsætning. Hostet. Auto-synkronisering til flersprogede projekter.  
 → https://localizeflow.com
 
 - Registrerer automatisk ændringer i dine kildefiler
 - Oversætter kun det, der er ændret
-- Åbner PR for hvert sprog
-- Bygget ovenpå Co-op Translator (Azure OSS)
+- Opretter PR for hvert sprog
+- Bygget oven på Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
 En officiel Azure OSS CLI, der automatiserer **flersprogede oversættelser** for Markdown + billedindhold (OCR)  
-**Indflydelse:** Driver oversættelser for Microsofts uddannelsesrepositorys med over 200k★, og sikrer altid opdateret indhold på 10+ sprog.
+**Indflydelse:** Driver oversættelser for Microsofts uddannelseslager med samlet 200k★+, og sikrer altid opdateret indhold på 10+ sprog.
 
 - Skaleret fra tidlig PoC → produktionsklar Python CLI
 - Integreret Azure OpenAI + Azure AI Vision til oversættelse + OCR-automatisering
-- Brugt af repos som:
+- Bruges af repo’er som:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Fremhævet i **Open at Microsoft** OSS showcase
-- Modtager af **Microsoft AI MVP 2025**
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- Fremhævet i **Open at Microsoft** OSS-showcase
+- Modtog **Microsoft AI MVP 2025**
 
 ---
 
@@ -84,16 +82,8 @@ En officiel Azure OSS CLI, der automatiserer **flersprogede oversættelser** for
   </a>
 </p>
 
-- [Open at Microsoft – Åbning af flersproget tilgængelighed med Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planlæg og forbered udvikling af AI-løsninger på Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
-
----
-
-## Anerkendelser
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1. Plads**, Inha University Open Source Festival (Co-op Translator)
-- **Vinder**, Microsoft Korea Azurethon (Prompt Engineering kategori)
-- **3× Mest sete blogger**, Microsoft Educator Developer Blog
+- [Open at Microsoft – Lås op for flersproget tilgængelighed med Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planlæg og forbered dig på at udvikle AI-løsninger på Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -112,7 +102,7 @@ En officiel Azure OSS CLI, der automatiserer **flersprogede oversættelser** for
 
 ## Statistik & Aktivitet
 <details>
-<summary>Vis GitHub-statistik</summary>
+<summary>Se GitHub Statistik</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

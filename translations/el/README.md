@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:23:54+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T15:00:00+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
@@ -16,11 +16,11 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Δημιουργός του [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Διαχειριστής OSS του [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Υπεύθυνος OSS για το [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Λατρεύω να φτιάχνω εργαλεία ανάπτυξης ανοιχτού κώδικα με τεχνητή νοημοσύνη που κλιμακώνονται παγκοσμίως μετατρέποντας ιδέες σε πρώιμο στάδιο σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
+Μου αρέσει να δημιουργώ εργαλεία προγραμματιστών ανοιχτού κώδικα με τεχνητή νοημοσύνη που κλιμακώνονται παγκοσμίως, μετατρέποντας τις ιδέες σε πρώιμο στάδιο σε λύσεις έτοιμες για παραγωγή με πραγματικό αντίκτυπο.
 
-### 🌐 Υποστήριξη πολλαπλών γλωσσών
+### 🌐 Υποστήριξη Πολλών Γλωσσών
 
 #### Υποστηρίζεται από το [Localizeflow](https://localizeflow.com/)
 
@@ -29,51 +29,49 @@ CO_OP_TRANSLATOR_METADATA:
 
 > **Προτιμάτε να κάνετε κλωνοποίηση τοπικά;**
 
-> Αυτό το αποθετήριο περιλαμβάνει πάνω από 50 μεταφράσεις γλωσσών που αυξάνουν σημαντικά το μέγεθος λήψης. Για να κλωνοποιήσετε χωρίς τις μεταφράσεις, χρησιμοποιήστε sparse checkout:
+> Αυτό το αποθετήριο περιλαμβάνει πάνω από 50 μεταφράσεις γλωσσών που αυξάνουν σημαντικά το μέγεθος λήψης. Για να κλωνοποιήσετε χωρίς μεταφράσεις, χρησιμοποιήστε sparse checkout:  
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Αυτό σας παρέχει ό,τι χρειάζεστε για να ολοκληρώσετε το μάθημα με πολύ πιο γρήγορη λήψη.
+> Αυτό σας παρέχει όλα όσα χρειάζεστε για να ολοκληρώσετε το μάθημα με πολύ γρηγορότερη λήψη.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## Κύριο Έργο
 
-### 🚀 Localizeflow (Τρέχον Έργο)  
-**GitHub-ενσωματωμένη αυτοματοποιημένη ροή εργασίας μετάφρασης τεκμηρίωσης**  
-Μηδενική ρύθμιση. Φιλοξενούμενο. Αυτόματος συγχρονισμός για πολυγλωσσικά έργα.  
+### 🚀 Localizeflow (Τρέχον Έργο)
+**Φυσικό για το GitHub αυτοματοποιημένο workflow μετάφρασης τεκμηρίωσης**  
+Μηδενική ρύθμιση. Φιλοξενούμενο. Αυτόματος συγχρονισμός για πολύγλωσσα έργα.  
 → https://localizeflow.com
 
-- Εντοπίζει αυτόματα αλλαγές στα αρχεία πηγής σας
-- Μεταφράζει μόνο ό,τι άλλαξε
-- Ανοίγει PR για κάθε γλώσσα
+- Ανιχνεύει αυτόματα τις αλλαγές στα αρχεία πηγής σας
+- Μεταφράζει μόνο τις αλλαγές
+- Δημιουργεί PR για κάθε γλώσσα
 - Βασίζεται στο Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Επίσημο CLI Azure OSS που αυτοματοποιεί τις **πολυγλωσσικές μεταφράσεις** για περιεχόμενο Markdown + εικόνες (OCR)  
-**Αντικτύπος:** Τροφοδοτεί τις μεταφράσεις για εκπαιδευτικά αποθετήρια Microsoft με συνολικά 200k★+, εξασφαλίζοντας πάντα ενημερωμένο περιεχόμενο σε πάνω από 10 γλώσσες.
+Επίσημο Azure OSS CLI που αυτοματοποιεί **πολύγλωσσες μεταφράσεις** για περιεχόμενο Markdown + εικόνας (OCR)  
+**Αντίκτυπος:** Υποστηρίζει μεταφράσεις για αποθετήρια εκπαιδευτικού περιεχομένου της Microsoft με συνολικά 200k★+, εξασφαλίζοντας πάντα ενημερωμένο περιεχόμενο σε 10+ γλώσσες.
 
-- Κλιμακώθηκε από πρώιμο PoC → παραγωγικό επίπεδο CLI Python
-- Ενσωμάτωσε Azure OpenAI + Azure AI Vision για μεταφράσεις + αυτοματοποίηση OCR
-- Χρησιμοποιείται σε αποθετήρια όπως:  
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)  
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)  
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)  
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)  
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)  
-- Προβλήθηκε στο Open at Microsoft OSS showcase
-- Κέρδισε **Microsoft AI MVP 2025**
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- Αναπτύχθηκε από πρωτότυπο PoC σε επαγγελματικό Python CLI
+- Συνδυάζει Azure OpenAI + Azure AI Vision για μετάφραση + αυτοματοποίηση OCR
+- Χρησιμοποιείται από αποθετήρια όπως:
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
+- Παρουσιάστηκε στο **Open at Microsoft** OSS showcase
+- Απονεμήθηκε **Microsoft AI MVP 2025**
 
 ---
 
-## Ομιλίες & Media
+## Ομιλίες & Μέσα
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -84,20 +82,12 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – Απελευθέρωση πολυγλωσσικής προσβασιμότητας με το Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Σχεδιάστε και Προετοιμαστείτε για Ανάπτυξη Λύσεων AI στο Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Ξεκλειδώνοντας την Πολύγλωσση Προσβασιμότητα με το Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Σχεδιάστε και Προετοιμαστείτε για την Ανάπτυξη Λύσεων AI στο Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Αναγνώριση
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1η Θέση**, Φεστιβάλ Ανοιχτού Κώδικα Πανεπιστημίου Inha (Co-op Translator)
-- **Νικητής**, Microsoft Korea Azurethon (Κατηγορία Μηχανικής Εντολών)
-- **3× Πιο Διάσημος Blogger**, Microsoft Educator Developer Blog
-
----
-
-## Τεχνολογικό Στοίβαγμα
+## Τεχνολογικό Υπόβαθρο
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -112,7 +102,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## Στατιστικά & Δραστηριότητα
 <details>
-<summary>Δείτε τα στατιστικά GitHub</summary>
+<summary>Προβολή Στατιστικών GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
