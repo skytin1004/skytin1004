@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "7b3ce7b0a70bb3942854bdfe4022d9b5",
-  "translation_date": "2025-12-24T07:39:18+00:00",
+  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
+  "translation_date": "2026-01-12T12:32:49+00:00",
   "source_file": "README.md",
   "language_code": "cs"
 }
 -->
-![Banner záhlaví](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Ahoj, jsem Minseok Song! 
+# Ahoj, jsem Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,52 +18,62 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • OSS správce [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Rád vytvářím nástroje pro vývojáře založené na AI a open-source, které škálují globálně a přeměňují nápady z rané fáze na řešení připravená do produkce s reálným dopadem.
+Milují vytváření AI nástrojů pro vývojáře s otevřeným zdrojovým kódem, které škálují globálně a přetvářejí rané koncepty v produkčně připravená řešení s reálným dopadem.
 
 ### 🌐 Podpora více jazyků
 
 #### Podporováno [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabština](../ar/README.md) | [Bengálština](../bn/README.md) | [Bulharština](../bg/README.md) | [Barmština (Myanmar)](../my/README.md) | [Čínština (zjednodušená)](../zh/README.md) | [Čínština (tradiční, Hongkong)](../hk/README.md) | [Čínština (tradiční, Macao)](../mo/README.md) | [Čínština (tradiční, Taiwan)](../tw/README.md) | [Chorvatština](../hr/README.md) | [Čeština](./README.md) | [Dánština](../da/README.md) | [Nizozemština](../nl/README.md) | [Estonština](../et/README.md) | [Finština](../fi/README.md) | [Francouzština](../fr/README.md) | [Němčina](../de/README.md) | [Řečtina](../el/README.md) | [Hebrejština](../he/README.md) | [hindština](../hi/README.md) | [Maďarština](../hu/README.md) | [Indonéština](../id/README.md) | [Italština](../it/README.md) | [Japonština](../ja/README.md) | [Kannadština](../kn/README.md) | [Korejština](../ko/README.md) | [Litevština](../lt/README.md) | [Malajština](../ms/README.md) | [Malajálamština](../ml/README.md) | [Maráthština](../mr/README.md) | [Nepálština](../ne/README.md) | [Nigerijský pidgin](../pcm/README.md) | [Norština](../no/README.md) | [Perština (Farsi)](../fa/README.md) | [Polština](../pl/README.md) | [Portugalština (Brazílie)](../br/README.md) | [Portugalština (Portugalsko)](../pt/README.md) | [Paňdžábština (Gurmukhi)](../pa/README.md) | [Rumunština](../ro/README.md) | [Ruština](../ru/README.md) | [Srbština (cyrilice)](../sr/README.md) | [Slovenština](../sk/README.md) | [Slovinština](../sl/README.md) | [Španělština](../es/README.md) | [Svahilština](../sw/README.md) | [Švédština](../sv/README.md) | [Tagalog (Filipínština)](../tl/README.md) | [Tamilština](../ta/README.md) | [Telugština](../te/README.md) | [Thajština](../th/README.md) | [Turečtina](../tr/README.md) | [Ukrajinština](../uk/README.md) | [Urdština](../ur/README.md) | [Vietnamština](../vi/README.md)
+[Arabština](../ar/README.md) | [Bengálština](../bn/README.md) | [Bulharština](../bg/README.md) | [Barmština (Myanmar)](../my/README.md) | [Čínština (zjednodušená)](../zh/README.md) | [Čínština (tradiční, Hongkong)](../hk/README.md) | [Čínština (tradiční, Macau)](../mo/README.md) | [Čínština (tradiční, Taiwan)](../tw/README.md) | [Chorvatština](../hr/README.md) | [Čeština](./README.md) | [Dánština](../da/README.md) | [Nizozemština](../nl/README.md) | [Estonština](../et/README.md) | [Finština](../fi/README.md) | [Francouzština](../fr/README.md) | [Němčina](../de/README.md) | [Řečtina](../el/README.md) | [Hebrejština](../he/README.md) | [Hindi](../hi/README.md) | [Maďarština](../hu/README.md) | [Indonéština](../id/README.md) | [Italština](../it/README.md) | [Japonština](../ja/README.md) | [Kannada](../kn/README.md) | [Korejština](../ko/README.md) | [Litevština](../lt/README.md) | [Malajština](../ms/README.md) | [Malajalámština](../ml/README.md) | [Maráthština](../mr/README.md) | [Nepálština](../ne/README.md) | [Nigerijský pidžin](../pcm/README.md) | [Norština](../no/README.md) | [Perština (Fársí)](../fa/README.md) | [Polština](../pl/README.md) | [Portugalština (Brazílie)](../br/README.md) | [Portugalština (Portugalsko)](../pt/README.md) | [Paňdžábština (Gurmukhi)](../pa/README.md) | [Rumunština](../ro/README.md) | [Ruština](../ru/README.md) | [Srbština (Cyrilice)](../sr/README.md) | [Slovenština](../sk/README.md) | [Slovinština](../sl/README.md) | [Španělština](../es/README.md) | [Svahilština](../sw/README.md) | [Švédština](../sv/README.md) | [Tagalog (Filipínština)](../tl/README.md) | [Tamilština](../ta/README.md) | [Telugština](../te/README.md) | [Thajština](../th/README.md) | [Turečtina](../tr/README.md) | [Ukrajinština](../uk/README.md) | [Urdština](../ur/README.md) | [Vietnamština](../vi/README.md)
+
+> **Raději klonovat lokálně?**
+
+> Toto úložiště zahrnuje více než 50 jazykových překladů, což výrazně zvětšuje velikost stahování. Pro klonování bez překladů použijte sparse checkout:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Tím získáte vše potřebné ke zvládnutí kurzu s mnohem rychlejším stažením.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## Hlavní projekt
+## Klíčový projekt
 
-### 🚀 Localizeflow (aktuální projekt)
-**Nativní GitHub pracovní postup pro automatický překlad dokumentace**  
+### 🚀 Localizeflow (aktuální projekt)  
+**GitHub-nativní automatizovaný pracovní tok překladu dokumentace**  
 Žádné nastavení. Hostované. Automatická synchronizace pro vícejazyčné projekty.  
 → https://localizeflow.com
 
 - Automaticky detekuje změny ve vašich zdrojových souborech
-- Překládá pouze to, co se změnilo
+- Překládá pouze, co se změnilo
 - Otevírá PR pro každý jazyk
-- Postaveno nad Co-op Translator (Azure OSS)
+- Postavené na Co-op Translator (Azure OSS)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Oficiální Azure OSS CLI, který automatizuje **vícejazyčné překlady** pro obsah v Markdownu + obrázky (OCR)  
-**Dopad:** Zajišťuje překlady pro vzdělávací repozitáře Microsoftu s celkově více než 200k★, čímž zaručuje vždy aktuální obsah ve více než 10 jazycích.
+Oficiální Azure OSS CLI, které automatizuje **vícejazyčné překlady** pro obsah v Markdownu + obrázky (OCR)  
+**Dopad:** Pohání překlady Microsoft vzdělávacích repozitářů s více než 200k★ a zajišťuje vždy aktuální obsah v 10+ jazycích.
 
-- Rozrostl se z raného PoC na produkční Python CLI
-- Integrované Azure OpenAI + Azure AI Vision pro překlad a automatizaci OCR
-- Používán v repozitářích jako například:
+- Vyvinuto z raného PoC → produkční Python CLI
+- Integrované Azure OpenAI + Azure AI Vision pro překlad + OCR automatizaci
+- Používáno v repozitářích jako:
   - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
   - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Představeno v OSS přehledu **Open at Microsoft**
+- Prezentováno v showcase **Open at Microsoft** OSS
 - Získal **Microsoft AI MVP 2025**
 
 [![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
 
 ---
 
-## Přednášky a média
+## Přednášky & Média
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -74,8 +84,8 @@ Oficiální Azure OSS CLI, který automatizuje **vícejazyčné překlady** pro 
   </a>
 </p>
 
-- [Open at Microsoft – Zpřístupnění vícejazyčné dostupnosti s Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plánování a příprava pro vývoj AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Odemknutí vícejazyčné přístupnosti pomocí Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plánování a příprava vývoje AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -83,7 +93,7 @@ Oficiální Azure OSS CLI, který automatizuje **vícejazyčné překlady** pro 
 - **Microsoft Most Valuable Professional (AI)** 2024–2025
 - **1. místo**, Inha University Open Source Festival (Co-op Translator)
 - **Vítěz**, Microsoft Korea Azurethon (kategorie Prompt Engineering)
-- **3× nejvíce sledovaný bloger**, Microsoft Educator Developer Blog
+- **3× nejvíce zhlédnutý blogger**, Microsoft Educator Developer Blog
 
 ---
 
@@ -100,7 +110,7 @@ Oficiální Azure OSS CLI, který automatizuje **vícejazyčné překlady** pro 
 
 ---
 
-## Statistiky a aktivita
+## Statistiky & Aktivita
 <details>
 <summary>Zobrazit GitHub statistiky</summary>
 
