@@ -1,6 +1,6 @@
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hi, I'm Minseok Song! 
+# Hi, I'm Minseok Song
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -75,14 +75,6 @@ An official Azure OSS CLI that automates **multilingual translations** for Markd
 
 - [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
-
----
-
-## Recognition
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1st Place**, Inha University Open Source Festival (Co-op Translator)
-- **Winner**, Microsoft Korea Azurethon (Prompt Engineering category)
-- **3× Most Viewed Blogger**, Microsoft Educator Developer Blog
 
 ---
 
