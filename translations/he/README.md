@@ -1,26 +1,26 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:28:17+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T15:04:24+00:00",
   "source_file": "README.md",
   "language_code": "he"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# היי, אני מינסיאוק סונג! 
+# שלום, אני Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
 **יוצר של [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • ממלא מקום קוד פתוח של [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • אחראי קוד פתוח של [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-אני אוהב לבנות כלים למפתחים מבוססי AI בקוד פתוח, מתקדמים בקנה מידה עולמי שהופכים רעיונות בשלבי התחלתי לפתרונות מוכנים לייצור עם השפעה אמיתית.
+אני אוהב לבנות כלי מפתחים חופשיים, מונעי בינה מלאכותית, שיכולים להתרחב עולמית ולהפוך מושגים בשלבים מוקדמים לפתרונות מוכנים לייצור עם השפעה אמיתית.
 
-### 🌐 תמיכה במספר שפות
+### 🌐 תמיכה בריבוי שפות
 
 #### נתמך על ידי [Localizeflow](https://localizeflow.com/)
 
@@ -29,46 +29,44 @@ CO_OP_TRANSLATOR_METADATA:
 
 > **מעדיף לשכפל מקומית?**
 
-> מאגר זה כולל מעל 50 תרגומים בשפות שונות שמגדילים משמעותית את גודל ההורדה. לשכפול ללא תרגומים, השתמש ב-sparse checkout:
+> מאגר זה כולל מעל 50 תרגומים לשפות שונות, מה שמגדיל משמעותית את גודל ההורדה. לשכפול ללא תרגומים, השתמש בספרס צ'קאאוט:  
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> זה נותן לך את כל מה שאתה צריך כדי להשלים את הקורס במהירות הורדה גבוהה בהרבה.
+> זה נותן לך את כל מה שאתה צריך כדי להשלים את הקורס עם הורדה מהירה משמעותית.  
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## פרויקט מרכזי
+## פרויקט מפתח
 
-### 🚀 Localizeflow (הפרויקט הנוכחי)
-**תהליך תרגום אוטומטי, שמקורו ב-GitHub, לתיעוד**  
-ללא צורך בהתקנה. מאוחסן. סנכרון אוטומטי לפרויקטים מרובי שפות.  
+### 🚀 Localizeflow (הפרויקט הנוכחי)  
+**מערכת תרגום תיעוד אוטומטית מובנית בגיטהאב**  
+ללא צורך בהגדרה. מתארח. סינכרון אוטומטי לפרויקטים רב-לשוניים.  
 → https://localizeflow.com
 
-- מזהה שינויים בקבצי המקור שלך באופן אוטומטי
-- מתרגם רק את השינויים
-- פותח PR עבור כל שפה
-- מבוסס על Co-op Translator (Azure OSS)
+- מזהה אוטומטית שינויים בקבצי המקור שלך  
+- מתרגם רק את מה ששונה  
+- פותח Pull Requests לכל שפה  
+- מבוסס על Co-op Translator (Azure OSS)  
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-כלי CLI רשמי של Azure OSS שמאוטומט **תרגומים מרובי שפות** עבור Markdown ותכני תמונה (OCR)  
-**השפעה:** מפעיל תרגומים למאגרי מידע חינוכיים של מיקרוסופט הכוללים מעל 200k★+, ומבטיח תוכן מעודכן תמיד ב-10+ שפות.
+כלי פקודה רשמי של Azure להפעלת תרגום רב-לשוני של Markdown ותוכן תמונות (OCR)  
+**השפעה:** מפעיל תרגומים למאגרים חינוכיים של מיקרוסופט עם מעל 200k★, ומבטיח תוכן מעודכן ב-10+ שפות.
 
-- התפתח מ-PoC ראשוני → כלי CLI ברמת הפקה בפייתון
-- אינטגרציה של Azure OpenAI + Azure AI Vision לתרגום ואוטומציה של OCR
-- בשימוש במאגרים כמו:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- מוצג בתערוכת OSS **Open at Microsoft**
-- זכה ב-**Microsoft AI MVP 2025**
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- התפתח מפיילוט ראשוני לכלי CLI בפייתון ברמת ייצור  
+- משולב עם Azure OpenAI + Azure AI Vision לתרגום ואוטומציה של OCR  
+- בשימוש במאגרים כמו:  
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)  
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)  
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)  
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)  
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)  
+- הוצג בתערוכת Open at Microsoft  
+- זכה בתואר **Microsoft AI MVP 2025**
 
 ---
 
@@ -83,20 +81,12 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – פתיחת נגישות מרובת שפות עם Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – תכנון והכנה לפיתוח פתרונות AI על Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – שחרור נגישות רב-לשונית עם Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – תכנן והכן לפיתוח פתרונות AI ב-Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## הכרות והוקרה
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **מקום ראשון**, פסטיבל קוד פתוח אוניברסיטת אינחה (Co-op Translator)
-- **זוכה**, Microsoft Korea Azurethon (קטגוריית הנדסת פרומפט)
-- **3× הבלוגר הכי צפוי**, בלוג מפתחי Microsoft Educator
-
----
-
-## טכנולוגיות
+## ערכת טכנולוגיות  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -109,16 +99,16 @@ CO_OP_TRANSLATOR_METADATA:
 
 ---
 
-## סטטיסטיקות ופעילות
-<details>
+## סטטיסטיקות ופעילות  
+<details>  
 <summary>הצג סטטיסטיקות GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+</details>  
 ---
 
-## 📫 צור קשר איתי
+## 📫 צור קשר איתי  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:21:42+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T14:58:17+00:00",
   "source_file": "README.md",
   "language_code": "it"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Ciao, sono Minseok Song! 
+# Ciao, sono Minseok Song!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,7 +18,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • Manutentore OSS di [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Adoro costruire strumenti per sviluppatori open source basati su AI che scalano a livello globale trasformando concetti iniziali in soluzioni pronte per la produzione con un impatto reale.
+Amo creare strumenti per sviluppatori open-source potenziati dall'intelligenza artificiale, scalabili a livello globale, trasformando concetti in fase iniziale in soluzioni pronte per la produzione con un impatto reale.
 
 ### 🌐 Supporto Multilingue
 
@@ -29,33 +29,33 @@ Adoro costruire strumenti per sviluppatori open source basati su AI che scalano 
 
 > **Preferisci clonare localmente?**
 
-> Questo repository include più di 50 traduzioni linguistiche che aumentano significativamente la dimensione del download. Per clonare senza traduzioni, usa sparse checkout:
+> Questo repository include oltre 50 traduzioni linguistiche, che aumentano significativamente la dimensione del download. Per clonare senza le traduzioni, usa il sparse checkout:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Ti fornisce tutto il necessario per completare il corso con un download molto più veloce.
+> Questo ti fornisce tutto il necessario per completare il corso con un download molto più veloce.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
-## Progetto Principale
+## Progetto Chiave
 
 ### 🚀 Localizeflow (Progetto Attuale)
-**Flusso di lavoro automatizzato per la traduzione della documentazione nativo di GitHub**  
-Zero configurazione. Ospitato. Sincronizzazione automatica per progetti multilingue.  
+**Flusso di lavoro di traduzione automatica della documentazione nativa GitHub**  
+Nessuna configurazione. Ospitato. Sincronizzazione automatica per progetti multilingue.  
 → https://localizeflow.com
 
 - Rileva automaticamente le modifiche nei tuoi file sorgente
 - Traduce solo ciò che è cambiato
 - Apre PR per ogni lingua
-- Basato su Co-op Translator (OSS di Azure)
+- Costruito sopra Co-op Translator (OSS Azure)
 
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Un CLI ufficiale Azure OSS che automatizza le **traduzioni multilingue** per contenuti Markdown + immagini (OCR)  
+CLI OSS ufficiale di Azure che automatizza **traduzioni multilingue** per contenuti Markdown + immagini (OCR)  
 **Impatto:** Alimenta le traduzioni per repository educativi Microsoft con oltre 200k★, garantendo contenuti sempre aggiornati in più di 10 lingue.
 
 - Scalato da PoC iniziale a CLI Python di livello produzione
@@ -66,14 +66,12 @@ Un CLI ufficiale Azure OSS che automatizza le **traduzioni multilingue** per con
   - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
   - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
   - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Presentato nello showcase OSS di **Open at Microsoft**
-- Premiato come **Microsoft AI MVP 2025**
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- Presentato nella vetrina OSS **Open at Microsoft**
+- Conseguimento **Microsoft AI MVP 2025**
 
 ---
 
-## Conferenze e Media
+## Conferenze & Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -85,19 +83,11 @@ Un CLI ufficiale Azure OSS che automatizza le **traduzioni multilingue** per con
 </p>
 
 - [Open at Microsoft – Sbloccare l'accessibilità multilingue con Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Pianifica e prepara lo sviluppo di soluzioni AI su Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Piani e preparazione per sviluppare soluzioni AI su Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Riconoscimenti
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **1° Posto**, Inha University Open Source Festival (Co-op Translator)
-- **Vincitore**, Microsoft Korea Azurethon (categoria Prompt Engineering)
-- **3× Blogger più visualizzato**, Microsoft Educator Developer Blog
-
----
-
-## Stack Tecnologico
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -119,7 +109,7 @@ Un CLI ufficiale Azure OSS che automatizza le **traduzioni multilingue** per con
 </details>
 ---
 
-## 📫 Connettiti con Me
+## 📫 Contattami
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

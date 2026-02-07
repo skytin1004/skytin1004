@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "15f14ebaa9879ea2be727ca61fd489c8",
-  "translation_date": "2026-01-12T12:18:23+00:00",
+  "original_hash": "d20dfd93913355addc3b496d889b1618",
+  "translation_date": "2026-01-12T14:54:53+00:00",
   "source_file": "README.md",
   "language_code": "mr"
 }
 -->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# हाय, मी मिनसिओक सॉंग आहे! 
+# नमस्कार, मी मिनसिओक सांग आहे!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
@@ -18,61 +18,59 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) चे OSS मेंटेनर**
 
-मला जागतिक स्तरावर स्केल होणारे AI-शक्तीद्वारे चालणारे, मुक्तस्रोत विकासक साधने तयार करायला आवडतात जे सुरुवातीच्या टप्प्यातील कल्पनांना उत्पादनासाठी तयार उपायांमध्ये रूपांतरित करतात आणि खऱ्या परिणामात योगदान देतात.
+मी जागतिक प्रमाणावर स्केल होणारी AI-शक्ती प्राप्त, मुक्त-स्रोत डेव्हलपर टूल्स तयार करण्यास आवडते जे सुरुवातीच्या टप्प्यातील कल्पनांना उत्पादन-तयार उपायांमध्ये रूपांतरित करतात ज्यांचा खरा परिणाम होतो.
 
 ### 🌐 बहुभाषिक समर्थन
 
-#### [Localizeflow](https://localizeflow.com/) द्वारे समर्थित
+#### [Localizeflow](https://localizeflow.com/) कडून समर्थित
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](./README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **स्थानिकरित्या क्लोन करणे प्राधान्य देता?**
+> **स्थानिक कॉपी प्राधान्य देतो?**
 
-> या रेपॉजिटरीमध्ये ५०+ भाषा अनुवाद आहेत ज्यामुळे डाउनलोड आकार लक्षणीय वाढतो. अनुवादांशिवाय क्लोन करण्यासाठी sparse checkout वापरा:
+> या संग्रहात ५०+ भाषांमध्ये भाषांतर समाविष्ट आहे जे डाउनलोडचा आकार मोठा करतो. भाषांतरांशिवाय क्लोन करण्यासाठी sparse checkout वापरा:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> यामुळे आपल्याला कोर्स पूर्ण करण्यासाठी आवश्यक सर्वकाही खूप जलद डाउनलोडसह मिळेल.
+> यामुळे तुम्हाला कोर्स पूर्ण करण्यासाठी आवश्यक असलेली सर्व काही मिळते, पण डाउनलोड खूप जलद होतो.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ---
 
 ## मुख्य प्रकल्प
 
-### 🚀 Localizeflow (सध्याचा प्रकल्प)
-**GitHub-नेटिव्ह स्वयंचलित दस्तऐवज अनुवाद वर्कफ्लो**  
-शून्य सेटअप. होस्टेड. बहुभाषिक प्रकल्पांसाठी ऑटो-सिन्क.  
+### 🚀 Localizeflow (सध्याचा प्रकल्प)  
+**GitHub-मूलभूत स्वयंचलित दस्तऐवज भाषांतर कार्यप्रवाह**  
+शून्य सेटअप. होस्टेड. बहुभाषिक प्रोजेक्ट्ससाठी ऑटो-सिंक्रनाइझ.  
 → https://localizeflow.com
 
-- आपोआप आपल्या स्रोत फाईलमधील बदल शोधतो
-- फक्त बदललेले अनुवादित करतो
-- प्रत्येक भाषेसाठी PR उघडतो
+- तुमच्या स्त्रोत फाइलमधील बदल आपोआप शोधतो  
+- फक्त बदललेले भाषांतर करतो  
+- प्रत्येक भाषेसाठी PR उघडतो  
 - Co-op Translator (Azure OSS) वर आधारित
 
 ### **Co-op Translator (Microsoft Azure OSS)**
 
-Markdown + प्रतिमा सामग्री (OCR) साठी **बहुभाषिक अनुवाद** स्वयंचलित करणारा अधिकृत Azure OSS CLI  
-**प्रभाव:** Microsoft शैक्षणिक रेपॉजिटरीजसाठी 200k★+ प्रोजेक्ट्सचे अनुवाद चालवतो, १०+ भाषांमध्ये नेहमी अद्ययावत सामग्रीची हमी देतो.
+अधिकृत Azure OSS CLI जे Markdown + प्रतिमा सामग्री (OCR) साठी **बहुभाषिक भाषांतर** स्वयंचलित करते  
+**परिणाम:** Microsoft शैक्षणिक रिपॉजिटरीजसाठी 200k★+ स्टार मिळवलेले भाषांतर सादर करते, 10+ भाषांमध्ये नेहमी अद्ययावत सामग्री सुनिश्चित करते.
 
-- सुरुवातीच्या PoC वरून उत्पादन-ग्रेड Python CLI पर्यंत वाढवलेले
-- Azure OpenAI + Azure AI Vision अनुवाद आणि OCR स्वयंचलनासाठी एकत्रित केलेले
-- खालीलप्रमाणे रेपॉजिटरीज वापरलेले:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS शोकेसमध्ये वैशिष्ट्यीकृत
-- Microsoft AI MVP 2025 मिळवले
-
-[![Co-op Translator](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=co-op-translator&bg_color=ffffff&title_color=0078D4&text_color=333333&border_color=c0d8f0&border_radius=10)](https://github.com/Azure/co-op-translator)
+- सुरुवातीच्या PoC पासून उत्पादन-स्तराच्या Python CLI पर्यंत  
+- Azure OpenAI + Azure AI Vision समाकलित केले भाषांतर आणि OCR स्वयंचलनेसाठी  
+- खालील रिपॉजिटरीजमध्ये वापरले गेले:  
+  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)  
+  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)  
+  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)  
+  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)  
+  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)  
+- **Open at Microsoft** OSS प्रदर्शनात दाखवले गेले  
+- **Microsoft AI MVP 2025** प्राप्त केला
 
 ---
 
-## व्याखणे आणि मीडिया
+## चर्चासत्रे आणि मीडिया
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -84,19 +82,11 @@ Markdown + प्रतिमा सामग्री (OCR) साठी **ब�
 </p>
 
 - [Open at Microsoft – Co-op Translator सह बहुभाषिक प्रवेशयोग्यता अनलॉक करणे](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Azure वर AI सोल्यूशन्स विकसित करण्यासाठी योजना आणि तयारी](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Azure वर AI सोल्यूशन्स विकसित करण्याची योजना आणि तयारी करा](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## सन्मान
-- **Microsoft Most Valuable Professional (AI)** 2024–2025
-- **१ला क्रमांक**, Inha University Open Source Festival (Co-op Translator)
-- **विजेता**, Microsoft Korea Azurethon (Prompt Engineering वर्ग)
-- **3× सर्वाधिक पाहिलेले ब्लॉगर**, Microsoft Educator Developer Blog
-
----
-
-## टेक स्टॅक
+## तंत्रज्ञान स्टॅक
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -109,9 +99,9 @@ Markdown + प्रतिमा सामग्री (OCR) साठी **ब�
 
 ---
 
-## आकडेवारी व क्रियाकलाप
+## आकडेवारी आणि क्रियाकलाप
 <details>
-<summary>GitHub आकडेवारी पाहा</summary>
+<summary>GitHub आकडेवारी पहा</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
