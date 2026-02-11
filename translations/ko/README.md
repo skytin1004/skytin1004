@@ -1,26 +1,22 @@
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 안녕하세요, 저는 송민석입니다!
+# 안녕하세요, 저는 민석 송입니다
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) 제작자**
+**[Localizeflow](https://localizeflow.com) 창립자**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 오픈 소스 유지 관리자**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 유지관리자**
 
-저는 초기 단계의 아이디어를 실제 영향력 있는 생산 준비 솔루션으로 전환하는 AI 기반 오픈 소스 개발자 도구를 전 세계적으로 확장하는 것을 좋아합니다.
-
-### 🌐 다국어 지원
-
-#### [Localizeflow](https://localizeflow.com/)에서 지원함
+저는 개발자들의 운영 마찰을 제거하는 도구를 만듭니다.
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](./README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **로컬에서 복제하길 원하시나요?**
+> **로컬에서 클론하는 것을 선호하시나요?**
 >
-> 이 저장소에는 50개 이상의 언어 번역이 포함되어 있어 다운로드 크기가 크게 증가합니다. 번역 없이 복제하려면 스파스 체크아웃을 사용하세요:
+> 이 저장소에는 50개 이상의 언어 번역이 포함되어 있어 다운로드 크기가 크게 증가합니다. 번역 없이 클론하려면 sparse checkout을 사용하세요:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -36,39 +32,62 @@
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> 이 방법으로 훨씬 빠른 다운로드로 강의를 완수하는 데 필요한 모든 것을 얻을 수 있습니다.
+> 이렇게 하면 훨씬 빠른 다운로드로 코스를 완료하는 데 필요한 모든 것을 얻을 수 있습니다.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+## 왜 제가 로컬라이제이션 작업을 하는가
+
+대부분의 작은 팀들은 글로벌 사용자를 대상으로 하고 싶어합니다.  
+하지만 로컬라이즈하지 않습니다.
+
+번역 비용이 많이 들어서도 아니고,  
+AI가 부족해서도 아닙니다.
+
+하지만 로컬라이제이션은 시작하는 순간 운영 프로젝트가 되어버리기 때문입니다.
+
+- i18n 구조 결정  
+- YAML 설정  
+- 번역 파이프라인  
+- 리뷰어 워크플로우  
+- 유지 보수 부담
+
+그래서 미루거나  
+아예 시작하지 않습니다.
+
+저는 이 장벽을 제거하기 위해 Localizeflow를 만들고 있습니다.
 
 ---
 
-## 주요 프로젝트
+## 🚀 Localizeflow
 
-### 🚀 Localizeflow (현재 프로젝트)
-**GitHub 네이티브 자동 문서 번역 워크플로우**  
-설정 불필요. 호스팅됨. 다국어 프로젝트 자동 동기화.  
+GitHub에 최적화된 문서 로컬라이제이션.  
+한 번 설치하세요. YAML도, API 키도, 대시보드도 필요 없습니다.
+
+- 소스 변경 감지  
+- 변경된 부분만 번역  
+- 자동으로 PR 생성  
+- 관리형 인프라에서 실행
+
+대상:  
+- OSS 유지관리자  
+- 개인 개발자  
+- 초기 스타트업
+
 → https://localizeflow.com
 
-- 소스 파일 변경 자동 감지
-- 변경된 부분만 번역
-- 각 언어별 PR 오픈
-- Co-op Translator(Azure OSS) 기반
+---
 
+## 🛠 Co-op Translator (Azure OSS)
 
-### **Co-op Translator (Microsoft Azure OSS)**
+Azure/co-op-translator 유지관리자
 
-Markdown + 이미지 콘텐츠(OCR)에 대한 **다국어 번역**을 자동화하는 공식 Azure OSS CLI  
-**영향력:** Microsoft 교육용 저장소 20만★ 이상에서 번역을 지원하여 10개 이상의 언어로 항상 최신 콘텐츠 유지.
+다국어 Markdown + 이미지 번역을 자동화하는 CLI 도구입니다.
 
-- 초기 PoC에서 생산 수준의 Python CLI로 확장
-- Azure OpenAI + Azure AI Vision을 번역 및 OCR 자동화에 통합
-- 사용된 저장소 예:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- **Open at Microsoft** OSS 쇼케이스 소개
-- **Microsoft AI MVP 2025** 수상
+사용처:  
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+- 그리고 기타 Microsoft OSS 저장소
 
 ---
 
@@ -83,7 +102,7 @@ Markdown + 이미지 콘텐츠(OCR)에 대한 **다국어 번역**을 자동화�
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translator와 함께 다국어 접근성 향상](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Co-op Translator로 다국어 접근성 열기](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Azure에서 AI 솔루션 개발 계획 및 준비](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
