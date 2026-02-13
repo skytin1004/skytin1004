@@ -1,73 +1,93 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d20dfd93913355addc3b496d889b1618",
-  "translation_date": "2026-01-12T15:06:04+00:00",
-  "source_file": "README.md",
-  "language_code": "ms"
-}
--->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hai, Saya Minseok Song!
+# Hai, Saya Minseok Song
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Pencipta [Localizeflow](https://localizeflow.com)**
+**Pengasas [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Penyelenggara OSS bagi [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Penyelenggara OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Saya suka membina alat pembangun sumber terbuka bertenaga AI yang boleh berkembang secara global mengubah konsep peringkat awal kepada penyelesaian siap produksi dengan impak sebenar.
-
-### 🌐 Sokongan Pelbagai Bahasa
-
-#### Disokong oleh [Localizeflow](https://localizeflow.com/)
+Saya membina alat yang menghapuskan rintangan operasi daripada pembangun.
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](./README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](./README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Lebih suka Klon Secara Lokal?**
-
-> Repositori ini termasuk lebih dari 50 terjemahan bahasa yang secara signifikan meningkatkan saiz muat turun. Untuk klon tanpa terjemahan, gunakan pemeriksaan jarang (sparse checkout):
+> **Lebih suka Klon Secara Tempatan?**
+>
+> Repositori ini merangkumi lebih 50+ terjemahan bahasa yang secara signifikan meningkatkan saiz muat turun. Untuk klon tanpa terjemahan, gunakan sparse checkout:
+>
+> **Bash / macOS / Linux:**
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Ini memberikan anda semua yang anda perlukan untuk melengkapkan kursus dengan muat turun yang lebih pantas.
+>
+> **CMD (Windows):**
+> ```cmd
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
+> ```
+>
+> Ini memberikan anda segala yang diperlukan untuk menyelesaikan kursus dengan muat turun yang jauh lebih pantas.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+## Kenapa Saya Bekerja pada Lokalisasi
+
+Kebanyakan pasukan kecil mahu melayani pengguna global.  
+Tetapi mereka tidak melokalkan.
+
+Bukan kerana terjemahan mahal.  
+Bukan kerana AI lemah.
+
+Tetapi kerana lokalisasi menjadi projek operasi sebaik sahaja anda mula.
+
+- keputusan struktur i18n  
+- konfigurasi YAML  
+- saluran terjemahan  
+- aliran kerja pemeriksa  
+- beban penyelenggaraan
+
+Jadi mereka tangguhkan.  
+Atau langsung tidak mula.
+
+Saya membina Localizeflow untuk menghapuskan halangan itu.
 
 ---
 
-## Projek Utama
+## 🚀 Localizeflow
 
-### 🚀 Localizeflow (Projek Semasa)
-**Aliran kerja automatik terjemahan dokumentasi asli GitHub**  
-Tiada persediaan. Dihoskan. Penyegerakan automatik untuk projek pelbagai bahasa.  
+Lokalisasi dokumentasi asli GitHub.  
+Pasang sekali. Tiada YAML. Tiada kunci API. Tiada papan pemuka.
+
+- Mengesan perubahan sumber  
+- Menterjemah hanya apa yang berubah  
+- Membuka PR secara automatik  
+- Berjalan pada infrastruktur terurus
+
+Dibina untuk:  
+- Penyelenggara OSS  
+- Pembangun Indie  
+- Permulaan tahap awal
+
 → https://localizeflow.com
 
-- Mengesan perubahan dalam fail sumber anda secara automatik
-- Menterjemah hanya apa yang berubah
-- Membuka PR untuk setiap bahasa
-- Dibina atas Co-op Translator (Azure OSS)
+---
 
+## 🛠 Co-op Translator (Azure OSS)
 
-### **Co-op Translator (Microsoft Azure OSS)**
+Penyelenggara Azure/co-op-translator
 
-CLI Azure OSS rasmi yang mengautomasikan **terjemahan pelbagai bahasa** untuk kandungan Markdown + imej (OCR)  
-**Impak:** Menyokong terjemahan untuk repositori pendidikan Microsoft dengan lebih 200k★, memastikan kandungan sentiasa dikemas kini dalam 10+ bahasa.
+CLI yang mengautomasikan terjemahan Markdown + imej berbilang bahasa.
 
-- Berkembang dari PoC awal → CLI Python tahap produksi
-- Menggabungkan Azure OpenAI + Azure AI Vision untuk terjemahan + automasi OCR
-- Digunakan oleh repositori seperti:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Ditampilkan dalam pameran OSS **Open at Microsoft**
-- Menerima gelaran **Microsoft AI MVP 2025**
+Digunakan oleh:  
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+- dan repositori OSS Microsoft yang lain
 
 ---
 
@@ -82,12 +102,12 @@ CLI Azure OSS rasmi yang mengautomasikan **terjemahan pelbagai bahasa** untuk ka
   </a>
 </p>
 
-- [Open at Microsoft – Membuka Aksesibiliti Multibahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Rancang dan Bersedia untuk Membangunkan Penyelesaian AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Membuka Aksesibiliti Berbilang Bahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Merancang dan Mempersiapkan untuk Membangunkan Penyelesaian AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Teknologi Digunakan
+## Tumpuan Teknologi
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
