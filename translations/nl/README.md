@@ -1,77 +1,97 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d20dfd93913355addc3b496d889b1618",
-  "translation_date": "2026-01-12T15:03:57+00:00",
-  "source_file": "README.md",
-  "language_code": "nl"
-}
--->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hallo, ik ben Minseok Song!
+# Hallo, ik ben Minseok Song
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Maker van [Localizeflow](https://localizeflow.com)**
+**Oprichter van [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS Onderhouder van [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS Maintainer van [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Ik houd ervan om AI-gedreven, open-source ontwikkelaarstools te bouwen die wereldwijd opschalen door concepten in een vroeg stadium om te zetten in productieklare oplossingen met echte impact.
-
-### 🌐 Ondersteuning voor meerdere talen
-
-#### Ondersteund door [Localizeflow](https://localizeflow.com/)
+Ik maak tools die operationele frictie voor ontwikkelaars wegnemen.
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabisch](../ar/README.md) | [Bengaals](../bn/README.md) | [Bulgaars](../bg/README.md) | [Birmaans (Myanmar)](../my/README.md) | [Chinees (Vereenvoudigd)](../zh/README.md) | [Chinees (Traditioneel, Hong Kong)](../hk/README.md) | [Chinees (Traditioneel, Macau)](../mo/README.md) | [Chinees (Traditioneel, Taiwan)](../tw/README.md) | [Kroatisch](../hr/README.md) | [Tsjechisch](../cs/README.md) | [Deens](../da/README.md) | [Nederlands](./README.md) | [Ests](../et/README.md) | [Fins](../fi/README.md) | [Frans](../fr/README.md) | [Duits](../de/README.md) | [Grieks](../el/README.md) | [Hebreeuws](../he/README.md) | [Hindi](../hi/README.md) | [Hongaars](../hu/README.md) | [Indonesisch](../id/README.md) | [Italiaans](../it/README.md) | [Japans](../ja/README.md) | [Kannada](../kn/README.md) | [Koreaans](../ko/README.md) | [Litouws](../lt/README.md) | [Maleis](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalees](../ne/README.md) | [Nigeriaans Pidgin](../pcm/README.md) | [Noors](../no/README.md) | [Perzisch (Farsi)](../fa/README.md) | [Pools](../pl/README.md) | [Portugees (Brazilië)](../br/README.md) | [Portugees (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Roemeens](../ro/README.md) | [Russisch](../ru/README.md) | [Servisch (Cyrillisch)](../sr/README.md) | [Slowaaks](../sk/README.md) | [Sloveens](../sl/README.md) | [Spaans](../es/README.md) | [Swahili](../sw/README.md) | [Zweeds](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thais](../th/README.md) | [Turks](../tr/README.md) | [Oekraïens](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamees](../vi/README.md)
+[Arabisch](../ar/README.md) | [Bengaals](../bn/README.md) | [Bulgaars](../bg/README.md) | [Birmaans (Myanmar)](../my/README.md) | [Chinees (Vereenvoudigd)](../zh-CN/README.md) | [Chinees (Traditioneel, Hong Kong)](../zh-HK/README.md) | [Chinees (Traditioneel, Macau)](../zh-MO/README.md) | [Chinees (Traditioneel, Taiwan)](../zh-TW/README.md) | [Kroatisch](../hr/README.md) | [Tsjechisch](../cs/README.md) | [Deens](../da/README.md) | [Nederlands](./README.md) | [Ests](../et/README.md) | [Fins](../fi/README.md) | [Frans](../fr/README.md) | [Duits](../de/README.md) | [Grieks](../el/README.md) | [Hebreeuws](../he/README.md) | [Hindi](../hi/README.md) | [Hongaars](../hu/README.md) | [Indonesisch](../id/README.md) | [Italiaans](../it/README.md) | [Japans](../ja/README.md) | [Kannada](../kn/README.md) | [Koreaans](../ko/README.md) | [Litouws](../lt/README.md) | [Maleis](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalees](../ne/README.md) | [Nigeriaans Pidgin](../pcm/README.md) | [Noors](../no/README.md) | [Perzisch (Farsi)](../fa/README.md) | [Pools](../pl/README.md) | [Portugees (Brazilië)](../pt-BR/README.md) | [Portugees (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Roemeens](../ro/README.md) | [Russisch](../ru/README.md) | [Servisch (Cyrillisch)](../sr/README.md) | [Slowaaks](../sk/README.md) | [Sloveens](../sl/README.md) | [Spaans](../es/README.md) | [Swahili](../sw/README.md) | [Zweeds](../sv/README.md) | [Tagalog (Filipijns)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thais](../th/README.md) | [Turks](../tr/README.md) | [Oekraïens](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamees](../vi/README.md)
 
-> **Liever lokaal clonen?**
-
-> Deze repository bevat vertalingen in meer dan 50 talen, waardoor de downloadgrootte aanzienlijk toeneemt. Om te clonen zonder vertalingen, gebruik sparse checkout:
+> **Liever lokaal klonen?**
+>
+> Deze repository bevat meer dan 50 taalvertalingen, wat de downloadgrootte aanzienlijk vergroot. Om te klonen zonder vertalingen, gebruik sparse checkout:
+>
+> **Bash / macOS / Linux:**
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
+>
+> **CMD (Windows):**
+> ```cmd
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
+> ```
+>
 > Dit geeft je alles wat je nodig hebt om de cursus te voltooien met een veel snellere download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
+## Waarom ik werk aan lokalisatie
+
+De meeste kleine teams willen wereldwijde gebruikers bedienen.
+Maar ze lokaliseren niet.
+
+Niet omdat vertaling duur is.
+Niet omdat AI zwak is.
+
+Maar omdat lokalisatie een operationeel project wordt op het moment dat je begint.
+
+- i18n structuur beslissingen
+- YAML configuraties
+- Vertaalpijplijnen
+- Review workflows
+- Onderhoudsoverhead
+
+Dus stellen ze het uit.
+Of beginnen ze nooit.
+
+Ik bouw Localizeflow om die barrière weg te nemen.
+
 ---
 
-## Belangrijk project
+## 🚀 Localizeflow
 
-### 🚀 Localizeflow (Huidig project)
-**GitHub-native geautomatiseerde workflow voor documentatievertalingen**  
-Zero setup. Gehost. Automatisch synchroniseren voor meertalige projecten.  
+GitHub-native documentatielokalisatie.
+Eén keer installeren. Geen YAML. Geen API-sleutels. Geen dashboards.
+
+- Detecteert bronwijzigingen
+- Vertaal alleen wat veranderd is
+- Opent automatisch PR’s
+- Draait op beheerde infrastructuur
+
+Gemaakt voor:
+- OSS maintainers
+- Indie developers
+- Start-ups in een vroeg stadium
+
 → https://localizeflow.com
 
-- Detecteert automatisch wijzigingen in je bronbestanden
-- Vertaalt alleen wat veranderd is
-- Opent PR's voor elke taal
-- Gebouwd bovenop Co-op Translator (Azure OSS)
+---
 
+## 🛠 Co-op Translator (Azure OSS)
 
-### **Co-op Translator (Microsoft Azure OSS)**
+Maintainer van Azure/co-op-translator
 
-Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor Markdown + afbeeldingsinhoud (OCR)  
-**Impact:** Maakt vertalingen mogelijk voor Microsoft educatieve repositories met in totaal 200k★+, waarmee altijd bijgewerkte inhoud in 10+ talen wordt gegarandeerd.
+Een CLI die meertalige Markdown + afbeeldingvertaling automatiseert.
 
-- Geschaald van vroege PoC → productieklare Python CLI
-- Geïntegreerde Azure OpenAI + Azure AI Vision voor vertaling + OCR automatisering
-- Gebruikt door repositories zoals:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Uitgelicht in **Open at Microsoft** OSS showcase
-- Bekroond met **Microsoft AI MVP 2025**
+Gebruikt door:
+- Generative AI for Beginners
+- ML for Beginners
+- AI for Beginners
+- en andere Microsoft OSS repositories
 
 ---
 
-## Presentaties & Media
+## Talks & Media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -82,8 +102,8 @@ Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor M
   </a>
 </p>
 
-- [Open at Microsoft – Meertalige Toegankelijkheid Ontgrendelen met Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plannen en Voorbereiden om AI-oplossingen op Azure te Ontwikkelen](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open bij Microsoft – Meertalige toegankelijkheid ontgrendelen met Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plan en Bereid Voor op het Ontwikkelen van AI-oplossingen op Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -109,7 +129,7 @@ Een officiële Azure OSS CLI die **meertalige vertalingen** automatiseert voor M
 </details>
 ---
 
-## 📫 Connect met mij
+## 📫 Neem contact met mij op
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
