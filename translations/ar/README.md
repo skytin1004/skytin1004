@@ -1,77 +1,97 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d20dfd93913355addc3b496d889b1618",
-  "translation_date": "2026-01-12T14:47:19+00:00",
-  "source_file": "README.md",
-  "language_code": "ar"
-}
--->
-![شريط الرأس](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# مرحبًا، أنا مينسوك سونج!
+# مرحباً، أنا منسوك سونج
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**مُبدع [Localizeflow](https://localizeflow.com)**
+**مؤسس [Localizeflow](https://localizeflow.com)**
 
-**خبير مايكروسوفت AI MVP • صاحب وصيانة OSS لـ [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**مايكروسوفت AI MVP • مسؤول صيانة OSS لـ [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-أحب بناء أدوات تطوير مفتوحة المصدر مدعومة بالذكاء الاصطناعي وقابلة للتوسع عالمياً لتحويل المفاهيم في مراحلها المبكرة إلى حلول جاهزة للإنتاج لها تأثير حقيقي.
-
-### 🌐 دعم متعدد اللغات
-
-#### مدعوم بواسطة [Localizeflow](https://localizeflow.com/)
+أبني أدوات تزيل الاحتكاك التشغيلي عن المطورين.
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](./README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](./README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **تفضل الاستنساخ محليًا؟**
-
-> يحتوي هذا المستودع على ترجمات لأكثر من 50 لغة مما يزيد من حجم التنزيل بشكل كبير. للاستنساخ بدون الترجمات، استخدم sparse checkout:
+> **هل تفضل الاستنساخ محليًا؟**
+>
+> هذا المستودع يشمل أكثر من 50 ترجمة للغات مما يزيد بشكل كبير من حجم التنزيل. للاستنساخ بدون الترجمات، استخدم sparse checkout:
+>
+> **باش / ماك / لينكس:**
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> هذا يمنحك كل ما تحتاجه لإكمال الدورة بتنزيل أسرع بكثير.
+>
+> **CMD (ويندوز):**
+> ```cmd
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
+> ```
+>
+> هذا يمنحك كل ما تحتاجه لإكمال الدورة بسرعة تنزيل أكبر.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
+## لماذا أعمل على التوطين
+
+معظم الفرق الصغيرة ترغب في خدمة المستخدمين عالميًا.
+لكنهم لا يقومون بالتوطين.
+
+ليس لأن الترجمة مكلفة.
+ولا لأن الذكاء الاصطناعي ضعيف.
+
+لكن لأن التوطين يصبح مشروعًا تشغيليًا منذ اللحظة التي تبدأها.
+
+- قرارات هيكل i18n
+- إعدادات YAML
+- مسارات الترجمة
+- سير مراجعة العمل
+- عبء الصيانة
+
+لذا يؤجلونه.
+أو لا يبدأون أبدًا.
+
+أنا أبني Localizeflow لإزالة هذا الحاجز.
+
 ---
 
-## المشروع الرئيسي
+## 🚀 Localizeflow
 
-### 🚀 Localizeflow (المشروع الحالي)
-**سير عمل الترجمة التلقائية للمستندات الأصلي على GitHub**  
-بدون إعداد. مستضاف. مزامنة تلقائية للمشاريع متعددة اللغات.  
+توطين الوثائق خاص بـ GitHub.
+ثبت مرة واحدة. لا YAML. لا مفاتيح API. لا لوحات تحكم.
+
+- يكتشف تغييرات المصدر
+- يترجم فقط ما تم تغييره
+- يفتح PRs تلقائيًا
+- يعمل على بنية تحتية مُدارة
+
+مصمم لـ:
+- مسؤولي صيانة OSS
+- المطورين المستقلين
+- الشركات الناشئة في مراحلها الأولى
+
 → https://localizeflow.com
 
-- يكتشف التغييرات في ملفات المصدر تلقائيًا
-- يترجم فقط ما تغير
-- يفتح طلبات سحب (PR) لكل لغة
-- مبني على Co-op Translator (Azure OSS)
+---
 
+## 🛠 Co-op Translator (Azure OSS)
 
-### **Co-op Translator (Microsoft Azure OSS)**
+مسؤول صيانة Azure/co-op-translator
 
-واجهة CLI رسمية لـ Azure OSS تقوم بأتمتة **الترجمات متعددة اللغات** لمحتوى Markdown + الصور (OCR)  
-**التأثير:** يدعم الترجمات في مستودعات Microsoft التعليمية التي تتجاوز 200 ألف نجمة★، لضمان محتوى مُحدث دائمًا بأكثر من 10 لغات.
+أداة CLI لأتمتة الترجمة متعددة اللغات لملفات Markdown + الصور.
 
-- تطور من إثبات مفهوم مبكر → أداة CLI بإنتاجية عالية مكتوبة بلغة Python
-- دمج Azure OpenAI + Azure AI Vision للترجمة + أتمتة OCR
-- مستخدم في مستودعات مثل:
-  - [الذكاء الاصطناعي التوليدي للمبتدئين](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [التعلم الآلي للمبتدئين](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [الذكاء الاصطناعي للمبتدئين](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [وكلاء الذكاء الاصطناعي للمبتدئين](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- مميز في معرض OSS الخاص بـ **Open at Microsoft**
-- حاز على لقب **Microsoft AI MVP لعام 2025**
+يُستخدم في:
+- الذكاء الاصطناعي التوليدي للمبتدئين
+- تعلم الآلة للمبتدئين
+- الذكاء الاصطناعي للمبتدئين
+- ومستودعات أخرى في Microsoft OSS
 
 ---
 
-## المحادثات والوسائط
+## المحاضرات والإعلام
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -82,12 +102,12 @@ CO_OP_TRANSLATOR_METADATA:
   </a>
 </p>
 
-- [Open at Microsoft – فتح إمكانية الوصول متعدد اللغات باستخدام Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – فتح إمكانية الوصول متعددة اللغات باستخدام Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – التخطيط والتحضير لتطوير حلول الذكاء الاصطناعي على Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## تكديس التقنيات
+## المكدس التقني
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -104,14 +124,14 @@ CO_OP_TRANSLATOR_METADATA:
 <details>
 <summary>عرض إحصائيات GitHub</summary>
 
-[![الإحصائيات](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![أهم اللغات](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
 ## 📫 تواصل معي
-[![لينكدإن](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
-[![تويتر](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
-[![الملف الشخصي](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
-[![مجتمع التقنية](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
-[![البريد الإلكتروني](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
+[![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
+[![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
