@@ -1,72 +1,93 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d20dfd93913355addc3b496d889b1618",
-  "translation_date": "2026-01-12T15:09:04+00:00",
-  "source_file": "README.md",
-  "language_code": "cs"
-}
--->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Ahoj, jsem Minseok Song!
+# Ahoj, jsem Minseok Song
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**Tvůrce [Localizeflow](https://localizeflow.com)**
+**Zakladatel [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS správce [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Správce OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Rád vytvářím vývojářské nástroje s podporou AI, které jsou otevřené a škálují globálně, přetvářejí počáteční koncepty do produktů připravených pro reálné nasazení.
-
-### 🌐 Podpora více jazyků
-
-#### Podporováno [Localizeflow](https://localizeflow.com/)
+Vytvářím nástroje, které odstraňují provozní tření u vývojářů.
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](./README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](./README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
 > **Raději klonovat lokálně?**
-
-> Toto úložiště obsahuje více než 50 jazykových překladů, což výrazně zvyšuje velikost stažení. Pro klonování bez překladů použijte sparse checkout:
+>
+> Tento repozitář obsahuje více než 50 jazykových překladů, které výrazně zvětšují velikost stažení. Pro klonování bez překladů použijte sparse checkout:
+>
+> **Bash / macOS / Linux:**
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Tím získáte vše potřebné pro dokončení kurzu s mnohem rychlejším stažením.
+>
+> **CMD (Windows):**
+> ```cmd
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
+> ```
+>
+> To vám poskytne vše potřebné k dokončení kurzu s mnohem rychlejším stažením.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+## Proč pracuji na lokalizaci
+
+Většina malých týmů chce sloužit globálním uživatelům.  
+Ale nelokalizují.
+
+Ne proto, že by překlad byl drahý.  
+Ne proto, že by AI bylo slabé.
+
+Ale protože lokalizace se okamžitě stává provozním projektem, jakmile začnete.
+
+- rozhodnutí o struktuře i18n  
+- YAML konfigurace  
+- překladové pipeline  
+- pracovní postupy recenzentů  
+- režie údržby  
+
+Takže to odkládají.  
+Nebo nikdy nezačnou.
+
+Stavím Localizeflow, abych tuto překážku odstranil.
 
 ---
 
-## Klíčový projekt
+## 🚀 Localizeflow
 
-### 🚀 Localizeflow (aktuální projekt)  
-**Nativní GitHub workflow pro automatický překlad dokumentace**  
-Žádné nastavování. Hostováno. Automatická synchronizace pro vícejazyčné projekty.  
+Nativní lokalizace dokumentace pro GitHub.  
+Nainstalujte jednou. Žádné YAML. Žádné API klíče. Žádné panely.
+
+- Detekuje změny zdroje  
+- Překládá pouze to, co se změnilo  
+- Automaticky otevírá PR  
+- Funguje na spravované infrastruktuře  
+
+Vytvořeno pro:  
+- správců OSS  
+- nezávislé vývojáře  
+- začínající startupy  
+
 → https://localizeflow.com
 
-- Automaticky detekuje změny ve vašich zdrojových souborech  
-- Překládá jen to, co se změnilo  
-- Otevírá PR pro každý jazyk  
-- Postaveno na Co-op Translator (Azure OSS)
+---
 
-### **Co-op Translator (Microsoft Azure OSS)**
+## 🛠 Co-op Translator (Azure OSS)
 
-Oficiální Azure OSS CLI, které automatizuje **vícejazyčné překlady** Markdown + obrázkového obsahu (OCR)  
-**Dopad:** Pohání překlady pro microsoftní vzdělávací repozitáře s celkem více než 200 000 hvězdiček, zajišťuje stále aktuální obsah ve více než 10 jazycích.
+Správce Azure/co-op-translator
 
-- Vyvinuto od počátečního PoC až po produkční Python CLI  
-- Integrované Azure OpenAI + Azure AI Vision pro automatizaci překladu a OCR  
-- Používáno v repozitářích jako:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)  
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)  
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)  
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)  
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)  
-- Představeno v OSS showcase **Open at Microsoft**  
-- Držitel ocenění **Microsoft AI MVP 2025**
+CLI, které automatizuje vícejazyčný překlad Markdown + obrázků.
+
+Používáno v:  
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+- a dalších Microsoft OSS repozitářích  
 
 ---
 
@@ -82,7 +103,7 @@ Oficiální Azure OSS CLI, které automatizuje **vícejazyčné překlady** Mark
 </p>
 
 - [Open at Microsoft – Odemknutí vícejazyčné přístupnosti s Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plánování a příprava pro vývoj AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Plánujte a připravujte se na vývoj AI řešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
