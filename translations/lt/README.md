@@ -1,73 +1,93 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d20dfd93913355addc3b496d889b1618",
-  "translation_date": "2026-01-12T15:15:07+00:00",
-  "source_file": "README.md",
-  "language_code": "lt"
-}
--->
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Sveiki, aš esu Minseok Song!
+# Sveiki, aš esu Minseok Song
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
-**[Localizeflow](https://localizeflow.com) kūrėjas**
+**[Localizeflow](https://localizeflow.com) įkūrėjas**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) atvirojo kodo projektų tvarkytojas**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS prižiūrėtojas**
 
-Man patinka kurti dirbtinio intelekto palaikomas, atviro kodo kūrėjų įrankius, kurie veikia globaliai, paverčiant ankstyvos stadijos koncepcijas į gamybai paruoštus sprendimus su realiu poveikiu.
-
-### 🌐 Daugiakalbė palaikymas
-
-#### Pateikiama per [Localizeflow](https://localizeflow.com/)
+Aš kuriu įrankius, kurie pašalina operacines kliūtis programuotojams.
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](./README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](./README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Norite klonuoti vietoje?**
-
-> Šiame saugykloje yra virš 50 kalbų vertimų, dėl kurių reikšmingai padidėja atsisiuntimo dydis. Norėdami klonuoti be vertimų, naudokite sparse checkout:
+> **Mėgstate klonuoti vietoje?**
+>
+> Šiame saugykloje yra daugiau nei 50 kalbų vertimų, kurie žymiai padidina atsisiuntimo dydį. Jei norite klonuoti be vertimų, naudokite sparčiąją pasirinktinę atsisiuntimą:
+>
+> **Bash / macOS / Linux:**
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Tai suteikia viską, ko reikia kursui baigti su daug greitesniu atsisiuntimu.
+>
+> **CMD (Windows):**
+> ```cmd
+> git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
+> cd skytin1004
+> git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
+> ```
+>
+> Tai suteikia jums viską, ko reikia kursui baigti, kur kas greičiau atsisiunčiant.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+## Kodėl aš dirbu su lokalizacija
+
+Dauguma mažų komandų nori aptarnauti pasaulio vartotojus.  
+Bet jos nelokalizuoja.
+
+Ne todėl, kad vertimas būtų brangus.  
+Ne todėl, kad AI būtų silpnas.
+
+Bet todėl, kad lokalizacija tampa operaciniu projektu nuo pat pradžios.
+
+- i18n struktūros sprendimai  
+- YAML konfigūracijos  
+- Vertimų srautai  
+- Peržiūrėtojų darbų eiga  
+- Priežiūros išlaidos  
+
+Todėl jų įgyvendinimą atideda.  
+Arba visai nepradeda.
+
+Aš kuriu Localizeflow, kad panaikinti šią kliūtį.
 
 ---
 
-## Pagrindinis projektas
+## 🚀 Localizeflow
 
-### 🚀 Localizeflow (Esamas projektas)
-**GitHub gimtoji automatizuota dokumentacijos vertimo darbo eiga**  
-Nulinė sąranka. Talpinamas. Automatinis sinchronizavimas daugiakalbiams projektams.  
+GitHub natūralus dokumentacijos lokalizavimas.  
+Įdiekite vieną kartą. Nėra YAML. Nėra API raktų. Nėra valdymo skydelių.
+
+- Aptinka šaltinio pakeitimus  
+- Išverčia tik pakeistą turinį  
+- Automatiškai atidaro PR  
+- Veikia valdomoje infrastruktūroje  
+
+Skirta:  
+- OSS prižiūrėtojams  
+- Nepriklausomiems kūrėjams  
+- Ankstyvos stadijos startuoliams  
+
 → https://localizeflow.com
 
-- Automatiškai aptinka pakeitimus jūsų šaltinio failuose
-- Verčia tik pakeistus dalykus
-- Atidaro PR kiekvienai kalbai
-- Sukurtas ant Co-op Translator (Azure OSS) pagrindo
+---
 
+## 🛠 Co-op Translator (Azure OSS)
 
-### **Co-op Translator (Microsoft Azure OSS)**
+[Azure/co-op-translator] prižiūrėtojas
 
-Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbių** Markdown + vaizdų turinio (OCR) vertimus  
-**Poveikis:** Maitina vertimus Microsoft edukacinių saugyklų su daugiau nei 200k★, užtikrindamas visada atnaujintą turinį daugiau nei 10 kalbų.
+CLI, kuris automatizuoja daugiakalbį Markdown + vaizdų vertimą.
 
-- Išaugęs iš ankstyvo PoC į gamybos lygio Python CLI
-- Integruotas Azure OpenAI + Azure AI Vision vertimui ir OCR automatizavimui
-- Naudojamas tokiose saugyklose kaip:
-  - [Generative AI for Beginners](https://github.com/microsoft/Generative-AI-for-beginners) (84k★)
-  - [ML for Beginners](https://github.com/microsoft/ML-for-Beginners) (72k★)
-  - [AI for Beginners](https://github.com/microsoft/AI-for-Beginners) (37k★)
-  - [AI Agents for Beginners](https://github.com/microsoft/AI-Agents-for-Beginners) (17k★)
-  - [PhiCookbook](https://github.com/microsoft/PhiCookbook) (3k★)
-- Pateiktas **Open at Microsoft** atvirojo kodo projekto demonstracijoje
-- Pelnęs **Microsoft AI MVP 2025**
+Naudoja:  
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+- ir kiti Microsoft OSS projektai
 
 ---
 
@@ -82,8 +102,8 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbių** Markdown + vaizd�
   </a>
 </p>
 
-- [Open at Microsoft – Daugiakalbės prieigos atblokavimas su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planuokite ir pasiruoškite kurti DI sprendimus Azure platformoje](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Atidengiant daugiakalbį prieinamumą su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planuokite ir pasiruoškite kurti AI sprendimus Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -100,9 +120,9 @@ Oficialus Azure OSS CLI, kuris automatizuoja **daugiakalbių** Markdown + vaizd�
 
 ---
 
-## Statistikos ir veikla
+## Statistikos ir Veikla
 <details>
-<summary>Žiūrėti GitHub statistiką</summary>
+<summary>Peržiūrėti GitHub statistiką</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
