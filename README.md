@@ -80,7 +80,6 @@ I’m building infrastructure that removes that burden.
 > This gives you everything you need to complete the course with a much faster download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-
 ## Talks & Media
 
 <p align="left">
