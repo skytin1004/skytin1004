@@ -1,22 +1,67 @@
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# Hi, Na Me be Minseok Song
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+# Hi, Na Minseok Song Be Dat
 
 **Founder of [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-I dey build tools wey dey remove wahala for developers when dem dey work.
+Localization suppose be infrastructure, no be project.
+
+I dey build GitHub-native multilingual automation infrastructure.
+
+## 🚀 Localizeflow
+
+GitHub-native documentation localization.
+
+I dey extend the ideas wey dem explore for Co-op Translator to full managed GitHub App.
+
+No YAML.  
+No API keys.  
+No workflow maintenance.
+
+- E dey detect source changes  
+- E dey translate only wetin change  
+- E dey open pull requests automatically  
+- E dey run for managed infrastructure  
+
+Built for:
+- OSS maintainers  
+- Indie developers  
+- Early-stage startups  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Maintainer of: https://github.com/Azure/co-op-translator
+
+Na open-source CLI for multilingual Markdown + image translation.
+
+E dey used for Microsoft learning repositories like:
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+E dey automate multilingual PR workflows straight from GitHub.
+
+---
+
+## Why I Dey Work on Localization
+
+Localization no dey fail because AI weak,
+na because e turn operational wahala.
+
+I dey build infrastructure wey go comot dat gbege.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](./README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **You Dey Prefer Make You Clone E For Your PC?**
+> **You Dey Prefer To Clone Am Locally?**
 >
-> Dis repository get more than 50 language translations wey go make download size big well-well. If you want clone e without all di translations, use sparse checkout:
+> This repository get 50+ language translations wey dey increase di download size well-well. If you wan clone without translations, use sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,64 +77,8 @@ I dey build tools wey dey remove wahala for developers when dem dey work.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Dis one go give you everything wey you need to finish di course quick-quick.
+> Dis one go give you everything wey you need to complete the course with faster download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## Why I Dey Work for Localization
-
-Most small teams wan serve global users.
-But dem no dey do localization.
-
-No be because translation costly.
-No be because AI no strong.
-
-Na because localization go turn to big work the moment you start.
-
-- i18n structure decisions
-- YAML configs
-- Translation pipelines
-- Reviewer workflows
-- Maintenance workload
-
-So dem dey delay am.
-Or dem no dey start at all.
-
-I dey build Localizeflow to remove dis kind wahala.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-native documentation localization.
-Install once. No YAML. No API keys. No dashboards.
-
-- Dem dey detect source changes
-- Dem dey translate only wetin change
-- Dem dey open PRs automatically
-- Dem dey run for managed infrastructure
-
-E fit work for:
-- OSS maintainers
-- Indie developers
-- Early-stage startups
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Maintainer of Azure/co-op-translator
-
-Na CLI wey dey automate multilingual Markdown + image translation.
-
-Dem dey use am for:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- and other Microsoft OSS repos
-
----
 
 ## Talks & Media
 
