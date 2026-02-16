@@ -2,21 +2,66 @@
 
 # Ahoj, som Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Zakladateľ [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS správca [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Maintainer OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Vytváram nástroje, ktoré odstraňujú operačné prekážky pre vývojárov.
+Lokalizácia by mala byť infraštruktúra, nie projekt.
+
+Staviam natívnu viacjazyčnú automatizačnú infraštruktúru pre GitHub.
+
+## 🚀 Localizeflow
+
+Natívna lokalizácia dokumentácie pre GitHub.
+
+Rozširujem myšlienky preskúmané v Co-op Translator do plne spravovanej GitHub App.
+
+Žiadny YAML.  
+Žiadne API kľúče.  
+Žiadna údržba workflow.
+
+- Detekuje zmeny zdrojového kódu  
+- Prekladá iba to, čo sa zmenilo  
+- Automaticky otvára pull requesty  
+- Beží na spravovanej infraštruktúre  
+
+Vytvorené pre:
+- Maintainerov OSS  
+- Indie vývojárov  
+- Startupy v ranom štádiu  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Maintainer: https://github.com/Azure/co-op-translator
+
+Open-source CLI na preklad viacjazyčného Markdown + obrázkov.
+
+Používa sa v Microsoft learning repozitároch vrátane:
+- Generatívna AI pre začiatočníkov  
+- ML pre začiatočníkov  
+- AI pre začiatočníkov  
+
+Automatizuje viacjazyčné PR workflow priamo z GitHubu.
+
+---
+
+## Prečo pracujem na lokalizácii
+
+Lokalizácia zlyháva nie preto, že by AI bola slabá,  
+ale preto, že sa stáva prevádzkovou záťažou.
+
+Staviam infraštruktúru, ktorá túto záťaž odstraňuje.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](./README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabčina](../ar/README.md) | [Bengálčina](../bn/README.md) | [Bulharčina](../bg/README.md) | [Barmský (Myanmar)](../my/README.md) | [Čínština (zjednodušená)](../zh-CN/README.md) | [Čínština (tradičná, Hongkong)](../zh-HK/README.md) | [Čínština (tradičná, Macau)](../zh-MO/README.md) | [Čínština (tradičná, Taiwan)](../zh-TW/README.md) | [Chorvátčina](../hr/README.md) | [Čeština](../cs/README.md) | [Dánčina](../da/README.md) | [Holandčina](../nl/README.md) | [Estónčina](../et/README.md) | [Fínčina](../fi/README.md) | [Francúzština](../fr/README.md) | [Nemčina](../de/README.md) | [Gréčtina](../el/README.md) | [Hebrejčina](../he/README.md) | [Hindčina](../hi/README.md) | [Maďarčina](../hu/README.md) | [Indonézština](../id/README.md) | [Taliančina](../it/README.md) | [Japončina](../ja/README.md) | [Kannadčina](../kn/README.md) | [Kórejčina](../ko/README.md) | [Litovčina](../lt/README.md) | [Malajčina](../ms/README.md) | [Malayalam](../ml/README.md) | [Maráthčina](../mr/README.md) | [Nepálčina](../ne/README.md) | [Nigerijská pidžinčina](../pcm/README.md) | [Nórčina](../no/README.md) | [Perzština (Farsi)](../fa/README.md) | [Poľština](../pl/README.md) | [Portugalsky (Brazília)](../pt-BR/README.md) | [Portugalsky (Portugalsko)](../pt-PT/README.md) | [Pandžábčina (Gurmukhí)](../pa/README.md) | [Rumunčina](../ro/README.md) | [Ruština](../ru/README.md) | [Srbčina (azbuka)](../sr/README.md) | [Slovenčina](./README.md) | [Slovinčina](../sl/README.md) | [Španielčina](../es/README.md) | [Svahilčina](../sw/README.md) | [Švédčina](../sv/README.md) | [Tagalog (Filipínčina)](../tl/README.md) | [Tamilčina](../ta/README.md) | [Telugčina](../te/README.md) | [Thajčina](../th/README.md) | [Turečtina](../tr/README.md) | [Ukrajinčina](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamčina](../vi/README.md)
 
-> **Preferujete klonovanie lokálne?**
+> **Radšej klonovať lokálne?**
 >
-> Tento repozitár obsahuje viac ako 50 jazykových prekladov, čo výrazne zvyšuje veľkosť sťahovania. Ak chcete klonovať bez prekladov, použite sparse checkout:
+> Tento repozitár obsahuje viac ako 50 jazykových prekladov, čo výrazne zväčšuje veľkosť sťahovania. Ak chcete klonovať bez prekladov, použite sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,66 +77,10 @@ Vytváram nástroje, ktoré odstraňujú operačné prekážky pre vývojárov.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Toto vám poskytne všetko, čo potrebujete na dokončenie kurzu s oveľa rýchlejším sťahovaním.
+> Takto získate všetko potrebné na dokončenie kurzu s oveľa rýchlejším stiahnutím.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Prečo pracujem na lokalizácii
-
-Väčšina malých tímov chce obsluhovať globálnych používateľov.
-Ale nelokalizujú.
-
-Nie preto, že by preklad bol drahý.
-Nie preto, že by AI bola slabá.
-
-Ale pretože lokalizácia sa okamžite stáva operačným projektom, keď začnete.
-
-- rozhodnutia o štruktúre i18n
-- YAML konfigurácie
-- prekladové pipeline
-- pracovné postupy recenzentov
-- údržbové náklady
-
-Takže to odkladajú.
-Alebo nikdy nezačnú.
-
-Ja budujem Localizeflow, aby som odstránil túto prekážku.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-native lokalizácia dokumentácie.
-Nainštalujte raz. Žiadne YAML. Žiadne API kľúče. Žiadne dashboardy.
-
-- Detekuje zmeny zdrojov
-- Prekladá iba to, čo sa zmenilo
-- Automaticky otvára PR
-- Beží na spravovanej infraštruktúre
-
-Vyvinuté pre:
-- OSS správcov
-- Indie vývojárov
-- startupy v ranom štádiu
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Správca Azure/co-op-translator
-
-CLI, ktoré automatizuje viacjazyčnú Markdown + preklad obrázkov.
-
-Používaný pre:
-- Generatívnu AI pre začiatočníkov
-- ML pre začiatočníkov
-- AI pre začiatočníkov
-- a ďalšie Microsoft OSS repozitáre
-
----
-
-## Prednášky & Médiá
+## Prednášky a médiá
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -102,12 +91,12 @@ Používaný pre:
   </a>
 </p>
 
-- [Open at Microsoft – Sprístupnenie viacjazyčnej prístupnosti pomocou Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Odomykanie viacjazyčnej dostupnosti s Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Plánovanie a príprava na vývoj AI riešení na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Technologický stack
+## Technológie
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -120,7 +109,7 @@ Používaný pre:
 
 ---
 
-## Štatistiky & Aktivita
+## Štatistiky a aktivita
 <details>
 <summary>Zobraziť GitHub štatistiky</summary>
 
