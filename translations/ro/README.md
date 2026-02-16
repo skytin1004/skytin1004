@@ -2,21 +2,66 @@
 
 # Bună, sunt Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Fondator al [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS Maintainer al [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Menținător OSS al [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Construiesc unelte care elimină fricțiunile operaționale pentru dezvoltatori.
+Localizarea ar trebui să fie infrastructură, nu un proiect.
+
+Construiesc infrastructură de automatizare multilingvă nativă GitHub.
+
+## 🚀 Localizeflow
+
+Localizarea documentației nativă GitHub.
+
+Extinderea ideilor explorate în Co-op Translator într-o aplicație GitHub complet gestionată.
+
+Fără YAML.  
+Fără chei API.  
+Fără întreținerea workflow-urilor.
+
+- Detectează modificările sursă  
+- Traduce doar ce s-a schimbat  
+- Deschide automat pull request-uri  
+- Rulează pe infrastructură gestionată  
+
+Creat pentru:
+- Menținători OSS  
+- Dezvoltatori indie  
+- Startup-uri în stadiu incipient  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Menținător al: https://github.com/Azure/co-op-translator
+
+Un CLI open-source pentru traducerea multilingvă Markdown + imagini.
+
+Folosit în depozitele Microsoft de învățare, inclusiv:
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+Automatizează fluxuri de lucru multilingve PR direct din GitHub.
+
+---
+
+## De ce lucrez la Localizare
+
+Localizarea eșuează nu pentru că AI este slabă,  
+ci pentru că devine o povară operațională.
+
+Construiesc infrastructura care elimină această povară.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](./README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
 > **Preferi să clonezi local?**
 >
-> Acest depozit include peste 50 de traduceri în limbi diferite, ceea ce crește semnificativ dimensiunea descărcării. Pentru a clona fără traduceri, folosește sparse checkout:
+> Acest depozit include peste 50 de traduceri în limbi diferite, ceea ce mărește semnificativ dimensiunea descărcării. Pentru a clona fără traduceri, folosește sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,64 +77,8 @@ Construiesc unelte care elimină fricțiunile operaționale pentru dezvoltatori.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Acest lucru îți oferă tot ce ai nevoie pentru a finaliza cursul cu o descărcare mult mai rapidă.
+> Astfel obții tot ce ai nevoie pentru a finaliza cursul cu o descărcare mult mai rapidă.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## De ce lucrez la localizare
-
-Majoritatea echipelor mici doresc să deservească utilizatori globali.
-Dar nu localizează.
-
-Nu pentru că traducerea ar fi scumpă.
-Nu pentru că AI este slab.
-
-Ci pentru că localizarea devine un proiect operațional din momentul în care începi.
-
-- decizii privind structura i18n
-- configurații YAML
-- fluxuri de traducere
-- fluxuri de lucru pentru recenzenți
-- costuri de mentenanță
-
-Așa că o amână.
-Sau nu o încep niciodată.
-
-Construiesc Localizeflow pentru a elimina această barieră.
-
----
-
-## 🚀 Localizeflow
-
-Localizarea documentației nativă GitHub.
-Instalezi o singură dată. Fără YAML. Fără chei API. Fără panouri de control.
-
-- Detectează modificările sursei
-- Traduce doar ce s-a schimbat
-- Deschide PR-uri automat
-- Rulează pe infrastructură administrată
-
-Conceput pentru:
-- administratori OSS
-- dezvoltatori indie
-- startup-uri în stadiu incipient
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Administrator al Azure/co-op-translator
-
-Un CLI care automatizează traducerea Markdown multilingv și a imaginilor.
-
-Folosit de:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- și alte depozite OSS Microsoft
-
----
 
 ## Prezentări & Media
 
@@ -103,7 +92,7 @@ Folosit de:
 </p>
 
 - [Open at Microsoft – Deblocarea accesibilității multilingve cu Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planifică și pregătește-te să dezvolți soluții AI pe Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Planifică și Pregătește Dezvoltarea Soluțiilor AI pe Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -122,14 +111,14 @@ Folosit de:
 
 ## Statistici & Activitate
 <details>
-<summary>Vizualizează Statistici GitHub</summary>
+<summary>Vezi Statistici GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 
-## 📫 Conectează-te cu mine
+## 📫 Contactează-mă
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

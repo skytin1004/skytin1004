@@ -2,21 +2,66 @@
 
 # Здраво, ја сам Минсеок Сонг
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Оснивач [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Одржавач OSS пројекта [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • ОСС одржавач [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Правим алате који уклањају оперативне препреке за програмере.
+Локализација треба да буде инфраструктура, а не пројекат.
+
+Правим мултијезичку аутоматизовану инфраструктуру у GitHub-у.
+
+## 🚀 Localizeflow
+
+GitHub-нативна локализација документације.
+
+Проширење идеја истражених у Co-op Translator-у у потпуно управљану GitHub апликацију.
+
+Без YAML-а.  
+Без API кључева.  
+Без одржавања радних токова.
+
+- Детектује промене у извору  
+- Преводи само оно што је променљено  
+- Аутоматски отвара pull request-ове  
+- Ради на управљаној инфраструктури  
+
+Намењено за:  
+- ОСС одржаваче  
+- Индие програмере  
+- Стартапове у раној фази  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Одржавач: https://github.com/Azure/co-op-translator
+
+Отворени CLI за мултијезички превод Markdown-а и слика.
+
+Користи се у Microsoft репозиторијумима за учење, укључујући:  
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+Аутоматизује мултијезичке PR радне токове директно из GitHub-а.
+
+---
+
+## Зашто радим на локализацији
+
+Локализација не успева јер је AI слаб,  
+већ зато што постаје оперативни терет.
+
+Правим инфраструктуру која уклања тај терет.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](./README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Више волите локално да клонирате?**
+> **Препоручујете да клонирате локално?**
 >
-> Ово складиште садржи превођења на преко 50 језика што значајно повећава величину преузимања. Да бисте клонирали без превода, користите sparse checkout:
+> Ово складиште садржи преко 50 превода што значајно повећава величину преузимања. Да бисте клонирали без превода, користите sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,64 +77,8 @@
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Ово вам даје све што вам треба за завршетак курса са знатно бржим преузимањем.
+> Ово вам даје све што вам је потребно за завршетак курса са знатно бржим преузимањем.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## Зашто радим на локализацији
-
-Већина малих тимова жели да служи глобалним корисницима.
-Али не раде локализацију.
-
-Не зато што је превод скуп.
-Нити зато што је AI слаб.
-
-Већ зато што локализација постаје оперативан пројекат оног тренутка када кренете.
-
-- одлуке о i18n структури
-- YAML конфигурације
-- Преводилачки токови
-- Радни токови рецензената
-- Трошкови одржавања
-
-Зато то одлажу.
-Или никада не крену.
-
-Правим Localizeflow да уклоним ту препреку.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-рођена локализација документације.
-Инсталирај једном. Без YAML. Без API кључева. Без контролних панела.
-
-- Детектује промене извора
-- Преводи само оно што је променљено
-- Аутоматски отвара PR-ове
-- Ради на управљаној инфраструктури
-
-Намeњен за:
-- одржаваче OSS
-- независне програмере
-- стартапове у раној фази
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Одржавач Azure/co-op-translator
-
-CLI који аутоматизује превод вишејезичног Markdown-а и слика.
-
-Користе га:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- и други Microsoft OSS репозиторијуми
-
----
 
 ## Предавања и медији
 
@@ -102,12 +91,12 @@ CLI који аутоматизује превод вишејезичног Mark
   </a>
 </p>
 
-- [Open at Microsoft – Откључавање вишејезичне приступачности са Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Планирајте и припремите развој AI решења на Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Откључавање мултијезичне приступачности са Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Планирање и припрема за развој AI решења на Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Технолошки скуп
+## Технички скуп алата
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
