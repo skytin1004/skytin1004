@@ -2,14 +2,59 @@
 
 # Cześć, jestem Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Założyciel [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • Opiekun OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Tworzę narzędzia, które eliminują operacyjne utrudnienia dla programistów.
+Lokalizacja powinna być infrastrukturą, a nie projektem.
+
+Buduję natywną dla GitHub wielojęzyczną infrastrukturę automatyzacji.
+
+## 🚀 Localizeflow
+
+Natywna dla GitHub lokalizacja dokumentacji.
+
+Rozwijanie idei z Co-op Translator w pełni zarządzaną aplikację GitHub.
+
+Bez YAML.  
+Bez kluczy API.  
+Bez utrzymania workflow.
+
+- Wykrywa zmiany źródłowe  
+- Tłumaczy tylko to, co się zmieniło  
+- Automatycznie otwiera pull requesty  
+- Działa na zarządzanej infrastrukturze  
+
+Stworzony dla:
+- Opiekunów OSS  
+- Niezależnych deweloperów  
+- Start-upów na wczesnym etapie  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Opiekun: https://github.com/Azure/co-op-translator
+
+Otwarty CLI do tłumaczenia wielojęzycznego Markdown i obrazów.
+
+Używany w repozytoriach edukacyjnych Microsoft, w tym:
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+Automatyzuje wielojęzyczne workflow PR bezpośrednio z GitHub.
+
+---
+
+## Dlaczego pracuję nad lokalizacją
+
+Lokalizacja zawodzi nie dlatego, że AI jest słabe,  
+lecz dlatego, że staje się obciążeniem operacyjnym.
+
+Buduję infrastrukturę, która usuwa ten ciężar.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](./README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
@@ -32,66 +77,10 @@ Tworzę narzędzia, które eliminują operacyjne utrudnienia dla programistów.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> To da Ci wszystko, czego potrzebujesz, aby ukończyć kurs przy znacznie szybszym pobieraniu.
+> Dzięki temu otrzymasz wszystko, co potrzebne do ukończenia kursu, z dużo szybszym pobieraniem.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Dlaczego pracuję nad lokalizacją
-
-Większość małych zespołów chce obsługiwać użytkowników globalnych.  
-Ale nie lokalizują.
-
-Nie dlatego, że tłumaczenie jest drogie.  
-Nie dlatego, że AI jest słabe.
-
-Ale dlatego, że lokalizacja staje się projektem operacyjnym w momencie rozpoczęcia.
-
-- decyzje dotyczące struktury i18n  
-- konfiguracje YAML  
-- pipeline tłumaczeń  
-- przepływy pracy recenzentów  
-- narzut na utrzymanie  
-
-Więc odkładają to.  
-Lub nigdy nie zaczynają.
-
-Buduję Localizeflow, aby usunąć tę barierę.
-
----
-
-## 🚀 Localizeflow
-
-Lokalizacja dokumentacji natywna dla GitHub.  
-Zainstaluj raz. Bez YAML. Bez kluczy API. Bez paneli.
-
-- Wykrywa zmiany w źródle  
-- Tłumaczy tylko to, co się zmieniło  
-- Automatycznie otwiera PR  
-- Działa na zarządzanej infrastrukturze  
-
-Stworzone dla:  
-- opiekunów OSS  
-- niezależnych programistów  
-- startupów we wczesnej fazie  
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Opiekun Azure/co-op-translator
-
-CLI automatyzujące tłumaczenie wielojęzycznego Markdown + obrazów.
-
-Używany przez:  
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
-- i inne repozytoria Microsoft OSS
-
----
-
-## Prezentacje i Media
+## Prezentacje i media
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -102,7 +91,7 @@ Używany przez:
   </a>
 </p>
 
-- [Open at Microsoft – Odblokowywanie wielojęzycznej dostępności z Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – Odblokowanie wielojęzycznej dostępności z Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Planowanie i przygotowanie do tworzenia rozwiązań AI na Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
@@ -120,7 +109,7 @@ Używany przez:
 
 ---
 
-## Statystyki i Aktywność
+## Statystyki i aktywność
 <details>
 <summary>Pokaż statystyki GitHub</summary>
 
