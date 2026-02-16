@@ -2,96 +2,85 @@
 
 # Hej, jeg er Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Grundlægger af [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • OSS Vedligeholder af [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Jeg bygger værktøjer, der fjerner operationel friktion for udviklere.
+Lokalisering skal være infrastruktur, ikke et projekt.
+
+Jeg bygger GitHub-native flersprogede automatiseringsinfrastrukturer.
+
+## 🚀 Localizeflow
+
+GitHub-native dokumentationslokalisering.
+
+Udvider de idéer, der blev udforsket i Co-op Translator til en fuldt administreret GitHub App.
+
+Ingen YAML.  
+Ingen API-nøgler.  
+Ingen workflow-vedligeholdelse.
+
+- Registrerer kildeændringer  
+- Oversætter kun det, der er ændret  
+- Åbner automatisk pull requests  
+- Kører på administreret infrastruktur  
+
+Bygget til:  
+- OSS vedligeholdere  
+- Indie-udviklere  
+- Early-stage startups  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Vedligeholder af: https://github.com/Azure/co-op-translator
+
+En open source CLI til flersproget Markdown + billedoversættelse.
+
+Bruges i Microsoft læringsarkiver, herunder:  
+- Generativ AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+Automatiserer flersprogede PR workflows direkte fra GitHub.
+
+---
+
+## Hvorfor jeg arbejder med lokalisering
+
+Lokalisering fejler ikke fordi AI er svag,  
+men fordi det bliver en operationel byrde.
+
+Jeg bygger infrastruktur, der fjerner den byrde.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](./README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Foretrækker du at klone lokalt?**
->
-> Dette repository inkluderer 50+ sprogoversættelser, hvilket øger downloadstørrelsen betydeligt. For at klone uden oversættelser, brug sparse checkout:
->
-> **Bash / macOS / Linux:**
+> **Foretrækker du at klone lokalt?**  
+>  
+> Dette repository indeholder 50+ sprogoversættelser, hvilket øger downloadstørrelsen betydeligt. For at klone uden oversættelser, brug sparse checkout:  
+>  
+> **Bash / macOS / Linux:**  
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
->
-> **CMD (Windows):**
+>  
+> **CMD (Windows):**  
 > ```cmd
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
->
-> Dette giver dig alt hvad du behøver for at gennemføre kurset med en meget hurtigere download.
+>  
+> Dette giver dig alt, hvad du behøver for at gennemføre kurset med en meget hurtigere download.  
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Hvorfor jeg arbejder med lokalisering
-
-De fleste små teams vil gerne betjene globale brugere.
-Men de lokaliserer ikke.
-
-Ikke fordi oversættelse er dyrt.
-Ikke fordi AI er svagt.
-
-Men fordi lokalisering bliver et operationelt projekt i det øjeblik, du starter.
-
-- beslutninger om i18n-struktur
-- YAML-konfigurationer
-- Oversættelses-pipelines
-- Gennemgangs-workflows
-- Vedligeholdelses-overhead
-
-Så de udskyder det.
-Eller starter aldrig.
-
-Jeg bygger Localizeflow for at fjerne den barriere.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-native dokumentationslokalisering.
-Installer én gang. Ingen YAML. Ingen API-nøgler. Ingen dashboards.
-
-- Registrerer kildeforandringer
-- Oversætter kun det, der er ændret
-- Åbner PR automatisk
-- Kører på administreret infrastruktur
-
-Bygget til:
-- OSS vedligeholdere
-- Indie-udviklere
-- Tidlige startups
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Vedligeholder af Azure/co-op-translator
-
-Et CLI, der automatiserer flersproget Markdown + billedoversættelse.
-
-Brugt af:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- og andre Microsoft OSS repositories
-
----
-
-## Foredrag & Medier
+## Talks & Medier
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -102,12 +91,12 @@ Brugt af:
   </a>
 </p>
 
-- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Frigørelse af flersproget tilgængelighed med Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planlæg og forbered udviklingen af AI-løsninger på Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Tech Stack
+## Teknologistak
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -122,7 +111,7 @@ Brugt af:
 
 ## Statistik & Aktivitet
 <details>
-<summary>Se GitHub Statistik</summary>
+<summary>Se GitHub statistik</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

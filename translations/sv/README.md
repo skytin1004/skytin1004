@@ -2,21 +2,66 @@
 
 # Hej, jag är Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Grundare av [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • OSS Underhållare av [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Jag bygger verktyg som tar bort operativ friktion från utvecklare.
+Lokalisering ska vara infrastruktur, inte ett projekt.
+
+Jag bygger GitHub-native flerspråkig automatiseringsinfrastruktur.
+
+## 🚀 Localizeflow
+
+GitHub-native dokumentationslokalisering.
+
+Utvidgar idéerna som utforskats i Co-op Translator till en fullt hanterad GitHub App.
+
+Ingen YAML.  
+Inga API-nycklar.  
+Ingen arbetsflödesunderhåll.
+
+- Upptäcker källändringar  
+- Översätter bara det som ändrats  
+- Öppnar pull requests automatiskt  
+- Körs på hanterad infrastruktur  
+
+Byggd för:
+- OSS underhållare  
+- Indie-utvecklare  
+- Tidiga startups  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Underhållare av: https://github.com/Azure/co-op-translator
+
+En öppen källkod CLI för flerspråkig Markdown + bildöversättning.
+
+Används i Microsofts lärandeförråd inklusive:
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+Automatiserar flerspråkiga PR-arbetsflöden direkt från GitHub.
+
+---
+
+## Varför jag arbetar med lokalisering
+
+Lokalisering misslyckas inte för att AI är svagt,  
+utan för att det blir en operativ belastning.
+
+Jag bygger infrastruktur som tar bort den bördan.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](./README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
 > **Föredrar du att klona lokalt?**
 >
-> Detta arkiv inkluderar över 50 språköversättningar vilket avsevärt ökar nedladdningsstorleken. För att klona utan översättningar, använd sparsamt utcheckning:
+> Detta förråd innehåller 50+ språköversättningar som avsevärt ökar nedladdningsstorleken. För att klona utan översättningar, använd sparsamt utcheckning:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -35,62 +80,6 @@ Jag bygger verktyg som tar bort operativ friktion från utvecklare.
 > Detta ger dig allt du behöver för att slutföra kursen med en mycket snabbare nedladdning.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Varför jag arbetar med lokalisering
-
-De flesta små team vill nå globala användare.
-Men de lokaliserar inte.
-
-Inte för att översättning är dyrt.
-Inte för att AI är svagt.
-
-Utan för att lokalisering blir ett operativt projekt i samma stund som du börjar.
-
-- Beslut om i18n-struktur
-- YAML-konfigurationer
-- Översättningspipeline
-- Granskningsarbetsflöden
-- Underhållsbelastning
-
-Så de skjuter upp det.
-Eller startar aldrig.
-
-Jag bygger Localizeflow för att ta bort det hindret.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-native dokumentationslokalisering.
-Installera en gång. Ingen YAML. Inga API-nycklar. Inga instrumentpaneler.
-
-- Upptäcker källändringar
-- Översätter bara det som ändrats
-- Öppnar PR automatiskt
-- Körs på hanterad infrastruktur
-
-Byggt för:
-- OSS underhållare
-- Indieutvecklare
-- Tidiga startups
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Underhållare av Azure/co-op-translator
-
-En CLI som automatiserar flerspråkig Markdown + bildöversättning.
-
-Används av:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- och andra Microsoft OSS-arkiv
-
----
-
 ## Föreläsningar & Media
 
 <p align="left">
@@ -102,8 +91,8 @@ Används av:
   </a>
 </p>
 
-- [Open at Microsoft – Öppna flerspråkig tillgänglighet med Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planera och förbered för att utveckla AI-lösningar på Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -122,7 +111,7 @@ Används av:
 
 ## Statistik & Aktivitet
 <details>
-<summary>Visa GitHub-statistik</summary>
+<summary>Visa GitHub Statistik</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
