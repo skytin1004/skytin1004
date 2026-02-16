@@ -2,21 +2,66 @@
 
 # Hi, I'm Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+**Tagapagtatag ng [Localizeflow](https://localizeflow.com)**
 
-**Founder of [Localizeflow](https://localizeflow.com)**
+**Microsoft AI MVP • OSS Maintainer ng [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+Ang Localizeflow ay dapat maging imprastruktura, hindi isang proyekto.
 
-Gumagawa ako ng mga tool na nag-aalis ng hadlang sa operasyon para sa mga developer.
+Ako ay bumubuo ng GitHub-native na multilinggwal na automation infrastructure.
+
+## 🚀 Localizeflow
+
+GitHub-native na lokalizasyong dokumentasyon.
+
+Pinalalawak ang mga ideyang sinuri sa Co-op Translator sa isang ganap na pinamamahalaang GitHub App.
+
+Walang YAML.  
+Walang API key.  
+Walang maintenance ng workflow.
+
+- Nakikilala ang mga pagbabago sa pinagmulan  
+- Isinasalin lamang ang mga nagbago  
+- Awtomatikong nagbubukas ng mga pull request  
+- Tumatakbo sa pinamamahalaang imprastruktura  
+
+Gawa para sa:
+- Mga OSS maintainer  
+- Mga indie developer  
+- Mga startup sa maagang yugto  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Tagapangalaga ng: https://github.com/Azure/co-op-translator
+
+Isang open-source na CLI para sa multilinggwal na pagsasalin ng Markdown + imahe.
+
+Ginagamit sa mga repository ng Microsoft learning kabilang ang:
+- Generative AI para sa mga Baguhan  
+- ML para sa mga Baguhan  
+- AI para sa mga Baguhan  
+
+Awtomatiko ang mga multilinggwal na workflow ng PR direkta mula sa GitHub.
+
+---
+
+## Bakit Ako Nagtatrabaho sa Lokalizasyong Ito
+
+Nabibigo ang lokalizasyong hindi dahil mahina ang AI,  
+kundi dahil nagiging pabigat ito sa operasyon.
+
+Ako ay bumubuo ng imprastruktura na nag-aalis ng pabigat na iyon.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](./README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Mas gusto mo bang I-clone Nang Lokal?**
+> **Mas gusto mo bang Kopyahin Lokal?**
 >
-> Kasama sa repository na ito ang 50+ mga pagsasalin ng wika na malaki ang pinapalaki ng laki ng pag-download. Para mag-clone nang walang mga pagsasalin, gamitin ang sparse checkout:
+> Kasama sa repositoryong ito ang 50+ na mga pagsasalin sa wika na lubos na nagpapalaki ng laki ng pag-download. Upang kopyahin nang walang mga pagsasalin, gamitin ang sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,64 +77,8 @@ Gumagawa ako ng mga tool na nag-aalis ng hadlang sa operasyon para sa mga develo
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Bibigyan ka nito ng lahat ng kailangan mo para matapos ang kurso nang mas mabilis ang pag-download.
+> Bibigyan ka nito ng lahat ng kailangan mo upang makumpleto ang kurso nang mas mabilis ang pag-download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## Bakit Ako Nagtatrabaho sa Lokalization
-
-Karamihan sa maliliit na team ay nais maglingkod sa mga global na gumagamit.  
-Ngunit hindi sila naglo-localize.
-
-Hindi dahil mahal ang pagsasalin.  
-Hindi dahil mahina ang AI.
-
-Kundi dahil ang lokalization ay nagiging isang operasyonal na proyekto mula sa sandaling magsimula ka.
-
-- Mga desisyon sa istruktura ng i18n  
-- Mga YAML config  
-- Mga pipeline ng pagsasalin  
-- Mga workflow ng reviewer  
-- Overhead sa pagpapanatili
-
-Kaya't ipinagpapaliban nila ito.  
-O hindi nagsisimula.
-
-Binuo ko ang Localizeflow upang alisin ang hadlang na iyon.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-native na dokumentasyon para sa lokalization.  
-Install lang minsan. Walang YAML. Walang API keys. Walang dashboards.
-
-- Nadarama ang mga pagbabago sa source  
-- Isinasalin lamang ang mga binago  
-- Awtomatikong nagbubukas ng mga PR  
-- Tumatakbo sa managed infrastructure
-
-Ginawa para sa:  
-- OSS maintainer  
-- Indie developer  
-- Early-stage startup
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Maintainer ng Azure/co-op-translator
-
-Isang CLI na ina-automate ang multilingual Markdown + pagsasalin ng mga larawan.
-
-Ginagamit ng:  
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
-- at iba pang Microsoft OSS repos
-
----
 
 ## Mga Talakayan at Media
 
@@ -102,8 +91,8 @@ Ginagamit ng:
   </a>
 </p>
 
-- [Open at Microsoft – Pagbubukas ng Multilingual Accessibility gamit ang Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planuhin at Ihanda ang Pag-develop ng AI Solutions sa Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Pagbubukas ng Multilinggwal na Accessibility gamit ang Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Magplano at Maghanda upang Bumuo ng AI Solutions sa Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -120,7 +109,7 @@ Ginagamit ng:
 
 ---
 
-## Stats & Activity
+## Mga Stats at Aktibidad
 <details>
 <summary>Tingnan ang GitHub Stats</summary>
 

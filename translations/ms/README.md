@@ -2,21 +2,66 @@
 
 # Hai, Saya Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Pengasas [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • Penyelenggara OSS [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • Penyelenggara OSS bagi [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Saya membina alat yang menghapuskan rintangan operasi daripada pembangun.
+Penjenamaan harus menjadi infrastruktur, bukan projek.
+
+Saya membina infrastruktur automasi berbilang bahasa yang asli GitHub.
+
+## 🚀 Localizeflow
+
+Penjenamaan dokumentasi asli GitHub.
+
+Mengembangkan idea yang diteroka dalam Co-op Translator ke dalam GitHub App yang diurus sepenuhnya.
+
+Tiada YAML.  
+Tiada kunci API.  
+Tiada penyelenggaraan aliran kerja.
+
+- Mengesan perubahan sumber  
+- Menterjemah hanya apa yang berubah  
+- Membuka pull request secara automatik  
+- Berjalan pada infrastruktur yang diurus  
+
+Dibina untuk:
+- Penyelenggara OSS  
+- Pembangun indie  
+- Permulaan peringkat awal  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Penyelenggara: https://github.com/Azure/co-op-translator
+
+CLI sumber terbuka untuk terjemahan berbilang bahasa Markdown + imej.
+
+Digunakan dalam repositori pembelajaran Microsoft termasuk:
+- Generative AI untuk Pemula  
+- ML untuk Pemula  
+- AI untuk Pemula  
+
+Mengautomasikan aliran kerja PR berbilang bahasa terus dari GitHub.
+
+---
+
+## Kenapa Saya Bekerja Pada Penjenamaan
+
+Penjenamaan gagal bukan kerana AI lemah,  
+tetapi kerana ia menjadi beban operasi.
+
+Saya sedang membina infrastruktur yang menghilangkan beban itu.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](./README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Lebih suka Klon Secara Tempatan?**
+> **Lebih Suka Klon Secara Tempatan?**
 >
-> Repositori ini merangkumi lebih 50+ terjemahan bahasa yang secara signifikan meningkatkan saiz muat turun. Untuk klon tanpa terjemahan, gunakan sparse checkout:
+> Repositori ini merangkumi lebih daripada 50 terjemahan bahasa yang secara signifikan meningkatkan saiz muat turun. Untuk mengklon tanpa terjemahan, gunakan sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,64 +77,8 @@ Saya membina alat yang menghapuskan rintangan operasi daripada pembangun.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Ini memberikan anda segala yang diperlukan untuk menyelesaikan kursus dengan muat turun yang jauh lebih pantas.
+> Ini memberi anda segala yang anda perlukan untuk menyelesaikan kursus dengan muat turun yang lebih pantas.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## Kenapa Saya Bekerja pada Lokalisasi
-
-Kebanyakan pasukan kecil mahu melayani pengguna global.  
-Tetapi mereka tidak melokalkan.
-
-Bukan kerana terjemahan mahal.  
-Bukan kerana AI lemah.
-
-Tetapi kerana lokalisasi menjadi projek operasi sebaik sahaja anda mula.
-
-- keputusan struktur i18n  
-- konfigurasi YAML  
-- saluran terjemahan  
-- aliran kerja pemeriksa  
-- beban penyelenggaraan
-
-Jadi mereka tangguhkan.  
-Atau langsung tidak mula.
-
-Saya membina Localizeflow untuk menghapuskan halangan itu.
-
----
-
-## 🚀 Localizeflow
-
-Lokalisasi dokumentasi asli GitHub.  
-Pasang sekali. Tiada YAML. Tiada kunci API. Tiada papan pemuka.
-
-- Mengesan perubahan sumber  
-- Menterjemah hanya apa yang berubah  
-- Membuka PR secara automatik  
-- Berjalan pada infrastruktur terurus
-
-Dibina untuk:  
-- Penyelenggara OSS  
-- Pembangun Indie  
-- Permulaan tahap awal
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Penyelenggara Azure/co-op-translator
-
-CLI yang mengautomasikan terjemahan Markdown + imej berbilang bahasa.
-
-Digunakan oleh:  
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
-- dan repositori OSS Microsoft yang lain
-
----
 
 ## Ceramah & Media
 
@@ -103,11 +92,11 @@ Digunakan oleh:
 </p>
 
 - [Open at Microsoft – Membuka Aksesibiliti Berbilang Bahasa dengan Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Merancang dan Mempersiapkan untuk Membangunkan Penyelesaian AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Microsoft Learn Live – Merancang dan Mempersiapkan Pembangunan Penyelesaian AI di Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Tumpuan Teknologi
+## Set Teknologi
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
