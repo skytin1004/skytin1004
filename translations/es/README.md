@@ -1,22 +1,67 @@
-![Banner de Cabecera](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
+![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
 # Hola, soy Minseok Song
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
 
 **Fundador de [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • Mantenedor OSS de [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Construyo herramientas que eliminan la fricción operativa para los desarrolladores.
+La localización debería ser infraestructura, no un proyecto.
+
+Construyo infraestructura de automatización multilingüe nativa de GitHub.
+
+## 🚀 Localizeflow
+
+Localización de documentación nativa de GitHub.
+
+Extendiendo las ideas exploradas en Co-op Translator en una GitHub App totalmente gestionada.
+
+No YAML.  
+No claves API.  
+Sin mantenimiento de flujos de trabajo.
+
+- Detecta cambios en la fuente  
+- Traduce solo lo que cambió  
+- Abre pull requests automáticamente  
+- Funciona en infraestructura gestionada  
+
+Construido para:
+- Mantenedores OSS  
+- Desarrolladores independientes  
+- Startups en etapas tempranas  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Mantenedor de: https://github.com/Azure/co-op-translator
+
+CLI de código abierto para traducción multilingüe de Markdown + imágenes.
+
+Utilizado en repositorios de aprendizaje de Microsoft, incluyendo:
+- AI Generativa para Principiantes  
+- ML para Principiantes  
+- AI para Principiantes  
+
+Automatiza flujos de trabajo de PR multilingües directamente desde GitHub.
+
+---
+
+## Por qué trabajo en localización
+
+La localización falla no porque la IA sea débil,
+sino porque se convierte en una carga operativa.
+
+Estoy construyendo infraestructura que elimina esa carga.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Árabe](../ar/README.md) | [Bengalí](../bn/README.md) | [Búlgaro](../bg/README.md) | [Birmano (Myanmar)](../my/README.md) | [Chino (Simplificado)](../zh-CN/README.md) | [Chino (Tradicional, Hong Kong)](../zh-HK/README.md) | [Chino (Tradicional, Macao)](../zh-MO/README.md) | [Chino (Tradicional, Taiwán)](../zh-TW/README.md) | [Croata](../hr/README.md) | [Checo](../cs/README.md) | [Danés](../da/README.md) | [Neerlandés](../nl/README.md) | [Estonio](../et/README.md) | [Finlandés](../fi/README.md) | [Francés](../fr/README.md) | [Alemán](../de/README.md) | [Griego](../el/README.md) | [Hebreo](../he/README.md) | [Hindi](../hi/README.md) | [Húngaro](../hu/README.md) | [Indonesio](../id/README.md) | [Italiano](../it/README.md) | [Japonés](../ja/README.md) | [Kannada](../kn/README.md) | [Coreano](../ko/README.md) | [Lituano](../lt/README.md) | [Malayo](../ms/README.md) | [Malayalam](../ml/README.md) | [Maratí](../mr/README.md) | [Nepalí](../ne/README.md) | [Pidgin Nigeriano](../pcm/README.md) | [Noruego](../no/README.md) | [Persa (Farsi)](../fa/README.md) | [Polaco](../pl/README.md) | [Portugués (Brasil)](../pt-BR/README.md) | [Portugués (Portugal)](../pt-PT/README.md) | [Punyabí (Gurmukhi)](../pa/README.md) | [Rumano](../ro/README.md) | [Ruso](../ru/README.md) | [Serbio (Cirílico)](../sr/README.md) | [Eslovaco](../sk/README.md) | [Esloveno](../sl/README.md) | [Español](./README.md) | [Swahili](../sw/README.md) | [Sueco](../sv/README.md) | [Tagalo (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Tailandés](../th/README.md) | [Turco](../tr/README.md) | [Ucraniano](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamita](../vi/README.md)
+[Árabe](../ar/README.md) | [Bengalí](../bn/README.md) | [Búlgaro](../bg/README.md) | [Birmano (Myanmar)](../my/README.md) | [Chino (Simplificado)](../zh-CN/README.md) | [Chino (Tradicional, Hong Kong)](../zh-HK/README.md) | [Chino (Tradicional, Macau)](../zh-MO/README.md) | [Chino (Tradicional, Taiwán)](../zh-TW/README.md) | [Croata](../hr/README.md) | [Checo](../cs/README.md) | [Danés](../da/README.md) | [Holandés](../nl/README.md) | [Estonio](../et/README.md) | [Finlandés](../fi/README.md) | [Francés](../fr/README.md) | [Alemán](../de/README.md) | [Griego](../el/README.md) | [Hebreo](../he/README.md) | [Hindi](../hi/README.md) | [Húngaro](../hu/README.md) | [Indonesio](../id/README.md) | [Italiano](../it/README.md) | [Japonés](../ja/README.md) | [Kannada](../kn/README.md) | [Coreano](../ko/README.md) | [Lituano](../lt/README.md) | [Malayo](../ms/README.md) | [Malabar (Malayalam)](../ml/README.md) | [Maratí](../mr/README.md) | [Nepalí](../ne/README.md) | [Pidgin Nigeriano](../pcm/README.md) | [Noruego](../no/README.md) | [Persa (Farsi)](../fa/README.md) | [Polaco](../pl/README.md) | [Portugués (Brasil)](../pt-BR/README.md) | [Portugués (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumano](../ro/README.md) | [Ruso](../ru/README.md) | [Serbio (Cirílico)](../sr/README.md) | [Eslovaco](../sk/README.md) | [Esloveno](../sl/README.md) | [Español](./README.md) | [Suajili](../sw/README.md) | [Sueco](../sv/README.md) | [Tagalo (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Tailandés](../th/README.md) | [Turco](../tr/README.md) | [Ucraniano](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamita](../vi/README.md)
 
-> **¿Prefieres Clonar Localmente?**
+> **¿Prefieres clonar localmente?**
 >
-> Este repositorio incluye más de 50 traducciones de idiomas, lo que incrementa significativamente el tamaño de descarga. Para clonar sin traducciones, usa sparse checkout:
+> Este repositorio incluye más de 50 traducciones que aumentan significativamente el tamaño de la descarga. Para clonar sin traducciones, usa sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,64 +77,8 @@ Construyo herramientas que eliminan la fricción operativa para los desarrollado
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Esto te da todo lo necesario para completar el curso con una descarga mucho más rápida.
+> Esto te dará todo lo que necesitas para completar el curso con una descarga mucho más rápida.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## Por qué trabajo en Localización
-
-La mayoría de los equipos pequeños quieren atender usuarios globales.
-Pero no localizan.
-
-No porque la traducción sea costosa.
-No porque la IA sea débil.
-
-Sino porque la localización se convierte en un proyecto operativo en el momento en que comienzas.
-
-- Decisiones de estructura i18n
-- Configuraciones YAML
-- Pipelines de traducción
-- Flujos de trabajo de revisión
-- Sobrecarga de mantenimiento
-
-Así que lo retrasan.
-O nunca comienzan.
-
-Estoy construyendo Localizeflow para eliminar esa barrera.
-
----
-
-## 🚀 Localizeflow
-
-Localización de documentación nativa de GitHub.
-Instala una vez. Sin YAML. Sin claves API. Sin paneles.
-
-- Detecta cambios en la fuente
-- Traduce solo lo que cambió
-- Abre PRs automáticamente
-- Funciona en infraestructura gestionada
-
-Diseñado para:
-- Mantenedores OSS
-- Desarrolladores Indie
-- Startups en etapa inicial
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Mantenedor de Azure/co-op-translator
-
-Un CLI que automatiza la traducción de Markdown multilingüe + imágenes.
-
-Usado por:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- y otros repositorios OSS de Microsoft
-
----
 
 ## Charlas y Medios
 
@@ -102,12 +91,12 @@ Usado por:
   </a>
 </p>
 
-- [Open en Microsoft – Liberando la Accesibilidad Multilingüe con Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planifica y Prepárate para Desarrollar Soluciones de IA en Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Liberando la accesibilidad multilingüe con Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planifica y prepárate para desarrollar soluciones de IA en Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Tecnología usada
+## Pilas tecnológicas
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -120,9 +109,9 @@ Usado por:
 
 ---
 
-## Estadísticas y Actividad
+## Estadísticas y actividad
 <details>
-<summary>Ver Estadísticas de GitHub</summary>
+<summary>Ver estadísticas de GitHub</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

@@ -2,14 +2,59 @@
 
 # Hi, I'm Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Founder of [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-I build tools that remove operational friction from developers.
+Localization should be infrastructure, not a project.
+
+I build GitHub-native multilingual automation infrastructure.
+
+## 🚀 Localizeflow
+
+GitHub-native documentation localization.
+
+Extending the ideas explored in Co-op Translator into a fully managed GitHub App.
+
+No YAML.  
+No API keys.  
+No workflow maintenance.
+
+- Detects source changes  
+- Translates only what changed  
+- Opens pull requests automatically  
+- Runs on managed infrastructure  
+
+Built for:
+- OSS maintainers  
+- Indie developers  
+- Early-stage startups  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Maintainer of: https://github.com/Azure/co-op-translator
+
+An open-source CLI for multilingual Markdown + image translation.
+
+Used in Microsoft learning repositories including:
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+Automates multilingual PR workflows directly from GitHub.
+
+---
+
+## Why I’m Working on Localization
+
+Localization fails not because AI is weak,  
+but because it becomes operational overhead.
+
+I’m building infrastructure that removes that burden.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
@@ -34,62 +79,6 @@ I build tools that remove operational friction from developers.
 >
 > This gives you everything you need to complete the course with a much faster download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## Why I’m Working on Localization
-
-Most small teams want to serve global users.
-But they don’t localize.
-
-Not because translation is expensive.
-Not because AI is weak.
-
-But because localization becomes an operational project the moment you start.
-
-- i18n structure decisions
-- YAML configs
-- Translation pipelines
-- Reviewer workflows
-- Maintenance overhead
-
-So they delay it.
-Or never start.
-
-I’m building Localizeflow to remove that barrier.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-native documentation localization.
-Install once. No YAML. No API keys. No dashboards.
-
-- Detects source changes
-- Translates only what changed
-- Opens PRs automatically
-- Runs on managed infrastructure
-
-Built for:
-- OSS maintainers
-- Indie developers
-- Early-stage startups
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Maintainer of Azure/co-op-translator
-
-A CLI that automates multilingual Markdown + image translation.
-
-Used by:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- and other Microsoft OSS repos
-
----
 
 ## Talks & Media
 

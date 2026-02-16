@@ -2,21 +2,66 @@
 
 # Tere, mina olen Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **[Localizeflow](https://localizeflow.com) asutaja**
 
-**Microsoft AI MVP • Azure/co-op-translator [OSS hooldaja](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS-i hooldaja**
 
-Ma loon tööriistu, mis eemaldavad arendajatelt operatiivse hõõrdumise.
+Lokaliseerimine peaks olema infrastruktuur, mitte projekt.
+
+Ma ehitan GitHubi-sisseehitatud mitmekeelset automatiseerimise infrastruktuuri.
+
+## 🚀 Localizeflow
+
+GitHubi-sisseehitatud dokumentatsiooni lokaliseerimine.
+
+Laiendades Co-op Translatori ideid täielikult hallatavas GitHubi rakenduses.
+
+Ei mingit YAML-i.  
+Ei API-võtmeid.  
+Ei töövoo hooldust.
+
+- Tuvastab lähtekoodi muudatused  
+- Tõlgib ainult muudetud osad  
+- Avab automaatselt pull requeste  
+- Jookseb hallataval infrastruktuuril  
+
+Loodud:
+- OSS-i hooldajatele  
+- Indie arendajatele  
+- Varajase faasi idufirmadele  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Hooldaja aadressil: https://github.com/Azure/co-op-translator
+
+Avatud lähtekoodiga käsurea tööriist mitmekeelseks Markdowni ja piltide tõlkimiseks.
+
+Kasutusel Microsofti õppematerjalide hoidlates, sealhulgas:
+- Generatiivne AI algajatele  
+- ML algajatele  
+- AI algajatele  
+
+Automatiseerib mitmekeelseid PR töövooge otse GitHubist.
+
+---
+
+## Miks ma töötan lokaliseerimise kallal
+
+Lokaliseerimine ebaõnnestub mitte seetõttu, et AI oleks nõrk,  
+vaid seetõttu, et see muutub operatiivseks koormaks.
+
+Ma ehitan infrastruktuuri, mis selle koormuse eemaldab.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](./README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Araabia](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgaaria](../bg/README.md) | [Birma (Myanmar)](../my/README.md) | [Hiina (lihtsustatud)](../zh-CN/README.md) | [Hiina (traditsiooniline, Hongkong)](../zh-HK/README.md) | [Hiina (traditsiooniline, Macau)](../zh-MO/README.md) | [Hiina (traditsiooniline, Taiwan)](../zh-TW/README.md) | [Horvaadi](../hr/README.md) | [Tšehhi](../cs/README.md) | [Taani](../da/README.md) | [Hollandi](../nl/README.md) | [Eesti](./README.md) | [Soome](../fi/README.md) | [Prantsuse](../fr/README.md) | [Saksa](../de/README.md) | [Kreeka](../el/README.md) | [Heebrea](../he/README.md) | [Hindi](../hi/README.md) | [Ungari](../hu/README.md) | [Indoneesia](../id/README.md) | [Itaalia](../it/README.md) | [Jaapani](../ja/README.md) | [Kannada](../kn/README.md) | [Korea](../ko/README.md) | [Leedu](../lt/README.md) | [Malai](../ms/README.md) | [Malajalami](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigeeria pidžin](../pcm/README.md) | [Norra](../no/README.md) | [Pärsia (farsi)](../fa/README.md) | [Poola](../pl/README.md) | [Portugali (Brasiilia)](../pt-BR/README.md) | [Portugali (Portugal)](../pt-PT/README.md) | [Pandžabi (Gurmukhi)](../pa/README.md) | [Rumeenia](../ro/README.md) | [Vene](../ru/README.md) | [Serbia (kirilitsa)](../sr/README.md) | [Slovaki](../sk/README.md) | [Sloveeni](../sl/README.md) | [Hispaania](../es/README.md) | [Suahiili](../sw/README.md) | [Rootsi](../sv/README.md) | [Tagalogi (filipino)](../tl/README.md) | [Tamili](../ta/README.md) | [Telugu](../te/README.md) | [Tai](../th/README.md) | [Türgi](../tr/README.md) | [Ukraina](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnami](../vi/README.md)
 
-> **Eelistad kloonimist lokaalselt?**
+> **Eelistad kloonida kohapeal?**
 >
-> See hoidla sisaldab üle 50 keele tõlkeid, mis suurendab oluliselt allalaadimise suurust. Tõlgeteta kloonimiseks kasuta sparse checkout:
+> See hoidla sisaldab üle 50 keele tõlget, mis suurendab allalaadimise mahtu märkimisväärselt. Tõlgeteta kloonimiseks kasuta sparse checkouti:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,66 +77,10 @@ Ma loon tööriistu, mis eemaldavad arendajatelt operatiivse hõõrdumise.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> See annab sulle kõik vajaliku kursuse lõpetamiseks palju kiirema allalaadimisega.
+> See annab sulle kõik, mida kursuse läbimiseks vaja, palju kiiremalt alla laadituna.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Miks ma töötan lokaliseerimise kallal
-
-Enamik väikeseid tiime soovib teenindada ülemaailmseid kasutajaid.
-Aga nad ei lokaliseeri.
-
-Mitte sellepärast, et tõlkimine oleks kallis.
-Mitte sellepärast, et tehisintellekt oleks nõrk.
-
-Aga sellepärast, et lokaliseerimine muutub operatiivseks projektiks hetkel, kui sa alustad.
-
-- i18n struktuuri otsused
-- YAML konifguratsioonid
-- Tõlkevood
-- Korrektorite töölõigud
-- Hoolduse koormus
-
-Nii lükkavad nad seda edasi.
-Või ei alusta kunagi.
-
-Ma loon Localizeflow, et see takistus eemaldada.
-
----
-
-## 🚀 Localizeflow
-
-GitHubi natiivne dokumentatsiooni lokaliseerimine.
-Installi korra. Ei mingit YAML-i. Ei mingeid API võtmeid. Ei mingeid dashboard’e.
-
-- Tuvastab muudatused allikas
-- Tõlgib ainult muudatuse osa
-- Avab PR’id automaatselt
-- Jookseb hallatud infrastruktuuril
-
-Loodud:
-- OSS hooldajatele
-- Indie arendajatele
-- Varajastele idufirmadele
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Azure/co-op-translator hooldaja
-
-Käsurea tööriist, mis automatiseerib mitmekeelse Markdowni + pilditõlke.
-
-Kasutusel:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- ja teistes Microsofti OSS hoidlates
-
----
-
-## Esinemised & Meedia
+## Ettekanded & Meedia
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -102,8 +91,8 @@ Kasutusel:
   </a>
 </p>
 
-- [Open at Microsoft – Multikeelse ligipääsetavuse avamine Co-op Translatoriga](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Kava ja ettevalmistus AI lahenduste arendamiseks Azure'il](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Multikeelse juurdepääsetavuse avamine Co-op Translatoriga](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planeeri ja valmista ette AI lahenduste arendamist Azure’is](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -120,7 +109,7 @@ Kasutusel:
 
 ---
 
-## Statistika & tegevus
+## Statistika & Aktivsus
 <details>
 <summary>Vaata GitHubi statistikat</summary>
 
