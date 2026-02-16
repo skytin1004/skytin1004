@@ -2,21 +2,67 @@
 
 # Hei, olen Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **[Localizeflow](https://localizeflow.com) perustaja**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS-ylläpitäjä**
 
-Rakennan työkaluja, jotka poistavat kehittäjien työskentelystä kitkaa.
+Lokalisaation tulisi olla infrastruktuuria, ei projekti.
+
+Rakennan GitHub-natiivista monikielistä automaatioinfrastruktuuria.
+
+## 🚀 Localizeflow
+
+GitHub-natiivinen dokumentaation lokalisaatio.
+
+Laajentaa Co-op Translatorin ideoita täyden palvelun GitHub-sovellukseksi.
+
+Ei YAML:ää.  
+Ei API-avaimia.  
+Ei työnkulkujen ylläpitoa.
+
+- Havaitsee lähdemuutokset  
+- Kääntää vain muuttuneet osat  
+- Avautuu automaattisesti pull requesteja  
+- Toimii hallitulla infrastruktuurilla  
+
+Rakennettu:
+- OSS-ylläpitäjille  
+- Indie-kehittäjille  
+- Varhaisvaiheen startup-yrityksille  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Ylläpitäjä: https://github.com/Azure/co-op-translator
+
+Avoimen lähdekoodin CLI monikieliseen Markdown- ja kuvan kääntämiseen.
+
+Käytössä Microsoftin oppimisvarastoissa, mukaan lukien:
+- Generatiivinen tekoäly aloittelijoille  
+- ML aloittelijoille  
+- AI aloittelijoille  
+
+Automatisoi monikieliset PR-työnkulut suoraan GitHubista.
+
+---
+
+## Miksi työskentelen lokalisaation parissa
+
+Lokalisaatio epäonnistuu ei siksi, että tekoäly olisi heikkoa,
+vaan koska siitä tulee operatiivista ylivelkaa.
+
+Rakennan infrastruktuuria, joka poistaa tuon kuormituksen.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](./README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Haluatko mieluummin kloonata paikallisesti?**
+> **Haluatko kloonata paikallisesti?**
 >
-> Tämä arkisto sisältää yli 50 kielen käännökset, mikä kasvattaa huomattavasti latauskokoa. Jos haluat kloonata ilman käännöksiä, käytä sparse checkout -toimintoa:
+> Tämä arkisto sisältää yli 50 käännöstä, mikä lisää merkittävästi latauksen kokoa.  
+> Voit kloonata ilman käännöksiä käyttämällä sparse checkoutia:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -35,62 +81,6 @@ Rakennan työkaluja, jotka poistavat kehittäjien työskentelystä kitkaa.
 > Tämä antaa sinulle kaiken tarvittavan kurssin suorittamiseen paljon nopeammalla latauksella.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Miksi työskentelen lokalisaation parissa
-
-Suurin osa pienistä tiimeistä haluaa palvella maailmanlaajuisia käyttäjiä.
-Mutta he eivät tee lokalisaatiota.
-
-Ei siksi, että kääntäminen olisi kallista.
-Ei siksi, että tekoäly olisi heikko.
-
-Vaan siksi, että lokalisaatiosta tulee operatiivinen projekti heti alkaessasi.
-
-- i18n-rakenteen päätökset
-- YAML-konfiguraatiot
-- Käännösputket
-- Arvioijien työprosessit
-- Ylläpidon ylimääräinen kuorma
-
-Joten he lykkäävät sitä.
-Tai eivät koskaan aloita.
-
-Rakennan Localizeflow'ta poistaakseni tämän esteen.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-luontainen dokumentaation lokalisaatio.
-Asenna kerran. Ei YAML:ää. Ei API-avaimia. Ei hallintapaneeleja.
-
-- Havaitsee lähdemuutokset
-- Kääntää vain muutetut osat
-- Avaa PR:t automaattisesti
-- Ajaa hallinnoidulla infrastruktuurilla
-
-Suunniteltu:
-- OSS-ylläpitäjille
-- Indie-kehittäjille
-- Varhaisen vaiheen startup-yrityksille
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Azure/co-op-translatorin ylläpitäjä
-
-Komentorivityökalu, joka automatisoi monikielisen Markdownin + kuvien kääntämisen.
-
-Käytetty seuraavissa:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- ja muissa Microsoftin OSS-arkistoissa
-
----
-
 ## Puheet & Media
 
 <p align="left">
@@ -102,12 +92,12 @@ Käytetty seuraavissa:
   </a>
 </p>
 
-- [Open at Microsoft – Monikielisen saatavuuden avaaminen Co-op Translatorin avulla](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Suunnittele ja valmistaudu tekoälyratkaisujen kehittämiseen Azuren avulla](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Monikielisen saavutettavuuden avaaminen Co-op Translatorilla](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Suunnittele ja valmistaudu kehittämään tekoälyratkaisuja Azurella](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## Teknologia
+## Tekninen pino
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -129,7 +119,7 @@ Käytetty seuraavissa:
 </details>
 ---
 
-## 📫 Ota yhteyttä
+## 📫 Ota yhteyttä minuun
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  

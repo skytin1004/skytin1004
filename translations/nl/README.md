@@ -2,21 +2,66 @@
 
 # Hallo, ik ben Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Oprichter van [Localizeflow](https://localizeflow.com)**
 
-**Microsoft AI MVP • OSS Maintainer van [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP • OSS Onderhouder van [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Ik maak tools die operationele frictie voor ontwikkelaars wegnemen.
+Lokalisatie zou infrastructuur moeten zijn, geen project.
+
+Ik bouw GitHub-native meertalige automatiseringsinfrastructuur.
+
+## 🚀 Localizeflow
+
+GitHub-native documentatielokalisatie.
+
+De ideeën uit Co-op Translator uitbreidend naar een volledig beheerde GitHub App.
+
+Geen YAML.  
+Geen API-sleutels.  
+Geen workflow-onderhoud.
+
+- Detecteert bronwijzigingen  
+- Vertaalt alleen wat is veranderd  
+- Opent automatisch pull requests  
+- Draait op beheerde infrastructuur  
+
+Gemaakt voor:
+- OSS-onderhouders  
+- Indie-ontwikkelaars  
+- Startups in een vroeg stadium  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Onderhouder van: https://github.com/Azure/co-op-translator
+
+Een open-source CLI voor meertalige Markdown + afbeeldingsvertaling.
+
+Gebruikt in Microsoft leerrepositories inclusief:
+- Generative AI voor Beginners  
+- ML voor Beginners  
+- AI voor Beginners  
+
+Automatiseert meertalige PR-workflows direct vanuit GitHub.
+
+---
+
+## Waarom ik aan Lokalisatie werk
+
+Lokalisatie faalt niet omdat AI zwak is,  
+maar omdat het een operationele last wordt.
+
+Ik bouw infrastructuur die die last wegneemt.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabisch](../ar/README.md) | [Bengaals](../bn/README.md) | [Bulgaars](../bg/README.md) | [Birmaans (Myanmar)](../my/README.md) | [Chinees (Vereenvoudigd)](../zh-CN/README.md) | [Chinees (Traditioneel, Hong Kong)](../zh-HK/README.md) | [Chinees (Traditioneel, Macau)](../zh-MO/README.md) | [Chinees (Traditioneel, Taiwan)](../zh-TW/README.md) | [Kroatisch](../hr/README.md) | [Tsjechisch](../cs/README.md) | [Deens](../da/README.md) | [Nederlands](./README.md) | [Ests](../et/README.md) | [Fins](../fi/README.md) | [Frans](../fr/README.md) | [Duits](../de/README.md) | [Grieks](../el/README.md) | [Hebreeuws](../he/README.md) | [Hindi](../hi/README.md) | [Hongaars](../hu/README.md) | [Indonesisch](../id/README.md) | [Italiaans](../it/README.md) | [Japans](../ja/README.md) | [Kannada](../kn/README.md) | [Koreaans](../ko/README.md) | [Litouws](../lt/README.md) | [Maleis](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalees](../ne/README.md) | [Nigeriaans Pidgin](../pcm/README.md) | [Noors](../no/README.md) | [Perzisch (Farsi)](../fa/README.md) | [Pools](../pl/README.md) | [Portugees (Brazilië)](../pt-BR/README.md) | [Portugees (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Roemeens](../ro/README.md) | [Russisch](../ru/README.md) | [Servisch (Cyrillisch)](../sr/README.md) | [Slowaaks](../sk/README.md) | [Sloveens](../sl/README.md) | [Spaans](../es/README.md) | [Swahili](../sw/README.md) | [Zweeds](../sv/README.md) | [Tagalog (Filipijns)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thais](../th/README.md) | [Turks](../tr/README.md) | [Oekraïens](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamees](../vi/README.md)
+[Arabisch](../ar/README.md) | [Bengaals](../bn/README.md) | [Bulgaars](../bg/README.md) | [Birmaans (Myanmar)](../my/README.md) | [Chinees (Vereenvoudigd)](../zh-CN/README.md) | [Chinees (Traditioneel, Hong Kong)](../zh-HK/README.md) | [Chinees (Traditioneel, Macau)](../zh-MO/README.md) | [Chinees (Traditioneel, Taiwan)](../zh-TW/README.md) | [Kroatisch](../hr/README.md) | [Tsjechisch](../cs/README.md) | [Deens](../da/README.md) | [Nederlands](./README.md) | [Ests](../et/README.md) | [Fins](../fi/README.md) | [Frans](../fr/README.md) | [Duits](../de/README.md) | [Grieks](../el/README.md) | [Hebreeuws](../he/README.md) | [Hindi](../hi/README.md) | [Hongaars](../hu/README.md) | [Indonesisch](../id/README.md) | [Italiaans](../it/README.md) | [Japans](../ja/README.md) | [Kannada](../kn/README.md) | [Koreaans](../ko/README.md) | [Litouws](../lt/README.md) | [Maleis](../ms/README.md) | [Malabaars](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalees](../ne/README.md) | [Nigeriaans Pidgin](../pcm/README.md) | [Noors](../no/README.md) | [Perzisch (Farsi)](../fa/README.md) | [Pools](../pl/README.md) | [Portugees (Brazilië)](../pt-BR/README.md) | [Portugees (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Roemeens](../ro/README.md) | [Russisch](../ru/README.md) | [Servisch (Cyrillisch)](../sr/README.md) | [Slowaaks](../sk/README.md) | [Sloveens](../sl/README.md) | [Spaans](../es/README.md) | [Swahili](../sw/README.md) | [Zweeds](../sv/README.md) | [Tagalog (Filipijns)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thais](../th/README.md) | [Turks](../tr/README.md) | [Oekraïens](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamees](../vi/README.md)
 
-> **Liever lokaal klonen?**
+> **Lieber je lokaal klonen?**
 >
-> Deze repository bevat meer dan 50 taalvertalingen, wat de downloadgrootte aanzienlijk vergroot. Om te klonen zonder vertalingen, gebruik sparse checkout:
+> Deze repository bevat meer dan 50 taalvertalingen wat de downloadgrootte aanzienlijk vergroot. Om te klonen zonder vertalingen, gebruik sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -35,62 +80,6 @@ Ik maak tools die operationele frictie voor ontwikkelaars wegnemen.
 > Dit geeft je alles wat je nodig hebt om de cursus te voltooien met een veel snellere download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Waarom ik werk aan lokalisatie
-
-De meeste kleine teams willen wereldwijde gebruikers bedienen.
-Maar ze lokaliseren niet.
-
-Niet omdat vertaling duur is.
-Niet omdat AI zwak is.
-
-Maar omdat lokalisatie een operationeel project wordt op het moment dat je begint.
-
-- i18n structuur beslissingen
-- YAML configuraties
-- Vertaalpijplijnen
-- Review workflows
-- Onderhoudsoverhead
-
-Dus stellen ze het uit.
-Of beginnen ze nooit.
-
-Ik bouw Localizeflow om die barrière weg te nemen.
-
----
-
-## 🚀 Localizeflow
-
-GitHub-native documentatielokalisatie.
-Eén keer installeren. Geen YAML. Geen API-sleutels. Geen dashboards.
-
-- Detecteert bronwijzigingen
-- Vertaal alleen wat veranderd is
-- Opent automatisch PR’s
-- Draait op beheerde infrastructuur
-
-Gemaakt voor:
-- OSS maintainers
-- Indie developers
-- Start-ups in een vroeg stadium
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Maintainer van Azure/co-op-translator
-
-Een CLI die meertalige Markdown + afbeeldingvertaling automatiseert.
-
-Gebruikt door:
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- en andere Microsoft OSS repositories
-
----
-
 ## Talks & Media
 
 <p align="left">
@@ -102,8 +91,8 @@ Gebruikt door:
   </a>
 </p>
 
-- [Open bij Microsoft – Meertalige toegankelijkheid ontgrendelen met Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan en Bereid Voor op het Ontwikkelen van AI-oplossingen op Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Multiculturele Toegankelijkheid Ontgrendelen met Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Plan en Bereid Voor om AI-oplossingen op Azure te Ontwikkelen](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
