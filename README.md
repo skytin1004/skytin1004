@@ -53,6 +53,13 @@ but because it becomes operational overhead.
 
 I’m building infrastructure that removes that burden.
 
+## Writing
+
+**[Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755)**  
+Microsoft Developer Community Blog (Feb 2026)
+
+Translations should be treated as versioned software artifacts not static outputs.
+
 ---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
@@ -94,28 +101,6 @@ I’m building infrastructure that removes that burden.
 - [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
----
-
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-## Stats & Activity
-<details>
-<summary>View GitHub Stats</summary>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 ---
 
 ## 📫 Connect with Me
