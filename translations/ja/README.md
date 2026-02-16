@@ -1,22 +1,67 @@
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# こんにちは、宋ミンソクです
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+# はじめまして、Minseok Songです
 
 **[Localizeflow](https://localizeflow.com) の創設者**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) のOSSメンテナー**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) のOSSメンテナ**
 
-私は開発者の運用上の摩擦を取り除くツールを作っています。
+ローカリゼーションはプロジェクトではなくインフラストラクチャであるべきです。
+
+私はGitHubネイティブの多言語自動化インフラストラクチャを構築しています。
+
+## 🚀 Localizeflow
+
+GitHubネイティブのドキュメントローカリゼーション。
+
+Co-op Translatorで探求されたアイデアを拡張し、フルマネージドのGitHub Appとして実装。
+
+YAML不要。  
+APIキー不要。  
+ワークフローメンテナンス不要。
+
+- 変更元を検出  
+- 変わった部分のみ翻訳  
+- プルリクエストを自動で作成  
+- マネージドインフラにて稼働  
+
+対象ユーザー:  
+- OSSメンテナ  
+- インディーデベロッパー  
+- 初期段階スタートアップ  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+メンテナ: https://github.com/Azure/co-op-translator
+
+多言語Markdown＋画像翻訳のためのオープンソースCLI。
+
+Microsoftの学習リポジトリで利用例:
+- Generative AI for Beginners  
+- ML for Beginners  
+- AI for Beginners  
+
+GitHubから直接多言語PRワークフローを自動化。
+
+---
+
+## なぜ私がローカリゼーションに取り組むのか
+
+ローカリゼーションが失敗するのはAIが弱いからではなく、  
+運用負荷が増すからです。
+
+私はその負担を取り除くインフラを構築しています。
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](./README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[アラビア語](../ar/README.md) | [ベンガル語](../bn/README.md) | [ブルガリア語](../bg/README.md) | [ビルマ語（ミャンマー）](../my/README.md) | [中国語（簡体字）](../zh-CN/README.md) | [中国語（繁体字、香港）](../zh-HK/README.md) | [中国語（繁体字、マカオ）](../zh-MO/README.md) | [中国語（繁体字、台湾）](../zh-TW/README.md) | [クロアチア語](../hr/README.md) | [チェコ語](../cs/README.md) | [デンマーク語](../da/README.md) | [オランダ語](../nl/README.md) | [エストニア語](../et/README.md) | [フィンランド語](../fi/README.md) | [フランス語](../fr/README.md) | [ドイツ語](../de/README.md) | [ギリシャ語](../el/README.md) | [ヘブライ語](../he/README.md) | [ヒンディー語](../hi/README.md) | [ハンガリー語](../hu/README.md) | [インドネシア語](../id/README.md) | [イタリア語](../it/README.md) | [日本語](./README.md) | [カンナダ語](../kn/README.md) | [韓国語](../ko/README.md) | [リトアニア語](../lt/README.md) | [マレー語](../ms/README.md) | [マラヤーラム語](../ml/README.md) | [マラーティー語](../mr/README.md) | [ネパール語](../ne/README.md) | [ナイジェリアピジン語](../pcm/README.md) | [ノルウェー語](../no/README.md) | [ペルシャ語（ファルシ）](../fa/README.md) | [ポーランド語](../pl/README.md) | [ポルトガル語（ブラジル）](../pt-BR/README.md) | [ポルトガル語（ポルトガル）](../pt-PT/README.md) | [パンジャブ語（グルムキー）](../pa/README.md) | [ルーマニア語](../ro/README.md) | [ロシア語](../ru/README.md) | [セルビア語（キリル）](../sr/README.md) | [スロバキア語](../sk/README.md) | [スロベニア語](../sl/README.md) | [スペイン語](../es/README.md) | [スワヒリ語](../sw/README.md) | [スウェーデン語](../sv/README.md) | [タガログ語（フィリピン）](../tl/README.md) | [タミル語](../ta/README.md) | [テルグ語](../te/README.md) | [タイ語](../th/README.md) | [トルコ語](../tr/README.md) | [ウクライナ語](../uk/README.md) | [ウルドゥー語](../ur/README.md) | [ベトナム語](../vi/README.md)
 
 > **ローカルでクローンしたいですか？**
 >
-> このリポジトリは50以上の言語の翻訳を含んでいるため、ダウンロードサイズが大幅に増加します。翻訳を除外してクローンするには、スパースチェックアウトを使用してください：
+> このリポジトリには50以上の言語翻訳が含まれており、ダウンロードサイズが大幅に増えます。翻訳なしでクローンするにはスパースチェックアウトを使用してください:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,66 +77,10 @@
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> これにより、コースの完了に必要なすべてをはるかに高速にダウンロードできます。
+> より高速なダウンロードでコース完了に必要なものがすべて手に入ります。
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## なぜ私がローカリゼーションに取り組んでいるか
-
-ほとんどの小規模チームは世界中のユーザーにサービスを提供したいと思っています。  
-しかし、ローカライズしません。
-
-翻訳が高価だからではありません。  
-AIが弱いからでもありません。
-
-ローカリゼーションは始めた瞬間に運用プロジェクトになるからです。
-
-- i18n構造の決定  
-- YAML設定  
-- 翻訳パイプライン  
-- レビューワークフロー  
-- メンテナンスの負担
-
-だから後回しにします。  
-あるいは、始めません。
-
-私はLocalizeflowを作って、その壁を取り除いています。
-
----
-
-## 🚀 Localizeflow
-
-GitHubネイティブなドキュメントのローカリゼーション。  
-一度インストールすればOK。YAMLもAPIキーもダッシュボードも不要。
-
-- ソースの変更を検知  
-- 変更された部分だけ翻訳  
-- PRを自動でオープン  
-- マネージドインフラ上で動作
-
-対象:
-- OSSメンテナー  
-- インディ開発者  
-- 初期段階のスタートアップ
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Azure/co-op-translator のメンテナー
-
-多言語Markdown＋画像翻訳を自動化するCLI。
-
-利用例:  
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
-- その他MicrosoftのOSSリポジトリ
-
----
-
-## 講演・メディア
+## 講演 & メディア
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -102,12 +91,12 @@ Azure/co-op-translator のメンテナー
   </a>
 </p>
 
-- [Open at Microsoft – Co-op Translatorで多言語アクセシビリティを解放](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – AzureでAIソリューションを設計・準備する](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Co-op Translatorで多言語アクセシビリティの解放](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – AzureでのAIソリューション開発計画と準備](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
-## テックスタック
+## 技術スタック
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -120,9 +109,9 @@ Azure/co-op-translator のメンテナー
 
 ---
 
-## 統計とアクティビティ
+## 統計＆アクティビティ
 <details>
-<summary>GitHubの統計を見る</summary>
+<summary>GitHub ステータスを表示</summary>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=skytin1004&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

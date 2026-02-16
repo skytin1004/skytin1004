@@ -2,94 +2,83 @@
 
 # 嗨，我是 Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **[Localizeflow](https://localizeflow.com) 創辦人**
 
-**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS 維護者**
+**Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 開源維護者**
 
-我打造工具，消除開發者的營運障礙。
+本地化應該是基礎建設，而非專案。
+
+我建立 GitHub 原生多語言自動化基礎建設。
+
+## 🚀 Localizeflow
+
+GitHub 原生文件本地化。
+
+將 Co-op Translator 探索的理念擴展為完整托管的 GitHub App。
+
+無需 YAML。  
+無需 API 金鑰。  
+無需維護工作流程。
+
+- 偵測原始碼變更  
+- 僅翻譯變更部分  
+- 自動開啟拉取請求  
+- 運行於托管基礎設施  
+
+打造給：
+- 開源維護者  
+- 獨立開發者  
+- 初創企業  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator（Azure 開源）
+
+維護中：https://github.com/Azure/co-op-translator
+
+一款用於多語言 Markdown + 圖像翻譯的開源 CLI。
+
+被用於 Microsoft 學習資源庫，包括：
+- 新手生成式 AI  
+- 新手機器學習  
+- 新手 AI  
+
+直接從 GitHub 自動化多語言 PR 工作流程。
+
+---
+
+## 為什麼我投入本地化工作
+
+本地化失敗不是因為 AI 弱，  
+而是因為成為運營負擔。
+
+我正在打造能消除這負擔的基礎設施。
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](./README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **想要本地複製嗎？**
+> **偏好本地克隆？**
 >
-> 本倉庫包含 50 多種語言翻譯，會大幅增加下載大小。若想不帶翻譯的情況下複製，請使用稀疏檢出：
+> 此資料庫包含 50 多種語言翻譯，顯著增加下載大小。若要不含翻譯克隆，請使用稀疏檢出：
 >
-> **Bash / macOS / Linux:**
+> **Bash / macOS / Linux：**
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
 >
-> **CMD (Windows):**
+> **CMD（Windows）：**
 > ```cmd
 > git clone --filter=blob:none --sparse https://github.com/skytin1004/skytin1004.git
 > cd skytin1004
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> 這將讓你以更快的速度下載，取得完成課程所需的所有內容。
+> 這樣可以更快速下載，並獲得完成課程所需的一切。
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## 為什麼我在做在地化
-
-大多數小團隊想服務全球用戶，
-但他們不做在地化。
-
-不是因為翻譯成本高。
-也不是因為 AI 不足。
-
-而是因為一開始在地化就成了一個營運專案。
-
-- i18n 結構決策
-- YAML 配置
-- 翻譯流程
-- 審查工作流程
-- 維護負擔
-
-所以他們延後實作，
-或者根本沒開始。
-
-我正在構建 Localizeflow 來消除這個障礙。
-
----
-
-## 🚀 Localizeflow
-
-原生 GitHub 文件在地化。
-安裝一次。無 YAML。無 API 金鑰。無儀表板。
-
-- 偵測原始檔變更
-- 只翻譯變更部分
-- 自動開啟 PR
-- 運行於托管基礎建設
-
-適合：
-- OSS 維護者
-- 獨立開發者
-- 早期新創團隊
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Azure/co-op-translator 維護者
-
-一款自動化多語言 Markdown + 圖片翻譯的 CLI。
-
-被使用於：
-- Generative AI for Beginners
-- ML for Beginners
-- AI for Beginners
-- 和其他 Microsoft OSS 倉庫
-
----
 
 ## 演講與媒體
 
@@ -102,7 +91,7 @@ Azure/co-op-translator 維護者
   </a>
 </p>
 
-- [Open at Microsoft – 使用 Co-op Translator 解鎖多語言無障礙](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Open at Microsoft – 透過 Co-op Translator 解鎖多語言無障礙](https://www.youtube.com/watch?v=jX_swfH_KNU)  
 - [Microsoft Learn Live – 在 Azure 上規劃與準備開發 AI 解決方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
