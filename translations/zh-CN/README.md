@@ -1,22 +1,67 @@
 ![Header Banner](https://github.com/user-attachments/assets/e5c72b81-0bcb-403a-9efe-76d04991d303)
 
-# 你好，我是 Minseok Song
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
+# 你好，我是Minseok Song
 
 **[Localizeflow](https://localizeflow.com) 创始人**
 
 **微软 AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) 开源维护者**
 
-我构建工具，帮助开发者消除运营中的摩擦。
+本地化应当是基础设施，而非项目。
+
+我构建 GitHub 原生多语言自动化基础设施。
+
+## 🚀 Localizeflow
+
+GitHub 原生文档本地化。
+
+将 Co-op Translator 中探索的理念扩展成一个全托管的 GitHub 应用。
+
+不需要 YAML。  
+不需要 API 密钥。  
+无需维护工作流程。
+
+- 自动检测源文件更改  
+- 仅翻译变更内容  
+- 自动打开拉取请求  
+- 运行于托管基础设施  
+
+适用于：  
+- 开源维护者  
+- 独立开发者  
+- 初创企业  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator（Azure 开源）
+
+维护地址：https://github.com/Azure/co-op-translator
+
+一个开源的多语言 Markdown + 图片翻译命令行工具。
+
+微软学习库中使用，包括：  
+- 生成式 AI 入门  
+- 机器学习入门  
+- AI 入门  
+
+自动化多语言 PR 工作流，直接基于 GitHub。
+
+---
+
+## 我为什么从事本地化工作
+
+本地化失败不是因为 AI 薄弱，  
+而是因为它带来了运营负担。
+
+我正在构建能够减少这种负担的基础设施。
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](./README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[阿拉伯语](../ar/README.md) | [孟加拉语](../bn/README.md) | [保加利亚语](../bg/README.md) | [缅甸语](../my/README.md) | [简体中文](./README.md) | [繁体中文（香港）](../zh-HK/README.md) | [繁体中文（澳门）](../zh-MO/README.md) | [繁体中文（台湾）](../zh-TW/README.md) | [克罗地亚语](../hr/README.md) | [捷克语](../cs/README.md) | [丹麦语](../da/README.md) | [荷兰语](../nl/README.md) | [爱沙尼亚语](../et/README.md) | [芬兰语](../fi/README.md) | [法语](../fr/README.md) | [德语](../de/README.md) | [希腊语](../el/README.md) | [希伯来语](../he/README.md) | [印地语](../hi/README.md) | [匈牙利语](../hu/README.md) | [印尼语](../id/README.md) | [意大利语](../it/README.md) | [日语](../ja/README.md) | [卡纳达语](../kn/README.md) | [韩语](../ko/README.md) | [立陶宛语](../lt/README.md) | [马来语](../ms/README.md) | [马拉雅拉姆语](../ml/README.md) | [马拉地语](../mr/README.md) | [尼泊尔语](../ne/README.md) | [尼日利亚皮钦语](../pcm/README.md) | [挪威语](../no/README.md) | [波斯语（法尔西语）](../fa/README.md) | [波兰语](../pl/README.md) | [巴西葡萄牙语](../pt-BR/README.md) | [葡萄牙语（葡萄牙）](../pt-PT/README.md) | [旁遮普语（古鲁姆希）](../pa/README.md) | [罗马尼亚语](../ro/README.md) | [俄语](../ru/README.md) | [塞尔维亚语（西里尔字母）](../sr/README.md) | [斯洛伐克语](../sk/README.md) | [斯洛文尼亚语](../sl/README.md) | [西班牙语](../es/README.md) | [斯瓦希里语](../sw/README.md) | [瑞典语](../sv/README.md) | [他加禄语（菲律宾语）](../tl/README.md) | [泰米尔语](../ta/README.md) | [泰卢固语](../te/README.md) | [泰语](../th/README.md) | [土耳其语](../tr/README.md) | [乌克兰语](../uk/README.md) | [乌尔都语](../ur/README.md) | [越南语](../vi/README.md)
 
 > **更喜欢本地克隆？**
 >
-> 本仓库包含50多种语言的翻译，显著增加了下载大小。若想不下载翻译文件，可使用稀疏检出：
+> 该仓库包含50多种语言的翻译，显著增加下载大小。如需无翻译克隆，请使用稀疏检出：
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,66 +77,10 @@
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> 这可让你以更快的速度获取完成课程所需的全部内容。
+> 这将让您以更快的速度获得完成课程所需的所有内容。
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## 我为何专注于本地化
-
-大多数小团队都想服务全球用户。  
-但他们没有做本地化。
-
-不是因为翻译成本高。  
-也不是因为 AI 弱。
-
-而是因为本地化一开始就变成了一个运营项目。
-
-- i18n 结构设计  
-- YAML 配置  
-- 翻译流水线  
-- 审核流程  
-- 维护负担  
-
-所以他们拖延。  
-或者根本不开始。
-
-我在构建 Localizeflow 来打破这个障碍。
-
----
-
-## 🚀 Localizeflow
-
-GitHub 原生的文档本地化。  
-安装一次，无需 YAML，无需 API 密钥，无需仪表盘。
-
-- 检测源变更  
-- 只翻译有变动的内容  
-- 自动打开 PR  
-- 运行于托管基础设施  
-
-专为以下打造：  
-- 开源维护者  
-- 独立开发者  
-- 初创公司  
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Azure/co-op-translator 维护者
-
-一个自动化多语言 Markdown + 图片翻译的 CLI 工具。
-
-应用于：  
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
-- 以及其他微软开源项目  
-
----
-
-## 演讲和媒体
+## 演讲与媒体
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -102,8 +91,8 @@ Azure/co-op-translator 维护者
   </a>
 </p>
 
-- [Open at Microsoft – 使用 Co-op Translator 实现多语言无障碍](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – 在 Azure 上规划和准备开发 AI 解决方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – 利用 Co-op Translator 实现多语言无障碍](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – 规划和准备在 Azure 上开发 AI 解决方案](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
