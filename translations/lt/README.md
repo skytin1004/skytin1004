@@ -2,21 +2,66 @@
 
 # Sveiki, aš esu Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **[Localizeflow](https://localizeflow.com) įkūrėjas**
 
 **Microsoft AI MVP • [Azure/co-op-translator](https://github.com/Azure/co-op-translator) OSS prižiūrėtojas**
 
-Aš kuriu įrankius, kurie pašalina operacines kliūtis programuotojams.
+Lokalizacija turėtų būti infrastruktūra, o ne projektas.
+
+Aš kuriu GitHub gimtąją daugiakalbę automatizavimo infrastruktūrą.
+
+## 🚀 Localizeflow
+
+GitHub gimtoji dokumentacijos lokalizacija.
+
+Išplečiant Co-op Translator idėjas į pilnai valdomą GitHub programėlę.
+
+Nėra YAML.  
+Nėra API raktų.  
+Nėra darbo eigos priežiūros.
+
+- Nustato šaltinio pakeitimus  
+- Išverčia tik pakeitimus  
+- Automatiškai atidaro pull request'us  
+- Veikia valdomoje infrastruktūroje  
+
+Sukurta:
+- OSS prižiūrėtojams  
+- Nepriklausomiems kūrėjams  
+- Ankstyvos stadijos startuoliams  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Prižiūrimas: https://github.com/Azure/co-op-translator
+
+Atvirojo kodo CLI daugiakalbei Markdown + vaizdų vertimui.
+
+Naudojama Microsoft mokymosi saugyklose, įskaitant:
+- Generatyvinį AI pradedantiesiems  
+- ML pradedantiesiems  
+- AI pradedantiesiems  
+
+Automatizuoja daugiakalbius PR darbo eigos procesus tiesiai iš GitHub.
+
+---
+
+## Kodėl aš dirbu su lokalizacija
+
+Lokalizacija žlunga ne todėl, kad AI būtų silpnas,
+bet todėl, kad tai tampa operacine našta.
+
+Aš kuriu infrastruktūrą, kuri pašalina tą naštą.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](./README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Mėgstate klonuoti vietoje?**
+> **Norite kopijuoti vietoje?**
 >
-> Šiame saugykloje yra daugiau nei 50 kalbų vertimų, kurie žymiai padidina atsisiuntimo dydį. Jei norite klonuoti be vertimų, naudokite sparčiąją pasirinktinę atsisiuntimą:
+> Šiame saugykloje yra daugiau nei 50 kalbų vertimų, kurie žymiai padidina atsisiuntimo dydį. Norint nukopijuoti be vertimų, naudokite ribotą checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,66 +77,10 @@ Aš kuriu įrankius, kurie pašalina operacines kliūtis programuotojams.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Tai suteikia jums viską, ko reikia kursui baigti, kur kas greičiau atsisiunčiant.
+> Tai suteiks jums viską, ko reikia kursui užbaigti, su daug greitesniu atsisiuntimu.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Kodėl aš dirbu su lokalizacija
-
-Dauguma mažų komandų nori aptarnauti pasaulio vartotojus.  
-Bet jos nelokalizuoja.
-
-Ne todėl, kad vertimas būtų brangus.  
-Ne todėl, kad AI būtų silpnas.
-
-Bet todėl, kad lokalizacija tampa operaciniu projektu nuo pat pradžios.
-
-- i18n struktūros sprendimai  
-- YAML konfigūracijos  
-- Vertimų srautai  
-- Peržiūrėtojų darbų eiga  
-- Priežiūros išlaidos  
-
-Todėl jų įgyvendinimą atideda.  
-Arba visai nepradeda.
-
-Aš kuriu Localizeflow, kad panaikinti šią kliūtį.
-
----
-
-## 🚀 Localizeflow
-
-GitHub natūralus dokumentacijos lokalizavimas.  
-Įdiekite vieną kartą. Nėra YAML. Nėra API raktų. Nėra valdymo skydelių.
-
-- Aptinka šaltinio pakeitimus  
-- Išverčia tik pakeistą turinį  
-- Automatiškai atidaro PR  
-- Veikia valdomoje infrastruktūroje  
-
-Skirta:  
-- OSS prižiūrėtojams  
-- Nepriklausomiems kūrėjams  
-- Ankstyvos stadijos startuoliams  
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-[Azure/co-op-translator] prižiūrėtojas
-
-CLI, kuris automatizuoja daugiakalbį Markdown + vaizdų vertimą.
-
-Naudoja:  
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
-- ir kiti Microsoft OSS projektai
-
----
-
-## Pranešimai ir žiniasklaida
+## Pranešimai & Žiniasklaida
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
@@ -102,8 +91,8 @@ Naudoja:
   </a>
 </p>
 
-- [Open at Microsoft – Atidengiant daugiakalbį prieinamumą su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Planuokite ir pasiruoškite kurti AI sprendimus Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+- [Open at Microsoft – Daugiakalbės prieigos atkūrimas su Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
+- [Microsoft Learn Live – Planuokite ir ruoškitės kurti AI sprendimus Azure aplinkoje](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
 
 ---
 
@@ -120,7 +109,7 @@ Naudoja:
 
 ---
 
-## Statistikos ir Veikla
+## Statistika & Aktyvumas
 <details>
 <summary>Peržiūrėti GitHub statistiką</summary>
 
