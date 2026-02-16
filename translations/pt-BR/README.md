@@ -2,21 +2,66 @@
 
 # Olá, eu sou Minseok Song
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/skytin1004)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://coff.ee/skytin1004)
-
 **Fundador do [Localizeflow](https://localizeflow.com)**
 
 **Microsoft AI MVP • Mantenedor OSS do [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Eu crio ferramentas que removem atritos operacionais para desenvolvedores.
+Localização deve ser infraestrutura, não um projeto.
+
+Eu construo infraestrutura de automação multilíngue nativa do GitHub.
+
+## 🚀 Localizeflow
+
+Localização de documentação nativa do GitHub.
+
+Estendendo as ideias exploradas no Co-op Translator para um GitHub App totalmente gerenciado.
+
+Sem YAML.  
+Sem chaves de API.  
+Sem manutenção de workflow.
+
+- Detecta mudanças na fonte  
+- Traduz apenas o que mudou  
+- Abre pull requests automaticamente  
+- Executa em infraestrutura gerenciada  
+
+Construído para:
+- Mantenedores de OSS  
+- Desenvolvedores independentes  
+- Startups em estágio inicial  
+
+→ https://localizeflow.com
+
+## 🛠 Co-op Translator (Azure OSS)
+
+Mantenedor de: https://github.com/Azure/co-op-translator
+
+Um CLI open-source para tradução multilíngue de Markdown + imagens.
+
+Usado em repositórios de aprendizado da Microsoft incluindo:
+- IA Generativa para Iniciantes  
+- ML para Iniciantes  
+- IA para Iniciantes  
+
+Automatiza workflows de PR multilíngues diretamente do GitHub.
+
+---
+
+## Por que estou trabalhando com Localização
+
+A localização falha não porque a IA é fraca,  
+mas porque se torna um ônus operacional.
+
+Eu estou construindo uma infraestrutura que remove esse fardo.
+
+---
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](./README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Prefere Clonar Localmente?**
+> **Prefere clonar localmente?**
 >
-> Este repositório inclui mais de 50 traduções de idiomas, o que aumenta significativamente o tamanho do download. Para clonar sem as traduções, use sparse checkout:
+> Este repositório inclui 50+ traduções de idiomas, o que aumenta significativamente o tamanho do download. Para clonar sem traduções, use sparse checkout:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -32,64 +77,8 @@ Eu crio ferramentas que removem atritos operacionais para desenvolvedores.
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
 >
-> Isso lhe dá tudo que você precisa para completar o curso com um download muito mais rápido.
+> Isso lhe dá tudo o que você precisa para completar o curso com um download muito mais rápido.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
-
-## Por que estou trabalhando com Localização
-
-A maioria das pequenas equipes quer atender usuários globais.  
-Mas elas não localizam.
-
-Não porque tradução é cara.  
-Não porque IA é fraca.
-
-Mas porque localizações se tornam um projeto operacional no momento em que você começa.
-
-- Decisões sobre estrutura i18n  
-- Configurações YAML  
-- Pipelines de tradução  
-- Fluxos de trabalho com revisores  
-- Sobrecarga de manutenção
-
-Então elas adiam.  
-Ou nunca começam.
-
-Estou construindo o Localizeflow para remover essa barreira.
-
----
-
-## 🚀 Localizeflow
-
-Localização de documentação nativa do GitHub.  
-Instale uma vez. Sem YAML. Sem chaves de API. Sem painéis.
-
-- Detecta mudanças na fonte  
-- Traduz somente o que mudou  
-- Abre PRs automaticamente  
-- Roda em infraestrutura gerenciada
-
-Construído para:  
-- Mantenedores OSS  
-- Desenvolvedores independentes  
-- Startups em estágio inicial
-
-→ https://localizeflow.com
-
----
-
-## 🛠 Co-op Translator (Azure OSS)
-
-Mantenedor do Azure/co-op-translator
-
-Um CLI que automatiza tradução multilíngue de Markdown + imagens.
-
-Usado por:  
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
-- e outros repositórios OSS da Microsoft
-
----
 
 ## Palestras & Mídia
 
@@ -107,7 +96,7 @@ Usado por:
 
 ---
 
-## Pilha Tecnológica
+## Pilha de Tecnologia
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -129,7 +118,7 @@ Usado por:
 </details>
 ---
 
-## 📫 Conecte-se Comigo
+## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
