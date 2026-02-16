@@ -21,7 +21,6 @@ No API keys.
 No workflow maintenance.
 
 - Detects source changes  
-- Translates only what changed  
 - Opens pull requests automatically  
 - Runs on managed infrastructure  
 
