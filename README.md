@@ -46,13 +46,6 @@ Automates multilingual PR workflows directly from GitHub.
 
 ---
 
-## Why I’m Working on Localization
-
-Localization fails not because AI is weak,
-but because it becomes operational overhead.
-
-I’m building infrastructure that removes that burden.
-
 ## Writing
 
 **[Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755)**  
