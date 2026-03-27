@@ -6,7 +6,7 @@
 
 I design and operate AI systems that automate real-world workflows at scale.
 
-## 🚀 Localizeflow
+## Localizeflow
 GitHub-native documentation localization infrastructure.
 
 Built from operating Co-op Translator across Microsoft OSS repositories.
@@ -21,7 +21,7 @@ No workflow maintenance.
 
 → https://localizeflow.com
 
-## 🛠 Co-op Translator (Azure OSS)
+## Co-op Translator (Azure OSS)
 
 Maintainer of: https://github.com/Azure/co-op-translator
 
