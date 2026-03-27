@@ -2,32 +2,22 @@
 
 # Hi, I'm Minseok Song
 
-**Founder of [Localizeflow](https://localizeflow.com)**
-
 **Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
 
-Localization should be infrastructure, not a project.
-
-I build GitHub-native multilingual automation infrastructure.
+I design and operate AI systems that automate real-world workflows at scale.
 
 ## 🚀 Localizeflow
+GitHub-native documentation localization infrastructure.
 
-GitHub-native documentation localization.
+Built from operating Co-op Translator across Microsoft OSS repositories.
 
-Extending the ideas explored in Co-op Translator into a fully managed GitHub App.
+→ Eliminated manual translation workflows  
+→ Automated 800+ pull requests  
+→ Designed for large-scale, continuously changing documentation
 
-No YAML.  
-No API keys.  
+No YAML.
+No API keys.
 No workflow maintenance.
-
-- Detects source changes  
-- Opens pull requests automatically  
-- Runs on managed infrastructure  
-
-Built for:
-- OSS maintainers  
-- Indie developers  
-- Early-stage startups  
 
 → https://localizeflow.com
 
