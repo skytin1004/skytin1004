@@ -2,68 +2,73 @@
 
 # Hi, I'm Minseok Song
 
-**Microsoft AI MVP • OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator)**
+**Microsoft AI MVP · OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator) · Building [Localizeflow](https://localizeflow.com)**
 
-I design and operate AI systems that automate real-world workflows at scale.
+I build GitHub-native localization infrastructure for technical documentation, open source, and developer education.
 
-## Localizeflow
-GitHub-native documentation localization infrastructure.
+I maintain tooling that helps teams treat translations as versioned software assets instead of one-off outputs.
 
-Built from operating Co-op Translator across Microsoft OSS repositories.
+## Impact at a glance
 
-→ Eliminated manual translation workflows  
-→ Automated 800+ pull requests  
-→ Designed for large-scale, continuously changing documentation
+- Maintaining **Co-op Translator**, the open-source engine behind multilingual documentation workflows
+- Contributing multilingual localization across **14 large-scale beginner education series**
+- Helping keep technical learning content synchronized across **54 languages**
+- Automating **800+ pull requests** for documentation localization workflows
+- Turning that operational experience into **[Localizeflow](https://localizeflow.com)**, a zero-setup service for multilingual docs on GitHub
 
-No YAML.
-No API keys.
-No workflow maintenance.
+## Featured work
 
-→ https://localizeflow.com
+### [Localizeflow](https://localizeflow.com)
+GitHub-native automation for multilingual docs.
 
-## Co-op Translator (Azure OSS)
+- No YAML
+- No API keys
+- No workflow maintenance
+- Translate only what changed
+- Open pull requests automatically
 
-Maintainer of: https://github.com/Azure/co-op-translator
+### [Azure / co-op-translator](https://github.com/Azure/co-op-translator)
+Open-source CLI for multilingual Markdown, notebook, and image translation.
 
-An open-source CLI for multilingual Markdown + image translation.
+- Built for large, continuously changing repositories
+- Used across Microsoft beginner and learning repositories
+- Keeps translated content synchronized as the source evolves
+- Designed around translations as versioned software assets
 
-Used in Microsoft learning repositories including:
-- Generative AI for Beginners  
-- ML for Beginners  
-- AI for Beginners  
+## Selected Writing
 
-Automates multilingual PR workflows directly from GitHub.
+I write about Azure AI, responsible AI, and GitHub-native localization on Microsoft Tech Community.
 
----
+### Localization & Docs Ops
+- [Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755)
+- [Automate Markdown and Image Translations Using Co-op Translator: Phi-3 Cookbook Case Study](https://techcommunity.microsoft.com/blog/educatordeveloperblog/automate-markdown-and-image-translations-using-co-op-translator-phi-3-cookbook-c/4263474)
 
-## Writing
+### Azure AI
+- [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Lang Chain)](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713)
+- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-step-by-step-guide/4178612)
+- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in-azure-ai-studio/4191726)
+- [Evaluate Fine-tuned Phi-3 / 3.5 Models in Azure AI Studio Focusing on Microsoft's Responsible AI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/evaluate-fine-tuned-phi-3--3-5-models-in-azure-ai-studio-focusing-on-microsofts-/4227850)
+- [Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure-content-safety-/4143628)
 
-**[Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755)**  
-Microsoft Developer Community Blog (Feb 2026)
-
-Translations should be treated as versioned software artifacts not static outputs.
-
----
+**More writing:** [Microsoft Tech Community](https://techcommunity.microsoft.com/users/minseok_song/2076234)
 
 ## Talks & Media
 
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
-    <img src="https://img.youtube.com/vi/jX_swfH_KNU/0.jpg" width="400" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=Zl_IFvrKaaY">
-    <img src="https://img.youtube.com/vi/Zl_IFvrKaaY/0.jpg" width="400" />
-  </a>
-</p>
+- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)
+- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)
 
-- [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)  
-- [Microsoft Learn Live – Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)  
+## Focus Areas
 
----
+- Open source maintainer workflows
+- DevRel / technical community
+- AI workflow automation
+- Multilingual documentation infrastructure
+- Global developer education
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/song-ai/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)  
-[![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)  
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ms-song/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://x.com/skytin1004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-343a40?logo=GitHub&style=for-the-badge&logoColor=white)](https://skytin1004.github.io/)
+[![Tech Community](https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?logo=microsoft&style=for-the-badge&logoColor=white)](https://techcommunity.microsoft.com/users/minseok_song/2076234)
 [![Email](https://img.shields.io/badge/Email-minseok.song@mssong.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseok.song@mssong.com)
