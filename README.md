@@ -11,10 +11,10 @@ I maintain tooling that helps teams treat translations as versioned software ass
 ## Impact at a glance
 
 - Maintaining **Co-op Translator**, the open-source engine behind multilingual documentation workflows
-- Contributing multilingual localization across **14 large-scale beginner education series**
-- Helping keep technical learning content synchronized across **54 languages**
+- Contributing multilingual localization across **16 large-scale beginner education series**
+- Helping keep technical learning content synchronized across **55 languages**
 - Automating **800+ pull requests** for documentation localization workflows
-- Turning that operational experience into **[Localizeflow](https://localizeflow.com)**, a zero-setup service for multilingual docs on GitHub
+- Turning that operational experience into **[Localizeflow](https://localizeflow.com)**, a production layer for multilingual documentation on GitHub
 
 ## Featured work
 
