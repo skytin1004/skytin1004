@@ -52,8 +52,6 @@ I write about Azure AI, responsible AI, and GitHub-native localization on Micros
 - [Evaluate Fine-tuned Phi-3 / 3.5 Models in Azure AI Studio Focusing on Microsoft's Responsible AI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/evaluate-fine-tuned-phi-3--3-5-models-in-azure-ai-studio-focusing-on-microsofts-/4227850)
 - [Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure-content-safety-/4143628)
 
-**More writing:** [Microsoft Tech Community](https://techcommunity.microsoft.com/users/minseok_song/2076234)
-
 ## Talks & Media
 
 - [Open at Microsoft – Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)
