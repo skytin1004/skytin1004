@@ -19,13 +19,15 @@ I maintain tooling that helps teams treat translations as versioned software ass
 ## Featured work
 
 ### [Localizeflow](https://localizeflow.com)
-GitHub-native automation for multilingual docs.
+The production layer for multilingual documentation.
 
-- No YAML
-- No API keys
-- No workflow maintenance
-- Translate only what changed
-- Open pull requests automatically
+Localizeflow extends Co-op Translator into a system that can operate at scale.
+
+It handles large translation workloads beyond CI limits, 
+keeps documentation synchronized across languages, 
+and delivers updates through GitHub-native pull request workflows.
+
+Built for teams managing real-world documentation systems.
 
 ### [Azure / co-op-translator](https://github.com/Azure/co-op-translator)
 Open-source CLI for multilingual Markdown, notebook, and image translation.
