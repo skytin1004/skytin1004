@@ -42,6 +42,7 @@ Open-source CLI for multilingual Markdown, notebook, and image translation.
 I write about Azure AI, responsible AI, and GitHub-native localization on Microsoft Tech Community.
 
 ### Localization & Docs Ops
+- [Fixing Broken Markdown in AI Translation: Hardening a Production Pipeline](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/fixing-broken-markdown-in-ai-translation-hardening-a-production-pipeline/4511378)
 - [Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755)
 - [Automate Markdown and Image Translations Using Co-op Translator: Phi-3 Cookbook Case Study](https://techcommunity.microsoft.com/blog/educatordeveloperblog/automate-markdown-and-image-translations-using-co-op-translator-phi-3-cookbook-c/4263474)
 
