@@ -50,9 +50,11 @@ Today, I build AI systems that survive real workflows. I work on multilingual do
   </tr>
 </table>
 
-Latest writing: **[Progress Bar Is Not an API](https://www.mssong.com/writing/progress-bar-is-not-an-api-coop-translator-events/)** — separating human-facing CLI output from machine-readable events.
+## Selected writing
 
-> Reliable LLM automation is not about getting everything right on the first attempt. It is about detecting failures, adapting the strategy, and making unresolved problems visible.
+- [Teach ChatGPT to Answer Questions with Azure AI Search and Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713) — **21.6K+ views** on Microsoft Tech Community
+- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-step-by-step-guide/4178612) — **11.5K+ views** on Microsoft Tech Community
+- [Fine-Tune and Integrate Custom Phi-3 Models in Azure AI Studio](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in-azure-ai-studio/4191726) — **8K+ views** on Microsoft Tech Community
 
 This work currently spans **18 repositories**, **55 languages**, and more than **44 million processed words**.
 
