@@ -52,9 +52,11 @@ Today, I build AI systems that survive real workflows. I work on multilingual do
 
 ## Selected writing
 
-- [Teach ChatGPT to Answer Questions with Azure AI Search and Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713) — **21.6K+ views** on Microsoft Tech Community
-- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-step-by-step-guide/4178612) — **11.5K+ views** on Microsoft Tech Community
-- [Fine-Tune and Integrate Custom Phi-3 Models in Azure AI Studio](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in-azure-ai-studio/4191726) — **8K+ views** on Microsoft Tech Community
+- [Fixing Broken Markdown in AI Translation: Hardening a Production Pipeline](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/fixing-broken-markdown-in-ai-translation-hardening-a-production-pipeline/4511378) *(Apr 30, 2026)*
+- [Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755) *(Feb 4, 2026)*
+- [Co-op Translator: Current Status and v0.10.0 Release](https://techcommunity.microsoft.com/blog/educatordeveloperblog/co-op-translator-current-status-and-v0-10-0-release/4446253) *(Aug 25, 2025)*
+- [Automate Markdown and Image Translations Using Co-op Translator](https://techcommunity.microsoft.com/blog/educatordeveloperblog/automate-markdown-and-image-translations-using-co-op-translator-phi-3-cookbook-c/4263474) *(Oct 15, 2024)*
+- [Teach ChatGPT to Answer Questions with Azure AI Search and Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713) *(Nov 2, 2023)*
 
 This work currently spans **18 repositories**, **55 languages**, and more than **44 million processed words**.
 
