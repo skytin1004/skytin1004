@@ -61,3 +61,6 @@ Today, I build AI systems that survive real workflows. I work on multilingual do
 This work currently spans **18 repositories**, **55 languages**, and more than **44 million processed words**.
 
 [Website](https://www.mssong.com/) · [Writing](https://www.mssong.com/writing/) · [Talks](https://www.mssong.com/talks/) · [LinkedIn](https://www.linkedin.com/in/ms-song/)
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?logo=githubsponsors&logoColor=white&style=flat-square)](https://github.com/sponsors/skytin1004)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat-square)](https://coff.ee/skytin1004)
