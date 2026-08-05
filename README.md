@@ -1,52 +1,57 @@
 # Hi, I'm Minseok Song
 
-**Microsoft MVP in Microsoft Foundry · OSS Maintainer of [Azure/co-op-translator](https://github.com/Azure/co-op-translator) · Founder of [Localizeflow](https://localizeflow.com)**
+I started programming at 10 by building and publishing browser-based Flash games.
 
-I build GitHub-native AI infrastructure for multilingual documentation.
+Watching real people use what I made taught me a lesson that still shapes my work: software becomes meaningful when it survives contact with real users.
 
-My work sits at the intersection of language models, developer infrastructure, and documentation operations: long-running jobs, structured content, pull requests, retries, observability, and human review.
+Today, I build AI systems that survive real workflows. I work on multilingual documentation, GitHub-native automation, and reliable LLM operations.
 
-[![Website](https://img.shields.io/badge/mssong.com-111827?style=flat-square&logo=safari&logoColor=white)](https://www.mssong.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-song/)
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft_MVP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
+[Microsoft MVP in Microsoft Foundry](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
 
-## What I'm building
+## Building now
 
-### [Localizeflow](https://localizeflow.com)
+- **[Azure / co-op-translator](https://github.com/Azure/co-op-translator)** — open-source tooling for translating Markdown, notebooks, and images while preserving structure and review loops.
+- **[Localizeflow](https://localizeflow.com)** — production infrastructure for continuously maintaining multilingual documentation through GitHub pull requests.
 
-A GitHub-native orchestration platform for large-scale multilingual documentation workflows. It runs long-lived localization workloads outside fragile CI paths and delivers reviewable updates through pull requests.
+## Featured work
 
-- Built from production lessons learned while maintaining multilingual Microsoft open-source documentation
-- Designed around fault isolation, bounded retries, observability, and human control
-- More than **44 million words** processed across production workloads
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://localizeflow.com">
+        <img src="assets/localizeflow-workflow.png" alt="Localizeflow repository configuration interface" width="100%">
+      </a>
+      <br><strong>Localizeflow</strong>
+      <br>GitHub-native orchestration for multilingual documentation.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
+        <img src="assets/open-at-microsoft.png" alt="Open at Microsoft presentation about Co-op Translator" width="100%">
+      </a>
+      <br><strong>Open at Microsoft</strong>
+      <br>Making technical documentation accessible across languages.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.mssong.com/writing/progress-bar-is-not-an-api-coop-translator-events/">
+        <img src="assets/progress-bar-api.png" alt="Progress Bar Is Not an API article cover" width="100%">
+      </a>
+      <br><strong>Progress Bar Is Not an API</strong>
+      <br>Separating human-facing CLI output from machine-readable events.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=Zl_IFvrKaaY">
+        <img src="assets/learn-live-azure-ai.jpg" alt="Microsoft Learn Live presentation about Azure AI solutions" width="100%">
+      </a>
+      <br><strong>Microsoft Learn Live</strong>
+      <br>Planning maintainable AI solutions before implementation.
+    </td>
+  </tr>
+</table>
 
-### [Azure / co-op-translator](https://github.com/Azure/co-op-translator)
+> Reliable LLM automation is not about getting everything right on the first attempt. It is about detecting failures, adapting the strategy, and making unresolved problems visible.
 
-An open-source CLI and Python API for translating Markdown, Jupyter notebooks, and text in images while preserving document structure and maintainer review loops.
+This work currently spans **18 repositories**, **55 languages**, and more than **44 million processed words**.
 
-- Documentation synchronized across **55 languages**
-- More than **835 localization pull requests** automated
-- Used across **16 Microsoft open-source learning repositories**
-- Translations managed as versioned software assets rather than one-off outputs
-
-## Selected writing
-
-- [Fixing Broken Markdown in AI Translation: Hardening a Production Pipeline](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/fixing-broken-markdown-in-ai-translation-hardening-a-production-pipeline/4511378)
-- [Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755)
-- [What I Learned Building Co-op Translator MCP](https://www.mssong.com/writing/building-coop-translator-mcp/)
-- [Progress Bar Is Not an API](https://www.mssong.com/writing/progress-bar-is-not-an-api-coop-translator-events/)
-
-More writing on AI systems, open-source maintenance, and documentation infrastructure is available at **[mssong.com/writing](https://www.mssong.com/writing/)**.
-
-## Talks & media
-
-- [Open at Microsoft — Unlocking Multilingual Accessibility with Co-op Translator](https://www.youtube.com/watch?v=jX_swfH_KNU)
-- [Microsoft Learn Live — Plan and Prepare to Develop AI Solutions on Azure](https://www.youtube.com/watch?v=Zl_IFvrKaaY)
-
-## Connect
-
-If you are working on multilingual documentation, open-source automation, or GitHub-native developer tooling, I'd be glad to connect.
-
-- [Website](https://www.mssong.com/)
-- [LinkedIn](https://www.linkedin.com/in/ms-song/)
-- [Email](mailto:minseok.song@mssong.com)
+[Website](https://www.mssong.com/) · [Writing](https://www.mssong.com/writing/) · [Talks](https://www.mssong.com/talks/) · [LinkedIn](https://www.linkedin.com/in/ms-song/)
