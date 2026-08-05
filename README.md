@@ -34,11 +34,11 @@ Today, I build AI systems that survive real workflows. I work on multilingual do
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.mssong.com/writing/progress-bar-is-not-an-api-coop-translator-events/">
-        <img src="assets/progress-bar-api.png" alt="Progress Bar Is Not an API article cover" width="100%">
+      <a href="https://www.linkedin.com/posts/ms-song_microsoftmvp-opensource-ai-activity-7422993494329450497-Xaq6">
+        <img src="assets/mvp-showcase.png" alt="Microsoft MVP Showcase about the Co-op Translator OSS journey" width="100%">
       </a>
-      <br><strong>Progress Bar Is Not an API</strong>
-      <br>Separating human-facing CLI output from machine-readable events.
+      <br><strong>Microsoft MVP Showcase</strong>
+      <br>The Co-op Translator journey from prototype to production.
     </td>
     <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=Zl_IFvrKaaY">
@@ -49,6 +49,8 @@ Today, I build AI systems that survive real workflows. I work on multilingual do
     </td>
   </tr>
 </table>
+
+Latest writing: **[Progress Bar Is Not an API](https://www.mssong.com/writing/progress-bar-is-not-an-api-coop-translator-events/)** — separating human-facing CLI output from machine-readable events.
 
 > Reliable LLM automation is not about getting everything right on the first attempt. It is about detecting failures, adapting the strategy, and making unresolved problems visible.
 
