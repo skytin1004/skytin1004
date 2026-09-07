@@ -1,10 +1,8 @@
 # Hi, I'm Minseok Song
 
-I started programming at 10 by building and publishing browser-based Flash games.
+I maintain [Co-op Translator](https://github.com/Azure/co-op-translator), an open-source tool that helps teams keep multilingual documentation up to date.
 
-Watching real people use what I made taught me a lesson that still shapes my work: software becomes meaningful when it survives contact with real users.
-
-Today, I maintain [Co-op Translator](https://github.com/Azure/co-op-translator), an open-source tool that helps teams keep multilingual documentation up to date.
+I started programming at 10, making Flash games and sharing them online.
 
 [Microsoft MVP in Microsoft Foundry](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
 
