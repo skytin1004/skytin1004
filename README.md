@@ -4,25 +4,24 @@ I started programming at 10 by building and publishing browser-based Flash games
 
 Watching real people use what I made taught me a lesson that still shapes my work: software becomes meaningful when it survives contact with real users.
 
-Today, I build AI systems that survive real workflows. I work on multilingual documentation, GitHub-native automation, and reliable LLM operations.
+Today, I maintain [Co-op Translator](https://github.com/Azure/co-op-translator), an open-source tool that helps teams keep multilingual documentation up to date.
 
 [Microsoft MVP in Microsoft Foundry](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
 
 ## Building now
 
 - **[Azure / co-op-translator](https://github.com/Azure/co-op-translator)** — open-source tooling for translating Markdown, notebooks, and images while preserving structure and review loops.
-- **[Localizeflow](https://localizeflow.com)** — production infrastructure for continuously maintaining multilingual documentation through GitHub pull requests.
 
 ## Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://localizeflow.com">
-        <img src="assets/localizeflow-workflow.png" alt="Localizeflow repository configuration interface" width="100%">
+      <a href="https://app.localizeflow.com/status/Jw1ms2q86a">
+        <img src="assets/localizeflow-public-status.png" alt="Localizeflow public status for microsoft/AI-For-Beginners PR #749, showing a completed translation run" width="100%">
       </a>
       <br><strong>Localizeflow</strong>
-      <br>GitHub-native orchestration for multilingual documentation.
+      <br>Translation run for Microsoft's AI-For-Beginners, with public progress tracking.
     </td>
     <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=jX_swfH_KNU">
