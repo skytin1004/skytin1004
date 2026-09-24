@@ -49,6 +49,7 @@ I started programming at 10, making Flash games and sharing them online.
 
 ## Selected writing
 
+- [Build an AI-assisted support email workflow with Power Automate and Microsoft Foundry](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/build-an-ai-assisted-support-email-workflow-with-power-automate-and-microsoft-fo/4554297) *(Sep 9, 2026)*
 - [Fixing Broken Markdown in AI Translation: Hardening a Production Pipeline](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/fixing-broken-markdown-in-ai-translation-hardening-a-production-pipeline/4511378) *(Apr 30, 2026)*
 - [Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755) *(Feb 4, 2026)*
 - [Co-op Translator: Current Status and v0.10.0 Release](https://techcommunity.microsoft.com/blog/educatordeveloperblog/co-op-translator-current-status-and-v0-10-0-release/4446253) *(Aug 25, 2025)*
