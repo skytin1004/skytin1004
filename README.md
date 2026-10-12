@@ -10,6 +10,11 @@ I started programming at 10, making Flash games and sharing them online.
 
 - **[Azure / co-op-translator](https://github.com/Azure/co-op-translator)** — open-source tooling for translating Markdown, notebooks, and images while preserving structure and review loops.
 
+- **[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)** — community maintainer since October 2026.
+- **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** — community maintainer since October 2026.
+- **[MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** — community maintainer since October 2026.
+
+
 ## Featured work
 
 <table>
@@ -56,7 +61,6 @@ I started programming at 10, making Flash games and sharing them online.
 - [Automate Markdown and Image Translations Using Co-op Translator](https://techcommunity.microsoft.com/blog/educatordeveloperblog/automate-markdown-and-image-translations-using-co-op-translator-phi-3-cookbook-c/4263474) *(Oct 15, 2024)*
 - [Teach ChatGPT to Answer Questions with Azure AI Search and Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713) *(Nov 2, 2023)*
 
-This work currently spans **18 repositories**, **55 languages**, and more than **44 million processed words**.
 
 [Website](https://www.mssong.com/) · [Writing](https://www.mssong.com/writing/) · [Talks](https://www.mssong.com/talks/) · [LinkedIn](https://www.linkedin.com/in/ms-song/)
 
