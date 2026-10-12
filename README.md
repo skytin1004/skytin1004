@@ -1,6 +1,6 @@
 # Hi, I'm Minseok Song
 
-I re-architected [Co-op Translator](https://github.com/Azure/co-op-translator)’s existing proof of concept into a CLI. After the project moved to the Azure GitHub organization, I evolved it into an automated documentation translation workflow and continue to develop and maintain it.
+I re-architected [Co-op Translator](https://github.com/Azure/co-op-translator)'s existing proof of concept into a CLI. After the project moved to the Azure GitHub organization, I evolved it into an automated documentation translation workflow and continue to develop and maintain it.
 
 I started programming at 10, making Flash games and sharing them online.
 
