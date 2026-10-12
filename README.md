@@ -12,7 +12,7 @@ I started programming at 10, making Flash games and sharing them online.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Azure/co-op-translator"><strong>Azure / co-op-translator</strong></a>
-      <p>Maintainer · Documentation translation</p>
+      <p>Maintainer</p>
       <a href="https://github.com/Azure/co-op-translator/stargazers">
         <img src="https://img.shields.io/github/stars/Azure/co-op-translator?style=flat&amp;label=Stars&amp;color=555" alt="GitHub stars for Azure/co-op-translator">
       </a>
