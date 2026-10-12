@@ -1,18 +1,41 @@
 # Hi, I'm Minseok Song
 
-I maintain [Co-op Translator](https://github.com/Azure/co-op-translator), an open-source tool that helps teams keep multilingual documentation up to date.
+I re-architected [Co-op Translator](https://github.com/Azure/co-op-translator)'s existing proof of concept into a CLI. After the project moved to the Azure GitHub organization, I evolved it into an automated documentation translation workflow and continue to develop and maintain it.
 
 I started programming at 10, making Flash games and sharing them online.
 
 [Microsoft MVP in Microsoft Foundry](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
 
-## Building now
+## Projects I maintain
 
-- **[Azure / co-op-translator](https://github.com/Azure/co-op-translator)** — open-source tooling for translating Markdown, notebooks, and images while preserving structure and review loops.
-
-- **[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)** — community maintainer since October 2026.
-- **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** — community maintainer since October 2026.
-- **[MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** — community maintainer since October 2026.
+<p>
+  <a href="https://github.com/Azure/co-op-translator">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Azure&amp;repo=co-op-translator&amp;theme=dark_github_repocard&amp;description_lines_count=3">
+      <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Azure&amp;repo=co-op-translator&amp;theme=light_github_repocard&amp;description_lines_count=3" alt="Co-op Translator repository card">
+    </picture>
+  </a>
+  <a href="https://github.com/microsoft/generative-ai-for-beginners">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=microsoft&amp;repo=generative-ai-for-beginners&amp;theme=dark_github_repocard&amp;description_lines_count=3">
+      <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=microsoft&amp;repo=generative-ai-for-beginners&amp;theme=light_github_repocard&amp;description_lines_count=3" alt="Generative AI for Beginners repository card">
+    </picture>
+  </a>
+</p>
+<p>
+  <a href="https://github.com/microsoft/ai-agents-for-beginners">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=microsoft&amp;repo=ai-agents-for-beginners&amp;theme=dark_github_repocard&amp;description_lines_count=3">
+      <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=microsoft&amp;repo=ai-agents-for-beginners&amp;theme=light_github_repocard&amp;description_lines_count=3" alt="AI Agents for Beginners repository card">
+    </picture>
+  </a>
+  <a href="https://github.com/microsoft/mcp-for-beginners">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=microsoft&amp;repo=mcp-for-beginners&amp;theme=dark_github_repocard&amp;description_lines_count=3">
+      <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=microsoft&amp;repo=mcp-for-beginners&amp;theme=light_github_repocard&amp;description_lines_count=3" alt="MCP for Beginners repository card">
+    </picture>
+  </a>
+</p>
 
 
 ## Featured work
