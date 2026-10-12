@@ -14,7 +14,6 @@ I started programming at 10, making Flash games and sharing them online.
 - **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** — community maintainer since October 2026.
 - **[MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** — community maintainer since October 2026.
 
-Since September 2026, I have also been building **Reliable Workflow** and delivering enterprise training through **TeamSparta**, including two two-day Power Automate workshops for LG U+ employees.
 
 ## Featured work
 
