@@ -62,7 +62,6 @@ Since September 2026, I have also been building **Reliable Workflow** and delive
 - [Automate Markdown and Image Translations Using Co-op Translator](https://techcommunity.microsoft.com/blog/educatordeveloperblog/automate-markdown-and-image-translations-using-co-op-translator-phi-3-cookbook-c/4263474) *(Oct 15, 2024)*
 - [Teach ChatGPT to Answer Questions with Azure AI Search and Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713) *(Nov 2, 2023)*
 
-As of October 2026, this work spans **16 Microsoft OSS repositories**, **55 languages**, and more than **44 million processed words**.
 
 [Website](https://www.mssong.com/) · [Writing](https://www.mssong.com/writing/) · [Talks](https://www.mssong.com/talks/) · [LinkedIn](https://www.linkedin.com/in/ms-song/)
 
