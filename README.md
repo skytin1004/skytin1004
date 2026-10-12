@@ -6,13 +6,44 @@ I started programming at 10, making Flash games and sharing them online.
 
 [Microsoft MVP in Microsoft Foundry](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
 
-## Building now
+## Projects I maintain
 
-- **[Azure / co-op-translator](https://github.com/Azure/co-op-translator)** — open-source tooling for translating Markdown, notebooks, and images while preserving structure and review loops.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Azure/co-op-translator"><strong>Azure / co-op-translator</strong></a>
+      <p>Maintainer · Documentation translation</p>
+      <a href="https://github.com/Azure/co-op-translator/stargazers">
+        <img src="https://img.shields.io/github/stars/Azure/co-op-translator?style=flat&amp;label=Stars&amp;color=555" alt="GitHub stars for Azure/co-op-translator">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/microsoft/generative-ai-for-beginners"><strong>Generative AI for Beginners</strong></a>
+      <p>Community maintainer</p>
+      <a href="https://github.com/microsoft/generative-ai-for-beginners/stargazers">
+        <img src="https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=flat&amp;label=Stars&amp;color=555" alt="GitHub stars for Generative AI for Beginners">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/microsoft/ai-agents-for-beginners"><strong>AI Agents for Beginners</strong></a>
+      <p>Community maintainer</p>
+      <a href="https://github.com/microsoft/ai-agents-for-beginners/stargazers">
+        <img src="https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=flat&amp;label=Stars&amp;color=555" alt="GitHub stars for AI Agents for Beginners">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/microsoft/mcp-for-beginners"><strong>MCP for Beginners</strong></a>
+      <p>Community maintainer</p>
+      <a href="https://github.com/microsoft/mcp-for-beginners/stargazers">
+        <img src="https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat&amp;label=Stars&amp;color=555" alt="GitHub stars for MCP for Beginners">
+      </a>
+    </td>
+  </tr>
+</table>
 
-- **[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)** — community maintainer since October 2026.
-- **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** — community maintainer since October 2026.
-- **[MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** — community maintainer since October 2026.
+Community maintainer of the three Microsoft curricula since October 2026.
 
 
 ## Featured work
