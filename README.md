@@ -10,14 +10,14 @@ I started programming at 10, making Flash games and sharing them online.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <a href="https://github.com/Azure/co-op-translator"><strong>Azure / co-op-translator</strong></a>
       <p>Maintainer</p>
       <a href="https://github.com/Azure/co-op-translator/stargazers">
         <img src="https://img.shields.io/github/stars/Azure/co-op-translator?style=flat&amp;label=Stars&amp;color=555" alt="GitHub stars for Azure/co-op-translator">
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <a href="https://github.com/microsoft/generative-ai-for-beginners"><strong>Generative AI for Beginners</strong></a>
       <p>Community maintainer</p>
       <a href="https://github.com/microsoft/generative-ai-for-beginners/stargazers">
@@ -26,14 +26,14 @@ I started programming at 10, making Flash games and sharing them online.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <a href="https://github.com/microsoft/ai-agents-for-beginners"><strong>AI Agents for Beginners</strong></a>
       <p>Community maintainer</p>
       <a href="https://github.com/microsoft/ai-agents-for-beginners/stargazers">
         <img src="https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=flat&amp;label=Stars&amp;color=555" alt="GitHub stars for AI Agents for Beginners">
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <a href="https://github.com/microsoft/mcp-for-beginners"><strong>MCP for Beginners</strong></a>
       <p>Community maintainer</p>
       <a href="https://github.com/microsoft/mcp-for-beginners/stargazers">
