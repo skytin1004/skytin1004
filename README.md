@@ -77,11 +77,18 @@ I started programming at 10, making Flash games and sharing them online.
 
 ## Selected writing
 
+- [Build an AI-assisted invoice approval workflow with Power Automate and AI Builder](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/build-an-ai-assisted-invoice-approval-workflow-with-power-automate-and-ai-builde/4569292) *(Nov 5, 2026)*
+- [What production taught us about reviewing AI translations](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/what-production-taught-us-about-reviewing-ai-translations/4566948) *(Oct 22, 2026)*
 - [Build an AI-assisted support email workflow with Power Automate and Microsoft Foundry](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/build-an-ai-assisted-support-email-workflow-with-power-automate-and-microsoft-fo/4554297) *(Sep 9, 2026)*
 - [Fixing Broken Markdown in AI Translation: Hardening a Production Pipeline](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/fixing-broken-markdown-in-ai-translation-hardening-a-production-pipeline/4511378) *(Apr 30, 2026)*
 - [Rethinking Documentation Translation: Treating Translations as Versioned Software Assets](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rethinking-documentation-translation-treating-translations-as-versioned-software/4491755) *(Feb 4, 2026)*
 - [Co-op Translator: Current Status and v0.10.0 Release](https://techcommunity.microsoft.com/blog/educatordeveloperblog/co-op-translator-current-status-and-v0-10-0-release/4446253) *(Aug 25, 2025)*
 - [Automate Markdown and Image Translations Using Co-op Translator](https://techcommunity.microsoft.com/blog/educatordeveloperblog/automate-markdown-and-image-translations-using-co-op-translator-phi-3-cookbook-c/4263474) *(Oct 15, 2024)*
+- [Evaluate Fine-tuned Phi-3 / 3.5 Models in Azure AI Studio Focusing on Microsoft's Responsible AI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/evaluate-fine-tuned-phi-3--3-5-models-in-azure-ai-studio-focusing-on-microsofts-/4227850) *(Sep 2, 2024)*
+- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in-azure-ai-studio/4191726) *(Jul 18, 2024)*
+- [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide](https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-step-by-step-guide/4178612) *(Jul 3, 2024)*
+- [Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure-content-safety-/4143628) *(May 18, 2024)*
+- [Teach ChatGPT to Answer Questions: Using Azure AI Search & Azure OpenAI (Semantic Kernel)](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-semantic-k/3985395) *(Nov 19, 2023)*
 - [Teach ChatGPT to Answer Questions with Azure AI Search and Azure OpenAI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713) *(Nov 2, 2023)*
 
 
