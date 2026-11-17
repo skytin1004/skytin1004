@@ -77,6 +77,7 @@ I started programming at 10, making Flash games and sharing them online.
 
 ## Selected writing
 
+- [Designing a Reliable AI Workflow on Azure: Production Lessons from Translation Automation](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/designing-a-reliable-ai-workflow-on-azure-production-lessons-from-translation-au/4571175) *(Nov 16, 2026)*
 - [Build an AI-assisted invoice approval workflow with Power Automate and AI Builder](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/build-an-ai-assisted-invoice-approval-workflow-with-power-automate-and-ai-builde/4569292) *(Nov 5, 2026)*
 - [What production taught us about reviewing AI translations](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/what-production-taught-us-about-reviewing-ai-translations/4566948) *(Oct 22, 2026)*
 - [Build an AI-assisted support email workflow with Power Automate and Microsoft Foundry](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/build-an-ai-assisted-support-email-workflow-with-power-automate-and-microsoft-fo/4554297) *(Sep 9, 2026)*
