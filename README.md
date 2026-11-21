@@ -13,13 +13,11 @@ I started programming at 10, making Flash games and sharing them online.
   </picture>
 </a>
 
-## Consulting through Reliable Workflow
+## Work with me
 
-Alongside my open-source work, I run [Reliable Workflow](https://reliableworkflow.com/), an independent implementation studio for workflow automation, business apps, and AI agents in Microsoft environments.
+Through [Reliable Workflow](https://reliableworkflow.com/), I help teams design and improve reliable AI-assisted workflows, business process automation, and applications for Microsoft environments.
 
-I help teams design and implement reliable automation and AI workflows across Microsoft 365, Power Platform, Microsoft Foundry, Azure, and developer tools. My work focuses on connecting systems, handling exceptions, keeping people responsible for important decisions, and making workflows maintainable after deployment.
-
-[Explore Reliable Workflow](https://reliableworkflow.com/) · [Book a 30-minute call](https://bookings.cloud.microsoft/bookwithme/user/1afa83362be94470830eb14de0b6fe66@reliableworkflow.com/meetingtype/Nef1NkBxK0eBHdQxXso9pA2?anonymous=&ismsaljsauthenabled=)
+[Visit Reliable Workflow](https://reliableworkflow.com/) | [Book a 30-minute call](https://bookings.cloud.microsoft/bookwithme/user/1afa83362be94470830eb14de0b6fe66@reliableworkflow.com/meetingtype/Nef1NkBxK0eBHdQxXso9pA2?anonymous=&ismsaljsauthenabled=)
 
 ## Projects I maintain
 
