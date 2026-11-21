@@ -6,6 +6,14 @@ I started programming at 10, making Flash games and sharing them online.
 
 [Microsoft MVP in Microsoft Foundry](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
 
+## Consulting through Reliable Workflow
+
+Alongside my open-source work, I run [Reliable Workflow](https://reliableworkflow.com/), an independent implementation studio for workflow automation, business apps, and AI agents in Microsoft environments.
+
+I help teams design and implement reliable automation and AI workflows across Microsoft 365, Power Platform, Microsoft Foundry, Azure, and developer tools. My work focuses on connecting systems, handling exceptions, keeping people responsible for important decisions, and making workflows maintainable after deployment.
+
+[Explore Reliable Workflow](https://reliableworkflow.com/) · [Book a 30-minute call](https://bookings.cloud.microsoft/bookwithme/user/1afa83362be94470830eb14de0b6fe66@reliableworkflow.com/meetingtype/Nef1NkBxK0eBHdQxXso9pA2?anonymous=&ismsaljsauthenabled=)
+
 ## Projects I maintain
 
 <p>
