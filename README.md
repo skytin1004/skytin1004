@@ -6,6 +6,13 @@ I started programming at 10, making Flash games and sharing them online.
 
 [Microsoft MVP in Microsoft Foundry](https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c)
 
+<a href="https://mvp.microsoft.com/mvp/profile/78bed86f-8f4b-41f9-ba0c-b707ec42e08c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mvp-badge-dark.png">
+    <img src="assets/mvp-badge-light.png" alt="Microsoft Most Valuable Professional" width="300">
+  </picture>
+</a>
+
 ## Consulting through Reliable Workflow
 
 Alongside my open-source work, I run [Reliable Workflow](https://reliableworkflow.com/), an independent implementation studio for workflow automation, business apps, and AI agents in Microsoft environments.
